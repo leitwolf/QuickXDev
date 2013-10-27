@@ -14,6 +14,7 @@ A quick-cocos2d-x develop plugin for sublime text 2/3.
  * system api completions support (lua 5.1)
  * some snippets,like if-else,if-elseif-else,while,comment,repeat-until....
  * create new lua file with template
+ * lua biuld system
 
 ## Installation
 
