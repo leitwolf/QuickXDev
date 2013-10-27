@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[ccDrawCardinalSpline(${1:config}, ${2:tension}, ${3:segments})]]></content>
+    <tabTrigger>ccDrawCardinalSpline(config, tension, segments)</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>

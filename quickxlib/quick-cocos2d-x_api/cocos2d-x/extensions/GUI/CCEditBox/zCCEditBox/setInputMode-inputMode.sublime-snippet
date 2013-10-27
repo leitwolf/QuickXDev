@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setInputMode(${1:inputMode})]]></content>
+    <tabTrigger>setInputMode(inputMode)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCEditBox</description>
+</snippet>

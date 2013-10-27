@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[layerNamed(${1:layerName})]]></content>
+    <tabTrigger>layerNamed(layerName)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTMXTiledMap</description>
+</snippet>

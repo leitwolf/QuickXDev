@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[getContentScaleFactor()]]></content>
+    <tabTrigger>getContentScaleFactor()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCDirector</description>
+</snippet>

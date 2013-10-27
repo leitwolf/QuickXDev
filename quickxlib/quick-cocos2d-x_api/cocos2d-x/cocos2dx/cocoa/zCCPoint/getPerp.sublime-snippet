@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[getPerp()]]></content>
+    <tabTrigger>getPerp()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCPoint</description>
+</snippet>

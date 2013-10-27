@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[removeAllChildren()]]></content>
+    <tabTrigger>removeAllChildren()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCNode</description>
+</snippet>

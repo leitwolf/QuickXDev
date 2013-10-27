@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setSliderEnabled(${1:enabled})]]></content>
+    <tabTrigger>setSliderEnabled(enabled)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UISlider</description>
+</snippet>

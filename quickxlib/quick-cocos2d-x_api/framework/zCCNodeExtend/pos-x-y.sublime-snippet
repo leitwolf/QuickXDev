@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[pos(${1:x}, ${2:y})]]></content>
+    <tabTrigger>pos(x, y)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCNodeExtend</description>
+</snippet>

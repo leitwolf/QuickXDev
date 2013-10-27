@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[cc.components.behavior.StateMachine.new()]]></content>
+    <tabTrigger>StateMachine.new()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>StateMachine</description>
+</snippet>

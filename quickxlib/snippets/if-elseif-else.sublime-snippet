@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[if ${1:conditions} then
+	${2:--todo}
+elseif ${3:conditions} then
+	${4:--todo}
+else
+	${5:--todo}
+end
+]]></content>
+	<tabTrigger>ifee</tabTrigger>
+	<scope>source.lua</scope>
+    <description>if-elseif-else</description>
+</snippet>

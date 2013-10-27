@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[getMovementCount()]]></content>
+    <tabTrigger>getMovementCount()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCArmatureAnimation</description>
+</snippet>

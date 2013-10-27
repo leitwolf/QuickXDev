@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "CCEaseRateAction:create(pAction, fRate)", "contents": "CCEaseRateAction:create(${1:pAction}, ${2:fRate})" }
+	]
+}

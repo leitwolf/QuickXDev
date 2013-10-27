@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[getObjectGroups()]]></content>
+    <tabTrigger>getObjectGroups()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTMXMapInfo</description>
+</snippet>

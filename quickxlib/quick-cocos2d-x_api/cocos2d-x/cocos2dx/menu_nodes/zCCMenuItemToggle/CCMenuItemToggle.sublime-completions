@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "CCMenuItemToggle:create(item)", "contents": "CCMenuItemToggle:create(${1:item})" },
+		{ "trigger": "CCMenuItemToggle:create()", "contents": "CCMenuItemToggle:create()" }
+	]
+}

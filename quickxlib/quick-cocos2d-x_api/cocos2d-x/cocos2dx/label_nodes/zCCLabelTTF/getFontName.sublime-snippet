@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[getFontName()]]></content>
+    <tabTrigger>getFontName()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCLabelTTF</description>
+</snippet>

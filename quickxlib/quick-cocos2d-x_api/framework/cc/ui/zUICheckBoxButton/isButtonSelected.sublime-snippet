@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isButtonSelected()]]></content>
+    <tabTrigger>isButtonSelected()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UICheckBoxButton</description>
+</snippet>

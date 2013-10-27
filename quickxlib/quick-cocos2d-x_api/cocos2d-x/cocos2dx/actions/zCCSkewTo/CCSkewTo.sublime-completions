@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "CCSkewTo:create(t, sx, sy)", "contents": "CCSkewTo:create(${1:t}, ${2:sx}, ${3:sy})" }
+	]
+}

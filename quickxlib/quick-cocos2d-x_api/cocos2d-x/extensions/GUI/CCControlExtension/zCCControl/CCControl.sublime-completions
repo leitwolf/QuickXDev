@@ -1,0 +1,20 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		"CCControlEventTouchDown",
+		"CCControlEventTouchDragInside",
+		"CCControlEventTouchDragOutside",
+		"CCControlEventTouchDragEnter",
+		"CCControlEventTouchDragExit",
+		"CCControlEventTouchUpInside",
+		"CCControlEventTouchUpOutside",
+		"CCControlEventTouchCancel",
+		"CCControlEventValueChanged",
+		"CCControlStateNormal",
+		"CCControlStateHighlighted",
+		"CCControlStateDisabled",
+		"CCControlStateSelected"
+	]
+}

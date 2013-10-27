@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "CCStopGrid:create()", "contents": "CCStopGrid:create()" }
+	]
+}

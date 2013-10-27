@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "CCPointArray:create(capacity)", "contents": "CCPointArray:create(${1:capacity})" }
+	]
+}

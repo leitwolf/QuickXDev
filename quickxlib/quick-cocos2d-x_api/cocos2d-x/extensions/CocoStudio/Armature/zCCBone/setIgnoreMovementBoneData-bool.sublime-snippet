@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setIgnoreMovementBoneData(${1:bool})]]></content>
+    <tabTrigger>setIgnoreMovementBoneData(bool)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCBone</description>
+</snippet>

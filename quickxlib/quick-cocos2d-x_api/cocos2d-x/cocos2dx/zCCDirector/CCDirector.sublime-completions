@@ -1,0 +1,12 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		"kCCDirectorProjection2D",
+		"kCCDirectorProjection3D",
+		"kCCDirectorProjectionCustom",
+		"kCCDirectorProjectionDefault",
+		{ "trigger": "CCDirector:sharedDirector()", "contents": "CCDirector:sharedDirector()" }
+	]
+}

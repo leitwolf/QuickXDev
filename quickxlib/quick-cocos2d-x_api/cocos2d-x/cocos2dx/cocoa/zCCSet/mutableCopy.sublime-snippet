@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[mutableCopy()]]></content>
+    <tabTrigger>mutableCopy()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSet</description>
+</snippet>

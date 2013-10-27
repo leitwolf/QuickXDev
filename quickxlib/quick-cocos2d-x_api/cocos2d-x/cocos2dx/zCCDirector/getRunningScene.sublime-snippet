@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[getRunningScene()]]></content>
+    <tabTrigger>getRunningScene()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCDirector</description>
+</snippet>

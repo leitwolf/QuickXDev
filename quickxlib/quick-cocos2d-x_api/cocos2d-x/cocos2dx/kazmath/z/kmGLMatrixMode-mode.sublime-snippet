@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[kmGLMatrixMode(${1:mode})]]></content>
+    <tabTrigger>kmGLMatrixMode(mode)</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>

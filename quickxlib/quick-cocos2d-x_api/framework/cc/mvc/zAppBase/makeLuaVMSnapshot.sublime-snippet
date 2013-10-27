@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[makeLuaVMSnapshot()]]></content>
+    <tabTrigger>makeLuaVMSnapshot()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>AppBase</description>
+</snippet>

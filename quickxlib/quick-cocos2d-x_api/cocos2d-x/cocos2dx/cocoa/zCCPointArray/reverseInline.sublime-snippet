@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[reverseInline()]]></content>
+    <tabTrigger>reverseInline()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCPointArray</description>
+</snippet>

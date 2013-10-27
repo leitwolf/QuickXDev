@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[createView(${1:viewName}, ${2:...})]]></content>
+    <tabTrigger>createView(viewName, ...)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>AppBase</description>
+</snippet>

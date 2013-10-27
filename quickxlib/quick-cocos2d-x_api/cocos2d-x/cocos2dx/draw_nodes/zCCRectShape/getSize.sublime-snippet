@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[getSize()]]></content>
+    <tabTrigger>getSize()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCRectShape</description>
+</snippet>

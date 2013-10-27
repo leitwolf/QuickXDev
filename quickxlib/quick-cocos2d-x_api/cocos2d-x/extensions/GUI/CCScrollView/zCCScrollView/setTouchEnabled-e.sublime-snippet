@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setTouchEnabled(${1:e})]]></content>
+    <tabTrigger>setTouchEnabled(e)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCScrollView</description>
+</snippet>

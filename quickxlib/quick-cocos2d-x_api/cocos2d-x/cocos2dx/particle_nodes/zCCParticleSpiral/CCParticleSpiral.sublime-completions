@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "CCParticleSpiral:createWithTotalParticles(numberOfParticles)", "contents": "CCParticleSpiral:createWithTotalParticles(${1:numberOfParticles})" },
+		{ "trigger": "CCParticleSpiral:create()", "contents": "CCParticleSpiral:create()" }
+	]
+}

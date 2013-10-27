@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[onBind_()]]></content>
+    <tabTrigger>onBind_()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>StateMachine</description>
+</snippet>

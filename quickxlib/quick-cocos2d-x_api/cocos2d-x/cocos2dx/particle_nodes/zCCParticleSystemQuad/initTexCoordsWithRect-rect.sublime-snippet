@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[initTexCoordsWithRect(${1:rect})]]></content>
+    <tabTrigger>initTexCoordsWithRect(rect)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCParticleSystemQuad</description>
+</snippet>

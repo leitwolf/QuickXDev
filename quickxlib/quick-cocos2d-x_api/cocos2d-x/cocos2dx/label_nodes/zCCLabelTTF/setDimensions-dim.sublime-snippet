@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setDimensions(${1:dim})]]></content>
+    <tabTrigger>setDimensions(dim)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCLabelTTF</description>
+</snippet>

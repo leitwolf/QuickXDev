@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[removeTouchEventListener()]]></content>
+    <tabTrigger>removeTouchEventListener()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCNode</description>
+</snippet>

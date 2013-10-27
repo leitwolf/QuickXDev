@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[cc.ui.UIPushButton.new(${1:images}, ${2:options})]]></content>
+    <tabTrigger>UIPushButton.new(images, options)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIPushButton</description>
+</snippet>

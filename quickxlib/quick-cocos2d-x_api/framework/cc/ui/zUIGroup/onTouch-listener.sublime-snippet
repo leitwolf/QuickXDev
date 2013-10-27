@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[onTouch(${1:listener})]]></content>
+    <tabTrigger>onTouch(listener)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIGroup</description>
+</snippet>

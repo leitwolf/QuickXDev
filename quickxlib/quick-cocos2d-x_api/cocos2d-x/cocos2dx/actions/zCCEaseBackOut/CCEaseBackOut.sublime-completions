@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "CCEaseBackOut:create(pAction)", "contents": "CCEaseBackOut:create(${1:pAction})" }
+	]
+}

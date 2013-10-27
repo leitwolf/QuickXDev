@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[getScene()]]></content>
+    <tabTrigger>getScene()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCNode</description>
+</snippet>

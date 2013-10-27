@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[getErrorCode()]]></content>
+    <tabTrigger>getErrorCode()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCHTTPRequest</description>
+</snippet>

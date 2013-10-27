@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "CCParticleDisplayData:create()", "contents": "CCParticleDisplayData:create()" }
+	]
+}

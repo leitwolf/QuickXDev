@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "CCHide:create()", "contents": "CCHide:create()" }
+	]
+}

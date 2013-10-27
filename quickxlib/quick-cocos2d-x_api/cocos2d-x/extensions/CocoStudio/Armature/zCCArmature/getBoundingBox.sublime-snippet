@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[getBoundingBox()]]></content>
+    <tabTrigger>getBoundingBox()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCArmature</description>
+</snippet>

@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "CCParallaxNode:create()", "contents": "CCParallaxNode:create()" }
+	]
+}

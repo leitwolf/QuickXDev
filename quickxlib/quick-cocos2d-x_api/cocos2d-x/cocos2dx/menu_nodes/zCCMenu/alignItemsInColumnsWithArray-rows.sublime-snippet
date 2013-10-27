@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[alignItemsInColumnsWithArray(${1:rows})]]></content>
+    <tabTrigger>alignItemsInColumnsWithArray(rows)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCMenu</description>
+</snippet>

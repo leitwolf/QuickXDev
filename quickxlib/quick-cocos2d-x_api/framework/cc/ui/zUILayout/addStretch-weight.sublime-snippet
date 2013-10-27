@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[addStretch(${1:weight})]]></content>
+    <tabTrigger>addStretch(weight)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UILayout</description>
+</snippet>

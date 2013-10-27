@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[unscheduleAllForTarget(${1:pTarget})]]></content>
+    <tabTrigger>unscheduleAllForTarget(pTarget)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCScheduler</description>
+</snippet>

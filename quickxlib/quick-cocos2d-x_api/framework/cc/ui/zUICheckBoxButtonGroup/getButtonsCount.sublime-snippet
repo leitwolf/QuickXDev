@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[getButtonsCount()]]></content>
+    <tabTrigger>getButtonsCount()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UICheckBoxButtonGroup</description>
+</snippet>

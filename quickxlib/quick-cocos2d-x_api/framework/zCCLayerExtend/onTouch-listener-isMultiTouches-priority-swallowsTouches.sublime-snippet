@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[onTouch(${1:listener}, ${2:isMultiTouches}, ${3:priority}, ${4:swallowsTouches})]]></content>
+    <tabTrigger>onTouch(listener, isMultiTouches, priority, swallowsTouches)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCLayerExtend</description>
+</snippet>

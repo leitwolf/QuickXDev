@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[supportsNPOT()]]></content>
+    <tabTrigger>supportsNPOT()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCConfiguration</description>
+</snippet>

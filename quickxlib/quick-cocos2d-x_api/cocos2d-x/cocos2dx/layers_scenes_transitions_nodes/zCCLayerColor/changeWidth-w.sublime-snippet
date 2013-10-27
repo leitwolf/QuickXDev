@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[changeWidth(${1:w})]]></content>
+    <tabTrigger>changeWidth(w)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCLayerColor</description>
+</snippet>

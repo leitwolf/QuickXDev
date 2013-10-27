@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setButtonImage(${1:state}, ${2:image}, ${3:ignoreEmpty})]]></content>
+    <tabTrigger>setButtonImage(state, image, ignoreEmpty)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UICheckBoxButton</description>
+</snippet>

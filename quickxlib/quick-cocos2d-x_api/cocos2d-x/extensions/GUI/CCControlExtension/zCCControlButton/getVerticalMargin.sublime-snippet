@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[getVerticalMargin()]]></content>
+    <tabTrigger>getVerticalMargin()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCControlButton</description>
+</snippet>

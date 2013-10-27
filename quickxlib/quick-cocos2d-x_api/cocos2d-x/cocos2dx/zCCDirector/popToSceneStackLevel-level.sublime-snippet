@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[popToSceneStackLevel(${1:level})]]></content>
+    <tabTrigger>popToSceneStackLevel(level)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCDirector</description>
+</snippet>

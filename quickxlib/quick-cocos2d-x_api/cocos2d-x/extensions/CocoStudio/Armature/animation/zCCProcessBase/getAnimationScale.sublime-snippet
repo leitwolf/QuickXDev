@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[getAnimationScale()]]></content>
+    <tabTrigger>getAnimationScale()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCProcessBase</description>
+</snippet>

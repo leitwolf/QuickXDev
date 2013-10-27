@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[onEnterForeground()]]></content>
+    <tabTrigger>onEnterForeground()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>AppBase</description>
+</snippet>

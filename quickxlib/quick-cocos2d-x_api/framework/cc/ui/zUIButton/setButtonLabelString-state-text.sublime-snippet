@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setButtonLabelString(${1:state}, ${2:text})]]></content>
+    <tabTrigger>setButtonLabelString(state, text)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIButton</description>
+</snippet>

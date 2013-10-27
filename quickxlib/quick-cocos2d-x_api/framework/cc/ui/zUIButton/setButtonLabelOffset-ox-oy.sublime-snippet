@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setButtonLabelOffset(${1:ox}, ${2:oy})]]></content>
+    <tabTrigger>setButtonLabelOffset(ox, oy)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIButton</description>
+</snippet>

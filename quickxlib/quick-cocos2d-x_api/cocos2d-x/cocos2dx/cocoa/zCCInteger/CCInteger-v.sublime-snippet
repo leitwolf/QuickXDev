@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[CCInteger(${1:v})]]></content>
+    <tabTrigger>CCInteger(v)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCInteger</description>
+</snippet>

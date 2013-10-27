@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[removeKeypadEventListener()]]></content>
+    <tabTrigger>removeKeypadEventListener()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCLayer</description>
+</snippet>

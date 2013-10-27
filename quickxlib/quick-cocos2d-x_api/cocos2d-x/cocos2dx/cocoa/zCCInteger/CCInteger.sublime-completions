@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "CCInteger:create(v)", "contents": "CCInteger:create(${1:v})" }
+	]
+}

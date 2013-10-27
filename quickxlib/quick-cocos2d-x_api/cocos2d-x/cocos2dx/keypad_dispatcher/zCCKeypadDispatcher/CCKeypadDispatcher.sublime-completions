@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		"kTypeBackClicked",
+		"kTypeMenuClicked"
+	]
+}

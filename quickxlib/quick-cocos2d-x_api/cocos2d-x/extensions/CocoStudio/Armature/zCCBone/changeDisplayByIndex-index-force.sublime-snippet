@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[changeDisplayByIndex(${1:index}, ${2:force})]]></content>
+    <tabTrigger>changeDisplayByIndex(index, force)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCBone</description>
+</snippet>

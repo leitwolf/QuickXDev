@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[getSliderValue()]]></content>
+    <tabTrigger>getSliderValue()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UISlider</description>
+</snippet>

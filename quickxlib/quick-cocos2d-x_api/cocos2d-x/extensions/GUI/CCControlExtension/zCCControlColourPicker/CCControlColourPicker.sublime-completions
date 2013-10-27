@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "CCControlColourPicker:create()", "contents": "CCControlColourPicker:create()" }
+	]
+}

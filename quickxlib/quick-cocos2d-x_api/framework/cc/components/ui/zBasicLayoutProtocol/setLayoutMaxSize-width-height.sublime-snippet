@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setLayoutMaxSize(${1:width}, ${2:height})]]></content>
+    <tabTrigger>setLayoutMaxSize(width, height)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BasicLayoutProtocol</description>
+</snippet>

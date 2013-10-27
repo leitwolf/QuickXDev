@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "SimpleAudioEngine:sharedEngine()", "contents": "SimpleAudioEngine:sharedEngine()" }
+	]
+}

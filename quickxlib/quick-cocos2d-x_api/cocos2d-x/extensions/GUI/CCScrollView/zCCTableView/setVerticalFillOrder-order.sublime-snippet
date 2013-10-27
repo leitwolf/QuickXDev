@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setVerticalFillOrder(${1:order})]]></content>
+    <tabTrigger>setVerticalFillOrder(order)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTableView</description>
+</snippet>

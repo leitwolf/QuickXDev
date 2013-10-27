@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[getCookieString()]]></content>
+    <tabTrigger>getCookieString()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCHTTPRequest</description>
+</snippet>

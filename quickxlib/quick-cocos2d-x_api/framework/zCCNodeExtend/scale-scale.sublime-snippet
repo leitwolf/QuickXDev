@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[scale(${1:scale})]]></content>
+    <tabTrigger>scale(scale)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCNodeExtend</description>
+</snippet>

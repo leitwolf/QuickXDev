@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setLoopType(${1:t})]]></content>
+    <tabTrigger>setLoopType(t)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCProcessBase</description>
+</snippet>

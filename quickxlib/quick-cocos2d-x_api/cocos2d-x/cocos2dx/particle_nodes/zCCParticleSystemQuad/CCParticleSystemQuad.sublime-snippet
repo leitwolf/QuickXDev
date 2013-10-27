@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[CCParticleSystemQuad()]]></content>
+    <tabTrigger>CCParticleSystemQuad()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCParticleSystemQuad</description>
+</snippet>

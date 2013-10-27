@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[getMinY()]]></content>
+    <tabTrigger>getMinY()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCRect</description>
+</snippet>

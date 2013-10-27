@@ -1,0 +1,11 @@
+{
+	// must set the path
+	"quick_cocos2dx_root": "",
+    // lua template attributes
+    // you can add new attibutes in the template_attr tag,like email
+    // and then modify the template file "lua.tmpl"
+    "date_format": "%Y-%m-%d %H:%M:%S",
+    "template_attr": {
+        "author": "My Name"
+    }
+}

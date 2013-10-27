@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setSliderButtonRotation(${1:rotation})]]></content>
+    <tabTrigger>setSliderButtonRotation(rotation)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UISlider</description>
+</snippet>

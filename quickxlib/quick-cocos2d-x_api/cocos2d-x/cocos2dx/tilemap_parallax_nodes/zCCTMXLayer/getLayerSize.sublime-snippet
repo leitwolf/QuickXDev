@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[getLayerSize()]]></content>
+    <tabTrigger>getLayerSize()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTMXLayer</description>
+</snippet>

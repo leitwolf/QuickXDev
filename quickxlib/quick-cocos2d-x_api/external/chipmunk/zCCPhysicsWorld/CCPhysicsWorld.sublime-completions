@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "CCPhysicsWorld:create(gravityX, gravityY)", "contents": "CCPhysicsWorld:create(${1:gravityX}, ${2:gravityY})" },
+		{ "trigger": "CCPhysicsWorld:create()", "contents": "CCPhysicsWorld:create()" }
+	]
+}

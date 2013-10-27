@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[getBlendFunc()]]></content>
+    <tabTrigger>getBlendFunc()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCAtlasNode</description>
+</snippet>

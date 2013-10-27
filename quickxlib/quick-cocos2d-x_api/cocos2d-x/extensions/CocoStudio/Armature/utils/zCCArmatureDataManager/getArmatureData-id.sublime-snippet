@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[getArmatureData(${1:id})]]></content>
+    <tabTrigger>getArmatureData(id)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCArmatureDataManager</description>
+</snippet>

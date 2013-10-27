@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "CCRepeat:create(pAction, times)", "contents": "CCRepeat:create(${1:pAction}, ${2:times})" }
+	]
+}

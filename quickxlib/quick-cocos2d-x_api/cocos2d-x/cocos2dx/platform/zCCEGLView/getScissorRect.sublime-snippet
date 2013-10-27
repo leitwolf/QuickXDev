@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[getScissorRect()]]></content>
+    <tabTrigger>getScissorRect()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCEGLView</description>
+</snippet>

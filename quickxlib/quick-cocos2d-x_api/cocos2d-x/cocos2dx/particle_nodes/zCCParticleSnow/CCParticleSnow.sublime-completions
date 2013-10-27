@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "CCParticleSnow:createWithTotalParticles(numberOfParticles)", "contents": "CCParticleSnow:createWithTotalParticles(${1:numberOfParticles})" },
+		{ "trigger": "CCParticleSnow:create()", "contents": "CCParticleSnow:create()" }
+	]
+}

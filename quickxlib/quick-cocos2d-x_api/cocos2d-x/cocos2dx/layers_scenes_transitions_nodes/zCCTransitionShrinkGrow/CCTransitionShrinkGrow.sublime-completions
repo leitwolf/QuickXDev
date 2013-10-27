@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "CCTransitionShrinkGrow:create(t, scene)", "contents": "CCTransitionShrinkGrow:create(${1:t}, ${2:scene})" }
+	]
+}

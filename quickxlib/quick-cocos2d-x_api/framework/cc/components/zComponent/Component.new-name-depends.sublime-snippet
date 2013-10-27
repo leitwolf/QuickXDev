@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[cc.components.Component.new(${1:name}, ${2:depends})]]></content>
+    <tabTrigger>Component.new(name, depends)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Component</description>
+</snippet>

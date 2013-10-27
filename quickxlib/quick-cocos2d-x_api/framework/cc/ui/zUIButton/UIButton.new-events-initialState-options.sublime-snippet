@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[cc.ui.UIButton.new(${1:events}, ${2:initialState}, ${3:options})]]></content>
+    <tabTrigger>UIButton.new(events, initialState, options)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIButton</description>
+</snippet>

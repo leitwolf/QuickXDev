@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[addLayout(${1:layout}, ${2:weight})]]></content>
+    <tabTrigger>addLayout(layout, weight)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UILayout</description>
+</snippet>

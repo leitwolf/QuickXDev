@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setRawDuration(${1:i})]]></content>
+    <tabTrigger>setRawDuration(i)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCProcessBase</description>
+</snippet>

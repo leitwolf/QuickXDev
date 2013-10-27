@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setRotationY(${1:fRotationY})]]></content>
+    <tabTrigger>setRotationY(fRotationY)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCNode</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[cc.ui.UILayout.new(${1:name})]]></content>
+    <tabTrigger>UILayout.new(name)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UILayout</description>
+</snippet>

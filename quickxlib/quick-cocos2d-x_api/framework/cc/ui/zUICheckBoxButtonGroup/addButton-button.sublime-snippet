@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[addButton(${1:button})]]></content>
+    <tabTrigger>addButton(button)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UICheckBoxButtonGroup</description>
+</snippet>

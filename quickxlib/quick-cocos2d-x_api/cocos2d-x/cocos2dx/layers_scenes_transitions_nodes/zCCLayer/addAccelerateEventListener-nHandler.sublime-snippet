@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[addAccelerateEventListener(${1:nHandler})]]></content>
+    <tabTrigger>addAccelerateEventListener(nHandler)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCLayer</description>
+</snippet>

@@ -1,0 +1,3 @@
+[
+    { "keys": ["ctrl+shift+g"], "command": "quickx_goto_definition" }
+]

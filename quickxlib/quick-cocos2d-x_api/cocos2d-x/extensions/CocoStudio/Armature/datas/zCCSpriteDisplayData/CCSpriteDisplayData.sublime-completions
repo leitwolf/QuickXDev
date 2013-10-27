@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "CCSpriteDisplayData:create()", "contents": "CCSpriteDisplayData:create()" }
+	]
+}

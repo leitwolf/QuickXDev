@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[rect()]]></content>
+    <tabTrigger>rect()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCMenuItem</description>
+</snippet>

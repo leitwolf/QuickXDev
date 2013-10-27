@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isState(${1:state})]]></content>
+    <tabTrigger>isState(state)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>StateMachine</description>
+</snippet>

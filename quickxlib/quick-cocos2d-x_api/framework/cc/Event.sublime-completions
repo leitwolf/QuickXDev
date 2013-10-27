@@ -1,0 +1,13 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		"Event.ENTER_SCENE",
+		"Event.EXIT_SCENE",
+		"Event.ENTER_TRANSITION_DID_FINISH",
+		"Event.EXIT_TRANSITION_DID_START",
+		"Event.CLEANUP",
+		"Event.ENTER_FRAME"
+	]
+}

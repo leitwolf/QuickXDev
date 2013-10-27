@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[alignItemsVerticallyWithPadding(${1:padding})]]></content>
+    <tabTrigger>alignItemsVerticallyWithPadding(padding)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCMenu</description>
+</snippet>

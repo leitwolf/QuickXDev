@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[addSliderPressedEventListener(${1:callback}, ${2:isWeakReference})]]></content>
+    <tabTrigger>addSliderPressedEventListener(callback, isWeakReference)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UISlider</description>
+</snippet>

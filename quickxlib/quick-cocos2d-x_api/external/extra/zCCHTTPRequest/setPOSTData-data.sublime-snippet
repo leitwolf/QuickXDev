@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setPOSTData(${1:data})]]></content>
+    <tabTrigger>setPOSTData(data)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCHTTPRequest</description>
+</snippet>

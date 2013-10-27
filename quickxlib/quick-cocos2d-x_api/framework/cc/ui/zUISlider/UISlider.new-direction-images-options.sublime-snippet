@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[cc.ui.UISlider.new(${1:direction}, ${2:images}, ${3:options})]]></content>
+    <tabTrigger>UISlider.new(direction, images, options)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UISlider</description>
+</snippet>

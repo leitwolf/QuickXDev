@@ -1,0 +1,18 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		"CCStoreReceiptVerifyModeNone",
+		"CCStoreReceiptVerifyModeDevice",
+		"CCStoreReceiptVerifyModeServer",
+		"CCStoreReceiptVerifyStatusUnknownError",
+		"CCStoreReceiptVerifyStatusInvalidReceipt",
+		"CCStoreReceiptVerifyStatusRequestFailed",
+		"CCStoreReceiptVerifyStatusInvalidResult",
+		"CCStoreReceiptVerifyStatusNone",
+		"CCStoreReceiptVerifyStatusOK",
+		{ "trigger": "CCStore:sharedStore()", "contents": "CCStore:sharedStore()" },
+		{ "trigger": "CCStore:purgeSharedStore()", "contents": "CCStore:purgeSharedStore()" }
+	]
+}

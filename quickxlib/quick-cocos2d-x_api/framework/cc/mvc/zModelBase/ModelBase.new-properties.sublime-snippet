@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[cc.mvc.ModelBase.new(${1:properties})]]></content>
+    <tabTrigger>ModelBase.new(properties)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ModelBase</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[getValue()]]></content>
+    <tabTrigger>getValue()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCFloat</description>
+</snippet>

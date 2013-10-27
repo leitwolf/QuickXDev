@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[ccpRPerp(${1:v})]]></content>
+    <tabTrigger>ccpRPerp(v)</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[align(${1:align}, ${2:x}, ${3:y})]]></content>
+    <tabTrigger>align(align, x, y)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UISlider</description>
+</snippet>

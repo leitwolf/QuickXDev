@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "CCTransitionSplitCols:create(t, scene)", "contents": "CCTransitionSplitCols:create(${1:t}, ${2:scene})" }
+	]
+}

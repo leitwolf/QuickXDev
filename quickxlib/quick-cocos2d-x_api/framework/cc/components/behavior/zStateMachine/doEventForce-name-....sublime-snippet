@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[doEventForce(${1:name}, ${2:...})]]></content>
+    <tabTrigger>doEventForce(name, ...)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>StateMachine</description>
+</snippet>

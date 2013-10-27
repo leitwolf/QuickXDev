@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setLayoutSizePolicy(${1:horizontal}, ${2:vertical})]]></content>
+    <tabTrigger>setLayoutSizePolicy(horizontal, vertical)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BasicLayoutProtocol</description>
+</snippet>

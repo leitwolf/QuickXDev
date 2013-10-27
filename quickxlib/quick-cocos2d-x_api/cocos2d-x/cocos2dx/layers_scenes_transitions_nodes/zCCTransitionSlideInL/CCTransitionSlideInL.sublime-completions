@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "CCTransitionSlideInL:create(t, scene)", "contents": "CCTransitionSlideInL:create(${1:t}, ${2:scene})" }
+	]
+}

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[getActionByTag(${1:tag})]]></content>
+    <tabTrigger>getActionByTag(tag)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCNode</description>
+</snippet>

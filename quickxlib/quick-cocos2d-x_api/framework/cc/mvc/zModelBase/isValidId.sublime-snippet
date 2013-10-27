@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isValidId()]]></content>
+    <tabTrigger>isValidId()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ModelBase</description>
+</snippet>

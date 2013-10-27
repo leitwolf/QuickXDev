@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[registerScriptTapHandler(${1:nHandler})]]></content>
+    <tabTrigger>registerScriptTapHandler(nHandler)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCMenuItem</description>
+</snippet>

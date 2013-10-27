@@ -1,0 +1,4 @@
+[
+    { "command": "quickx_goto_definition", "caption": "Goto Definition" },
+    { "caption": "-", "id": "end" }
+]

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[enableTouch(${1:enabled})]]></content>
+    <tabTrigger>enableTouch(enabled)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIGroup</description>
+</snippet>

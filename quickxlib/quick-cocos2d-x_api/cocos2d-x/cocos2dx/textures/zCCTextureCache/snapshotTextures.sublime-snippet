@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[snapshotTextures()]]></content>
+    <tabTrigger>snapshotTextures()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTextureCache</description>
+</snippet>

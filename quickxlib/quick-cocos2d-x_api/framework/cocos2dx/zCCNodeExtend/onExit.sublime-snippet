@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[onExit()]]></content>
+    <tabTrigger>onExit()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCNodeExtend</description>
+</snippet>

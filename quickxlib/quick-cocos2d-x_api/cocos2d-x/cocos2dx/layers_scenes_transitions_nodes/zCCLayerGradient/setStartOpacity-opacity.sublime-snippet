@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setStartOpacity(${1:opacity})]]></content>
+    <tabTrigger>setStartOpacity(opacity)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCLayerGradient</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[CCRect(${1:other})]]></content>
+    <tabTrigger>CCRect(other)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCRect</description>
+</snippet>

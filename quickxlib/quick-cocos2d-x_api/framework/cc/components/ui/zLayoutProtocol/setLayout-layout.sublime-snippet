@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setLayout(${1:layout})]]></content>
+    <tabTrigger>setLayout(layout)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>LayoutProtocol</description>
+</snippet>

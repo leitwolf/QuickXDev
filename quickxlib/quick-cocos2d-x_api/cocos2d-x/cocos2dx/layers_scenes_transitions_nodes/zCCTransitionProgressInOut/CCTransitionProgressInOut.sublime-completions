@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "CCTransitionProgressInOut:create(t, scene)", "contents": "CCTransitionProgressInOut:create(${1:t}, ${2:scene})" }
+	]
+}

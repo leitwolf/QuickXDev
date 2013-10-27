@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setHandlerPriority(${1:newPriority})]]></content>
+    <tabTrigger>setHandlerPriority(newPriority)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCMenu</description>
+</snippet>

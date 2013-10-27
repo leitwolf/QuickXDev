@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[multi(${1:scale})]]></content>
+    <tabTrigger>multi(scale)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCPhysicsVector</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[scheduleUpdate(${1:nHandler}, ${2:priority})]]></content>
+    <tabTrigger>scheduleUpdate(nHandler, priority)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCNode</description>
+</snippet>

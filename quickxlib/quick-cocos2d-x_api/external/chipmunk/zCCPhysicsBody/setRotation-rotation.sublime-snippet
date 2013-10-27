@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setRotation(${1:rotation})]]></content>
+    <tabTrigger>setRotation(rotation)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCPhysicsBody</description>
+</snippet>

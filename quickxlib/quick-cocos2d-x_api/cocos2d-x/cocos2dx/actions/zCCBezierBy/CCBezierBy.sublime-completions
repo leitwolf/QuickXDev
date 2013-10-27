@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "CCBezierBy:create(t, c)", "contents": "CCBezierBy:create(${1:t}, ${2:c})" }
+	]
+}

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[cannotDoEvent(${1:eventName})]]></content>
+    <tabTrigger>cannotDoEvent(eventName)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>StateMachine</description>
+</snippet>

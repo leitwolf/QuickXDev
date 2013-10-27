@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[removeFromParent(${1:recursion})]]></content>
+    <tabTrigger>removeFromParent(recursion)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCBone</description>
+</snippet>

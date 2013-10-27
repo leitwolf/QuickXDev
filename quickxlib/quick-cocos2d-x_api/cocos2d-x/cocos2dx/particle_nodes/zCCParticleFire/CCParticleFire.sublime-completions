@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "CCParticleFire:createWithTotalParticles(numberOfParticles)", "contents": "CCParticleFire:createWithTotalParticles(${1:numberOfParticles})" },
+		{ "trigger": "CCParticleFire:create()", "contents": "CCParticleFire:create()" }
+	]
+}

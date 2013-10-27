@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[bind_(${1:target})]]></content>
+    <tabTrigger>bind_(target)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Component</description>
+</snippet>

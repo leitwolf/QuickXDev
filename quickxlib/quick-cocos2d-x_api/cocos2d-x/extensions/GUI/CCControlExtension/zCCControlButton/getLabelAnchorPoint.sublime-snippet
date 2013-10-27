@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[getLabelAnchorPoint()]]></content>
+    <tabTrigger>getLabelAnchorPoint()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCControlButton</description>
+</snippet>

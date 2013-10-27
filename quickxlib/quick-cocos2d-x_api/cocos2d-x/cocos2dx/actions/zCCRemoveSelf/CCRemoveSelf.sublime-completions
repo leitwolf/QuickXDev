@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "CCRemoveSelf:create(isNeedCleanUp)", "contents": "CCRemoveSelf:create(${1:isNeedCleanUp})" }
+	]
+}

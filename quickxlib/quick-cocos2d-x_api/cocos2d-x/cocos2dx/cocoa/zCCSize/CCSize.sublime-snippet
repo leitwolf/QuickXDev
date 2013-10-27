@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[CCSize()]]></content>
+    <tabTrigger>CCSize()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSize</description>
+</snippet>

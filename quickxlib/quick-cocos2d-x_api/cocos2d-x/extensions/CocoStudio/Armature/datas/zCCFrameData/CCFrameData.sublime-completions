@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "CCFrameData:create()", "contents": "CCFrameData:create()" }
+	]
+}

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[registerWithTouchDispatcher()]]></content>
+    <tabTrigger>registerWithTouchDispatcher()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCScrollView</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[playByIndex(${1:animationIndex}, ${2:durationTo}, ${3:durationTween}, ${4:loop}, ${5:tweenEasing})]]></content>
+    <tabTrigger>playByIndex(animationIndex, durationTo, durationTween, loop, tweenEasing)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCArmatureAnimation</description>
+</snippet>

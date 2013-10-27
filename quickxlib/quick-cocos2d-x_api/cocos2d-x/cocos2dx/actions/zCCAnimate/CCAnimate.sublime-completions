@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "CCAnimate:create(pAnimation)", "contents": "CCAnimate:create(${1:pAnimation})" }
+	]
+}

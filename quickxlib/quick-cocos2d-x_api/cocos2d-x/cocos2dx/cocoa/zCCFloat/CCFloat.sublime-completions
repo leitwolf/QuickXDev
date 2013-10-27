@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "CCFloat:create(v)", "contents": "CCFloat:create(${1:v})" }
+	]
+}

@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "makeUIControl_(control)", "contents": "makeUIControl_(${1:control})" }
+	]
+}

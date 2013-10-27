@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[getMinimumValue()]]></content>
+    <tabTrigger>getMinimumValue()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCControlSlider</description>
+</snippet>

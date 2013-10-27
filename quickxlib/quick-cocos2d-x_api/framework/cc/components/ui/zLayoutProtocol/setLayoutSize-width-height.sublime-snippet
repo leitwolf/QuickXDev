@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setLayoutSize(${1:width}, ${2:height})]]></content>
+    <tabTrigger>setLayoutSize(width, height)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>LayoutProtocol</description>
+</snippet>

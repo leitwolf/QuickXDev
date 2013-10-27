@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[unregisterScriptTouchHandler()]]></content>
+    <tabTrigger>unregisterScriptTouchHandler()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCNode</description>
+</snippet>

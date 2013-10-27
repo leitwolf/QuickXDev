@@ -1,0 +1,11 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		"kCCTransitionOrientationLeftOver",
+		"kCCTransitionOrientationRightOver",
+		"kCCTransitionOrientationUpOver",
+		"kCCTransitionOrientationDownOver"
+	]
+}

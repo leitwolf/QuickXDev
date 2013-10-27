@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[beforeEvent_(${1:event})]]></content>
+    <tabTrigger>beforeEvent_(event)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>StateMachine</description>
+</snippet>

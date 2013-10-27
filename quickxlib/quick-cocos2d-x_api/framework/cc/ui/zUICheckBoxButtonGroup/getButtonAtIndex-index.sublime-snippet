@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[getButtonAtIndex(${1:index})]]></content>
+    <tabTrigger>getButtonAtIndex(index)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UICheckBoxButtonGroup</description>
+</snippet>

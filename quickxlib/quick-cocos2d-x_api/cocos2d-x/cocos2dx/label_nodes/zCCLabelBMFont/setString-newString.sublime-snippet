@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setString(${1:newString})]]></content>
+    <tabTrigger>setString(newString)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCLabelBMFont</description>
+</snippet>

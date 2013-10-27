@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[unscheduleUpdateForTarget(${1:pTarget})]]></content>
+    <tabTrigger>unscheduleUpdateForTarget(pTarget)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCScheduler</description>
+</snippet>

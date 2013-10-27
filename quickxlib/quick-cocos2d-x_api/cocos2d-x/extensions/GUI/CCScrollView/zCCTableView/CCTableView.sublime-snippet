@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[CCTableView()]]></content>
+    <tabTrigger>CCTableView()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTableView</description>
+</snippet>

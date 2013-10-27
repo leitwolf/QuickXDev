@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "CCClippingRegionNode:create(clippingRegion)", "contents": "CCClippingRegionNode:create(${1:clippingRegion})" },
+		{ "trigger": "CCClippingRegionNode:create()", "contents": "CCClippingRegionNode:create()" }
+	]
+}

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[cc.ui.UIImage.new(${1:filename}, ${2:options})]]></content>
+    <tabTrigger>UIImage.new(filename, options)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIImage</description>
+</snippet>

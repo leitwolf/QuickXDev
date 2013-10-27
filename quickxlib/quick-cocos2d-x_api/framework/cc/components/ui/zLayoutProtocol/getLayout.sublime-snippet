@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[getLayout()]]></content>
+    <tabTrigger>getLayout()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>LayoutProtocol</description>
+</snippet>

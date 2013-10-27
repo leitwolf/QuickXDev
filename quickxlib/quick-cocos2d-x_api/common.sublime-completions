@@ -1,0 +1,13 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "ctor()", "contents": "ctor()" },
+		{ "trigger": "new(...)", "contents": "new(${1:...})" },
+		"super",
+		{ "trigger": "tolua.type(obj)", "contents": "tolua.type(${1:obj})" },
+		{ "trigger": "tolua.cast(obj,type)", "contents": "tolua.cast(${1:obj}, ${2:type})" },
+		{ "trigger": "tolua.isnull(obj)", "contents": "tolua.isnull(${1:obj})" }
+	]
+}

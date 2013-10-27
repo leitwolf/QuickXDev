@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setIsPause(${1:b})]]></content>
+    <tabTrigger>setIsPause(b)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCProcessBase</description>
+</snippet>

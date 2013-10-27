@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[copy(${1:displayData})]]></content>
+    <tabTrigger>copy(displayData)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCParticleDisplayData</description>
+</snippet>

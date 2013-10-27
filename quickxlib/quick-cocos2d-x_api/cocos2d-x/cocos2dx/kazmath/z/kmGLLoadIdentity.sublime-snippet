@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[kmGLLoadIdentity()]]></content>
+    <tabTrigger>kmGLLoadIdentity()</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>

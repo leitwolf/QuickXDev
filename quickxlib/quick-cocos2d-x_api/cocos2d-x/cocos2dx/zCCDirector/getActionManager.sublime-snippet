@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[getActionManager()]]></content>
+    <tabTrigger>getActionManager()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCDirector</description>
+</snippet>

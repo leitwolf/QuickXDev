@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "CCEaseInOut:create(pAction, fRate)", "contents": "CCEaseInOut:create(${1:pAction}, ${2:fRate})" }
+	]
+}

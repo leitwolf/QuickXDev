@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[updateDisplayedColor(${1:parentColor})]]></content>
+    <tabTrigger>updateDisplayedColor(parentColor)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCLabelBMFont</description>
+</snippet>

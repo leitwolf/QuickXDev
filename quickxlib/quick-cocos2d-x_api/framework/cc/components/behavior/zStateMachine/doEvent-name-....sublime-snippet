@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[doEvent(${1:name}, ${2:...})]]></content>
+    <tabTrigger>doEvent(name, ...)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>StateMachine</description>
+</snippet>

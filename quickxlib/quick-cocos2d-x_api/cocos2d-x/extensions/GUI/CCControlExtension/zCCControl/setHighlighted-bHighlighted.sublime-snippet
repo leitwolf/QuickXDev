@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setHighlighted(${1:bHighlighted})]]></content>
+    <tabTrigger>setHighlighted(bHighlighted)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCControl</description>
+</snippet>

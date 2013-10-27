@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[removeObjectAtIndex(${1:index}, ${2:bReleaseObj})]]></content>
+    <tabTrigger>removeObjectAtIndex(index, bReleaseObj)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCArray</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[getLayoutMinSize()]]></content>
+    <tabTrigger>getLayoutMinSize()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BasicLayoutProtocol</description>
+</snippet>

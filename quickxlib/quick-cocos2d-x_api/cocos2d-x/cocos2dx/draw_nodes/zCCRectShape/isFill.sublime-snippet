@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[isFill()]]></content>
+    <tabTrigger>isFill()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCRectShape</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setTile(${1:tile}, ${2:position})]]></content>
+    <tabTrigger>setTile(tile, position)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTileMapAtlas</description>
+</snippet>

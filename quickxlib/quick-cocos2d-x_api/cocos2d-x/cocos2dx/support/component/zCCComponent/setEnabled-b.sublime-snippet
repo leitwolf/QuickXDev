@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setEnabled(${1:b})]]></content>
+    <tabTrigger>setEnabled(b)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCComponent</description>
+</snippet>

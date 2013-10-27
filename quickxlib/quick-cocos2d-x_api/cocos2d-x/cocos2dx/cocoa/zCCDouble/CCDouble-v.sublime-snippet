@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[CCDouble(${1:v})]]></content>
+    <tabTrigger>CCDouble(v)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCDouble</description>
+</snippet>

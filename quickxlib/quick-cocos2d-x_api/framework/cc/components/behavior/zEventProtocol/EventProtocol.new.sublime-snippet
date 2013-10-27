@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[cc.components.behavior.EventProtocol.new()]]></content>
+    <tabTrigger>EventProtocol.new()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>EventProtocol</description>
+</snippet>

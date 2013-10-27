@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[play(${1:animation}, ${2:durationTo}, ${3:durationTween}, ${4:loop}, ${5:tweenEasing})]]></content>
+    <tabTrigger>play(animation, durationTo, durationTween, loop, tweenEasing)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCProcessBase</description>
+</snippet>

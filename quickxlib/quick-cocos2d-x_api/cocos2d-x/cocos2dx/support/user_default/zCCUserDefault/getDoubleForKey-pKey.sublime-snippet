@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[getDoubleForKey(${1:pKey})]]></content>
+    <tabTrigger>getDoubleForKey(pKey)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCUserDefault</description>
+</snippet>

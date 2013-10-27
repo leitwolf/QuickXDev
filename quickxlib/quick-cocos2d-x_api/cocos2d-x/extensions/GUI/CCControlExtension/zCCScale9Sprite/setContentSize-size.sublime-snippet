@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setContentSize(${1:size})]]></content>
+    <tabTrigger>setContentSize(size)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCScale9Sprite</description>
+</snippet>

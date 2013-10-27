@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[addDisplayData(${1:displayData})]]></content>
+    <tabTrigger>addDisplayData(displayData)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCBoneData</description>
+</snippet>

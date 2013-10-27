@@ -1,0 +1,8 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "CCArmatureData:create()", "contents": "CCArmatureData:create()" }
+	]
+}

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[stopAnimation()]]></content>
+    <tabTrigger>stopAnimation()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCDirector</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[getTotalFrames()]]></content>
+    <tabTrigger>getTotalFrames()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCDirector</description>
+</snippet>

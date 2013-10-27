@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[CCTileMapAtlas()]]></content>
+    <tabTrigger>CCTileMapAtlas()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTileMapAtlas</description>
+</snippet>

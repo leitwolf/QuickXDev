@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setColor(${1:colorValue})]]></content>
+    <tabTrigger>setColor(colorValue)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCControlColourPicker</description>
+</snippet>

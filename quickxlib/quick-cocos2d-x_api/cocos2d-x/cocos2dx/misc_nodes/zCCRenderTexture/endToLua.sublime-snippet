@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[endToLua()]]></content>
+    <tabTrigger>endToLua()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCRenderTexture</description>
+</snippet>

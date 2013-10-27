@@ -1,0 +1,9 @@
+
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		"CCNodeExtend.__index",
+		{ "trigger": "CCNodeExtend.extend(target)", "contents": "CCNodeExtend.extend(${1:target})" }
+	]
+}
