@@ -35,6 +35,7 @@ Download .zip source file, then unzip it,rename it with "QuickXDev",then clone "
 you must set "quick_cocos2dx_root"
 
 ### goto definition
+select a word then right click ->Goto Definition or press key ctrl+shift+g
  * support framework functions (i.e. display.newScene or newScene)
  * support cocos2dx functions (i.e. getWritablePath or CCMoveTo:create or create)
  * support cocos2dx classes (i.e. CCMoveBy)
