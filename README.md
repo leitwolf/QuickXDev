@@ -37,6 +37,5 @@ you must set "quick_cocos2dx_root"
 
 ### goto definition
 select a word then right click ->Goto Definition or press key ctrl+shift+g
- * support framework functions (i.e. display.newScene or newScene)
- * support cocos2dx functions (i.e. getWritablePath or CCMoveTo:create or create)
- * support cocos2dx classes (i.e. CCMoveBy)
+ * support framework (i.e. CCNodeExtend, display.newScene, newScene, display.CENTER)
+ * support cocos2dx (i.e. CCMoveBy, getWritablePath, CCMoveTo:create, create, kCCHTTPRequestMethodGET)
