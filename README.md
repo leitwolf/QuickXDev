@@ -13,6 +13,7 @@ A quick-cocos2d-x develop plugin for sublime text 2/3.
 
  * quick-cocos2d-x api completions support(framework and cocos2dx tolua)
  * goto definition
+ * run with player
  * system api completions support (lua 5.1)
  * some snippets,like if-else,if-elseif-else,while,comment,repeat-until....
  * create new lua file with template
