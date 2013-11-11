@@ -3,7 +3,7 @@ QuickXDev
 
 Powerful quick-cocos2d-x develop plugin for sublime text 2/3
 
-中文介绍：http://my.oschina.net/lonewolf/blog/173059
+中文介绍：http://my.oschina.net/lonewolf/blog?catalog=412647
 
 ## Description
 
