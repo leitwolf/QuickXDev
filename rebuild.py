@@ -45,7 +45,7 @@ def rebuildSingle(file,saveDir):
     USER_DEFINITIONS=[]
     SAVE_DIR=saveDir
     loadRoot()
-    # parseLua(file)
+    parseLua(file)
     path=os.path.relpath(file,quick_cocos2dx_root)
     return [USER_DEFINITIONS,path]
 
