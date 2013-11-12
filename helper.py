@@ -1,5 +1,7 @@
 import sublime
 import os
+import hashlib
+import sys
 
 # read content from a file
 def readFile(path):
@@ -21,6 +23,9 @@ def checkFileExt(file,ext):
         return True
     else:
         return False
+
+def md5(str):
+    return hashlib.md5(str.encode(sys.getfilesystemencoding())).hexdigest()
 
 def isST3():
     return sublime.version()[0] == '3'

@@ -13,8 +13,16 @@
 },
 {
     "caption": "Run With Player",
-    "id": "run_player",
+    "id": "run_with_player",
     "command": "quickx_run_with_player",
+    "args": {
+        "dirs": []
+    }
+},
+{
+    "caption": "Rebuild User Definition",
+    "id": "rebuild_user_definition",
+    "command": "quickx_rebuild_user_definition",
     "args": {
         "dirs": []
     }

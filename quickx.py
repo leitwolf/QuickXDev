@@ -13,26 +13,31 @@ import json
 import re
 import subprocess
 import sys
+import time
 try:
     import helper
+    import rebuild
 except ImportError:
     from . import helper
+    from . import rebuild
 
 
 CUR_PATH = os.path.dirname(os.path.realpath(__file__))
 LIB_PATH="quickxlib"
 DEFINITION_LIST=[]
+USER_DEFINITION_LIST=[]
 
 # init plugin,load definitions
 def init():
     global DEFINITION_LIST
     path=os.path.join(CUR_PATH,LIB_PATH,"definition","quickx.json")
-    f=open(path,"r")
-    data=f.read()
-    f.close()
-    DEFINITION_LIST=json.loads(data)
+    DEFINITION_LIST=json.loads(helper.readFile(path))
+    global USER_DEFINITION_LIST
+    path=os.path.join(CUR_PATH,LIB_PATH,"definition","user.json")
+    if os.path.exists(path):
+        USER_DEFINITION_LIST=json.loads(helper.readFile(path))
 
-def checkRoot():    
+def checkRoot():
     # quick_cocos2dx_root
     settings = helper.loadSettings("quickx")
     quick_cocos2dx_root = settings.get("quick_cocos2dx_root", "")
@@ -40,6 +45,7 @@ def checkRoot():
         sublime.error_message("quick_cocos2dx_root no set")
         return False
     return quick_cocos2dx_root
+
 
 class LuaNewFileCommand(sublime_plugin.WindowCommand):
     def run(self, dirs):
@@ -77,8 +83,12 @@ class LuaNewFileCommand(sublime_plugin.WindowCommand):
     def is_enabled(self, dirs):
         return len(dirs) == 1
 
-process=None
+
 class QuickxRunWithPlayerCommand(sublime_plugin.WindowCommand):
+    def __init__(self,window):
+        super(QuickxRunWithPlayerCommand,self).__init__(window)
+        self.process=None
+
     def run(self, dirs):
         # root
         quick_cocos2dx_root = checkRoot()
@@ -113,7 +123,6 @@ class QuickxRunWithPlayerCommand(sublime_plugin.WindowCommand):
                     m=re.match("^DEBUG\s*=\s*(\d+)",line)
                     if m:
                         debug=m.group(1)
-                        # print debug
                         if debug=="0":
                             args.append("-disable-write-debug-log")
                             args.append("-disable-console")
@@ -137,14 +146,12 @@ class QuickxRunWithPlayerCommand(sublime_plugin.WindowCommand):
         args.append(width+"x"+height)
         for i in range(0,len(args)):
             args[i]=args[i].encode(sys.getfilesystemencoding())
-        global process
-        if process:
-            process.kill()
+        if self.process:
+            self.process.kill()
         if sublime.platform()=="osx":
-            process=subprocess.Popen(args)
+            self.process=subprocess.Popen(args)
         elif sublime.platform()=="windows":
-            process=subprocess.Popen(args,shell=True)
-        
+            self.process=subprocess.Popen(args,shell=True)        
         
     def is_enabled(self, dirs):
         if len(dirs)!=1:
@@ -161,7 +168,8 @@ class QuickxRunWithPlayerCommand(sublime_plugin.WindowCommand):
         if not os.path.exists(mainLuaPath):
             return False
         return True
-        
+
+
 class QuickxGotoDefinitionCommand(sublime_plugin.TextCommand):
     def run(self, edit):
         # select text
@@ -175,6 +183,11 @@ class QuickxGotoDefinitionCommand(sublime_plugin.TextCommand):
         matchList=[]
         showList=[]
         for item in DEFINITION_LIST:
+            for key in item[0]:
+                if key==sel:
+                    matchList.append(item)
+                    showList.append(item[1])
+        for item in USER_DEFINITION_LIST:
             for key in item[0]:
                 if key==sel:
                     matchList.append(item)
@@ -199,6 +212,7 @@ class QuickxGotoDefinitionCommand(sublime_plugin.TextCommand):
             return
         item=self.matchList[index]
         filepath=os.path.join(self.quick_cocos2dx_root,item[2])
+        filepath=os.path.abspath(filepath)
         if os.path.exists(filepath):
             self.view.window().open_file(filepath+":"+str(item[3]),sublime.ENCODED_POSITION)
         else:
@@ -209,6 +223,62 @@ class QuickxGotoDefinitionCommand(sublime_plugin.TextCommand):
 
     def is_visible(self):
         return helper.checkFileExt(self.view.file_name(),"lua")
+
+
+class QuickxRebuildUserDefinitionCommand(sublime_plugin.WindowCommand):
+    def __init__(self,window):
+        super(QuickxRebuildUserDefinitionCommand,self).__init__(window)
+        self.lastTime=0
+
+    def run(self, dirs):
+        curTime=time.time()
+        if curTime-self.lastTime<3:
+            sublime.status_message("Rebuild frequently!")
+            return
+        self.lastTime=curTime
+        saveDir=os.path.join(CUR_PATH, LIB_PATH, "temp")
+        global USER_DEFINITION_LIST
+        USER_DEFINITION_LIST=rebuild.rebuild(dirs[0],saveDir)
+        path=os.path.join(CUR_PATH, LIB_PATH, "definition", "user.json")
+        data=json.dumps(USER_DEFINITION_LIST)
+        helper.writeFile(path,data)
+        sublime.status_message("Rebuild user definition complete!")
+    
+    def is_enabled(self, dirs):
+        return len(dirs)==1
+
+    def is_visible(self, dirs):
+        return len(dirs)==1
+
+
+class QuickxRebuildUserDefinitionListener(sublime_plugin.EventListener):
+    def __init__(self):
+        self.lastTime=0
+
+    def on_post_save(self, view):
+        filename=view.file_name()
+        if not filename:
+            return
+        if not helper.checkFileExt(filename,"lua"):
+            return
+        curTime=time.time()
+        if curTime-self.lastTime<2:
+            return
+        self.lastTime=curTime
+        saveDir=os.path.join(CUR_PATH, LIB_PATH, "temp")
+        a=rebuild.rebuildSingle(filename,saveDir)
+        arr=a[0]
+        path=a[1]
+        # remove prev
+        global USER_DEFINITION_LIST
+        for item in USER_DEFINITION_LIST:
+            if item[2]==path:
+                USER_DEFINITION_LIST.remove(item)
+        USER_DEFINITION_LIST.extend(arr)
+        path=os.path.join(CUR_PATH, LIB_PATH, "definition", "user.json")
+        data=json.dumps(USER_DEFINITION_LIST)
+        helper.writeFile(path,data)
+        sublime.status_message("Current file definition rebuild complete!")
 
 # st3
 def plugin_loaded():
