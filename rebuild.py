@@ -105,12 +105,12 @@ def parseLua(file):
                 handleDefinition(m.group(2),m.group(3),file,lineNum,m.group(1)+":"+m.group(2))
                 continue
             # local property
-            m=re.match("^\s*local\s+(\S+)\s*=",line)
+            m=re.match("^\s*local\s+(\w+)\s*=",line)
             if m:
                 completionsList.append(m.group(1))
                 continue
             # global property
-            m=re.match("^(\S+)\s*=",line)
+            m=re.match("^(\w+)\s*=",line)
             if m:
                 completionsList.append(m.group(1))
                 handleDefinition(m.group(1),None,file,lineNum)
@@ -149,7 +149,7 @@ def saveFunction(saveDir,classname,function,param):
     if arr[0]!="":
         args=arr[0].split(",")
         for i in range(0,len(args)):
-            args[i]=re.sub("\s","",args[i])
+            args[i]=re.sub("\W","",args[i])
         a="-".join(args)
         a="-"+a
     saveName=function+a+".sublime-snippet"
