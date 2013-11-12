@@ -66,6 +66,9 @@ def parseLua(file):
     # create dir
     if not os.path.exists(saveDir):
         os.makedirs(saveDir)
+    # add filepath to filepath.txt for debug
+    filepath=os.path.join(saveDir,"filepath.txt")
+    helper.writeFile(filepath,file)
     completionsList=[]
     f=codecs.open(file,"r","utf-8")
     lineNum=0
