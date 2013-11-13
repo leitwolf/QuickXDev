@@ -46,11 +46,11 @@ select a word then right click ->Goto Definition or press key ctrl+shift+g
  * support cocos2dx (i.e. CCMoveBy, getWritablePath, CCMoveTo:create, create, kCCHTTPRequestMethodGET)
  * support user definition 
 
- ### Run with player
+### Run with player
 
  right click "scripts" folder on the sidebar,select "Run With Player",the player will run with current project.
 
- ### User definition auto completion
+### User definition auto completion
 
  right click "scripts" folder on the sidebar,select "Rebuild User Definition".
  and when you save a lua file in sublime,it will auto build all user definition in the current file.
