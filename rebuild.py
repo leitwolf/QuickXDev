@@ -112,6 +112,10 @@ def parseLua(file):
             if m:
                 completionsList.append(m.group(1))
                 continue
+            m=re.match("^\s*(self\.\w+)\s*=",line)
+            if m:
+                completionsList.append(m.group(1))
+                continue
             # global property
             m=re.match("^(\w+)\s*=",line)
             if m:

@@ -3,7 +3,7 @@ QuickXDev
 
 Powerful quick-cocos2d-x develop plugin for sublime text 2/3
 
-中文介绍：<a href="http://my.oschina.net/lonewolf/blog?catalog=412647" target="_blank">http://my.oschina.net/lonewolf/blog?catalog=412647</a>
+CHINESE：<a href="http://my.oschina.net/lonewolf/blog?catalog=412647" target="_blank">http://my.oschina.net/lonewolf/blog?catalog=412647</a>
 
 ## Description
 
@@ -40,6 +40,17 @@ Download .zip source file, then unzip it,rename it with "QuickXDev",then clone "
 you must set "quick_cocos2dx_root"
 
 ### goto definition
+
 select a word then right click ->Goto Definition or press key ctrl+shift+g
  * support framework (i.e. CCNodeExtend, display.newScene, newScene, display.CENTER)
  * support cocos2dx (i.e. CCMoveBy, getWritablePath, CCMoveTo:create, create, kCCHTTPRequestMethodGET)
+ * support user definition 
+
+ ### Run with player
+
+ right click "scripts" folder on the sidebar,select "Run With Player",the player will run with current project.
+
+ ### User definition auto completion
+
+ right click "scripts" folder on the sidebar,select "Rebuild User Definition".
+ and when you save a lua file in sublime,it will auto build all user definition in the current file.
