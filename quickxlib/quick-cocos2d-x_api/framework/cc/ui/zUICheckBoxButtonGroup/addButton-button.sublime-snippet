@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[addButton(${1:button})]]></content>
     <tabTrigger>addButton(button)</tabTrigger>

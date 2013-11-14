@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[getViewSize()]]></content>
     <tabTrigger>getViewSize()</tabTrigger>

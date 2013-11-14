@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setInertia(${1:inertia})]]></content>
     <tabTrigger>setInertia(inertia)</tabTrigger>

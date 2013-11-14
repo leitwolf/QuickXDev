@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setClippingEnabled(${1:enabled})]]></content>
     <tabTrigger>setClippingEnabled(enabled)</tabTrigger>

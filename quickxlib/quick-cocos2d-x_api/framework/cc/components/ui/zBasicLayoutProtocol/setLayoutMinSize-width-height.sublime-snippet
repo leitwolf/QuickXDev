@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setLayoutMinSize(${1:width}, ${2:height})]]></content>
     <tabTrigger>setLayoutMinSize(width, height)</tabTrigger>

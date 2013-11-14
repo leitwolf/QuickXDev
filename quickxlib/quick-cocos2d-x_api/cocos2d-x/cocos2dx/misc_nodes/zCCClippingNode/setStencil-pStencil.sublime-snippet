@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setStencil(${1:pStencil})]]></content>
     <tabTrigger>setStencil(pStencil)</tabTrigger>

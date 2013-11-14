@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[preloadEffect(${1:pszFilePath})]]></content>
     <tabTrigger>preloadEffect(pszFilePath)</tabTrigger>

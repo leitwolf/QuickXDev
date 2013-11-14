@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[removeLastObject(${1:bReleaseObj})]]></content>
     <tabTrigger>removeLastObject(bReleaseObj)</tabTrigger>

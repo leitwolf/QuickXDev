@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[clampf(${1:value}, ${2:min_inclusive}, ${3:max_inclusive})]]></content>
     <tabTrigger>clampf(value, min_inclusive, max_inclusive)</tabTrigger>

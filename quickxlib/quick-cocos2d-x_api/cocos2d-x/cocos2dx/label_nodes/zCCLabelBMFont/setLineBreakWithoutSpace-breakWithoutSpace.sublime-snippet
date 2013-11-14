@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setLineBreakWithoutSpace(${1:breakWithoutSpace})]]></content>
     <tabTrigger>setLineBreakWithoutSpace(breakWithoutSpace)</tabTrigger>

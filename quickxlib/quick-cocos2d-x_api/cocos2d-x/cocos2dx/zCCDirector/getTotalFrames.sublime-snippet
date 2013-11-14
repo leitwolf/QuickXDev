@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[getTotalFrames()]]></content>
     <tabTrigger>getTotalFrames()</tabTrigger>

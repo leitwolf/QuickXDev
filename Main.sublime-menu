@@ -17,19 +17,19 @@
                         [
                             {
                                 "command": "open_file",
-                                "args": {"file": "${packages}/QuickXDev/quickxlib/quickx.sublime-settings"},
+                                "args": {"file": "${packages}/QuickXDev/QuickXDev.sublime-settings"},
                                 "caption": "Settings – Default"
                             },
                             {
                                 "command": "open_file",
-                                "args": {"file": "${packages}/User/quickx.sublime-settings"},
+                                "args": {"file": "${packages}/User/QuickXDev.sublime-settings"},
                                 "caption": "Settings – User"
                             },
                             { "caption": "-" },
                             {
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/QuickXDev/quickxlib/Default (OSX).sublime-keymap",
+                                    "file": "${packages}/QuickXDev/Default (OSX).sublime-keymap",
                                     "platform": "OSX"
                                 },
                                 "caption": "Key Bindings – Default"
@@ -37,7 +37,7 @@
                             {
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/QuickXDev/quickxlib/Default (Linux).sublime-keymap",
+                                    "file": "${packages}/QuickXDev/Default (Linux).sublime-keymap",
                                     "platform": "Linux"
                                 },
                                 "caption": "Key Bindings – Default"
@@ -45,7 +45,7 @@
                             {
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/QuickXDev/quickxlib/Default (Windows).sublime-keymap",
+                                    "file": "${packages}/QuickXDev/Default (Windows).sublime-keymap",
                                     "platform": "Windows"
                                 },
                                 "caption": "Key Bindings – Default"

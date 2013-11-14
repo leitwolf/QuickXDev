@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[getBackgroundSpriteForState(${1:state})]]></content>
     <tabTrigger>getBackgroundSpriteForState(state)</tabTrigger>

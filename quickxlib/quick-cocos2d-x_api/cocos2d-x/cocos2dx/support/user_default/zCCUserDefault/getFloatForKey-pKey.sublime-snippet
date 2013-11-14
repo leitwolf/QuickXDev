@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[getFloatForKey(${1:pKey})]]></content>
     <tabTrigger>getFloatForKey(pKey)</tabTrigger>

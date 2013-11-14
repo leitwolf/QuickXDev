@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setPreferredSize(${1:s})]]></content>
     <tabTrigger>setPreferredSize(s)</tabTrigger>

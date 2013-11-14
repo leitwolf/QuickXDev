@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[cc.ui.UIImage.new(${1:filename}, ${2:options})]]></content>
     <tabTrigger>UIImage.new(filename, options)</tabTrigger>

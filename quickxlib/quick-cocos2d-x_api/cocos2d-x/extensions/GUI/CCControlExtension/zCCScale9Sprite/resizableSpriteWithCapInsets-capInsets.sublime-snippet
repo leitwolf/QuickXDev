@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[resizableSpriteWithCapInsets(${1:capInsets})]]></content>
     <tabTrigger>resizableSpriteWithCapInsets(capInsets)</tabTrigger>

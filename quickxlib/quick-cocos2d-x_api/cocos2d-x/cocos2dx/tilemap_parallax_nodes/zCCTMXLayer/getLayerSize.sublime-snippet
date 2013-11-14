@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[getLayerSize()]]></content>
     <tabTrigger>getLayerSize()</tabTrigger>

@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setContentScaleFactor(${1:scaleFactor})]]></content>
     <tabTrigger>setContentScaleFactor(scaleFactor)</tabTrigger>

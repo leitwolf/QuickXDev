@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[cc.ui.UILayout.new(${1:name})]]></content>
     <tabTrigger>UILayout.new(name)</tabTrigger>

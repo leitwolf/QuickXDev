@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setDisplayStats(${1:bDisplayStats})]]></content>
     <tabTrigger>setDisplayStats(bDisplayStats)</tabTrigger>

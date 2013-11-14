@@ -17,29 +17,35 @@ import time
 try:
     import helper
     import rebuild
+    import definition
 except ImportError:
     from . import helper
     from . import rebuild
+    from . import definition
 
-
-CUR_PATH = os.path.dirname(os.path.realpath(__file__))
-LIB_PATH="quickxlib"
+TEMP_PATH=""
 DEFINITION_LIST=[]
 USER_DEFINITION_LIST=[]
+luaTemplate="""--
+-- Author: ${author}
+-- Date: ${date}
+--
+"""
 
 # init plugin,load definitions
 def init():
+    global TEMP_PATH
+    TEMP_PATH=sublime.packages_path()+"/User/QuickXDev.cache"
     global DEFINITION_LIST
-    path=os.path.join(CUR_PATH,LIB_PATH,"definition","quickx.json")
-    DEFINITION_LIST=json.loads(helper.readFile(path))
+    DEFINITION_LIST=json.loads(definition.data)
     global USER_DEFINITION_LIST
-    path=os.path.join(CUR_PATH,LIB_PATH,"definition","user.json")
+    path=os.path.join(TEMP_PATH,"user_definition.json")
     if os.path.exists(path):
         USER_DEFINITION_LIST=json.loads(helper.readFile(path))
 
 def checkRoot():
     # quick_cocos2dx_root
-    settings = helper.loadSettings("quickx")
+    settings = helper.loadSettings("QuickXDev")
     quick_cocos2dx_root = settings.get("quick_cocos2dx_root", "")
     if len(quick_cocos2dx_root)==0:
         sublime.error_message("quick_cocos2dx_root no set")
@@ -62,17 +68,14 @@ class LuaNewFileCommand(sublime_plugin.WindowCommand):
         if os.path.exists(filePath):
             sublime.error_message("Unable to create file, file exists.")
         else:
-            # load template file
-            tmplPath = os.path.join(CUR_PATH,LIB_PATH, "lua.tmpl")
-            code = helper.readFile(tmplPath)
+            code = luaTemplate
             # add attribute
-            settings = helper.loadSettings("quickx")
+            settings = helper.loadSettings("QuickXDev")
             format = settings.get("date_format", "%Y-%m-%d %H:%M:%S")
             date = datetime.datetime.now().strftime(format)
             code = code.replace("${date}", date)
-            attr = settings.get("template_attr", {})
-            for key in attr:
-                code = code.replace("${%s}" % (key), attr.get(key, ""))
+            author=settings.get("author", "Your Name")
+            code = code.replace("${author}", author)
             # save
             helper.writeFile(filePath, code)
             v=sublime.active_window().open_file(filePath)
@@ -236,11 +239,12 @@ class QuickxRebuildUserDefinitionCommand(sublime_plugin.WindowCommand):
             sublime.status_message("Rebuild frequently!")
             return
         self.lastTime=curTime
-        saveDir=os.path.join(CUR_PATH, LIB_PATH, "temp")
         global USER_DEFINITION_LIST
-        USER_DEFINITION_LIST=rebuild.rebuild(dirs[0],saveDir)
-        path=os.path.join(CUR_PATH, LIB_PATH, "definition", "user.json")
+        USER_DEFINITION_LIST=rebuild.rebuild(dirs[0],TEMP_PATH)
+        path=os.path.join(TEMP_PATH, "user_definition.json")
         data=json.dumps(USER_DEFINITION_LIST)
+        if not os.path.exists(TEMP_PATH):
+            os.makedirs(TEMP_PATH)
         helper.writeFile(path,data)
         sublime.status_message("Rebuild user definition complete!")
     
@@ -265,8 +269,7 @@ class QuickxRebuildUserDefinitionListener(sublime_plugin.EventListener):
         if curTime-self.lastTime<2:
             return
         self.lastTime=curTime
-        saveDir=os.path.join(CUR_PATH, LIB_PATH, "temp")
-        a=rebuild.rebuildSingle(filename,saveDir)
+        a=rebuild.rebuildSingle(filename,TEMP_PATH)
         arr=a[0]
         path=a[1]
         # remove prev
@@ -275,8 +278,10 @@ class QuickxRebuildUserDefinitionListener(sublime_plugin.EventListener):
             if item[2]==path:
                 USER_DEFINITION_LIST.remove(item)
         USER_DEFINITION_LIST.extend(arr)
-        path=os.path.join(CUR_PATH, LIB_PATH, "definition", "user.json")
+        path=os.path.join(TEMP_PATH, "user_definition.json")
         data=json.dumps(USER_DEFINITION_LIST)
+        if not os.path.exists(TEMP_PATH):
+            os.makedirs(TEMP_PATH)
         helper.writeFile(path,data)
         sublime.status_message("Current file definition rebuild complete!")
 

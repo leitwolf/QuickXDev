@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[gotoFrame(${1:frameIndex})]]></content>
     <tabTrigger>gotoFrame(frameIndex)</tabTrigger>

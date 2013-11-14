@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[appendChild(${1:sprite})]]></content>
     <tabTrigger>appendChild(sprite)</tabTrigger>

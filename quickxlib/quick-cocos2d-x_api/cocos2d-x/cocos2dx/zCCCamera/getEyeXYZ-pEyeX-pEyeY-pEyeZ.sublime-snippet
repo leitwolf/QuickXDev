@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[getEyeXYZ(${1:pEyeX}, ${2:pEyeY}, ${3:pEyeZ})]]></content>
     <tabTrigger>getEyeXYZ(pEyeX, pEyeY, pEyeZ)</tabTrigger>

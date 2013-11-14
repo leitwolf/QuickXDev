@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[ccDrawCubicBezier(${1:origin}, ${2:control1}, ${3:control2}, ${4:destination}, ${5:segments})]]></content>
     <tabTrigger>ccDrawCubicBezier(origin, control1, control2, destination, segments)</tabTrigger>

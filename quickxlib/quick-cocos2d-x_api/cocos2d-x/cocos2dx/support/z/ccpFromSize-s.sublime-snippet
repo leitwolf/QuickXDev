@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[ccpFromSize(${1:s})]]></content>
     <tabTrigger>ccpFromSize(s)</tabTrigger>

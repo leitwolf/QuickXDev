@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[stopBackgroundMusic(${1:bReleaseData})]]></content>
     <tabTrigger>stopBackgroundMusic(bReleaseData)</tabTrigger>

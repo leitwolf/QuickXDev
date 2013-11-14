@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[kmGLRotatef(${1:angle}, ${2:x}, ${3:y}, ${4:z})]]></content>
     <tabTrigger>kmGLRotatef(angle, x, y, z)</tabTrigger>

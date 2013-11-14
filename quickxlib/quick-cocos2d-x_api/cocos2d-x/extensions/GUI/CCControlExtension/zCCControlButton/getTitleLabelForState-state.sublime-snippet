@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[getTitleLabelForState(${1:state})]]></content>
     <tabTrigger>getTitleLabelForState(state)</tabTrigger>

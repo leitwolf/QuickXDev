@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[changeHeight(${1:h})]]></content>
     <tabTrigger>changeHeight(h)</tabTrigger>

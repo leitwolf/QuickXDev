@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[exit()]]></content>
     <tabTrigger>exit()</tabTrigger>

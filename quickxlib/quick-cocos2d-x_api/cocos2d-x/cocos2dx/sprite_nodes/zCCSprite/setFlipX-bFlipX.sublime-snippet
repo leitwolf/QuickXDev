@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setFlipX(${1:bFlipX})]]></content>
     <tabTrigger>setFlipX(bFlipX)</tabTrigger>

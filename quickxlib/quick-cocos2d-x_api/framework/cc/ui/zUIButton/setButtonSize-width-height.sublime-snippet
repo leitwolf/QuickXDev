@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setButtonSize(${1:width}, ${2:height})]]></content>
     <tabTrigger>setButtonSize(width, height)</tabTrigger>

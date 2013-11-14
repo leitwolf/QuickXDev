@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[getClippingRegion()]]></content>
     <tabTrigger>getClippingRegion()</tabTrigger>

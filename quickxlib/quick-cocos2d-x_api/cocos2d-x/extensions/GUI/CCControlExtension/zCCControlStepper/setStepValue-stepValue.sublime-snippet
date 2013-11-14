@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setStepValue(${1:stepValue})]]></content>
     <tabTrigger>setStepValue(stepValue)</tabTrigger>

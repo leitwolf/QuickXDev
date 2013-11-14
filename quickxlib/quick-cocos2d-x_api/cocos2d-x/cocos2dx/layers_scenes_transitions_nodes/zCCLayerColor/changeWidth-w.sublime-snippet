@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[changeWidth(${1:w})]]></content>
     <tabTrigger>changeWidth(w)</tabTrigger>

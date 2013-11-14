@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setIntegerForKey(${1:pKey}, ${2:value})]]></content>
     <tabTrigger>setIntegerForKey(pKey, value)</tabTrigger>

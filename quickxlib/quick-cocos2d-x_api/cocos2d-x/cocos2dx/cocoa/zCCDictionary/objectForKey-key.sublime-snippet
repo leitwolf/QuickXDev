@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[objectForKey(${1:key})]]></content>
     <tabTrigger>objectForKey(key)</tabTrigger>

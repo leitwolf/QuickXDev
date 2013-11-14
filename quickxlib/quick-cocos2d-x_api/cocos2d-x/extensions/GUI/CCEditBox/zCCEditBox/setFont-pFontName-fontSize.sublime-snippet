@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setFont(${1:pFontName}, ${2:fontSize})]]></content>
     <tabTrigger>setFont(pFontName, fontSize)</tabTrigger>

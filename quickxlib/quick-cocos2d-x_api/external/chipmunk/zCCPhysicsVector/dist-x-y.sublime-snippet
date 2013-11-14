@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[dist(${1:x}, ${2:y})]]></content>
     <tabTrigger>dist(x, y)</tabTrigger>

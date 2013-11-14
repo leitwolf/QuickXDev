@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setGrid(${1:pGrid})]]></content>
     <tabTrigger>setGrid(pGrid)</tabTrigger>

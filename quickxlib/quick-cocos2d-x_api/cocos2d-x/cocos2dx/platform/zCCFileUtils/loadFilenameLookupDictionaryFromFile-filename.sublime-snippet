@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[loadFilenameLookupDictionaryFromFile(${1:filename})]]></content>
     <tabTrigger>loadFilenameLookupDictionaryFromFile(filename)</tabTrigger>

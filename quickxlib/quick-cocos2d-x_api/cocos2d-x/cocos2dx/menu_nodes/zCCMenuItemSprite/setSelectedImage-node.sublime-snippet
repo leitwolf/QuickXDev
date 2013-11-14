@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setSelectedImage(${1:node})]]></content>
     <tabTrigger>setSelectedImage(node)</tabTrigger>

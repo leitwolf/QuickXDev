@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[fadeOut(${1:time})]]></content>
     <tabTrigger>fadeOut(time)</tabTrigger>

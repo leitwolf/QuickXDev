@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[applyForce(${1:forceX}, ${2:forceY}, ${3:offsetX}, ${4:offsetY})]]></content>
     <tabTrigger>applyForce(forceX, forceY, offsetX, offsetY)</tabTrigger>

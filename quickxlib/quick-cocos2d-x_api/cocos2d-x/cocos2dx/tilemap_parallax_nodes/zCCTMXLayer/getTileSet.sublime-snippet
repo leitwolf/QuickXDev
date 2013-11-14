@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[getTileSet()]]></content>
     <tabTrigger>getTileSet()</tabTrigger>

@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[addComponent(${1:name})]]></content>
     <tabTrigger>addComponent(name)</tabTrigger>

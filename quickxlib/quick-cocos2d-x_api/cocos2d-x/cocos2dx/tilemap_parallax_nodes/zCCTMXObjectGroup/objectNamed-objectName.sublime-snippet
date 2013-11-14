@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[objectNamed(${1:objectName})]]></content>
     <tabTrigger>objectNamed(objectName)</tabTrigger>

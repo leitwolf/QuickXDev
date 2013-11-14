@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[removeObjectForKey(${1:key})]]></content>
     <tabTrigger>removeObjectForKey(key)</tabTrigger>

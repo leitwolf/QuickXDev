@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setFill(${1:fill})]]></content>
     <tabTrigger>setFill(fill)</tabTrigger>

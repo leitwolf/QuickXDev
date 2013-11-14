@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[saveResponseData(${1:filename})]]></content>
     <tabTrigger>saveResponseData(filename)</tabTrigger>

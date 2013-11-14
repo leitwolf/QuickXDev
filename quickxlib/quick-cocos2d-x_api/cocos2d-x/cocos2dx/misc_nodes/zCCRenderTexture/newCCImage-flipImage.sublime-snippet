@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[newCCImage(${1:flipImage})]]></content>
     <tabTrigger>newCCImage(flipImage)</tabTrigger>

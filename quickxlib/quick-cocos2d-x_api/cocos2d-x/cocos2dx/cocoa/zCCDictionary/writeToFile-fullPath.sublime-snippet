@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[writeToFile(${1:fullPath})]]></content>
     <tabTrigger>writeToFile(fullPath)</tabTrigger>

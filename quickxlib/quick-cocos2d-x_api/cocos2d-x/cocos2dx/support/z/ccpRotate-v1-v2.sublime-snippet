@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[ccpRotate(${1:v1}, ${2:v2})]]></content>
     <tabTrigger>ccpRotate(v1, v2)</tabTrigger>

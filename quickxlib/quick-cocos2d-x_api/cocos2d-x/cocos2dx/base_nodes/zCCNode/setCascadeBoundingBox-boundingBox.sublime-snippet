@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setCascadeBoundingBox(${1:boundingBox})]]></content>
     <tabTrigger>setCascadeBoundingBox(boundingBox)</tabTrigger>

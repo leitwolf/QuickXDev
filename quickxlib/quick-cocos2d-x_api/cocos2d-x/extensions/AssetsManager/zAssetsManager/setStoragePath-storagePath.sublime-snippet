@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setStoragePath(${1:storagePath})]]></content>
     <tabTrigger>setStoragePath(storagePath)</tabTrigger>

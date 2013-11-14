@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setForce(${1:force})]]></content>
     <tabTrigger>setForce(force)</tabTrigger>

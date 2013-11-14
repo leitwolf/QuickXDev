@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[displayFrame(${1:frame}, ${2:index})]]></content>
     <tabTrigger>displayFrame(frame, index)</tabTrigger>

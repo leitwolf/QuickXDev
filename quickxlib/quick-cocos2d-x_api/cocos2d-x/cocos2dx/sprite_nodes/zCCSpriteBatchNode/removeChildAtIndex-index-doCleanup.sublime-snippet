@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[removeChildAtIndex(${1:index}, ${2:doCleanup})]]></content>
     <tabTrigger>removeChildAtIndex(index, doCleanup)</tabTrigger>

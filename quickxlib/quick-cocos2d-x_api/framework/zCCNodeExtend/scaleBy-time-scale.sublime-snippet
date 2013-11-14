@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[scaleBy(${1:time}, ${2:scale})]]></content>
     <tabTrigger>scaleBy(time, scale)</tabTrigger>

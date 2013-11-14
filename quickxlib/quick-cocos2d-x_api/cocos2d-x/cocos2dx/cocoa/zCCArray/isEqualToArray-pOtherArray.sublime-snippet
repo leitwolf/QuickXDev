@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[isEqualToArray(${1:pOtherArray})]]></content>
     <tabTrigger>isEqualToArray(pOtherArray)</tabTrigger>

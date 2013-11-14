@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setTileProperties(${1:tileProperties})]]></content>
     <tabTrigger>setTileProperties(tileProperties)</tabTrigger>

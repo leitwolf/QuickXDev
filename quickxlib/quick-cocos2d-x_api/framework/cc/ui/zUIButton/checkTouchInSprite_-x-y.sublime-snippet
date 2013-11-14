@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[checkTouchInSprite_(${1:x}, ${2:y})]]></content>
     <tabTrigger>checkTouchInSprite_(x, y)</tabTrigger>

@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[ccTouchEnded(${1:pTouch}, ${2:pEvent})]]></content>
     <tabTrigger>ccTouchEnded(pTouch, pEvent)</tabTrigger>

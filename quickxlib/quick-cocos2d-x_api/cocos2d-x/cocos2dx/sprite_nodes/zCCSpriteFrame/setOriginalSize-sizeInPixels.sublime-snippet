@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setOriginalSize(${1:sizeInPixels})]]></content>
     <tabTrigger>setOriginalSize(sizeInPixels)</tabTrigger>

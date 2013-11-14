@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[ccDrawRect(${1:origin}, ${2:destination})]]></content>
     <tabTrigger>ccDrawRect(origin, destination)</tabTrigger>

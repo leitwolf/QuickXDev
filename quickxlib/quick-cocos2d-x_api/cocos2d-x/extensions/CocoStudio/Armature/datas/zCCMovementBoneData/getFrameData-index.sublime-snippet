@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[getFrameData(${1:index})]]></content>
     <tabTrigger>getFrameData(index)</tabTrigger>

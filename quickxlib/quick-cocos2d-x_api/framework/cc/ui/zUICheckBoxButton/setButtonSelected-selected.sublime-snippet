@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setButtonSelected(${1:selected})]]></content>
     <tabTrigger>setButtonSelected(selected)</tabTrigger>

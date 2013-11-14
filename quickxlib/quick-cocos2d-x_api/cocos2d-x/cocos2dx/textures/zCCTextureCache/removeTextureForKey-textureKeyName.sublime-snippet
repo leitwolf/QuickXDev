@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[removeTextureForKey(${1:textureKeyName})]]></content>
     <tabTrigger>removeTextureForKey(textureKeyName)</tabTrigger>

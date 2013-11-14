@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setClearDepth(${1:fClearDepth})]]></content>
     <tabTrigger>setClearDepth(fClearDepth)</tabTrigger>

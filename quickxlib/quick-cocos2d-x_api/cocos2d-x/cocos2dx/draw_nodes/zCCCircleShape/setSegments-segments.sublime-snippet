@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setSegments(${1:segments})]]></content>
     <tabTrigger>setSegments(segments)</tabTrigger>

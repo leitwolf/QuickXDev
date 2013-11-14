@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[getProperties(${1:fields}, ${2:filter})]]></content>
     <tabTrigger>getProperties(fields, filter)</tabTrigger>

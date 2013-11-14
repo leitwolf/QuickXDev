@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setButtonsLayoutMargin(${1:top}, ${2:right}, ${3:bottom}, ${4:left})]]></content>
     <tabTrigger>setButtonsLayoutMargin(top, right, bottom, left)</tabTrigger>

@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[addPVRImage(${1:filename})]]></content>
     <tabTrigger>addPVRImage(filename)</tabTrigger>

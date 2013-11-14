@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[getUpXYZ(${1:pUpX}, ${2:pUpY}, ${3:pUpZ})]]></content>
     <tabTrigger>getUpXYZ(pUpX, pUpY, pUpZ)</tabTrigger>

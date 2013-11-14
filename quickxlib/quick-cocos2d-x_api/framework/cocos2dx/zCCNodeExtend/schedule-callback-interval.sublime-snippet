@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[schedule(${1:callback}, ${2:interval})]]></content>
     <tabTrigger>schedule(callback, interval)</tabTrigger>

@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[enterScene(${1:sceneName}, ${2:args}, ${3:transitionType}, ${4:time}, ${5:more})]]></content>
     <tabTrigger>enterScene(sceneName, args, transitionType, time, more)</tabTrigger>

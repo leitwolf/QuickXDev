@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[parseXMLString(${1:xmlString})]]></content>
     <tabTrigger>parseXMLString(xmlString)</tabTrigger>

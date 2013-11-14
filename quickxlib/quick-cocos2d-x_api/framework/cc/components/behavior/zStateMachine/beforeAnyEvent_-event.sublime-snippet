@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[beforeAnyEvent_(${1:event})]]></content>
     <tabTrigger>beforeAnyEvent_(event)</tabTrigger>

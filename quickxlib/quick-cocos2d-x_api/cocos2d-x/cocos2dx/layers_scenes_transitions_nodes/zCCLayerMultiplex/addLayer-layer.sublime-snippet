@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[addLayer(${1:layer})]]></content>
     <tabTrigger>addLayer(layer)</tabTrigger>

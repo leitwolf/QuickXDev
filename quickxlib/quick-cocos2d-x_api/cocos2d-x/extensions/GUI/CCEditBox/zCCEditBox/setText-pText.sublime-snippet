@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setText(${1:pText})]]></content>
     <tabTrigger>setText(pText)</tabTrigger>

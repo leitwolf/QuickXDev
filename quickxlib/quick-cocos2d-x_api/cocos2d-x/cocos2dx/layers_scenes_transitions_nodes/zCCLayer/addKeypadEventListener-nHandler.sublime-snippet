@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[addKeypadEventListener(${1:nHandler})]]></content>
     <tabTrigger>addKeypadEventListener(nHandler)</tabTrigger>

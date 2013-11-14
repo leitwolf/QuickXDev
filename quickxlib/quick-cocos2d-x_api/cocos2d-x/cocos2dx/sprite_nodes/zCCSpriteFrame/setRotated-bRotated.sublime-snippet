@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setRotated(${1:bRotated})]]></content>
     <tabTrigger>setRotated(bRotated)</tabTrigger>

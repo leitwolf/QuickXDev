@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setRect(${1:rect})]]></content>
     <tabTrigger>setRect(rect)</tabTrigger>

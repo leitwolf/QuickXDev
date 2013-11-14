@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[initWithStringAndTextDefinition(${1:text}, ${2:textDefinition})]]></content>
     <tabTrigger>initWithStringAndTextDefinition(text, textDefinition)</tabTrigger>

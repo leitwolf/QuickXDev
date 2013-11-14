@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[isProductLoaded(${1:productId})]]></content>
     <tabTrigger>isProductLoaded(productId)</tabTrigger>

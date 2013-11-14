@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[switchToAndReleaseMe(${1:n})]]></content>
     <tabTrigger>switchToAndReleaseMe(n)</tabTrigger>

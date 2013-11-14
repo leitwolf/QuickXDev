@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[getClearFlags()]]></content>
     <tabTrigger>getClearFlags()</tabTrigger>

@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setStartingPositionInitialized(${1:bStartingPositionInitialized})]]></content>
     <tabTrigger>setStartingPositionInitialized(bStartingPositionInitialized)</tabTrigger>

@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setCascadeColorEnabled(${1:cascadeColorEnabled})]]></content>
     <tabTrigger>setCascadeColorEnabled(cascadeColorEnabled)</tabTrigger>

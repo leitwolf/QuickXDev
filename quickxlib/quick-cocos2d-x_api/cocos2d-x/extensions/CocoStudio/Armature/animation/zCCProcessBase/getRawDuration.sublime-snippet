@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[getRawDuration()]]></content>
     <tabTrigger>getRawDuration()</tabTrigger>

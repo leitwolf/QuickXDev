@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[dist(${1:other})]]></content>
     <tabTrigger>dist(other)</tabTrigger>

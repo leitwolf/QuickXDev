@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[removeScriptEventListener(${1:event}, ${2:handle})]]></content>
     <tabTrigger>removeScriptEventListener(event, handle)</tabTrigger>

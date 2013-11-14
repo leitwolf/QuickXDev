@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[removeObjectsInArray(${1:otherArray})]]></content>
     <tabTrigger>removeObjectsInArray(otherArray)</tabTrigger>

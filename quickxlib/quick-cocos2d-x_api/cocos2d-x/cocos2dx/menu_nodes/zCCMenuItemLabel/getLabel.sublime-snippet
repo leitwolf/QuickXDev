@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[getLabel()]]></content>
     <tabTrigger>getLabel()</tabTrigger>

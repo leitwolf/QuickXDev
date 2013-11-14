@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[kmGLMatrixMode(${1:mode})]]></content>
     <tabTrigger>kmGLMatrixMode(mode)</tabTrigger>

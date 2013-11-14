@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[isState(${1:state})]]></content>
     <tabTrigger>isState(state)</tabTrigger>

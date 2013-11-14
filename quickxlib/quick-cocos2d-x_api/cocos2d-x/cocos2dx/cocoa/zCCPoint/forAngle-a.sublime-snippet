@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[forAngle(${1:a})]]></content>
     <tabTrigger>forAngle(a)</tabTrigger>

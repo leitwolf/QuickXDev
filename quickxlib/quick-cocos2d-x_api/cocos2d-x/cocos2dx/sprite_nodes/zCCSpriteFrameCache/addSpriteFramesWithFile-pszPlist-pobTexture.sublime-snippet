@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[addSpriteFramesWithFile(${1:pszPlist}, ${2:pobTexture})]]></content>
     <tabTrigger>addSpriteFramesWithFile(pszPlist, pobTexture)</tabTrigger>

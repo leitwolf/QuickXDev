@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setPackageUrl(${1:packageUrl})]]></content>
     <tabTrigger>setPackageUrl(packageUrl)</tabTrigger>

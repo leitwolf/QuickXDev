@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setPositionOffset(${1:p})]]></content>
     <tabTrigger>setPositionOffset(p)</tabTrigger>

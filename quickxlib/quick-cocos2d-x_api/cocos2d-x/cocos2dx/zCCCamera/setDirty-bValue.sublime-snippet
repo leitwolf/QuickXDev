@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setDirty(${1:bValue})]]></content>
     <tabTrigger>setDirty(bValue)</tabTrigger>

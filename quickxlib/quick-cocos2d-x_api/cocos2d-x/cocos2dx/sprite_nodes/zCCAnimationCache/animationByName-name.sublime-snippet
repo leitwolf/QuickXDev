@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[animationByName(${1:name})]]></content>
     <tabTrigger>animationByName(name)</tabTrigger>

@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[bitsPerPixelForFormat(${1:format})]]></content>
     <tabTrigger>bitsPerPixelForFormat(format)</tabTrigger>

@@ -6,15 +6,13 @@
 # 
 import os
 import re
-import hashlib
 import codecs
 try:
     import helper
 except ImportError:
     from . import helper
 
-snippetTemplate = """
-<snippet>
+snippetTemplate = """<snippet>
     <content><![CDATA[$content]]></content>
     <tabTrigger>$trigger</tabTrigger>
     <scope>source.lua</scope>
@@ -194,7 +192,7 @@ def saveCompletions(completionsList,saveDir,filename):
 
 def loadRoot():	
     global quick_cocos2dx_root
-    settings = helper.loadSettings("quickx")
+    settings = helper.loadSettings("QuickXDev")
     quick_cocos2dx_root = settings.get("quick_cocos2dx_root", "")
 
 # delete files under dir

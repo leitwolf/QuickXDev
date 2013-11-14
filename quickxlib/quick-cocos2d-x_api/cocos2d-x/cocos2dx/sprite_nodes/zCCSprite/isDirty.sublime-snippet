@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[isDirty()]]></content>
     <tabTrigger>isDirty()</tabTrigger>

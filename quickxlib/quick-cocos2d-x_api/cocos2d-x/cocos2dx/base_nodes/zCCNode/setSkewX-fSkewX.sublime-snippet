@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setSkewX(${1:fSkewX})]]></content>
     <tabTrigger>setSkewX(fSkewX)</tabTrigger>

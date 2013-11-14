@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[getBlendFunc()]]></content>
     <tabTrigger>getBlendFunc()</tabTrigger>

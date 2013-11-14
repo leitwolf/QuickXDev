@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setIgnoreMovementBoneData(${1:bool})]]></content>
     <tabTrigger>setIgnoreMovementBoneData(bool)</tabTrigger>

@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[indexOfObject(${1:object})]]></content>
     <tabTrigger>indexOfObject(object)</tabTrigger>

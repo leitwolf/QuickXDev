@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setClippingToBounds(${1:bClippingToBounds})]]></content>
     <tabTrigger>setClippingToBounds(bClippingToBounds)</tabTrigger>

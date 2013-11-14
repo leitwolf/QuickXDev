@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setSprite(${1:pSprite})]]></content>
     <tabTrigger>setSprite(pSprite)</tabTrigger>

@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[enterState_(${1:event})]]></content>
     <tabTrigger>enterState_(event)</tabTrigger>

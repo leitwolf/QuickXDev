@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[ccpToAngle(${1:v})]]></content>
     <tabTrigger>ccpToAngle(v)</tabTrigger>

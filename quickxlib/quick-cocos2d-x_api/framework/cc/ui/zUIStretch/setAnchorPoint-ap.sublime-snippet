@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setAnchorPoint(${1:ap})]]></content>
     <tabTrigger>setAnchorPoint(ap)</tabTrigger>

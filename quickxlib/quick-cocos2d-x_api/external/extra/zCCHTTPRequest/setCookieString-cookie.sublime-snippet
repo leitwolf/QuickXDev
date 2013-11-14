@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setCookieString(${1:cookie})]]></content>
     <tabTrigger>setCookieString(cookie)</tabTrigger>

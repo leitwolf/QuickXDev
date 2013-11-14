@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setDirection(${1:eDirection})]]></content>
     <tabTrigger>setDirection(eDirection)</tabTrigger>

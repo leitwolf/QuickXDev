@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setSelectedIndex(${1:index})]]></content>
     <tabTrigger>setSelectedIndex(index)</tabTrigger>

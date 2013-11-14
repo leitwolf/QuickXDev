@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[ccpNeg(${1:v})]]></content>
     <tabTrigger>ccpNeg(v)</tabTrigger>

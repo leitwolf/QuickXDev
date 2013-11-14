@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[addSearchResolutionsOrder(${1:order})]]></content>
     <tabTrigger>addSearchResolutionsOrder(order)</tabTrigger>

@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[skewBy(${1:time}, ${2:sx}, ${3:sy})]]></content>
     <tabTrigger>skewBy(time, sx, sy)</tabTrigger>

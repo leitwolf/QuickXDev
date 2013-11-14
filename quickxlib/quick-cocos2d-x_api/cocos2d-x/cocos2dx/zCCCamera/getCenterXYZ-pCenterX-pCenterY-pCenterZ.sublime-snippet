@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[getCenterXYZ(${1:pCenterX}, ${2:pCenterY}, ${3:pCenterZ})]]></content>
     <tabTrigger>getCenterXYZ(pCenterX, pCenterY, pCenterZ)</tabTrigger>

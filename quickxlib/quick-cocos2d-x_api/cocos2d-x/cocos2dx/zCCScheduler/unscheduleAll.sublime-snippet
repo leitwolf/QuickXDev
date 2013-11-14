@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[unscheduleAll()]]></content>
     <tabTrigger>unscheduleAll()</tabTrigger>

@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setEndOpacity(${1:opacity})]]></content>
     <tabTrigger>setEndOpacity(opacity)</tabTrigger>

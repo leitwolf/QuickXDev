@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[add(${1:point})]]></content>
     <tabTrigger>add(point)</tabTrigger>

@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setClearFlags(${1:uClearFlags})]]></content>
     <tabTrigger>setClearFlags(uClearFlags)</tabTrigger>

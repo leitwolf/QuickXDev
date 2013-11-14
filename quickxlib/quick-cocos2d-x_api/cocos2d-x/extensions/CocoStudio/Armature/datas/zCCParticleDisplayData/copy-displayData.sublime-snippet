@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[copy(${1:displayData})]]></content>
     <tabTrigger>copy(displayData)</tabTrigger>

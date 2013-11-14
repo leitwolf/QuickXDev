@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setObjectID(${1:uIdx})]]></content>
     <tabTrigger>setObjectID(uIdx)</tabTrigger>

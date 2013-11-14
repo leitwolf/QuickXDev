@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setRotationX(${1:fRotaionX})]]></content>
     <tabTrigger>setRotationX(fRotaionX)</tabTrigger>

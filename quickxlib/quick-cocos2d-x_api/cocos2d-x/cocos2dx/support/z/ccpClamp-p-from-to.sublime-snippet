@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[ccpClamp(${1:p}, ${2:from}, ${3:to})]]></content>
     <tabTrigger>ccpClamp(p, from, to)</tabTrigger>

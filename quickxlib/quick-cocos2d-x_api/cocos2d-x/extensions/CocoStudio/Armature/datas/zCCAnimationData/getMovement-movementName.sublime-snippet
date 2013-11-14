@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[getMovement(${1:movementName})]]></content>
     <tabTrigger>getMovement(movementName)</tabTrigger>

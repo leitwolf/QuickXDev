@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setCollisionGroup(${1:group})]]></content>
     <tabTrigger>setCollisionGroup(group)</tabTrigger>

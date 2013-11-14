@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[CCPoint(${1:x}, ${2:y})]]></content>
     <tabTrigger>CCPoint(x, y)</tabTrigger>

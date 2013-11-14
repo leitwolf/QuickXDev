@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[getCurrentLanguage()]]></content>
     <tabTrigger>getCurrentLanguage()</tabTrigger>

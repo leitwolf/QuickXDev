@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[leaveState_(${1:event}, ${2:transition})]]></content>
     <tabTrigger>leaveState_(event, transition)</tabTrigger>

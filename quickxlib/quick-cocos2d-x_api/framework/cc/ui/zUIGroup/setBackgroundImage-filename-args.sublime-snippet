@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setBackgroundImage(${1:filename}, ${2:args})]]></content>
     <tabTrigger>setBackgroundImage(filename, args)</tabTrigger>

@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[cc.ui.UIPushButton.new(${1:images}, ${2:options})]]></content>
     <tabTrigger>UIPushButton.new(images, options)</tabTrigger>

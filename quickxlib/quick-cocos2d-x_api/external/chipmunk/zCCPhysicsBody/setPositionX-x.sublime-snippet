@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setPositionX(${1:x})]]></content>
     <tabTrigger>setPositionX(x)</tabTrigger>

@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[stopEffect(${1:nSoundId})]]></content>
     <tabTrigger>stopEffect(nSoundId)</tabTrigger>

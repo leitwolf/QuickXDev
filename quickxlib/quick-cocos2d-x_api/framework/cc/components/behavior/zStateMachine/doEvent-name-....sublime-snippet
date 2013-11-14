@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[doEvent(${1:name}, ${2:...})]]></content>
     <tabTrigger>doEvent(name, ...)</tabTrigger>

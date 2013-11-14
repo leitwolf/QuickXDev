@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setSize(${1:size})]]></content>
     <tabTrigger>setSize(size)</tabTrigger>

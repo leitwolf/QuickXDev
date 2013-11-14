@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setDisplayFrame(${1:spriteFrame})]]></content>
     <tabTrigger>setDisplayFrame(spriteFrame)</tabTrigger>

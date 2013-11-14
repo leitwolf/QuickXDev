@@ -33,10 +33,8 @@ A quick-cocos2d-x develop plugin for sublime text 2/3.
 
 ```
 {
-	"quick_cocos2dx_root": "<path>/quick-cocos2d-x",
-    "template_attr": {
-        "author": "<your name>"
-    }
+	"quick_cocos2dx_root": "<path>/quick-cocos2d-x",    
+    "author": "<your name>"    
 }
 ```
 you must set "quick_cocos2dx_root"

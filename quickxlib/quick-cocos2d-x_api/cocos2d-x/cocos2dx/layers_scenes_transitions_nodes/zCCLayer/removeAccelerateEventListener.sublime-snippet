@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[removeAccelerateEventListener()]]></content>
     <tabTrigger>removeAccelerateEventListener()</tabTrigger>

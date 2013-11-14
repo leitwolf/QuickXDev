@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[getDisplayData(${1:index})]]></content>
     <tabTrigger>getDisplayData(index)</tabTrigger>

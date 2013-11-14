@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[textureForKey(${1:key})]]></content>
     <tabTrigger>textureForKey(key)</tabTrigger>

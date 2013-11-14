@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setTouchPriority(${1:priority})]]></content>
     <tabTrigger>setTouchPriority(priority)</tabTrigger>

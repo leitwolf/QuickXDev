@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setCollisionType(${1:collisionType})]]></content>
     <tabTrigger>setCollisionType(collisionType)</tabTrigger>

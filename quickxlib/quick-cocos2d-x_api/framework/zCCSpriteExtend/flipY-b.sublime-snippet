@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[flipY(${1:b})]]></content>
     <tabTrigger>flipY(b)</tabTrigger>

@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[cc.components.Component.new(${1:name}, ${2:depends})]]></content>
     <tabTrigger>Component.new(name, depends)</tabTrigger>

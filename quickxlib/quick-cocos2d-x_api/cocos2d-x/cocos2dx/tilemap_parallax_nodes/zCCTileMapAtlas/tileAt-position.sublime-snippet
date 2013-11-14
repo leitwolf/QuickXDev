@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[tileAt(${1:position})]]></content>
     <tabTrigger>tileAt(position)</tabTrigger>

@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[getMaxTextureSize()]]></content>
     <tabTrigger>getMaxTextureSize()</tabTrigger>

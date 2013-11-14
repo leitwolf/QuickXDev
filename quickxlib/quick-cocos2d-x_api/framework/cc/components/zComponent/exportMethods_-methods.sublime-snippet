@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[exportMethods_(${1:methods})]]></content>
     <tabTrigger>exportMethods_(methods)</tabTrigger>

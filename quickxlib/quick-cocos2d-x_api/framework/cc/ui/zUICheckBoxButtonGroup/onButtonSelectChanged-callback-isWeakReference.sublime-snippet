@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[onButtonSelectChanged(${1:callback}, ${2:isWeakReference})]]></content>
     <tabTrigger>onButtonSelectChanged(callback, isWeakReference)</tabTrigger>

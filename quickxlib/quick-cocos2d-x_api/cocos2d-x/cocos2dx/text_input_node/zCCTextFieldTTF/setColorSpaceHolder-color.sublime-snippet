@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setColorSpaceHolder(${1:color})]]></content>
     <tabTrigger>setColorSpaceHolder(color)</tabTrigger>

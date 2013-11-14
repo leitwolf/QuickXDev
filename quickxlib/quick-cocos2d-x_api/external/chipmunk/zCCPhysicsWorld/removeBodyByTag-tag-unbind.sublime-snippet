@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[removeBodyByTag(${1:tag}, ${2:unbind})]]></content>
     <tabTrigger>removeBodyByTag(tag, unbind)</tabTrigger>

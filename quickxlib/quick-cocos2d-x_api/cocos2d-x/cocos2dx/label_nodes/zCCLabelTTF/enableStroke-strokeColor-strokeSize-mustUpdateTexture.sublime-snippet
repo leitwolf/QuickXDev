@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[enableStroke(${1:strokeColor}, ${2:strokeSize}, ${3:mustUpdateTexture})]]></content>
     <tabTrigger>enableStroke(strokeColor, strokeSize, mustUpdateTexture)</tabTrigger>

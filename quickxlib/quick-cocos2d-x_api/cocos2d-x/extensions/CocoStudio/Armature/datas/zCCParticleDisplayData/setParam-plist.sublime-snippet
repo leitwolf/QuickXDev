@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setParam(${1:plist})]]></content>
     <tabTrigger>setParam(plist)</tabTrigger>

@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setVerticalAlignment(${1:verticalAlignment})]]></content>
     <tabTrigger>setVerticalAlignment(verticalAlignment)</tabTrigger>

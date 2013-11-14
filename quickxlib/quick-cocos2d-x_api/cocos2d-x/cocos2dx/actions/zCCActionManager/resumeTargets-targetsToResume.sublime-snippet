@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[resumeTargets(${1:targetsToResume})]]></content>
     <tabTrigger>resumeTargets(targetsToResume)</tabTrigger>

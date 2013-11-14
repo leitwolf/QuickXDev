@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[postNotification(${1:name})]]></content>
     <tabTrigger>postNotification(name)</tabTrigger>

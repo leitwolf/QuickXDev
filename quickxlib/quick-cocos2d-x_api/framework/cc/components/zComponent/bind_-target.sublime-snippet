@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[bind_(${1:target})]]></content>
     <tabTrigger>bind_(target)</tabTrigger>

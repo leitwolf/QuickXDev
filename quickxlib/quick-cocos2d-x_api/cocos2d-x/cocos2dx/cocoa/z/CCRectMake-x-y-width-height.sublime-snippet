@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[CCRectMake(${1:x}, ${2:y}, ${3:width}, ${4:height})]]></content>
     <tabTrigger>CCRectMake(x, y, width, height)</tabTrigger>

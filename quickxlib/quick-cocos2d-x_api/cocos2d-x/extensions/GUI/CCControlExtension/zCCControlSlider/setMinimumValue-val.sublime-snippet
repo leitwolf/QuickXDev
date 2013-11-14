@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setMinimumValue(${1:val})]]></content>
     <tabTrigger>setMinimumValue(val)</tabTrigger>

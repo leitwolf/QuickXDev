@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[getDoubleForKey(${1:pKey})]]></content>
     <tabTrigger>getDoubleForKey(pKey)</tabTrigger>

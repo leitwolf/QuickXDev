@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setZOrder(${1:zOrder})]]></content>
     <tabTrigger>setZOrder(zOrder)</tabTrigger>

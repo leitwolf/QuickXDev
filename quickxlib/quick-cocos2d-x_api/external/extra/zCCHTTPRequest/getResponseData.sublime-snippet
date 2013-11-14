@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[getResponseData()]]></content>
     <tabTrigger>getResponseData()</tabTrigger>

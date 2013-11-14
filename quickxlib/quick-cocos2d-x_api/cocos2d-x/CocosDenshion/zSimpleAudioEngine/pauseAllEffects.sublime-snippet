@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[pauseAllEffects()]]></content>
     <tabTrigger>pauseAllEffects()</tabTrigger>

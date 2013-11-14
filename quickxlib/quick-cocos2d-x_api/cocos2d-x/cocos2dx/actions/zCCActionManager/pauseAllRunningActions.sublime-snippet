@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[pauseAllRunningActions()]]></content>
     <tabTrigger>pauseAllRunningActions()</tabTrigger>

@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[unrotate(${1:other})]]></content>
     <tabTrigger>unrotate(other)</tabTrigger>

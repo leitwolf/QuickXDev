@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[addPolygonShape(${1:vertexes}, ${2:offsetX}, ${3:offsetY})]]></content>
     <tabTrigger>addPolygonShape(vertexes, offsetX, offsetY)</tabTrigger>

@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[getCurrentPercent()]]></content>
     <tabTrigger>getCurrentPercent()</tabTrigger>

@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[getCascadeBoundingBox(${1:convertToWorld})]]></content>
     <tabTrigger>getCascadeBoundingBox(convertToWorld)</tabTrigger>

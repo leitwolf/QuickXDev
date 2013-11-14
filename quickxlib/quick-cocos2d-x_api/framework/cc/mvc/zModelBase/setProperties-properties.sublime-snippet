@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setProperties(${1:properties})]]></content>
     <tabTrigger>setProperties(properties)</tabTrigger>

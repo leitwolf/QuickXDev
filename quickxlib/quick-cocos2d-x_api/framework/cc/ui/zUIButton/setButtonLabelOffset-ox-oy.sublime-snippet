@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setButtonLabelOffset(${1:ox}, ${2:oy})]]></content>
     <tabTrigger>setButtonLabelOffset(ox, oy)</tabTrigger>

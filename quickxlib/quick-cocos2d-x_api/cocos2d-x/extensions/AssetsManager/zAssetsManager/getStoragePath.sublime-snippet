@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[getStoragePath()]]></content>
     <tabTrigger>getStoragePath()</tabTrigger>

@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[CCRect(${1:other})]]></content>
     <tabTrigger>CCRect(other)</tabTrigger>

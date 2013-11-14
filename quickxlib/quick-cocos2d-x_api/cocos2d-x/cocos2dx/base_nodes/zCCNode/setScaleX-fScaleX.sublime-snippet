@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setScaleX(${1:fScaleX})]]></content>
     <tabTrigger>setScaleX(fScaleX)</tabTrigger>

@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setAnimationData(${1:CCAnimationData})]]></content>
     <tabTrigger>setAnimationData(CCAnimationData)</tabTrigger>

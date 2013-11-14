@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setLabel(${1:label})]]></content>
     <tabTrigger>setLabel(label)</tabTrigger>

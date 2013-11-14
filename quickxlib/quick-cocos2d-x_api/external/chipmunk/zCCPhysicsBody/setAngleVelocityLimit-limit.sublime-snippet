@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setAngleVelocityLimit(${1:limit})]]></content>
     <tabTrigger>setAngleVelocityLimit(limit)</tabTrigger>

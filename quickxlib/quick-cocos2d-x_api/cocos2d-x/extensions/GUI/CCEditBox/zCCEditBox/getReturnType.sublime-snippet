@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[getReturnType()]]></content>
     <tabTrigger>getReturnType()</tabTrigger>

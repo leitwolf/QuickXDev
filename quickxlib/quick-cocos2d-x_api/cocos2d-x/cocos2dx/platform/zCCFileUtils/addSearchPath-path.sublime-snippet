@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[addSearchPath(${1:path})]]></content>
     <tabTrigger>addSearchPath(path)</tabTrigger>

@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[getParentElement()]]></content>
     <tabTrigger>getParentElement()</tabTrigger>

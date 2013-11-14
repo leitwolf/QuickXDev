@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[ccpPerp(${1:v})]]></content>
     <tabTrigger>ccpPerp(v)</tabTrigger>

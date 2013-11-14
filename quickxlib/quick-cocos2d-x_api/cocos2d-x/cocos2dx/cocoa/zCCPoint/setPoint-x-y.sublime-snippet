@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[setPoint(${1:x}, ${2:y})]]></content>
     <tabTrigger>setPoint(x, y)</tabTrigger>

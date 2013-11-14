@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[cc.ui.UICheckBoxButton.new(${1:images}, ${2:options})]]></content>
     <tabTrigger>UICheckBoxButton.new(images, options)</tabTrigger>

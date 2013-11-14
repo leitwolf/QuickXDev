@@ -1,4 +1,3 @@
-
 <snippet>
     <content><![CDATA[onError_(${1:event}, ${2:error}, ${3:message})]]></content>
     <tabTrigger>onError_(event, error, message)</tabTrigger>
