@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[disconnectMovementEventSignal()]]></content>
+    <tabTrigger>disconnectMovementEventSignal()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCArmature</description>
+</snippet>

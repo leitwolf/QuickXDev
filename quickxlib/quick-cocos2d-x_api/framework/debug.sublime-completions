@@ -6,6 +6,7 @@
 		{ "trigger": "echoError(fmt, ...)", "contents": "echoError(${1:fmt}, ${2:...})" },
 		{ "trigger": "echoInfo(fmt, ...)", "contents": "echoInfo(${1:fmt}, ${2:...})" },
 		{ "trigger": "echoLog(tag, fmt, ...)", "contents": "echoLog(${1:tag}, ${2:fmt}, ${3:...})" },
+		{ "trigger": "throw(errorType, fmt, ...)", "contents": "throw(${1:errorType}, ${2:fmt}, ${3:...})" },
 		{ "trigger": "dump(object, label, isReturnContents, nesting)", "contents": "dump(${1:object}, ${2:label}, ${3:isReturnContents}, ${4:nesting})" },
 		{ "trigger": "vardump(object, label)", "contents": "vardump(${1:object}, ${2:label})" }
 	]

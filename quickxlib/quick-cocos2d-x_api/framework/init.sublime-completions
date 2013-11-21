@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "os.exit()", "contents": "os.exit()" }
-	]
-}

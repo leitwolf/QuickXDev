@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[connectMovementEventSignal(${1:nHandler})]]></content>
+    <tabTrigger>connectMovementEventSignal(nHandler)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCArmature</description>
+</snippet>
