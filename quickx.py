@@ -150,11 +150,14 @@ class QuickxRunWithPlayerCommand(sublime_plugin.WindowCommand):
         for i in range(0,len(args)):
             args[i]=args[i].encode(sys.getfilesystemencoding())
         if self.process:
-            self.process.kill()
+            try:
+                self.process.terminate()
+            except Exception:
+                pass
         if sublime.platform()=="osx":
             self.process=subprocess.Popen(args)
         elif sublime.platform()=="windows":
-            self.process=subprocess.Popen(args,shell=True)        
+            self.process=subprocess.Popen(args)
         
     def is_enabled(self, dirs):
         if len(dirs)!=1:
