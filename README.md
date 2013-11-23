@@ -13,6 +13,7 @@ A quick-cocos2d-x develop plugin for sublime text 2/3.
 
  * quick-cocos2d-x api completions support(framework and cocos2dx tolua)
  * goto definition
+ * create new project
  * run with player
  * user definition auto completion
  * system api completions support (lua 5.1)
@@ -45,6 +46,10 @@ select a word then right click ->Goto Definition or press key ctrl+shift+g
  * support framework (i.e. CCNodeExtend, display.newScene, newScene, display.CENTER)
  * support cocos2dx (i.e. CCMoveBy, getWritablePath, CCMoveTo:create, create, kCCHTTPRequestMethodGET)
  * support user definition 
+
+### Create New Project
+
+ right click a folder on the sidebar,select "Create New Project",enter the package name,then a new project will created.
 
 ### Run with player
 
