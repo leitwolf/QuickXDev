@@ -109,12 +109,12 @@ class QuickxRunWithPlayerCommand(sublime_plugin.WindowCommand):
         args=[playerPath]
         # param
         path=dirs[0]
-        configPath=path+"/config.lua"
         args.append("-workdir")
         args.append(os.path.split(path)[0])
         args.append("-file")
         args.append("scripts/main.lua")
         args.append("-load-framework")
+        configPath=path+"/config.lua"
         if os.path.exists(configPath):
             f=open(configPath,"r")
             width=640
@@ -168,12 +168,7 @@ class QuickxRunWithPlayerCommand(sublime_plugin.WindowCommand):
         return True
 
     def is_visible(self, dirs):
-        if len(dirs)!=1:
-            return False
-        mainLuaPath=dirs[0]+"/main.lua"
-        if not os.path.exists(mainLuaPath):
-            return False
-        return True
+        return self.is_enabled(dirs)
 
 
 class QuickxGotoDefinitionCommand(sublime_plugin.TextCommand):
@@ -228,7 +223,7 @@ class QuickxGotoDefinitionCommand(sublime_plugin.TextCommand):
         return helper.checkFileExt(self.view.file_name(),"lua")
 
     def is_visible(self):
-        return helper.checkFileExt(self.view.file_name(),"lua")
+        return self.is_enabled()
 
 
 class QuickxRebuildUserDefinitionCommand(sublime_plugin.WindowCommand):
@@ -255,10 +250,58 @@ class QuickxRebuildUserDefinitionCommand(sublime_plugin.WindowCommand):
         return len(dirs)==1
 
     def is_visible(self, dirs):
+        return self.is_enabled(dirs)
+
+class QuickxCreateNewProjectCommand(sublime_plugin.WindowCommand):
+    def run(self, dirs):
+        quick_cocos2dx_root = checkRoot()
+        if not quick_cocos2dx_root:
+            return
+        cmdPath=""
+        if sublime.platform()=="osx":
+            cmdPath=quick_cocos2dx_root+"/bin/create_project.sh"
+        elif sublime.platform()=="windows":
+            cmdPath=quick_cocos2dx_root+"/bin/create_project.bat"
+        if cmdPath=="" or not os.path.exists(cmdPath):
+            sublime.error_message("command no exists")
+            return
+        self.cmdPath=cmdPath
+        self.window.run_command("hide_panel")
+        packageName="com.mygames.game01"
+        on_done = functools.partial(self.on_done, dirs[0])
+        v = self.window.show_input_panel(
+            "Package Name:", packageName, on_done, None, None)
+        v.sel().clear()
+        v.sel().add(sublime.Region(0, len(packageName)))
+
+    def on_done(self, path, packageName):
+        if packageName=="":
+            sublime.error_message("PackageName must not empty!")
+            return
+        dotIndex=packageName.rfind(".")
+        if dotIndex==-1:
+            sublime.error_message("PackageName must two levels,i.e. 'com.game01'.")
+            return
+        dirName=packageName[dotIndex+1:]
+        for item in os.listdir(path):
+            if item==dirName:
+                sublime.error_message("Folder '%s' already exists."%(dirName))
+                return
+        args=[self.cmdPath,packageName]
+        if sublime.platform()=="osx":
+            subprocess.Popen(args,cwd=path)
+        elif sublime.platform()=="windows":
+            child=subprocess.Popen(args,cwd=path)
+            child.wait()
+            self.window.run_command("refresh_folder_list")
+    
+    def is_enabled(self, dirs):
         return len(dirs)==1
 
+    def is_visible(self, dirs):
+        return self.is_enabled(dirs)
 
-class QuickxRebuildUserDefinitionListener(sublime_plugin.EventListener):
+class QuickxListener(sublime_plugin.EventListener):
     def __init__(self):
         self.lastTime=0
 
@@ -268,6 +311,7 @@ class QuickxRebuildUserDefinitionListener(sublime_plugin.EventListener):
             return
         if not helper.checkFileExt(filename,"lua"):
             return
+        # rebuild user definition
         curTime=time.time()
         if curTime-self.lastTime<2:
             return

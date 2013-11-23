@@ -12,6 +12,14 @@
     }]
 },
 {
+    "caption": "Create New Project",
+    "id": "create_new_project",
+    "command": "quickx_create_new_project",
+    "args": {
+        "dirs": []
+    }
+},
+{
     "caption": "Run With Player",
     "id": "run_with_player",
     "command": "quickx_run_with_player",
