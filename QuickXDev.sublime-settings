@@ -1,8 +1,10 @@
 {
-	// must set the path
-	"quick_cocos2dx_root": "",
+    // must set the path
+    "quick_cocos2dx_root": "",
     // lua template attributes
     "date_format": "%Y-%m-%d %H:%M:%S",
     // i.e. peter or peter (peter@gmail.com)
-    "author": "Your Name"
+    "author": "Your Name",
+    // compile_scripts encrypt key,no encrypt when empty
+    "compile_scripts_key": ""
 }

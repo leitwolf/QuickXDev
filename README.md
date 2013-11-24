@@ -15,6 +15,7 @@ A quick-cocos2d-x develop plugin for sublime text 2/3.
  * goto definition
  * create new project
  * run with player
+ * compile scripts
  * user definition auto completion
  * system api completions support (lua 5.1)
  * some snippets,like if-else,if-elseif-else,while,comment,repeat-until....
@@ -34,8 +35,9 @@ A quick-cocos2d-x develop plugin for sublime text 2/3.
 
 ```
 {
-	"quick_cocos2dx_root": "<path>/quick-cocos2d-x",    
-    "author": "<your name>"    
+    "quick_cocos2dx_root": "<path>/quick-cocos2d-x",
+    "author": "<your name>",
+    "compile_scripts_key": "encrypt_key"
 }
 ```
 you must set "quick_cocos2dx_root"
@@ -54,6 +56,10 @@ select a word then right click ->Goto Definition or press key ctrl+shift+g
 ### Run with player
 
  right click "scripts" folder on the sidebar,select "Run With Player",the player will run with current project.
+
+### Compile Scripts
+
+ right click "scripts" folder on the sidebar,select "Compile Scripts",enter the output file,then it will compile all scripts to the output file.
 
 ### User definition auto completion
 

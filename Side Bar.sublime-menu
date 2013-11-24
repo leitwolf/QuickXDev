@@ -1,15 +1,11 @@
-[{
-    "caption": "New File",
-    "id": "mydev",
-    "children": [
-    {
-        "caption": "New Lua File",
-        "id": "new_lua_file",
-        "command": "lua_new_file",
-        "args": {
-            "dirs": []
-        }
-    }]
+[{ "caption": "-", "id": "quickx" },
+{
+    "caption": "New Lua File",
+    "id": "new_lua_file",
+    "command": "lua_new_file",
+    "args": {
+        "dirs": []
+    }
 },
 {
     "caption": "Create New Project",
@@ -23,6 +19,14 @@
     "caption": "Run With Player",
     "id": "run_with_player",
     "command": "quickx_run_with_player",
+    "args": {
+        "dirs": []
+    }
+},
+{
+    "caption": "Compile Scripts",
+    "id": "compile_scripts",
+    "command": "quickx_compile_scripts",
     "args": {
         "dirs": []
     }

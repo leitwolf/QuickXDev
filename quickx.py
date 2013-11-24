@@ -301,6 +301,54 @@ class QuickxCreateNewProjectCommand(sublime_plugin.WindowCommand):
     def is_visible(self, dirs):
         return self.is_enabled(dirs)
 
+class QuickxCompileScriptsCommand(sublime_plugin.WindowCommand):
+    def run(self, dirs):        
+        settings = helper.loadSettings("QuickXDev")
+        quick_cocos2dx_root = settings.get("quick_cocos2dx_root", "")
+        if len(quick_cocos2dx_root)==0:
+            sublime.error_message("quick_cocos2dx_root no set")
+            return
+        cmdPath=""
+        if sublime.platform()=="osx":
+            cmdPath=quick_cocos2dx_root+"/bin/compile_scripts.sh"
+        elif sublime.platform()=="windows":
+            sublime.error_message("not ready for windows.")
+            return
+        if cmdPath=="" or not os.path.exists(cmdPath):
+            sublime.error_message("compile_scripts no exists")
+            return
+        self.cmdPath=cmdPath
+        self.compile_scripts_key=settings.get("compile_scripts_key", "")
+        self.window.run_command("hide_panel")
+        output="res/game.zip"
+        on_done = functools.partial(self.on_done, dirs[0])
+        v = self.window.show_input_panel(
+            "Output File:", output, on_done, None, None)
+        v.sel().clear()
+        v.sel().add(sublime.Region(4, 8))
+
+    def on_done(self, path, output):
+        if output=="":
+            sublime.error_message("Output File must not empty!")
+            return
+        arr=os.path.split(path)
+        path=arr[0]
+        src=arr[1]
+        args=[self.cmdPath,"-i",src,"-o",output]
+        if self.compile_scripts_key!="":
+            args.append("-e")
+            args.append("xxtea_zip")
+            args.append("-ek")
+            args.append(self.compile_scripts_key)
+        if sublime.platform()=="osx":
+            subprocess.Popen(args,cwd=path,env={"luajit":"/usr/local/bin/luajit"},stdout=subprocess.PIPE)
+    
+    def is_enabled(self, dirs):
+        return len(dirs)==1
+
+    def is_visible(self, dirs):
+        return self.is_enabled(dirs)
+
 class QuickxListener(sublime_plugin.EventListener):
     def __init__(self):
         self.lastTime=0
