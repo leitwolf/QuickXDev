@@ -31,6 +31,10 @@ luaTemplate="""--
 -- Date: ${date}
 --
 """
+compile_scripts_bat="""@echo off
+set DIR=%~dp0
+%DIR%win32\php.exe "%DIR%lib\compile_scripts.php" %*
+"""
 
 # init plugin,load definitions
 def init():
@@ -310,8 +314,9 @@ class QuickxCompileScriptsCommand(sublime_plugin.WindowCommand):
         if sublime.platform()=="osx":
             cmdPath=quick_cocos2dx_root+"/bin/compile_scripts.sh"
         elif sublime.platform()=="windows":
-            sublime.error_message("not ready for windows.")
-            return
+            cmdPath=quick_cocos2dx_root+"/bin/compile_scripts.bat"
+            if not os.path.exists(cmdPath):
+                helper.writeFile(cmdPath,compile_scripts_bat)
         if cmdPath=="" or not os.path.exists(cmdPath):
             sublime.error_message("compile_scripts no exists")
             return
@@ -340,6 +345,10 @@ class QuickxCompileScriptsCommand(sublime_plugin.WindowCommand):
             args.append(self.compile_scripts_key)
         if sublime.platform()=="osx":
             subprocess.Popen(args,cwd=path,env={"luajit":"/usr/local/bin/luajit"})
+        elif sublime.platform()=="windows":
+            child=subprocess.Popen(args,cwd=path)
+            child.wait()
+            self.window.run_command("refresh_folder_list")
     
     def is_enabled(self, dirs):
         return len(dirs)==1
