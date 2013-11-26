@@ -147,8 +147,6 @@ class QuickxRunWithPlayerCommand(sublime_plugin.WindowCommand):
             f.close()
         args.append("-size")
         args.append(width+"x"+height)
-        for i in range(0,len(args)):
-            args[i]=args[i].encode(sys.getfilesystemencoding())
         if self.process:
             try:
                 self.process.terminate()
@@ -341,7 +339,7 @@ class QuickxCompileScriptsCommand(sublime_plugin.WindowCommand):
             args.append("-ek")
             args.append(self.compile_scripts_key)
         if sublime.platform()=="osx":
-            subprocess.Popen(args,cwd=path,env={"luajit":"/usr/local/bin/luajit"},stdout=subprocess.PIPE)
+            subprocess.Popen(args,cwd=path,env={"luajit":"/usr/local/bin/luajit"})
     
     def is_enabled(self, dirs):
         return len(dirs)==1
