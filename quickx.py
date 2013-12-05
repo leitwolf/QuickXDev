@@ -149,8 +149,8 @@ class QuickxRunWithPlayerCommand(sublime_plugin.WindowCommand):
                 else:
                     break
             f.close()
-        args.append("-size")
-        args.append(width+"x"+height)
+            args.append("-size")
+            args.append(width+"x"+height)
         if self.process:
             try:
                 self.process.terminate()
