@@ -14,6 +14,7 @@ import re
 import subprocess
 import sys
 import time
+import codecs
 try:
     import helper
     import rebuild
@@ -120,7 +121,7 @@ class QuickxRunWithPlayerCommand(sublime_plugin.WindowCommand):
         args.append("-load-framework")
         configPath=path+"/config.lua"
         if os.path.exists(configPath):
-            f=open(configPath,"r")
+            f=codecs.open(configPath,"r","utf-8")
             width=640
             height=960
             while True:
