@@ -184,7 +184,8 @@ def saveCompletions(completionsList,saveDir,filename):
             template=snippetTemplate.replace("$content",item)
             template=template.replace("$trigger",item)
             template=template.replace("$desc",".")
-            saveName=item+".sublime-snippet"
+            name=re.sub("\W","",item)
+            saveName=name+".sublime-snippet"
             savePath=os.path.join(saveDir,saveName)
             f=open(savePath, "w+")
             f.write(template)
