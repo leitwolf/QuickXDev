@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[kmGLScalef(${1:x}, ${2:y}, ${3:z})]]></content>
-    <tabTrigger>kmGLScalef(x, y, z)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

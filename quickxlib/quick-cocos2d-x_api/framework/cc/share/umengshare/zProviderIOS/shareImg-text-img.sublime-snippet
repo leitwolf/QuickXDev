@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[shareImg(${1:text}, ${2:img})]]></content>
+    <tabTrigger>shareImg(text, img)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ProviderIOS</description>
+</snippet>

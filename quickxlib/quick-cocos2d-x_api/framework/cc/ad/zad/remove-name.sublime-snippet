@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[remove(${1:name})]]></content>
+    <tabTrigger>remove(name)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ad</description>
+</snippet>

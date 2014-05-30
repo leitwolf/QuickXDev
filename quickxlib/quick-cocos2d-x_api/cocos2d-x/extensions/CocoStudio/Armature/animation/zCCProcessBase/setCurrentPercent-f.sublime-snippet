@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setCurrentPercent(${1:f})]]></content>
-    <tabTrigger>setCurrentPercent(f)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCProcessBase</description>
-</snippet>

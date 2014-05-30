@@ -1,0 +1,10 @@
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		"events.RECEIVED",
+		"events.PRESENT",
+		"events.DISMISS",
+		"events.FAILED"
+	]
+}

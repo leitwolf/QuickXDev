@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getParentBone()]]></content>
-    <tabTrigger>getParentBone()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCArmature</description>
-</snippet>

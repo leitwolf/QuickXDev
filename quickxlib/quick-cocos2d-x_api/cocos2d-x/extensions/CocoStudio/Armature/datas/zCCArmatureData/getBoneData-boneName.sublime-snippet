@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getBoneData(${1:boneName})]]></content>
-    <tabTrigger>getBoneData(boneName)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCArmatureData</description>
-</snippet>

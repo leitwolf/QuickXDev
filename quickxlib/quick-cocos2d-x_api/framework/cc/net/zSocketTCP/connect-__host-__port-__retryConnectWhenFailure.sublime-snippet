@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[connect(${1:__host}, ${2:__port}, ${3:__retryConnectWhenFailure})]]></content>
+    <tabTrigger>connect(__host, __port, __retryConnectWhenFailure)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SocketTCP</description>
+</snippet>

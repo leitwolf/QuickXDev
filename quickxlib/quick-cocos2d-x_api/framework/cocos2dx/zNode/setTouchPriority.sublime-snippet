@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTouchPriority()]]></content>
+    <tabTrigger>setTouchPriority()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Node</description>
+</snippet>

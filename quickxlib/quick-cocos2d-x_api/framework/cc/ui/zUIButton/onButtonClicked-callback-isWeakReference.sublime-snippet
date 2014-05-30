@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[onButtonClicked(${1:callback}, ${2:isWeakReference})]]></content>
-    <tabTrigger>onButtonClicked(callback, isWeakReference)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>UIButton</description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[center()]]></content>
+    <tabTrigger>center()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Node</description>
+</snippet>

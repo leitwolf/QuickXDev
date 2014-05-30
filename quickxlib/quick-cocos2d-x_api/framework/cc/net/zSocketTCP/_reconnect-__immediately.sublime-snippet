@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_reconnect(${1:__immediately})]]></content>
+    <tabTrigger>_reconnect(__immediately)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SocketTCP</description>
+</snippet>

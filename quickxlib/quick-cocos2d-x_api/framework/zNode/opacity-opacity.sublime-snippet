@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[opacity(${1:opacity})]]></content>
+    <tabTrigger>opacity(opacity)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Node</description>
+</snippet>

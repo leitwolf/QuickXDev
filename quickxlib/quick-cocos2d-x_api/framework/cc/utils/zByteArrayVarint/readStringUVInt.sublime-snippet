@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[readStringUVInt()]]></content>
+    <tabTrigger>readStringUVInt()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ByteArrayVarint</description>
+</snippet>

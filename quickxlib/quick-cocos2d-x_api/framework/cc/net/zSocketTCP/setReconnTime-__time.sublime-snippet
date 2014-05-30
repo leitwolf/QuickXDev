@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setReconnTime(${1:__time})]]></content>
+    <tabTrigger>setReconnTime(__time)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SocketTCP</description>
+</snippet>

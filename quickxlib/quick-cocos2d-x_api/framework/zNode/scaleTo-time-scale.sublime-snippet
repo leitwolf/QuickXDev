@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[scaleTo(${1:time}, ${2:scale})]]></content>
+    <tabTrigger>scaleTo(time, scale)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Node</description>
+</snippet>

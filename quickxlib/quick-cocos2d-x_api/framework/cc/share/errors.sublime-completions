@@ -1,0 +1,18 @@
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		"errors.SUCCESS",
+		"errors.TOKENINVALID",
+		"errors.BANED",
+		"errors.FAILD",
+		"errors.EMPTYCONTENT",
+		"errors.SHAREREPEATED",
+		"errors.GETNOUIDFROMOAUTH",
+		"errors.ACCESSTOKENEXPIRED",
+		"errors.NETWORKERROR",
+		"errors.GETPROFILEFAILED",
+		"errors.CODECANCEL",
+		"errors.NOAPIAUTHORITY"
+	]
+}

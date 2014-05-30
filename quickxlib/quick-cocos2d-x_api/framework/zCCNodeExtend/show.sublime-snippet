@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[show()]]></content>
-    <tabTrigger>show()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNodeExtend</description>
-</snippet>

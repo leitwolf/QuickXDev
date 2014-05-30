@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setParam(${1:displayName})]]></content>
-    <tabTrigger>setParam(displayName)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCArmatureDisplayData</description>
-</snippet>

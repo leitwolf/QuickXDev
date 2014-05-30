@@ -12,18 +12,6 @@
 		"kTargetNaCl",
 		"kTargetEmscripten",
 		"kTargetTizen",
-		"kLanguageEnglish",
-		"kLanguageChinese",
-		"kLanguageFrench",
-		"kLanguageItalian",
-		"kLanguageGerman",
-		"kLanguageSpanish",
-		"kLanguageRussian",
-		"kLanguageKorean",
-		"kLanguageJapanese",
-		"kLanguageHungarian",
-		"kLanguagePortuguese",
-		"kLanguageArabic",
 		{ "trigger": "CCApplication:sharedApplication()", "contents": "CCApplication:sharedApplication()" }
 	]
 }

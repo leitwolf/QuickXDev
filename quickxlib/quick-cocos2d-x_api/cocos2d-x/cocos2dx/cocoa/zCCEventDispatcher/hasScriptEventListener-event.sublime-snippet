@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[hasScriptEventListener(${1:event})]]></content>
-    <tabTrigger>hasScriptEventListener(event)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCEventDispatcher</description>
-</snippet>

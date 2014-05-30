@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[clearFilter()]]></content>
+    <tabTrigger>clearFilter()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCFilteredSprite</description>
+</snippet>

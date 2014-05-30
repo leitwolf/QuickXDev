@@ -105,9 +105,9 @@ class QuickxRunWithPlayerCommand(sublime_plugin.WindowCommand):
         # player path for platform
         playerPath=""
         if sublime.platform()=="osx":
-            playerPath=quick_cocos2dx_root+"/player/bin/mac/quick-x-player.app/Contents/MacOS/quick-x-player"
+            playerPath=quick_cocos2dx_root+"/player/mac/quick-x-player.app/Contents/MacOS/quick-x-player"
         elif sublime.platform()=="windows":
-            playerPath=quick_cocos2dx_root+"/player/bin/win32/quick-x-player.exe"
+            playerPath=quick_cocos2dx_root+"/player/win32/quick-x-player.exe"
         if playerPath=="" or not os.path.exists(playerPath):
             sublime.error_message("player no exists")
             return
@@ -290,7 +290,7 @@ class QuickxCreateNewProjectCommand(sublime_plugin.WindowCommand):
             if item==dirName:
                 sublime.error_message("Folder '%s' already exists."%(dirName))
                 return
-        args=[self.cmdPath,packageName]
+        args=[self.cmdPath,"-p",packageName]
         if sublime.platform()=="osx":
             subprocess.Popen(args,cwd=path)
         elif sublime.platform()=="windows":
@@ -377,7 +377,8 @@ class QuickxListener(sublime_plugin.EventListener):
         path=a[1]
         # remove prev
         global USER_DEFINITION_LIST
-        for item in USER_DEFINITION_LIST:
+        for i in range(len(USER_DEFINITION_LIST)-1,0,-1):
+            item=USER_DEFINITION_LIST[i]
             if item[2]==path:
                 USER_DEFINITION_LIST.remove(item)
         USER_DEFINITION_LIST.extend(arr)

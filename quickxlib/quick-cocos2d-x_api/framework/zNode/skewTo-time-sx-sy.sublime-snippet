@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[skewTo(${1:time}, ${2:sx}, ${3:sy})]]></content>
+    <tabTrigger>skewTo(time, sx, sy)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Node</description>
+</snippet>

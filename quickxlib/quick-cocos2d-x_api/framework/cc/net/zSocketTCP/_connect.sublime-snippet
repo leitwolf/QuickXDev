@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_connect()]]></content>
+    <tabTrigger>_connect()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SocketTCP</description>
+</snippet>

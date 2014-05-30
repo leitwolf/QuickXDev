@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeAccelerateEventListener()]]></content>
-    <tabTrigger>removeAccelerateEventListener()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCLayer</description>
-</snippet>

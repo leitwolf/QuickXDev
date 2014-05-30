@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[zorder(${1:z})]]></content>
-    <tabTrigger>zorder(z)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNodeExtend</description>
-</snippet>

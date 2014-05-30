@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		"CCLayerExtend.__index",
-		{ "trigger": "CCLayerExtend.extend(target)", "contents": "CCLayerExtend.extend(${1:target})" }
-	]
-}

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[unregisterScriptTapHandler()]]></content>
-    <tabTrigger>unregisterScriptTapHandler()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCMenuItem</description>
-</snippet>

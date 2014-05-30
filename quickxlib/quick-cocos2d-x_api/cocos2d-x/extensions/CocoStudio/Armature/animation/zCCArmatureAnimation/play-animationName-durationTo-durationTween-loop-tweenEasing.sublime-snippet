@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[play(${1:animationName}, ${2:durationTo}, ${3:durationTween}, ${4:loop}, ${5:tweenEasing})]]></content>
-    <tabTrigger>play(animationName, durationTo, durationTween, loop, tweenEasing)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCArmatureAnimation</description>
-</snippet>

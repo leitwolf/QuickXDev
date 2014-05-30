@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[enableKeypad(${1:enabled})]]></content>
-    <tabTrigger>enableKeypad(enabled)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCLayerExtend</description>
-</snippet>

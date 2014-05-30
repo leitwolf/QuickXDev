@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addMovement(${1:movData})]]></content>
-    <tabTrigger>addMovement(movData)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCAnimationData</description>
-</snippet>

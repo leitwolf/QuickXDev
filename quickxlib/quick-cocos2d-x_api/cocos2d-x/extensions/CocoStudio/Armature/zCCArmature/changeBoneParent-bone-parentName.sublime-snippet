@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[changeBoneParent(${1:bone}, ${2:parentName})]]></content>
-    <tabTrigger>changeBoneParent(bone, parentName)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCArmature</description>
-</snippet>

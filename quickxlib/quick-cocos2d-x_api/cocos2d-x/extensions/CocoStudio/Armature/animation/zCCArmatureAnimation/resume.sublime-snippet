@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[resume()]]></content>
-    <tabTrigger>resume()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCArmatureAnimation</description>
-</snippet>

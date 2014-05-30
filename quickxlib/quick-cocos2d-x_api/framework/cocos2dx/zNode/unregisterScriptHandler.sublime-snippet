@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unregisterScriptHandler()]]></content>
+    <tabTrigger>unregisterScriptHandler()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Node</description>
+</snippet>

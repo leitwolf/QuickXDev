@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onCleanup()]]></content>
+    <tabTrigger>onCleanup()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Node</description>
+</snippet>

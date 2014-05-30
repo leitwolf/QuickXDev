@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addSliderStateChangedEventListener(${1:callback})]]></content>
+    <tabTrigger>addSliderStateChangedEventListener(callback)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UISlider</description>
+</snippet>

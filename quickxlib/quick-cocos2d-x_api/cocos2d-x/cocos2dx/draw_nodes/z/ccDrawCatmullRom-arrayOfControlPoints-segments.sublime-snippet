@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ccDrawCatmullRom(${1:arrayOfControlPoints}, ${2:segments})]]></content>
-    <tabTrigger>ccDrawCatmullRom(arrayOfControlPoints, segments)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

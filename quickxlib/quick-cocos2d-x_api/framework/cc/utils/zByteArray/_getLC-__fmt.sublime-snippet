@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_getLC(${1:__fmt})]]></content>
+    <tabTrigger>_getLC(__fmt)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ByteArray</description>
+</snippet>

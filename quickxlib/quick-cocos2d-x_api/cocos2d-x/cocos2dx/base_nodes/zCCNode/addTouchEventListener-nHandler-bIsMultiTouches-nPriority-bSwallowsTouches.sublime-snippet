@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addTouchEventListener(${1:nHandler}, ${2:bIsMultiTouches}, ${3:nPriority}, ${4:bSwallowsTouches})]]></content>
-    <tabTrigger>addTouchEventListener(nHandler, bIsMultiTouches, nPriority, bSwallowsTouches)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

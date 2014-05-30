@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[writeByte(${1:__byte})]]></content>
+    <tabTrigger>writeByte(__byte)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ByteArray</description>
+</snippet>

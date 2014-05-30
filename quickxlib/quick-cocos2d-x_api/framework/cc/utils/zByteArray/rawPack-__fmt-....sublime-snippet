@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[rawPack(${1:__fmt}, ${2:...})]]></content>
+    <tabTrigger>rawPack(__fmt, ...)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ByteArray</description>
+</snippet>

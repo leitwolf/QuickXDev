@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[onSliderValueChanged(${1:callback}, ${2:isWeakReference})]]></content>
-    <tabTrigger>onSliderValueChanged(callback, isWeakReference)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>UISlider</description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[writeUShort(${1:__ushort})]]></content>
+    <tabTrigger>writeUShort(__ushort)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ByteArray</description>
+</snippet>

@@ -1,0 +1,8 @@
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "CCHueFilter:create()", "contents": "CCHueFilter:create()" },
+		{ "trigger": "CCHueFilter:create(param)", "contents": "CCHueFilter:create(${1:param})" }
+	]
+}

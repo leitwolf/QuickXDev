@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addArmatureFileInfo(${1:imagePath}, ${2:plistPath}, ${3:configFilePath})]]></content>
-    <tabTrigger>addArmatureFileInfo(imagePath, plistPath, configFilePath)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCArmatureDataManager</description>
-</snippet>

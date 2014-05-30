@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[fadeTo(${1:time}, ${2:opacity})]]></content>
-    <tabTrigger>fadeTo(time, opacity)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNodeExtend</description>
-</snippet>

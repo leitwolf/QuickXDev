@@ -1,0 +1,12 @@
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		"kFmtJpg",
+		"kFmtPng",
+		"kFmtTiff",
+		"kFmtWebp",
+		"kFmtRawData",
+		"kFmtUnKnown"
+	]
+}

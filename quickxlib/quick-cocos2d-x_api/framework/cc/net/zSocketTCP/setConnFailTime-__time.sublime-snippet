@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setConnFailTime(${1:__time})]]></content>
+    <tabTrigger>setConnFailTime(__time)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SocketTCP</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[writeLong(${1:__long})]]></content>
+    <tabTrigger>writeLong(__long)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ByteArray</description>
+</snippet>

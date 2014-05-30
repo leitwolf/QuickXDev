@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[rotation(${1:r})]]></content>
-    <tabTrigger>rotation(r)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNodeExtend</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setTweenEasing(${1:t})]]></content>
-    <tabTrigger>setTweenEasing(t)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCProcessBase</description>
-</snippet>

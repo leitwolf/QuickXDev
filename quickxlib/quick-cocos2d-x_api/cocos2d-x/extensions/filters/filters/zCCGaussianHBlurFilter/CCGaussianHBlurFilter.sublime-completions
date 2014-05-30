@@ -1,0 +1,8 @@
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "CCGaussianHBlurFilter:create()", "contents": "CCGaussianHBlurFilter:create()" },
+		{ "trigger": "CCGaussianHBlurFilter:create(param)", "contents": "CCGaussianHBlurFilter:create(${1:param})" }
+	]
+}

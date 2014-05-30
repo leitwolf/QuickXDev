@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setAnimationScale(${1:animationScale})]]></content>
-    <tabTrigger>setAnimationScale(animationScale)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCArmatureAnimation</description>
-</snippet>

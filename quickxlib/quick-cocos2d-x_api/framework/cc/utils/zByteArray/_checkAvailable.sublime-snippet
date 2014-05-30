@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_checkAvailable()]]></content>
+    <tabTrigger>_checkAvailable()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ByteArray</description>
+</snippet>

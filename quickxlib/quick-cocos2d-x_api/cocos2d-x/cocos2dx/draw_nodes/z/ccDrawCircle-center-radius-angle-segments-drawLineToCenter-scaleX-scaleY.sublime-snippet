@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ccDrawCircle(${1:center}, ${2:radius}, ${3:angle}, ${4:segments}, ${5:drawLineToCenter}, ${6:scaleX}, ${7:scaleY})]]></content>
-    <tabTrigger>ccDrawCircle(center, radius, angle, segments, drawLineToCenter, scaleX, scaleY)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

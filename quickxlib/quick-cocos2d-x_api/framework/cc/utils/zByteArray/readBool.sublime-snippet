@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[readBool()]]></content>
+    <tabTrigger>readBool()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ByteArray</description>
+</snippet>

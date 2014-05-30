@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onExitTransitionStart()]]></content>
+    <tabTrigger>onExitTransitionStart()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Node</description>
+</snippet>

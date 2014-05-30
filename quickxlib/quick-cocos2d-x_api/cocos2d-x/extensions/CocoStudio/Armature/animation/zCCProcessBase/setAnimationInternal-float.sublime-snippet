@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setAnimationInternal(${1:float})]]></content>
-    <tabTrigger>setAnimationInternal(float)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCProcessBase</description>
-</snippet>

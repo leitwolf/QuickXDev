@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[writeStringUVInt(${1:__str})]]></content>
+    <tabTrigger>writeStringUVInt(__str)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ByteArrayVarint</description>
+</snippet>

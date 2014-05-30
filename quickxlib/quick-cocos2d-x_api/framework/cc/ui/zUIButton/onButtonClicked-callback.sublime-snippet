@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onButtonClicked(${1:callback})]]></content>
+    <tabTrigger>onButtonClicked(callback)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIButton</description>
+</snippet>

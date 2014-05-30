@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addBone(${1:bone}, ${2:parentName})]]></content>
-    <tabTrigger>addBone(bone, parentName)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCArmature</description>
-</snippet>

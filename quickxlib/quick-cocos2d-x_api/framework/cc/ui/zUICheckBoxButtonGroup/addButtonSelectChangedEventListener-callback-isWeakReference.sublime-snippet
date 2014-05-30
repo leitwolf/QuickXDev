@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addButtonSelectChangedEventListener(${1:callback}, ${2:isWeakReference})]]></content>
-    <tabTrigger>addButtonSelectChangedEventListener(callback, isWeakReference)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>UICheckBoxButtonGroup</description>
-</snippet>

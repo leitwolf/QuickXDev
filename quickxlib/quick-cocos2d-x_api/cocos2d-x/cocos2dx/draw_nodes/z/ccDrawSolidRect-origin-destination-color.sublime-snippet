@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ccDrawSolidRect(${1:origin}, ${2:destination}, ${3:color})]]></content>
-    <tabTrigger>ccDrawSolidRect(origin, destination, color)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

@@ -2,8 +2,6 @@
 	"scope": "source.lua",
 	"completions": 
 	[
-		"kCCImageFormatJPEG",
-		"kCCImageFormatPNG",
 		{ "trigger": "CCRenderTexture:create(w, h, eFormat, uDepthStencilFormat)", "contents": "CCRenderTexture:create(${1:w}, ${2:h}, ${3:eFormat}, ${4:uDepthStencilFormat})" },
 		{ "trigger": "CCRenderTexture:create(w, h, eFormat)", "contents": "CCRenderTexture:create(${1:w}, ${2:h}, ${3:eFormat})" },
 		{ "trigger": "CCRenderTexture:create(w, h)", "contents": "CCRenderTexture:create(${1:w}, ${2:h})" }

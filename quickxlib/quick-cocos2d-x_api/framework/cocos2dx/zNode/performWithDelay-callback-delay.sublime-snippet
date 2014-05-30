@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[performWithDelay(${1:callback}, ${2:delay})]]></content>
+    <tabTrigger>performWithDelay(callback, delay)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Node</description>
+</snippet>
