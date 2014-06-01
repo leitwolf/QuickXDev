@@ -107,7 +107,7 @@ class QuickxRunWithPlayerCommand(sublime_plugin.WindowCommand):
         if sublime.platform()=="osx":
             playerPath=quick_cocos2dx_root+"/player/mac/quick-x-player.app/Contents/MacOS/quick-x-player"
         elif sublime.platform()=="windows":
-            playerPath=quick_cocos2dx_root+"/player/win32/quick-x-player.exe"
+            playerPath=quick_cocos2dx_root+"/player/win/quick-x-player.exe"
         if playerPath=="" or not os.path.exists(playerPath):
             sublime.error_message("player no exists")
             return
