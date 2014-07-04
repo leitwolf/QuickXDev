@@ -115,7 +115,7 @@ def parseLua(file):
                 completionsList.append(m.group(1))
                 continue
             # global property
-            m=re.match("^(\w+.*\w*)\s*=",line)
+            m=re.match("^(\w+\.?\w*)\s*=",line)
             if m:
                 completionsList.append(m.group(1))
                 handleDefinition(m.group(1),None,file,lineNum)
