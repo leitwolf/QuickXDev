@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setNode(${1:pNode})]]></content>
+    <tabTrigger>setNode(pNode)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCComRender</description>
+</snippet>

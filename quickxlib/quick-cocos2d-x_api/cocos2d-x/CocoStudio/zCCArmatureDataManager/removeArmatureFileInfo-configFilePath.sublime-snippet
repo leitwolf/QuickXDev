@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeArmatureFileInfo(${1:configFilePath})]]></content>
+    <tabTrigger>removeArmatureFileInfo(configFilePath)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCArmatureDataManager</description>
+</snippet>

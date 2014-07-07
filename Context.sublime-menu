@@ -1,4 +1,6 @@
 [
+    { "caption": "-", "id": "quickx_start" },
     { "command": "quickx_goto_definition", "caption": "Goto Definition" },
-    { "caption": "-", "id": "end" }
+    { "command": "quickx_run_with_player_by_file", "caption": "Run With Player" },
+    { "caption": "-", "id": "quickx_end" }
 ]

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isBackgroundMusicPlaying()]]></content>
+    <tabTrigger>isBackgroundMusicPlaying()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCComAudio</description>
+</snippet>

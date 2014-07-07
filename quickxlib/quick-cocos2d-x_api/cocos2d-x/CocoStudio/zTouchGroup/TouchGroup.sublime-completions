@@ -1,0 +1,7 @@
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "TouchGroup:create()", "contents": "TouchGroup:create()" }
+	]
+}

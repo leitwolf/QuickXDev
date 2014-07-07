@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setZOrder(${1:zOrder})]]></content>
+    <tabTrigger>setZOrder(zOrder)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCBone</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setRecordJsonPath(${1:record})]]></content>
+    <tabTrigger>setRecordJsonPath(record)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>NodeReader</description>
+</snippet>

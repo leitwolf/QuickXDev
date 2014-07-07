@@ -1,0 +1,14 @@
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		"SLIDER_PERCENTCHANGED",
+		"Slider",
+		"virtual",
+		"static",
+		"void",
+		"bool",
+		"const",
+		"int"
+	]
+}

@@ -1,0 +1,7 @@
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "CCComAudio:create()", "contents": "CCComAudio:create()" }
+	]
+}

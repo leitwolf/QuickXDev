@@ -1,0 +1,7 @@
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "CCComAttribute:create()", "contents": "CCComAttribute:create()" }
+	]
+}

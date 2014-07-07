@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[CCSkin()]]></content>
+    <tabTrigger>CCSkin()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSkin</description>
+</snippet>

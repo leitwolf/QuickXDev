@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[playEffect()]]></content>
+    <tabTrigger>playEffect()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCComAudio</description>
+</snippet>

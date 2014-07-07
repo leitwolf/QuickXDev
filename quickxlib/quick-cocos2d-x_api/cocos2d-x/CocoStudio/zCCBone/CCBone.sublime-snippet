@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[CCBone()]]></content>
+    <tabTrigger>CCBone()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCBone</description>
+</snippet>

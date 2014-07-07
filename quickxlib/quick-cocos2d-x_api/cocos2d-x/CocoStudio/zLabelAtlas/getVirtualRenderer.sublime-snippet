@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getVirtualRenderer()]]></content>
+    <tabTrigger>getVirtualRenderer()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>LabelAtlas</description>
+</snippet>

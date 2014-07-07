@@ -10,6 +10,7 @@
 		{ "trigger": "isset(hashtable, key)", "contents": "isset(${1:hashtable}, ${2:key})" },
 		{ "trigger": "clone(object)", "contents": "clone(${1:object})" },
 		{ "trigger": "class(classname, super)", "contents": "class(${1:classname}, ${2:super})" },
+		{ "trigger": "quick_class(classname, super)", "contents": "quick_class(${1:classname}, ${2:super})" },
 		{ "trigger": "iskindof(obj, classname)", "contents": "iskindof(${1:obj}, ${2:classname})" },
 		{ "trigger": "import(moduleName, currentModuleName)", "contents": "import(${1:moduleName}, ${2:currentModuleName})" },
 		{ "trigger": "handler(obj, method)", "contents": "handler(${1:obj}, ${2:method})" },

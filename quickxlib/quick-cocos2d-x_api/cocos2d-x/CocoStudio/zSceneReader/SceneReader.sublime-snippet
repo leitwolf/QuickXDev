@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[SceneReader()]]></content>
+    <tabTrigger>SceneReader()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SceneReader</description>
+</snippet>

@@ -57,6 +57,73 @@ def checkRoot():
         return False
     return quick_cocos2dx_root
 
+process=None
+def runWithPlayer(scriptsDir):
+    global process
+    # root
+    quick_cocos2dx_root = checkRoot()
+    if not quick_cocos2dx_root:
+        return
+    # player path for platform
+    playerPath=""
+    if sublime.platform()=="osx":
+        playerPath=quick_cocos2dx_root+"/player/mac/player.app/Contents/MacOS/player"
+    elif sublime.platform()=="windows":
+        playerPath=quick_cocos2dx_root+"/player/win/player.exe"
+    if playerPath=="" or not os.path.exists(playerPath):
+        sublime.error_message("player no exists")
+        return
+    args=[playerPath]
+    # param
+    path=scriptsDir
+    args.append("-workdir")
+    args.append(os.path.split(path)[0])
+    args.append("-file")
+    args.append("scripts/main.lua")
+    args.append("-load-framework")
+    configPath=path+"/config.lua"
+    if os.path.exists(configPath):
+        f=codecs.open(configPath,"r","utf-8")
+        width=640
+        height=960
+        while True:
+            line=f.readline()
+            if line:
+                # debug
+                m=re.match("^DEBUG\s*=\s*(\d+)",line)
+                if m:
+                    debug=m.group(1)
+                    if debug=="0":
+                        args.append("-disable-write-debug-log")
+                        args.append("-disable-console")
+                    elif debug=="1":
+                        args.append("-disable-write-debug-log")
+                        args.append("-console")                            
+                    else:
+                        args.append("-write-debug-log")
+                        args.append("-console")
+                # resolution
+                m=re.match("^CONFIG_SCREEN_WIDTH\s*=\s*(\d+)",line)
+                if m:
+                    width=m.group(1)
+                m=re.match("^CONFIG_SCREEN_HEIGHT\s*=\s*(\d+)",line)
+                if m:  
+                    height=m.group(1)
+            else:
+                break
+        f.close()
+        args.append("-size")
+        args.append(width+"x"+height)
+    if process:
+        try:
+            process.terminate()
+        except Exception:
+            pass
+    if sublime.platform()=="osx":
+        process=subprocess.Popen(args)
+    elif sublime.platform()=="windows":
+        process=subprocess.Popen(args)
+    
 
 class LuaNewFileCommand(sublime_plugin.WindowCommand):
     def run(self, dirs):
@@ -95,73 +162,10 @@ class LuaNewFileCommand(sublime_plugin.WindowCommand):
 class QuickxRunWithPlayerCommand(sublime_plugin.WindowCommand):
     def __init__(self,window):
         super(QuickxRunWithPlayerCommand,self).__init__(window)
-        self.process=None
 
     def run(self, dirs):
-        # root
-        quick_cocos2dx_root = checkRoot()
-        if not quick_cocos2dx_root:
-            return
-        # player path for platform
-        playerPath=""
-        if sublime.platform()=="osx":
-            playerPath=quick_cocos2dx_root+"/player/mac/quick-x-player.app/Contents/MacOS/quick-x-player"
-        elif sublime.platform()=="windows":
-            playerPath=quick_cocos2dx_root+"/player/win/quick-x-player.exe"
-        if playerPath=="" or not os.path.exists(playerPath):
-            sublime.error_message("player no exists")
-            return
-        args=[playerPath]
-        # param
-        path=dirs[0]
-        args.append("-workdir")
-        args.append(os.path.split(path)[0])
-        args.append("-file")
-        args.append("scripts/main.lua")
-        args.append("-load-framework")
-        configPath=path+"/config.lua"
-        if os.path.exists(configPath):
-            f=codecs.open(configPath,"r","utf-8")
-            width=640
-            height=960
-            while True:
-                line=f.readline()
-                if line:
-                    # debug
-                    m=re.match("^DEBUG\s*=\s*(\d+)",line)
-                    if m:
-                        debug=m.group(1)
-                        if debug=="0":
-                            args.append("-disable-write-debug-log")
-                            args.append("-disable-console")
-                        elif debug=="1":
-                            args.append("-disable-write-debug-log")
-                            args.append("-console")                            
-                        else:
-                            args.append("-write-debug-log")
-                            args.append("-console")
-                    # resolution
-                    m=re.match("^CONFIG_SCREEN_WIDTH\s*=\s*(\d+)",line)
-                    if m:
-                        width=m.group(1)
-                    m=re.match("^CONFIG_SCREEN_HEIGHT\s*=\s*(\d+)",line)
-                    if m:  
-                        height=m.group(1)
-                else:
-                    break
-            f.close()
-            args.append("-size")
-            args.append(width+"x"+height)
-        if self.process:
-            try:
-                self.process.terminate()
-            except Exception:
-                pass
-        if sublime.platform()=="osx":
-            self.process=subprocess.Popen(args)
-        elif sublime.platform()=="windows":
-            self.process=subprocess.Popen(args)
-        
+        runWithPlayer(dirs[0])
+
     def is_enabled(self, dirs):
         if len(dirs)!=1:
             return False
@@ -172,6 +176,25 @@ class QuickxRunWithPlayerCommand(sublime_plugin.WindowCommand):
 
     def is_visible(self, dirs):
         return self.is_enabled(dirs)
+
+
+class QuickxRunWithPlayerByFileCommand(sublime_plugin.TextCommand):
+    def run(self, edit):
+        # view path
+        path=self.view.file_name()
+        sublime.status_message(path)
+        index=path.rfind("scripts/")
+        if index==-1:
+            sublime.status_message("This file not in the 'scripts' folder")
+            return
+        path=path[0:index]+"scripts"
+        runWithPlayer(path)
+        
+    def is_enabled(self):
+        return helper.checkFileExt(self.view.file_name(),"lua")
+
+    def is_visible(self):
+        return self.is_enabled()
 
 
 class QuickxGotoDefinitionCommand(sublime_plugin.TextCommand):

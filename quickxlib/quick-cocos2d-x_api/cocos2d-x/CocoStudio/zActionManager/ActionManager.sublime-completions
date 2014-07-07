@@ -1,0 +1,8 @@
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "ActionManager:shareManager()", "contents": "ActionManager:shareManager()" },
+		{ "trigger": "ActionManager:purge()", "contents": "ActionManager:purge()" }
+	]
+}

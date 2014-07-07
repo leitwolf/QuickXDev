@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[RichElementImage()]]></content>
+    <tabTrigger>RichElementImage()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>RichElementImage</description>
+</snippet>

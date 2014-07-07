@@ -1,0 +1,8 @@
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "GUIReader:shareReader()", "contents": "GUIReader:shareReader()" },
+		{ "trigger": "GUIReader:purge()", "contents": "GUIReader:purge()" }
+	]
+}

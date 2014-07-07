@@ -1,0 +1,7 @@
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "LabelAtlas:create()", "contents": "LabelAtlas:create()" }
+	]
+}

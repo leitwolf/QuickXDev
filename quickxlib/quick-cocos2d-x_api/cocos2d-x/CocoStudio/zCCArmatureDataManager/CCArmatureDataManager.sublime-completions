@@ -1,0 +1,8 @@
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "CCArmatureDataManager:sharedArmatureDataManager()", "contents": "CCArmatureDataManager:sharedArmatureDataManager()" },
+		{ "trigger": "CCArmatureDataManager:purge()", "contents": "CCArmatureDataManager:purge()" }
+	]
+}

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTextVerticalAlignment()]]></content>
+    <tabTrigger>getTextVerticalAlignment()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Label</description>
+</snippet>

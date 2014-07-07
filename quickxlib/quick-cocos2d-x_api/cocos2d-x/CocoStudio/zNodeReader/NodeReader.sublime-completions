@@ -1,0 +1,8 @@
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "NodeReader:getInstance()", "contents": "NodeReader:getInstance()" },
+		{ "trigger": "NodeReader:destroyInstance()", "contents": "NodeReader:destroyInstance()" }
+	]
+}

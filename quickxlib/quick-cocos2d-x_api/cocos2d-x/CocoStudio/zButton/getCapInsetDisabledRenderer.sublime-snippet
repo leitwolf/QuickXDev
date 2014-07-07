@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getCapInsetDisabledRenderer()]]></content>
+    <tabTrigger>getCapInsetDisabledRenderer()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Button</description>
+</snippet>

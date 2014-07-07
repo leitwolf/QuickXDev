@@ -1,0 +1,11 @@
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		"ATTACH_EMPTY_NODE",
+		"ATTACH_RENDER_NODE",
+		"DEFAULT",
+		{ "trigger": "SceneReader:sharedSceneReader()", "contents": "SceneReader:sharedSceneReader()" },
+		{ "trigger": "SceneReader:sceneReaderVersion()", "contents": "SceneReader:sceneReaderVersion()" }
+	]
+}

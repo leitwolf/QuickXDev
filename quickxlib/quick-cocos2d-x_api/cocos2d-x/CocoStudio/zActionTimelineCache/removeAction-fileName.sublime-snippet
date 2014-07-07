@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeAction(${1:fileName})]]></content>
+    <tabTrigger>removeAction(fileName)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ActionTimelineCache</description>
+</snippet>

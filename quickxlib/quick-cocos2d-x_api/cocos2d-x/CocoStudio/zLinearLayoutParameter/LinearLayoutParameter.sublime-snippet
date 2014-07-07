@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LinearLayoutParameter()]]></content>
+    <tabTrigger>LinearLayoutParameter()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>LinearLayoutParameter</description>
+</snippet>

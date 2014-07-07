@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[CCTween()]]></content>
+    <tabTrigger>CCTween()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTween</description>
+</snippet>

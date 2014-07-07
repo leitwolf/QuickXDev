@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getFrames()]]></content>
+    <tabTrigger>getFrames()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Timeline</description>
+</snippet>

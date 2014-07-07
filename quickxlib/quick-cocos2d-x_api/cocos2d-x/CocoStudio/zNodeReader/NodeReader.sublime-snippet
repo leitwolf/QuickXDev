@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[NodeReader()]]></content>
+    <tabTrigger>NodeReader()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>NodeReader</description>
+</snippet>

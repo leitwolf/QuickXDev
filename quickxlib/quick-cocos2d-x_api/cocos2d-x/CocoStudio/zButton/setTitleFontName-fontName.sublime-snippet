@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTitleFontName(${1:fontName})]]></content>
+    <tabTrigger>setTitleFontName(fontName)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Button</description>
+</snippet>

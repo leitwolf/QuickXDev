@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setChildArmature(${1:var})]]></content>
+    <tabTrigger>setChildArmature(var)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCBone</description>
+</snippet>

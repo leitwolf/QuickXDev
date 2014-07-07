@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[CCBaseData()]]></content>
+    <tabTrigger>CCBaseData()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCBaseData</description>
+</snippet>
