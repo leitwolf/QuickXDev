@@ -202,7 +202,8 @@ class QuickxGotoDefinitionCommand(sublime_plugin.TextCommand):
         # select text
         sel=self.view.substr(self.view.sel()[0])
         if len(sel)==0:
-            return
+            # extend to the `word` under cursor
+            sel=self.view.substr(self.view.word(self.view.sel()[0]))
         quick_cocos2dx_root = checkRoot()
         if not quick_cocos2dx_root:
             return
