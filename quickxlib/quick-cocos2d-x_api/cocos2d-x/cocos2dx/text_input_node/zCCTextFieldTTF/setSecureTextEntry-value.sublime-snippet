@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setSecureTextEntry(${1:value})]]></content>
-    <tabTrigger>setSecureTextEntry(value)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTextFieldTTF</description>
-</snippet>

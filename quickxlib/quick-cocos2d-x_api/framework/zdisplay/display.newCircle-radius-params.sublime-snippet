@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[display.newCircle(${1:radius}, ${2:params})]]></content>
+    <tabTrigger>display.newCircle(radius, params)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

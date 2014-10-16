@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[convertToWorldSpace(${1:nodePoint})]]></content>
-    <tabTrigger>convertToWorldSpace(nodePoint)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

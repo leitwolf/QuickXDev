@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addBody(${1:body})]]></content>
-    <tabTrigger>addBody(body)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsWorld</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getWinSize()]]></content>
-    <tabTrigger>getWinSize()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCDirector</description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[display.printscreen(${1:node}, ${2:args})]]></content>
+    <tabTrigger>display.printscreen(node, args)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

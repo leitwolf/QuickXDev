@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[transition.playAnimationForever(${1:target}, ${2:animation}, ${3:delay})]]></content>
+    <tabTrigger>transition.playAnimationForever(target, animation, delay)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

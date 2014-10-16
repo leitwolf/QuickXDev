@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeElement(${1:index})]]></content>
-    <tabTrigger>removeElement(index)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>RichText</description>
-</snippet>

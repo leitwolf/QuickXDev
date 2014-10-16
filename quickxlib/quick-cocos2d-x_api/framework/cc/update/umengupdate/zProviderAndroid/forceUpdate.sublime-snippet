@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[forceUpdate()]]></content>
-    <tabTrigger>forceUpdate()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ProviderAndroid</description>
-</snippet>

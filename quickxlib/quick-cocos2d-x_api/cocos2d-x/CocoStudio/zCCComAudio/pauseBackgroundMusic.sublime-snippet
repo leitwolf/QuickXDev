@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[pauseBackgroundMusic()]]></content>
-    <tabTrigger>pauseBackgroundMusic()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCComAudio</description>
-</snippet>

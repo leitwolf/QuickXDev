@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[playEffect(${1:pszFilePath}, ${2:bLoop})]]></content>
-    <tabTrigger>playEffect(pszFilePath, bLoop)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>SimpleAudioEngine</description>
-</snippet>

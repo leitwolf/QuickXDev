@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setType(${1:type})]]></content>
-    <tabTrigger>setType(type)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCProgressTimer</description>
-</snippet>

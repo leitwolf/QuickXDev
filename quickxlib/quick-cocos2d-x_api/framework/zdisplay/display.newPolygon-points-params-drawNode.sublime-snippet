@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[display.newPolygon(${1:points}, ${2:params}, ${3:drawNode})]]></content>
+    <tabTrigger>display.newPolygon(points, params, drawNode)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

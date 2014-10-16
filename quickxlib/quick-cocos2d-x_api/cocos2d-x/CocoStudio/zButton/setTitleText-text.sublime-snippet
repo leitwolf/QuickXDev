@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setTitleText(${1:text})]]></content>
-    <tabTrigger>setTitleText(text)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Button</description>
-</snippet>

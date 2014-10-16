@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[widgetFromJsonFile(${1:fileName})]]></content>
-    <tabTrigger>widgetFromJsonFile(fileName)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>GUIReader</description>
-</snippet>

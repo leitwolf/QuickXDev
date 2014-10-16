@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setDepthTest(${1:bOn})]]></content>
-    <tabTrigger>setDepthTest(bOn)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCDirector</description>
-</snippet>

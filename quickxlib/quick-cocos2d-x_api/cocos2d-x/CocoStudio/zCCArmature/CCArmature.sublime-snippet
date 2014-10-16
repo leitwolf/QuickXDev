@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[CCArmature()]]></content>
-    <tabTrigger>CCArmature()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCArmature</description>
-</snippet>

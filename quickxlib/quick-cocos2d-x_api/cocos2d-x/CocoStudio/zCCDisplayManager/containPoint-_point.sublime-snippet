@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[containPoint(${1:_point})]]></content>
-    <tabTrigger>containPoint(_point)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCDisplayManager</description>
-</snippet>

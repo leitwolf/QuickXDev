@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getContentSize()]]></content>
-    <tabTrigger>getContentSize()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCDisplayManager</description>
-</snippet>

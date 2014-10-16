@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isTouchInViewRect(${1:event})]]></content>
+    <tabTrigger>isTouchInViewRect(event)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIScrollView</description>
+</snippet>

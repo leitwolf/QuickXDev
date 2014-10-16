@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getCurrentTime()]]></content>
-    <tabTrigger>getCurrentTime()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ActionObject</description>
-</snippet>

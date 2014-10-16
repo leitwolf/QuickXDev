@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[fastRemoveObjectAtIndex(${1:index})]]></content>
-    <tabTrigger>fastRemoveObjectAtIndex(index)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCArray</description>
-</snippet>

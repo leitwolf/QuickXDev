@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getWorld()]]></content>
-    <tabTrigger>getWorld()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsCollisionEvent</description>
-</snippet>

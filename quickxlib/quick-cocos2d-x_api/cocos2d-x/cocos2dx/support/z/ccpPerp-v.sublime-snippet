@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ccpPerp(${1:v})]]></content>
-    <tabTrigger>ccpPerp(v)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

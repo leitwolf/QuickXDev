@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[convertTouchToNodeSpaceAR(${1:touch})]]></content>
-    <tabTrigger>convertTouchToNodeSpaceAR(touch)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

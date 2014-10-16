@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[show(${1:adType}, ${2:options})]]></content>
-    <tabTrigger>show(adType, options)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ProviderAndroid</description>
-</snippet>

@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCBone:create()", "contents": "CCBone:create()" },
-		{ "trigger": "CCBone:create(name)", "contents": "CCBone:create(${1:name})" }
-	]
-}

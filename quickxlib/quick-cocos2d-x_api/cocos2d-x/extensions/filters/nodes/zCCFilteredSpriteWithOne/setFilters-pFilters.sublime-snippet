@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setFilters(${1:pFilters})]]></content>
-    <tabTrigger>setFilters(pFilters)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCFilteredSpriteWithOne</description>
-</snippet>

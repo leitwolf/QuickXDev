@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCParticleBatchNode:createWithTexture(tex, capacity)", "contents": "CCParticleBatchNode:createWithTexture(${1:tex}, ${2:capacity})" },
-		{ "trigger": "CCParticleBatchNode:create(fileImage, capacity)", "contents": "CCParticleBatchNode:create(${1:fileImage}, ${2:capacity})" }
-	]
-}

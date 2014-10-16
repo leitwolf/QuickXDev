@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setMargin(${1:margin})]]></content>
+    <tabTrigger>setMargin(margin)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIListViewItem</description>
+</snippet>

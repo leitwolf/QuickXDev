@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getBackgroundSprite()]]></content>
-    <tabTrigger>getBackgroundSprite()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCControlButton</description>
-</snippet>

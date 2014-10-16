@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[scaleToParent_()]]></content>
+    <tabTrigger>scaleToParent_()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIScrollView</description>
+</snippet>

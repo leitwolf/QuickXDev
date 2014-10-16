@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[resume(${1:sender})]]></content>
-    <tabTrigger>resume(sender)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCScrollView</description>
-</snippet>

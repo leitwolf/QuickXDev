@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getColor()]]></content>
-    <tabTrigger>getColor()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCLabelBMFont</description>
-</snippet>

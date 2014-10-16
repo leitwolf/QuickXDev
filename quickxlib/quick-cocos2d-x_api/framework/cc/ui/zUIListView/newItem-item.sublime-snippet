@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[newItem(${1:item})]]></content>
+    <tabTrigger>newItem(item)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIListView</description>
+</snippet>

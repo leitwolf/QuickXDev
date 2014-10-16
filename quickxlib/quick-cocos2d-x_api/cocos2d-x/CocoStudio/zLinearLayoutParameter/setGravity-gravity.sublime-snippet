@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setGravity(${1:gravity})]]></content>
-    <tabTrigger>setGravity(gravity)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>LinearLayoutParameter</description>
-</snippet>

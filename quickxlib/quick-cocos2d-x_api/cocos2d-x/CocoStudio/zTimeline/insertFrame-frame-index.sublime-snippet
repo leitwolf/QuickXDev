@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[insertFrame(${1:frame}, ${2:index})]]></content>
-    <tabTrigger>insertFrame(frame, index)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Timeline</description>
-</snippet>

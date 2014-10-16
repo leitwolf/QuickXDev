@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addListener()]]></content>
-    <tabTrigger>addListener()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ProviderAndroid</description>
-</snippet>

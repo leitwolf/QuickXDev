@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isScene_(${1:json})]]></content>
+    <tabTrigger>isScene_(json)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>uiloader</description>
+</snippet>

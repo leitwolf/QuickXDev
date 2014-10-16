@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setProjection(${1:kProjection})]]></content>
-    <tabTrigger>setProjection(kProjection)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCDirector</description>
-</snippet>

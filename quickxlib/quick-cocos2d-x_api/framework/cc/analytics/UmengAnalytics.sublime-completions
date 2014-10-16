@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "UmengAnalytics.getInstance(interface)", "contents": "UmengAnalytics.getInstance(${1:interface})" }
-	]
-}

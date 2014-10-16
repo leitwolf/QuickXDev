@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "filter.newFilter(__filterName, __param)", "contents": "filter.newFilter(${1:__filterName}, ${2:__param})" },
-		{ "trigger": "filter.newFilters(__filterNames, __params)", "contents": "filter.newFilters(${1:__filterNames}, ${2:__params})" }
-	]
-}

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getDisplayRenderNodeType()]]></content>
-    <tabTrigger>getDisplayRenderNodeType()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCBone</description>
-</snippet>

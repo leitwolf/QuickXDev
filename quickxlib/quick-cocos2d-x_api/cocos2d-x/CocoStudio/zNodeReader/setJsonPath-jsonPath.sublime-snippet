@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setJsonPath(${1:jsonPath})]]></content>
-    <tabTrigger>setJsonPath(jsonPath)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>NodeReader</description>
-</snippet>

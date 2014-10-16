@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ccColor4F()]]></content>
-    <tabTrigger>ccColor4F()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ccColor4F</description>
-</snippet>

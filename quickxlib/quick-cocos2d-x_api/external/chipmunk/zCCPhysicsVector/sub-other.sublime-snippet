@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[sub(${1:other})]]></content>
-    <tabTrigger>sub(other)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsVector</description>
-</snippet>

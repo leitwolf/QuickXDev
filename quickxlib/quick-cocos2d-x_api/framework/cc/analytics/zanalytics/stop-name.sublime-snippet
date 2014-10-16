@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[stop(${1:name})]]></content>
-    <tabTrigger>stop(name)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>analytics</description>
-</snippet>

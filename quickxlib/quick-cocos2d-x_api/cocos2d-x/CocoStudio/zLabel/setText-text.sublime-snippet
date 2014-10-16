@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setText(${1:text})]]></content>
-    <tabTrigger>setText(text)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Label</description>
-</snippet>

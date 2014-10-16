@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[createAction(${1:fileName})]]></content>
-    <tabTrigger>createAction(fileName)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ActionTimelineCache</description>
-</snippet>

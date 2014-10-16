@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getPanelChild_(${1:children}, ${2:name})]]></content>
+    <tabTrigger>getPanelChild_(children, name)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSUILoader</description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setScaleY(${1:fScaleY})]]></content>
-    <tabTrigger>setScaleY(fScaleY)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[cc.share.umengshare.ProviderBase.new(${1:interface})]]></content>
-    <tabTrigger>ProviderBase.new(interface)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ProviderBase</description>
-</snippet>

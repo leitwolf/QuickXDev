@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getLineStipple()]]></content>
-    <tabTrigger>getLineStipple()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCShapeNode</description>
-</snippet>

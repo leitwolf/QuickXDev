@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getTextAreaSize()]]></content>
-    <tabTrigger>getTextAreaSize()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Label</description>
-</snippet>

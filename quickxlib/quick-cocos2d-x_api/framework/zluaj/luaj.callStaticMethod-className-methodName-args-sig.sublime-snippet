@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[luaj.callStaticMethod(${1:className}, ${2:methodName}, ${3:args}, ${4:sig})]]></content>
+    <tabTrigger>luaj.callStaticMethod(className, methodName, args, sig)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

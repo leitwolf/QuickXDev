@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeChild(${1:child}, ${2:cleanup})]]></content>
-    <tabTrigger>removeChild(child, cleanup)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

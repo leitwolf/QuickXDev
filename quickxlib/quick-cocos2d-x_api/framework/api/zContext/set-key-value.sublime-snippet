@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[set(${1:key}, ${2:value})]]></content>
-    <tabTrigger>set(key, value)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Context</description>
-</snippet>

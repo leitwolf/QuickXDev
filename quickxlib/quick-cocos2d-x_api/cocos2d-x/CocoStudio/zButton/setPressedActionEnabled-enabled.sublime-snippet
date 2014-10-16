@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setPressedActionEnabled(${1:enabled})]]></content>
-    <tabTrigger>setPressedActionEnabled(enabled)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Button</description>
-</snippet>

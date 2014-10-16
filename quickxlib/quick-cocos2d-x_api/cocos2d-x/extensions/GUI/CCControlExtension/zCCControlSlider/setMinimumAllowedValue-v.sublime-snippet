@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setMinimumAllowedValue(${1:v})]]></content>
-    <tabTrigger>setMinimumAllowedValue(v)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCControlSlider</description>
-</snippet>

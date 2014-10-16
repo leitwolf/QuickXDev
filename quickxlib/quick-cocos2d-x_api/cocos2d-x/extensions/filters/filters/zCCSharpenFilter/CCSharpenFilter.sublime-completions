@@ -1,9 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCSharpenFilter:create()", "contents": "CCSharpenFilter:create()" },
-		{ "trigger": "CCSharpenFilter:create(sharpness, widthFactor, heightFactor)", "contents": "CCSharpenFilter:create(${1:sharpness}, ${2:widthFactor}, ${3:heightFactor})" },
-		{ "trigger": "CCSharpenFilter:create(sharpness, amount)", "contents": "CCSharpenFilter:create(${1:sharpness}, ${2:amount})" }
-	]
-}

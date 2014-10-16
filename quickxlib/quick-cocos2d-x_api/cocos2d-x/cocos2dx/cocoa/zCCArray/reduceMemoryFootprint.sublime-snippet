@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[reduceMemoryFootprint()]]></content>
-    <tabTrigger>reduceMemoryFootprint()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCArray</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ccTouchBegan(${1:pTouch}, ${2:pEvent})]]></content>
-    <tabTrigger>ccTouchBegan(pTouch, pEvent)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTableView</description>
-</snippet>

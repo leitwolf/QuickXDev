@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[disableScrollBar()]]></content>
+    <tabTrigger>disableScrollBar()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIScrollView</description>
+</snippet>

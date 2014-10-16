@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setIsSpriteFrame(${1:isSpriteFrame})]]></content>
-    <tabTrigger>setIsSpriteFrame(isSpriteFrame)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCMaskFilter</description>
-</snippet>

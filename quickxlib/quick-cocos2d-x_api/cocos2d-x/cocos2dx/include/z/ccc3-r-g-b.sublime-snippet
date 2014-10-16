@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ccc3(${1:r}, ${2:g}, ${3:b})]]></content>
-    <tabTrigger>ccc3(r, g, b)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

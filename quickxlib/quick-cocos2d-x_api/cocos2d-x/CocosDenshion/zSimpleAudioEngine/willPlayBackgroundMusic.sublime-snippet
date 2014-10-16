@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[willPlayBackgroundMusic()]]></content>
-    <tabTrigger>willPlayBackgroundMusic()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>SimpleAudioEngine</description>
-</snippet>

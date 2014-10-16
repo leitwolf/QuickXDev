@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CZHelperFunc:getFileData(pPathFile)", "contents": "CZHelperFunc:getFileData(${1:pPathFile})" }
-	]
-}

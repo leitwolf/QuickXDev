@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[shareText(${1:text})]]></content>
-    <tabTrigger>shareText(text)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ProviderAndroid</description>
-</snippet>

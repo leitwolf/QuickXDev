@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setCurrentTime(${1:fTime})]]></content>
-    <tabTrigger>setCurrentTime(fTime)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ActionObject</description>
-</snippet>

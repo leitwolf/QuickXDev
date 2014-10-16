@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getDirection()]]></content>
+    <tabTrigger>getDirection()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIScrollView</description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeAllObjects()]]></content>
-    <tabTrigger>removeAllObjects()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCDictionary</description>
-</snippet>

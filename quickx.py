@@ -58,7 +58,7 @@ def checkRoot():
     return quick_cocos2dx_root
 
 process=None
-def runWithPlayer(scriptsDir):
+def runWithPlayer(srcDir):
     global process
     # root
     quick_cocos2dx_root = checkRoot()
@@ -67,19 +67,22 @@ def runWithPlayer(scriptsDir):
     # player path for platform
     playerPath=""
     if sublime.platform()=="osx":
-        playerPath=quick_cocos2dx_root+"/player/mac/player.app/Contents/MacOS/player"
+        playerPath=quick_cocos2dx_root+"/player3.app/Contents/MacOS/player3"
     elif sublime.platform()=="windows":
-        playerPath=quick_cocos2dx_root+"/player/win/player.exe"
+        playerPath=quick_cocos2dx_root+"/player3.exe"
     if playerPath=="" or not os.path.exists(playerPath):
         sublime.error_message("player no exists")
         return
     args=[playerPath]
     # param
-    path=scriptsDir
+    path=srcDir
+    arr=os.path.split(path)
+    workdir=arr[0]
+    srcDirName=arr[1]
     args.append("-workdir")
-    args.append(os.path.split(path)[0])
+    args.append(workdir)
     args.append("-file")
-    args.append("scripts/main.lua")
+    args.append(srcDirName+"/main.lua")
     args.append("-load-framework")
     configPath=path+"/config.lua"
     if os.path.exists(configPath):
@@ -107,7 +110,7 @@ def runWithPlayer(scriptsDir):
                 if m:
                     width=m.group(1)
                 m=re.match("^CONFIG_SCREEN_HEIGHT\s*=\s*(\d+)",line)
-                if m:  
+                if m:
                     height=m.group(1)
             else:
                 break
@@ -183,11 +186,11 @@ class QuickxRunWithPlayerByFileCommand(sublime_plugin.TextCommand):
         # view path
         path=self.view.file_name()
         sublime.status_message(path)
-        index=path.rfind("scripts/")
+        index=path.rfind("src/")
         if index==-1:
-            sublime.status_message("This file not in the 'scripts' folder")
+            sublime.status_message("This file not in the 'src' folder")
             return
-        path=path[0:index]+"scripts"
+        path=path[0:index]+"src"
         runWithPlayer(path)
         
     def is_enabled(self):
@@ -286,9 +289,9 @@ class QuickxCreateNewProjectCommand(sublime_plugin.WindowCommand):
             return
         cmdPath=""
         if sublime.platform()=="osx":
-            cmdPath=quick_cocos2dx_root+"/bin/create_project.sh"
+            cmdPath=quick_cocos2dx_root+"/quick/bin/create_project.sh"
         elif sublime.platform()=="windows":
-            cmdPath=quick_cocos2dx_root+"/bin/create_project.bat"
+            cmdPath=quick_cocos2dx_root+"/quick/bin/create_project.bat"
         if cmdPath=="" or not os.path.exists(cmdPath):
             sublime.error_message("command no exists")
             return
@@ -337,9 +340,9 @@ class QuickxCompileScriptsCommand(sublime_plugin.WindowCommand):
             return
         cmdPath=""
         if sublime.platform()=="osx":
-            cmdPath=quick_cocos2dx_root+"/bin/compile_scripts.sh"
+            cmdPath=quick_cocos2dx_root+"/quick/bin/compile_scripts.sh"
         elif sublime.platform()=="windows":
-            cmdPath=quick_cocos2dx_root+"/bin/compile_scripts.bat"
+            cmdPath=quick_cocos2dx_root+"/quick/bin/compile_scripts.bat"
             if not os.path.exists(cmdPath):
                 helper.writeFile(cmdPath,compile_scripts_bat)
         if cmdPath=="" or not os.path.exists(cmdPath):
@@ -350,8 +353,7 @@ class QuickxCompileScriptsCommand(sublime_plugin.WindowCommand):
         self.window.run_command("hide_panel")
         output="res/game.zip"
         on_done = functools.partial(self.on_done, dirs[0])
-        v = self.window.show_input_panel(
-            "Output File:", output, on_done, None, None)
+        v = self.window.show_input_panel("Output File:", output, on_done, None, None)
         v.sel().clear()
         v.sel().add(sublime.Region(4, 8))
 

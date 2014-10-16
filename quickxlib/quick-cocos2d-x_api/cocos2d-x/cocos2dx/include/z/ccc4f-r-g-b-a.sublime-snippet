@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ccc4f(${1:r}, ${2:g}, ${3:b}, ${4:a})]]></content>
-    <tabTrigger>ccc4f(r, g, b, a)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

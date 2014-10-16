@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.ui.UILoadingBar.new(${1:params})]]></content>
+    <tabTrigger>UILoadingBar.new(params)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UILoadingBar</description>
+</snippet>

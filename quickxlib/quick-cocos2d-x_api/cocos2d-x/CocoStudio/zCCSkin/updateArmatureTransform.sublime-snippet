@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[updateArmatureTransform()]]></content>
-    <tabTrigger>updateArmatureTransform()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCSkin</description>
-</snippet>

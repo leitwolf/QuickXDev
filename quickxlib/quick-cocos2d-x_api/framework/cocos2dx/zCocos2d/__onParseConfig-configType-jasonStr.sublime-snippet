@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[__onParseConfig(${1:configType}, ${2:jasonStr})]]></content>
+    <tabTrigger>__onParseConfig(configType, jasonStr)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setInt(${1:key}, ${2:value})]]></content>
-    <tabTrigger>setInt(key, value)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCComAttribute</description>
-</snippet>

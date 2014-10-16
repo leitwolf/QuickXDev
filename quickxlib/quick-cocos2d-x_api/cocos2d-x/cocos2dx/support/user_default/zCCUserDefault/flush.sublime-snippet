@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[flush()]]></content>
-    <tabTrigger>flush()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCUserDefault</description>
-</snippet>

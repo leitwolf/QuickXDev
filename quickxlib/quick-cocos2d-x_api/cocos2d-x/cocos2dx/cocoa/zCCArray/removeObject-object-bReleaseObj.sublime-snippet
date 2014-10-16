@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeObject(${1:object}, ${2:bReleaseObj})]]></content>
-    <tabTrigger>removeObject(object, bReleaseObj)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCArray</description>
-</snippet>

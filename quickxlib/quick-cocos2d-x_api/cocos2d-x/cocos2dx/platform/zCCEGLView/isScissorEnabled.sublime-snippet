@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[isScissorEnabled()]]></content>
-    <tabTrigger>isScissorEnabled()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCEGLView</description>
-</snippet>

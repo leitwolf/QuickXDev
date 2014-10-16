@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[updateQuadWithParticle(${1:particle}, ${2:newPosition})]]></content>
-    <tabTrigger>updateQuadWithParticle(particle, newPosition)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCParticleSystemQuad</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[initSprite(${1:sprite})]]></content>
-    <tabTrigger>initSprite(sprite)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCSharpenFilter</description>
-</snippet>

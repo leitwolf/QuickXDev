@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCLayer:create()", "contents": "CCLayer:create()" }
-	]
-}

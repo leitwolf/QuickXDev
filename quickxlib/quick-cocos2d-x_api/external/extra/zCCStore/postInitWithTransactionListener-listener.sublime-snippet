@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[postInitWithTransactionListener(${1:listener})]]></content>
-    <tabTrigger>postInitWithTransactionListener(listener)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCStore</description>
-</snippet>

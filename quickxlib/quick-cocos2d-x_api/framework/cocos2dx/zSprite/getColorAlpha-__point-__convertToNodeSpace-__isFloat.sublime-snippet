@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getColorAlpha(${1:__point}, ${2:__convertToNodeSpace}, ${3:__isFloat})]]></content>
-    <tabTrigger>getColorAlpha(__point, __convertToNodeSpace, __isFloat)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Sprite</description>
-</snippet>

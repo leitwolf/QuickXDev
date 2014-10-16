@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setProperty(${1:stringValue}, ${2:charMapFile}, ${3:itemWidth}, ${4:itemHeight}, ${5:startCharMap})]]></content>
-    <tabTrigger>setProperty(stringValue, charMapFile, itemWidth, itemHeight, startCharMap)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>LabelAtlas</description>
-</snippet>

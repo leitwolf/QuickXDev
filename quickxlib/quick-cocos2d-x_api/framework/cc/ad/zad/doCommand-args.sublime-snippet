@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[doCommand(${1:args})]]></content>
-    <tabTrigger>doCommand(args)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ad</description>
-</snippet>

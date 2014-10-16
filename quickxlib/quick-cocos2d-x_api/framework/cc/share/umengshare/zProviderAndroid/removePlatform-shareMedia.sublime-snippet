@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removePlatform(${1:shareMedia})]]></content>
-    <tabTrigger>removePlatform(shareMedia)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ProviderAndroid</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setPreferredSize(${1:s})]]></content>
-    <tabTrigger>setPreferredSize(s)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCControlButton</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setBoolForKey(${1:pKey}, ${2:value})]]></content>
-    <tabTrigger>setBoolForKey(pKey, value)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCUserDefault</description>
-</snippet>

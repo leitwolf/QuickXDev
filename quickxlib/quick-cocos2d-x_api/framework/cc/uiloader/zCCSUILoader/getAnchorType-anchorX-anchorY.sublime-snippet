@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getAnchorType(${1:anchorX}, ${2:anchorY})]]></content>
+    <tabTrigger>getAnchorType(anchorX, anchorY)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSUILoader</description>
+</snippet>

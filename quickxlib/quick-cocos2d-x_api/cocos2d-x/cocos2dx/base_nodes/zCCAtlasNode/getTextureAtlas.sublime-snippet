@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getTextureAtlas()]]></content>
-    <tabTrigger>getTextureAtlas()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCAtlasNode</description>
-</snippet>

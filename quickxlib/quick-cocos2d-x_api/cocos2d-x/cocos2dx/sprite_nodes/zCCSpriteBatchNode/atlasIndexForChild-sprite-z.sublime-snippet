@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[atlasIndexForChild(${1:sprite}, ${2:z})]]></content>
-    <tabTrigger>atlasIndexForChild(sprite, z)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCSpriteBatchNode</description>
-</snippet>

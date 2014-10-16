@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[isTextureRectRotated()]]></content>
-    <tabTrigger>isTextureRectRotated()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCSprite</description>
-</snippet>

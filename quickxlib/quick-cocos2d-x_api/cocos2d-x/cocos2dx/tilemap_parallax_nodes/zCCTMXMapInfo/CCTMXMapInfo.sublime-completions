@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCTMXMapInfo:formatWithTMXFile(tmxFile)", "contents": "CCTMXMapInfo:formatWithTMXFile(${1:tmxFile})" },
-		{ "trigger": "CCTMXMapInfo:formatWithXML(tmxString, resourcePath)", "contents": "CCTMXMapInfo:formatWithXML(${1:tmxString}, ${2:resourcePath})" }
-	]
-}

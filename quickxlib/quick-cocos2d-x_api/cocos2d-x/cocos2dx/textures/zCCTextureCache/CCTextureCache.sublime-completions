@@ -1,9 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCTextureCache:sharedTextureCache()", "contents": "CCTextureCache:sharedTextureCache()" },
-		{ "trigger": "CCTextureCache:purgeSharedTextureCache()", "contents": "CCTextureCache:purgeSharedTextureCache()" },
-		{ "trigger": "CCTextureCache:reloadAllTextures()", "contents": "CCTextureCache:reloadAllTextures()" }
-	]
-}

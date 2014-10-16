@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setAnchorPoint(${1:pt})]]></content>
-    <tabTrigger>setAnchorPoint(pt)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Button</description>
-</snippet>

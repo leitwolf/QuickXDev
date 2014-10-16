@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[isPlaying()]]></content>
-    <tabTrigger>isPlaying()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ActionObject</description>
-</snippet>

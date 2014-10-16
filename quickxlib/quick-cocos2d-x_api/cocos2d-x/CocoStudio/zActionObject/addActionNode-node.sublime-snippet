@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addActionNode(${1:node})]]></content>
-    <tabTrigger>addActionNode(node)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ActionObject</description>
-</snippet>

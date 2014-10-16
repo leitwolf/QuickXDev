@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setAlignment(${1:alignment})]]></content>
-    <tabTrigger>setAlignment(alignment)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCLabelBMFont</description>
-</snippet>

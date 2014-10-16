@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addPlatform(${1:shareMedia})]]></content>
-    <tabTrigger>addPlatform(shareMedia)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ProviderIOS</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[initWithFile(${1:pszFilename})]]></content>
-    <tabTrigger>initWithFile(pszFilename)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCSkin</description>
-</snippet>

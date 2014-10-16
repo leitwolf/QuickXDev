@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setString(${1:label})]]></content>
-    <tabTrigger>setString(label)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCMenuItemLabel</description>
-</snippet>

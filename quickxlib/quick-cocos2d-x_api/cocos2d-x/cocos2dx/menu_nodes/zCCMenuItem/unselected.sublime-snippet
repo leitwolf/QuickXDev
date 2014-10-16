@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[unselected()]]></content>
-    <tabTrigger>unselected()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCMenuItem</description>
-</snippet>

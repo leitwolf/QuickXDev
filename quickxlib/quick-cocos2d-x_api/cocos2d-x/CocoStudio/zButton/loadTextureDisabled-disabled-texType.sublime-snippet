@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[loadTextureDisabled(${1:disabled}, ${2:texType})]]></content>
-    <tabTrigger>loadTextureDisabled(disabled, texType)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Button</description>
-</snippet>

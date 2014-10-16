@@ -1,9 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCMenuItemImage:create(normalImage, selectedImage, disabledImage)", "contents": "CCMenuItemImage:create(${1:normalImage}, ${2:selectedImage}, ${3:disabledImage})" },
-		{ "trigger": "CCMenuItemImage:create(normalImage, selectedImage)", "contents": "CCMenuItemImage:create(${1:normalImage}, ${2:selectedImage})" },
-		{ "trigger": "CCMenuItemImage:create()", "contents": "CCMenuItemImage:create()" }
-	]
-}

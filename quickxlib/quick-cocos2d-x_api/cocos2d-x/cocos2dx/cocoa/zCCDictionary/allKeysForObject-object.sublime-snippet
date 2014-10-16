@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[allKeysForObject(${1:object})]]></content>
-    <tabTrigger>allKeysForObject(object)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCDictionary</description>
-</snippet>

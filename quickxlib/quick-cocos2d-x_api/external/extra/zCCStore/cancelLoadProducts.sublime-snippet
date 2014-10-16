@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[cancelLoadProducts()]]></content>
-    <tabTrigger>cancelLoadProducts()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCStore</description>
-</snippet>

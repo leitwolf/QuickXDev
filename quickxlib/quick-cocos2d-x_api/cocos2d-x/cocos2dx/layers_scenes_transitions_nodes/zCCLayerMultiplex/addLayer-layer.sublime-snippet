@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addLayer(${1:layer})]]></content>
-    <tabTrigger>addLayer(layer)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCLayerMultiplex</description>
-</snippet>

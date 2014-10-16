@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[isFlipX()]]></content>
-    <tabTrigger>isFlipX()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCSprite</description>
-</snippet>

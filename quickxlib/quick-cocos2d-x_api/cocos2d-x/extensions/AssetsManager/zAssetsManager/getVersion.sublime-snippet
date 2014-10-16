@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getVersion()]]></content>
-    <tabTrigger>getVersion()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>AssetsManager</description>
-</snippet>

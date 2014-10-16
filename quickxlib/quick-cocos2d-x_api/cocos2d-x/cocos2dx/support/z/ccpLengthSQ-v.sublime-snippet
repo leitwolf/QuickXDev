@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ccpLengthSQ(${1:v})]]></content>
-    <tabTrigger>ccpLengthSQ(v)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

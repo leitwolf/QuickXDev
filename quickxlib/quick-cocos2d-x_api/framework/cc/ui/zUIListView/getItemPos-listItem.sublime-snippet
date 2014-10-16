@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getItemPos(${1:listItem})]]></content>
+    <tabTrigger>getItemPos(listItem)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIListView</description>
+</snippet>

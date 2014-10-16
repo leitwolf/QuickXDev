@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setPoint(${1:x}, ${2:y})]]></content>
-    <tabTrigger>setPoint(x, y)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPoint</description>
-</snippet>

@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCRGBFilter:create()", "contents": "CCRGBFilter:create()" },
-		{ "trigger": "CCRGBFilter:create(redAdj, greenAdj, blueAdj)", "contents": "CCRGBFilter:create(${1:redAdj}, ${2:greenAdj}, ${3:blueAdj})" }
-	]
-}

@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCHBlurFilter:create()", "contents": "CCHBlurFilter:create()" },
-		{ "trigger": "CCHBlurFilter:create(param)", "contents": "CCHBlurFilter:create(${1:param})" }
-	]
-}

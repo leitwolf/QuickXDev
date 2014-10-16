@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "Timeline:create()", "contents": "Timeline:create()" }
-	]
-}

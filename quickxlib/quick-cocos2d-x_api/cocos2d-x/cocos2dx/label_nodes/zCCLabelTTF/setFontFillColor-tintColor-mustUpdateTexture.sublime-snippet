@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setFontFillColor(${1:tintColor}, ${2:mustUpdateTexture})]]></content>
-    <tabTrigger>setFontFillColor(tintColor, mustUpdateTexture)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCLabelTTF</description>
-</snippet>

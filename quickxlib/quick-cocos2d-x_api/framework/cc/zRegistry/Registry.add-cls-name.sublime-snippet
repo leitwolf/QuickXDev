@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Registry.add(${1:cls}, ${2:name})]]></content>
+    <tabTrigger>Registry.add(cls, name)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

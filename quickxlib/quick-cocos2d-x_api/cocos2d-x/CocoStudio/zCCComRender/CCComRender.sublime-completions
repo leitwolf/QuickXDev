@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCComRender:create(pNode, comName)", "contents": "CCComRender:create(${1:pNode}, ${2:comName})" }
-	]
-}

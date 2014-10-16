@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeScriptEventListenersByEvent(${1:event})]]></content>
-    <tabTrigger>removeScriptEventListenersByEvent(event)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Node</description>
-</snippet>

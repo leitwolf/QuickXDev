@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[CCComController()]]></content>
-    <tabTrigger>CCComController()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCComController</description>
-</snippet>

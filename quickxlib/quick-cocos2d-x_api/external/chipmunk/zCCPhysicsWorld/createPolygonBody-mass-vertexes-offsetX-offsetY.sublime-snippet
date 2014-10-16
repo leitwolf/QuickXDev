@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[createPolygonBody(${1:mass}, ${2:vertexes}, ${3:offsetX}, ${4:offsetY})]]></content>
-    <tabTrigger>createPolygonBody(mass, vertexes, offsetX, offsetY)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsWorld</description>
-</snippet>

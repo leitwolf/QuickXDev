@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "ActionTimelineCache:getInstance()", "contents": "ActionTimelineCache:getInstance()" },
-		{ "trigger": "ActionTimelineCache:destroyInstance()", "contents": "ActionTimelineCache:destroyInstance()" }
-	]
-}

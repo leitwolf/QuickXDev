@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setTitleColor(${1:color})]]></content>
-    <tabTrigger>setTitleColor(color)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Button</description>
-</snippet>

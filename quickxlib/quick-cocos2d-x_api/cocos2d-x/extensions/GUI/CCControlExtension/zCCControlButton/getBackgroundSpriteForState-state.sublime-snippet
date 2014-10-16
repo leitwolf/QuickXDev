@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getBackgroundSpriteForState(${1:state})]]></content>
-    <tabTrigger>getBackgroundSpriteForState(state)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCControlButton</description>
-</snippet>

@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCTween:create(bone)", "contents": "CCTween:create(${1:bone})" }
-	]
-}

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[transition.rotateTo(${1:target}, ${2:args})]]></content>
+    <tabTrigger>transition.rotateTo(target, args)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

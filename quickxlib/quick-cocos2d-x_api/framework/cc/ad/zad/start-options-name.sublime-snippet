@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[start(${1:options}, ${2:name})]]></content>
-    <tabTrigger>start(options, name)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ad</description>
-</snippet>

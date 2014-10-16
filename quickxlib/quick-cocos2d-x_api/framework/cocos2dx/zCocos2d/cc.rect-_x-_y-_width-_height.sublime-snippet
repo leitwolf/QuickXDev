@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.rect(${1:_x}, ${2:_y}, ${3:_width}, ${4:_height})]]></content>
+    <tabTrigger>cc.rect(_x, _y, _width, _height)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

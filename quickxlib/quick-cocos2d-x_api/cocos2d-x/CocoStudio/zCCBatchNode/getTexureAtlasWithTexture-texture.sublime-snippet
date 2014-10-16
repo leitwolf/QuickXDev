@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getTexureAtlasWithTexture(${1:texture})]]></content>
-    <tabTrigger>getTexureAtlasWithTexture(texture)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCBatchNode</description>
-</snippet>

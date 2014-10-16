@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setFile(${1:pszFilePath})]]></content>
-    <tabTrigger>setFile(pszFilePath)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCComAudio</description>
-</snippet>

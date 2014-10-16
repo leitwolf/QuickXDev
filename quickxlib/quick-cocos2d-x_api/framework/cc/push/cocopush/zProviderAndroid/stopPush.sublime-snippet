@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[stopPush()]]></content>
-    <tabTrigger>stopPush()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ProviderAndroid</description>
-</snippet>

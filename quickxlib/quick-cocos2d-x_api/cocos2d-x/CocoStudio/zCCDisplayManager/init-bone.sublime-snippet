@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[init(${1:bone})]]></content>
-    <tabTrigger>init(bone)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCDisplayManager</description>
-</snippet>

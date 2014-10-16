@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setStepValue(${1:stepValue})]]></content>
-    <tabTrigger>setStepValue(stepValue)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCControlStepper</description>
-</snippet>

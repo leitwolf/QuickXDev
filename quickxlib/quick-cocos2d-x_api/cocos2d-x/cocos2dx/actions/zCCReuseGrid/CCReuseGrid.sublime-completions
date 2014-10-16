@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCReuseGrid:create(times)", "contents": "CCReuseGrid:create(${1:times})" }
-	]
-}

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[CCFloat(${1:v})]]></content>
-    <tabTrigger>CCFloat(v)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCFloat</description>
-</snippet>

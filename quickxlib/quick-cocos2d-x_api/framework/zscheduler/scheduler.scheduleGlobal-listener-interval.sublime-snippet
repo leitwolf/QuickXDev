@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[scheduler.scheduleGlobal(${1:listener}, ${2:interval})]]></content>
+    <tabTrigger>scheduler.scheduleGlobal(listener, interval)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

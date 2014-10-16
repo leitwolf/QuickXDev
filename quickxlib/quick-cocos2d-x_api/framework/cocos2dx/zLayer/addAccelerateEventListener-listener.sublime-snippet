@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addAccelerateEventListener(${1:listener})]]></content>
-    <tabTrigger>addAccelerateEventListener(listener)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Layer</description>
-</snippet>

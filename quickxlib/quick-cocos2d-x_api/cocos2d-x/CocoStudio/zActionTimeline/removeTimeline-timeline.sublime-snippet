@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeTimeline(${1:timeline})]]></content>
-    <tabTrigger>removeTimeline(timeline)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ActionTimeline</description>
-</snippet>

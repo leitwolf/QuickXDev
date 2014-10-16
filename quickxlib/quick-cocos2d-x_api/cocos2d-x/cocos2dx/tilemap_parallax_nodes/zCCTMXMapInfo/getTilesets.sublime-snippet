@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getTilesets()]]></content>
-    <tabTrigger>getTilesets()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTMXMapInfo</description>
-</snippet>

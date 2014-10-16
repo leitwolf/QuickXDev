@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeNodeEventListenersByTag(${1:tag})]]></content>
-    <tabTrigger>removeNodeEventListenersByTag(tag)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCScriptEventDispatcher</description>
-</snippet>

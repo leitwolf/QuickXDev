@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[dispatchKeypadMSG(${1:nMsgType})]]></content>
-    <tabTrigger>dispatchKeypadMSG(nMsgType)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCKeypadDispatcher</description>
-</snippet>

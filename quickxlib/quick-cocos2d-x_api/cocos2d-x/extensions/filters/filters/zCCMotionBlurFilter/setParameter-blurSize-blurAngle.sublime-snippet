@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setParameter(${1:blurSize}, ${2:blurAngle})]]></content>
-    <tabTrigger>setParameter(blurSize, blurAngle)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCMotionBlurFilter</description>
-</snippet>

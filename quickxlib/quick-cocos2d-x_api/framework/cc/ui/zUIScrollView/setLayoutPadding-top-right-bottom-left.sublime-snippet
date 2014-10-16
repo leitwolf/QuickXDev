@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setLayoutPadding(${1:top}, ${2:right}, ${3:bottom}, ${4:left})]]></content>
+    <tabTrigger>setLayoutPadding(top, right, bottom, left)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIScrollView</description>
+</snippet>

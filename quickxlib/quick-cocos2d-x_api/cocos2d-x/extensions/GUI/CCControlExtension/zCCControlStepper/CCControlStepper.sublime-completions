@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCControlStepper:create(minusSprite, plusSprite)", "contents": "CCControlStepper:create(${1:minusSprite}, ${2:plusSprite})" }
-	]
-}

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setAnimationData(${1:var})]]></content>
-    <tabTrigger>setAnimationData(var)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCArmatureAnimation</description>
-</snippet>

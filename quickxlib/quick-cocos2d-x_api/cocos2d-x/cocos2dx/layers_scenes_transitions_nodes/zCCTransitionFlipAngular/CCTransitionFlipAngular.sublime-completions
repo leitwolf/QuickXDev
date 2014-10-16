@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCTransitionFlipAngular:create(t, s, o)", "contents": "CCTransitionFlipAngular:create(${1:t}, ${2:s}, ${3:o})" },
-		{ "trigger": "CCTransitionFlipAngular:create(t, s)", "contents": "CCTransitionFlipAngular:create(${1:t}, ${2:s})" }
-	]
-}

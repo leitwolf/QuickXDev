@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[unscheduleAll()]]></content>
-    <tabTrigger>unscheduleAll()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCScheduler</description>
-</snippet>

@@ -1,9 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		"__CCSEPIA_FILTER__",
-		{ "trigger": "CCSepiaFilter:create()", "contents": "CCSepiaFilter:create()" },
-		{ "trigger": "CCSepiaFilter:create(resolation)", "contents": "CCSepiaFilter:create(${1:resolation})" }
-	]
-}

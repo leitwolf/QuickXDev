@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeSpriteFramesFromFile(${1:plist})]]></content>
-    <tabTrigger>removeSpriteFramesFromFile(plist)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCSpriteFrameCache</description>
-</snippet>

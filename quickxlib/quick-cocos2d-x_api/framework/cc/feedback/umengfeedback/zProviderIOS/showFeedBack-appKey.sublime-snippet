@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[showFeedBack(${1:appKey})]]></content>
-    <tabTrigger>showFeedBack(appKey)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ProviderIOS</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[showFeedBack()]]></content>
-    <tabTrigger>showFeedBack()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ProviderAndroid</description>
-</snippet>

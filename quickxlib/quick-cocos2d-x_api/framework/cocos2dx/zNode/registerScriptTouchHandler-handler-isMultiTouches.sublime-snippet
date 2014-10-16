@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[registerScriptTouchHandler(${1:handler}, ${2:isMultiTouches})]]></content>
-    <tabTrigger>registerScriptTouchHandler(handler, isMultiTouches)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Node</description>
-</snippet>

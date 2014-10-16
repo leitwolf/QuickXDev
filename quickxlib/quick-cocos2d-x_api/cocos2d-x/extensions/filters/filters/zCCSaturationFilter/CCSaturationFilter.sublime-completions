@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCSaturationFilter:create()", "contents": "CCSaturationFilter:create()" },
-		{ "trigger": "CCSaturationFilter:create(param)", "contents": "CCSaturationFilter:create(${1:param})" }
-	]
-}

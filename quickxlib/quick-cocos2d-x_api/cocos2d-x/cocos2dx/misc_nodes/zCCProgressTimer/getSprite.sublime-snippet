@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getSprite()]]></content>
-    <tabTrigger>getSprite()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCProgressTimer</description>
-</snippet>

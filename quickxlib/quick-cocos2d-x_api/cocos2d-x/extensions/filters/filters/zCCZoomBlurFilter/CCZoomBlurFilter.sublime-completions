@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCZoomBlurFilter:create()", "contents": "CCZoomBlurFilter:create()" },
-		{ "trigger": "CCZoomBlurFilter:create(blurSize, centerX, centerY)", "contents": "CCZoomBlurFilter:create(${1:blurSize}, ${2:centerX}, ${3:centerY})" }
-	]
-}

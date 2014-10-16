@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCHazeFilter:create()", "contents": "CCHazeFilter:create()" },
-		{ "trigger": "CCHazeFilter:create(hazeDistance, slope)", "contents": "CCHazeFilter:create(${1:hazeDistance}, ${2:slope})" }
-	]
-}

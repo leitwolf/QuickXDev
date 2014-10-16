@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[disablePage()]]></content>
+    <tabTrigger>disablePage()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIPageView</description>
+</snippet>

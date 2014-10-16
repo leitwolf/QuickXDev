@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[scheduleUpdateWithPriority(${1:priority})]]></content>
-    <tabTrigger>scheduleUpdateWithPriority(priority)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

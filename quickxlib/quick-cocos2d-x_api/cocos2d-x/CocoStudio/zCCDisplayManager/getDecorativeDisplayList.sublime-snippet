@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getDecorativeDisplayList()]]></content>
-    <tabTrigger>getDecorativeDisplayList()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCDisplayManager</description>
-</snippet>

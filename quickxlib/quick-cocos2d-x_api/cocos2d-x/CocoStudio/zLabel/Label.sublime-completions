@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "Label:create()", "contents": "Label:create()" }
-	]
-}

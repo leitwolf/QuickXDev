@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCDropShadowFilter:create()", "contents": "CCDropShadowFilter:create()" },
-		{ "trigger": "CCDropShadowFilter:create(resolation)", "contents": "CCDropShadowFilter:create(${1:resolation})" }
-	]
-}

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getFontName()]]></content>
-    <tabTrigger>getFontName()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Label</description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[twiningScroll()]]></content>
+    <tabTrigger>twiningScroll()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIScrollView</description>
+</snippet>

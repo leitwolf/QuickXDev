@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setParameter(${1:sharpness}, ${2:widthFactor}, ${3:heightFactor})]]></content>
-    <tabTrigger>setParameter(sharpness, widthFactor, heightFactor)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCSharpenFilter</description>
-</snippet>

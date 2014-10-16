@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setName(${1:var})]]></content>
-    <tabTrigger>setName(var)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCArmature</description>
-</snippet>

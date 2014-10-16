@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UIListView.ALIGNMENT_VCENTER]]></content>
+    <tabTrigger>UIListView.ALIGNMENT_VCENTER</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

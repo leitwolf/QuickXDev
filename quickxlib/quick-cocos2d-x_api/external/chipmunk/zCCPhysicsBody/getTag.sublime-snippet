@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getTag()]]></content>
-    <tabTrigger>getTag()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsBody</description>
-</snippet>

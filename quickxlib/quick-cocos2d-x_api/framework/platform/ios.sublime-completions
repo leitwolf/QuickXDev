@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "device.showAlertIOS(title, message, buttonLabels, listener)", "contents": "device.showAlertIOS(${1:title}, ${2:message}, ${3:buttonLabels}, ${4:listener})" }
-	]
-}

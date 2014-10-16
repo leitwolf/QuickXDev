@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[display.ANCHOR_POINTS]]></content>
+    <tabTrigger>display.ANCHOR_POINTS</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

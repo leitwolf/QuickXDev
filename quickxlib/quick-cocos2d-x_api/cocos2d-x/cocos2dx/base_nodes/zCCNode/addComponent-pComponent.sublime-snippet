@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addComponent(${1:pComponent})]]></content>
-    <tabTrigger>addComponent(pComponent)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

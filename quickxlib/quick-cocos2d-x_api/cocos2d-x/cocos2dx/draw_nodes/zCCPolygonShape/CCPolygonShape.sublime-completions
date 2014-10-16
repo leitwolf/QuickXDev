@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCPolygonShape:create(vertices)", "contents": "CCPolygonShape:create(${1:vertices})" }
-	]
-}

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[rotation()]]></content>
-    <tabTrigger>rotation()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsVector</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[CCDisplayManager()]]></content>
-    <tabTrigger>CCDisplayManager()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCDisplayManager</description>
-</snippet>

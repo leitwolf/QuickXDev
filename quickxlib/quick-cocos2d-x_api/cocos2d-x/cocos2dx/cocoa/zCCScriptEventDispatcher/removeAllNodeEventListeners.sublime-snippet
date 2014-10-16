@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeAllNodeEventListeners()]]></content>
-    <tabTrigger>removeAllNodeEventListeners()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCScriptEventDispatcher</description>
-</snippet>

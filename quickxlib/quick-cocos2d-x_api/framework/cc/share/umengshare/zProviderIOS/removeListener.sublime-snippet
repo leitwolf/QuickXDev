@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeListener()]]></content>
-    <tabTrigger>removeListener()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ProviderIOS</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getTitleForState(${1:state})]]></content>
-    <tabTrigger>getTitleForState(state)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCControlButton</description>
-</snippet>

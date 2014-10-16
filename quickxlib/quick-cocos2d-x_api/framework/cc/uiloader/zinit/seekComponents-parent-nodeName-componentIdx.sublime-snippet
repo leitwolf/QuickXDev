@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[seekComponents(${1:parent}, ${2:nodeName}, ${3:componentIdx})]]></content>
+    <tabTrigger>seekComponents(parent, nodeName, componentIdx)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>uiloader</description>
+</snippet>

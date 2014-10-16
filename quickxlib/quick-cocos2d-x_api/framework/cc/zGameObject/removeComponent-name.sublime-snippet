@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeComponent(${1:name})]]></content>
-    <tabTrigger>removeComponent(name)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>GameObject</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[cc.feedback.init.new()]]></content>
-    <tabTrigger>init.new()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>feedback</description>
-</snippet>

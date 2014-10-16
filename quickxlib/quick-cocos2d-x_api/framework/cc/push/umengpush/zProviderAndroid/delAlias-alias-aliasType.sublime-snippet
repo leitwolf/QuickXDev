@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[delAlias(${1:alias}, ${2:aliasType})]]></content>
-    <tabTrigger>delAlias(alias, aliasType)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ProviderAndroid</description>
-</snippet>

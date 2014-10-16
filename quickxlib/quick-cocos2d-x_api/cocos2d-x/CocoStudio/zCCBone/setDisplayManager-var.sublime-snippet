@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setDisplayManager(${1:var})]]></content>
-    <tabTrigger>setDisplayManager(var)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCBone</description>
-</snippet>

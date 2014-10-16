@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[createPage_(${1:pageNo})]]></content>
+    <tabTrigger>createPage_(pageNo)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIPageView</description>
+</snippet>

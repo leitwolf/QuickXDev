@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[table.filter(${1:t}, ${2:fn})]]></content>
+    <tabTrigger>table.filter(t, fn)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

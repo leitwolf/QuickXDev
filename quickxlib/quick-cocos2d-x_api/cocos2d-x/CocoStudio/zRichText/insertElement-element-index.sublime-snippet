@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[insertElement(${1:element}, ${2:index})]]></content>
-    <tabTrigger>insertElement(element, index)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>RichText</description>
-</snippet>

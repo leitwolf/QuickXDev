@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[moveItems(${1:beginIdx}, ${2:endIdx}, ${3:x}, ${4:y}, ${5:bAni})]]></content>
+    <tabTrigger>moveItems(beginIdx, endIdx, x, y, bAni)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIListView</description>
+</snippet>

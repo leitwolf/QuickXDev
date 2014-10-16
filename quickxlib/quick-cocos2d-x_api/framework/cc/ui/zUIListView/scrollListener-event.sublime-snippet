@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[scrollListener(${1:event})]]></content>
+    <tabTrigger>scrollListener(event)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIListView</description>
+</snippet>

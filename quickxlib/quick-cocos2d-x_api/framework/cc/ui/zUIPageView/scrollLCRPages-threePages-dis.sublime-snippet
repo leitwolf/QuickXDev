@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[scrollLCRPages(${1:threePages}, ${2:dis})]]></content>
+    <tabTrigger>scrollLCRPages(threePages, dis)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIPageView</description>
+</snippet>

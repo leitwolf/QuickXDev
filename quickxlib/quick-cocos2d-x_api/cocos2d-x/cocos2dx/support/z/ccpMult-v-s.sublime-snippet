@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ccpMult(${1:v}, ${2:s})]]></content>
-    <tabTrigger>ccpMult(v, s)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

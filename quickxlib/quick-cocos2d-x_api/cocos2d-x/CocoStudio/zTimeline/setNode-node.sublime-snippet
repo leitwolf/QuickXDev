@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setNode(${1:node})]]></content>
-    <tabTrigger>setNode(node)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Timeline</description>
-</snippet>

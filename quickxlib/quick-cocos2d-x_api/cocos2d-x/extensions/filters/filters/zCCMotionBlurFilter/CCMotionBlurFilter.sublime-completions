@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCMotionBlurFilter:create()", "contents": "CCMotionBlurFilter:create()" },
-		{ "trigger": "CCMotionBlurFilter:create(blurSize, blurAngle)", "contents": "CCMotionBlurFilter:create(${1:blurSize}, ${2:blurAngle})" }
-	]
-}

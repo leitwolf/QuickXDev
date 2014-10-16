@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setAngleVelocityLimit(${1:limit})]]></content>
-    <tabTrigger>setAngleVelocityLimit(limit)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsBody</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ccTouchCancelled(${1:pTouch}, ${2:pEvent})]]></content>
-    <tabTrigger>ccTouchCancelled(pTouch, pEvent)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCScrollView</description>
-</snippet>

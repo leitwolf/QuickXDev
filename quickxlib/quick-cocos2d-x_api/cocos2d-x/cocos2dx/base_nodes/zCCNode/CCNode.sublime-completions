@@ -1,9 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		"kCCTouchesAllAtOnce",
-		"kCCTouchesOneByOne",
-		{ "trigger": "CCNode:create()", "contents": "CCNode:create()" }
-	]
-}

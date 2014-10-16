@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeAllDelegates()]]></content>
-    <tabTrigger>removeAllDelegates()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTouchDispatcher</description>
-</snippet>

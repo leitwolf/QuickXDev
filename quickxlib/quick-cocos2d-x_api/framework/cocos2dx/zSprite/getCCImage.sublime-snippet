@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getCCImage()]]></content>
-    <tabTrigger>getCCImage()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Sprite</description>
-</snippet>

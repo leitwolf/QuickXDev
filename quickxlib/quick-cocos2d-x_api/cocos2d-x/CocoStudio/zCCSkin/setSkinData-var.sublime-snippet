@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setSkinData(${1:var})]]></content>
-    <tabTrigger>setSkinData(var)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCSkin</description>
-</snippet>

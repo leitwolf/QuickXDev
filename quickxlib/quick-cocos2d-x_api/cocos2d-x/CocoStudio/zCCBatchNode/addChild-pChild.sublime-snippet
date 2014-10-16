@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addChild(${1:pChild})]]></content>
-    <tabTrigger>addChild(pChild)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCBatchNode</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[shareMusic()]]></content>
-    <tabTrigger>shareMusic()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ProviderIOS</description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[modifyItemSizeIf_(${1:item})]]></content>
+    <tabTrigger>modifyItemSizeIf_(item)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIListView</description>
+</snippet>

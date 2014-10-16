@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[clone()]]></content>
-    <tabTrigger>clone()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Timeline</description>
-</snippet>

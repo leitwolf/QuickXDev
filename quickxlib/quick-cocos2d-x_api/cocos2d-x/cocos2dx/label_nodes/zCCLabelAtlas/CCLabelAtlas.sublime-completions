@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCLabelAtlas:create(text, charMapFile, itemWidth, itemHeight, startCharMap)", "contents": "CCLabelAtlas:create(${1:text}, ${2:charMapFile}, ${3:itemWidth}, ${4:itemHeight}, ${5:startCharMap})" },
-		{ "trigger": "CCLabelAtlas:create(text, fntFile)", "contents": "CCLabelAtlas:create(${1:text}, ${2:fntFile})" }
-	]
-}

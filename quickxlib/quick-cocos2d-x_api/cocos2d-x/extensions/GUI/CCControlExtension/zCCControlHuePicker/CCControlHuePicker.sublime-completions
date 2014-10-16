@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCControlHuePicker:create(target, pos)", "contents": "CCControlHuePicker:create(${1:target}, ${2:pos})" }
-	]
-}

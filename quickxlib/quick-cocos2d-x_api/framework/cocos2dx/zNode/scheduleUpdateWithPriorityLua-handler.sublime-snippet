@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[scheduleUpdateWithPriorityLua(${1:handler})]]></content>
-    <tabTrigger>scheduleUpdateWithPriorityLua(handler)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Node</description>
-</snippet>

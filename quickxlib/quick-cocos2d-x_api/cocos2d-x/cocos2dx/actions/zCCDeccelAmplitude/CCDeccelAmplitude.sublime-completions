@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCDeccelAmplitude:create(pAction, duration)", "contents": "CCDeccelAmplitude:create(${1:pAction}, ${2:duration})" }
-	]
-}

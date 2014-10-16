@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isItemInViewRect(${1:item})]]></content>
+    <tabTrigger>isItemInViewRect(item)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIScrollView</description>
+</snippet>

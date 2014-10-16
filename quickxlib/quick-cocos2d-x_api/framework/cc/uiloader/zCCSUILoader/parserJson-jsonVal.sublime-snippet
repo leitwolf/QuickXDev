@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[parserJson(${1:jsonVal})]]></content>
+    <tabTrigger>parserJson(jsonVal)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSUILoader</description>
+</snippet>

@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCBrightnessFilter:create()", "contents": "CCBrightnessFilter:create()" },
-		{ "trigger": "CCBrightnessFilter:create(brightness)", "contents": "CCBrightnessFilter:create(${1:brightness})" }
-	]
-}

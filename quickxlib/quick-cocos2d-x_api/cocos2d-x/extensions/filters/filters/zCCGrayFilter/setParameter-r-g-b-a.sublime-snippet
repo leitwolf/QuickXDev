@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setParameter(${1:r}, ${2:g}, ${3:b}, ${4:a})]]></content>
-    <tabTrigger>setParameter(r, g, b, a)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCGrayFilter</description>
-</snippet>

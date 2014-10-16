@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCCallFunc:create(nHandler)", "contents": "CCCallFunc:create(${1:nHandler})" }
-	]
-}

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[boolValue()]]></content>
-    <tabTrigger>boolValue()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCString</description>
-</snippet>

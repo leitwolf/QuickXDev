@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[isPaused()]]></content>
-    <tabTrigger>isPaused()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCDirector</description>
-</snippet>

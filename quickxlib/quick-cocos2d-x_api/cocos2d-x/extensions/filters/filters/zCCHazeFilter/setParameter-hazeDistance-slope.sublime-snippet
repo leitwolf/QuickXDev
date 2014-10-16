@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setParameter(${1:hazeDistance}, ${2:slope})]]></content>
-    <tabTrigger>setParameter(hazeDistance, slope)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCHazeFilter</description>
-</snippet>

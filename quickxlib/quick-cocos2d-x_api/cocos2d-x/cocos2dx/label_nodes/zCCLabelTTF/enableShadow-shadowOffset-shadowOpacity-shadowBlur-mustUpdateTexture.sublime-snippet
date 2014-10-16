@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[enableShadow(${1:shadowOffset}, ${2:shadowOpacity}, ${3:shadowBlur}, ${4:mustUpdateTexture})]]></content>
-    <tabTrigger>enableShadow(shadowOffset, shadowOpacity, shadowBlur, mustUpdateTexture)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCLabelTTF</description>
-</snippet>

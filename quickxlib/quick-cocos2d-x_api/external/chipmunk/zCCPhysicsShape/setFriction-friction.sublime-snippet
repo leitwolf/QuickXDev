@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setFriction(${1:friction})]]></content>
-    <tabTrigger>setFriction(friction)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsShape</description>
-</snippet>

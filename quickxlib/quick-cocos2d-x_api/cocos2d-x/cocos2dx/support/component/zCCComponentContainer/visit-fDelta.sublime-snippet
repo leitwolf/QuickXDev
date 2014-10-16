@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[visit(${1:fDelta})]]></content>
-    <tabTrigger>visit(fDelta)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCComponentContainer</description>
-</snippet>

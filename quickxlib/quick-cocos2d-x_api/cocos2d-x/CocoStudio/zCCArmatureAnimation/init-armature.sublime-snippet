@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[init(${1:armature})]]></content>
-    <tabTrigger>init(armature)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCArmatureAnimation</description>
-</snippet>

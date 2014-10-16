@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setText(${1:pText})]]></content>
-    <tabTrigger>setText(pText)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCEditBox</description>
-</snippet>

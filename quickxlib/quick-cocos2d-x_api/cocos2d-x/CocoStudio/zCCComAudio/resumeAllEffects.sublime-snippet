@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[resumeAllEffects()]]></content>
-    <tabTrigger>resumeAllEffects()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCComAudio</description>
-</snippet>

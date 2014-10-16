@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.ui.UIInput.new(${1:options})]]></content>
+    <tabTrigger>UIInput.new(options)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIInput</description>
+</snippet>

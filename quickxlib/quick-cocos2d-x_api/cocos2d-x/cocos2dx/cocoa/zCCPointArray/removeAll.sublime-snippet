@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeAll()]]></content>
-    <tabTrigger>removeAll()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPointArray</description>
-</snippet>

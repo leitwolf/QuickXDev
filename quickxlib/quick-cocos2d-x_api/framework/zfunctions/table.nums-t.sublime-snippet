@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[table.nums(${1:t})]]></content>
+    <tabTrigger>table.nums(t)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

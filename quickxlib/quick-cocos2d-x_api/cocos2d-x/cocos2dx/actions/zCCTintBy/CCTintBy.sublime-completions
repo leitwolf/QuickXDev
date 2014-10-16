@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCTintBy:create(duration, deltaRed, deltaGreen, deltaBlue)", "contents": "CCTintBy:create(${1:duration}, ${2:deltaRed}, ${3:deltaGreen}, ${4:deltaBlue})" }
-	]
-}

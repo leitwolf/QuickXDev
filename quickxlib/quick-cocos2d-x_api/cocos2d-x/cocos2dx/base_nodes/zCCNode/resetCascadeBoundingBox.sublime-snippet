@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[resetCascadeBoundingBox()]]></content>
-    <tabTrigger>resetCascadeBoundingBox()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

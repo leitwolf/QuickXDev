@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setStringValue(${1:value})]]></content>
-    <tabTrigger>setStringValue(value)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>LabelAtlas</description>
-</snippet>

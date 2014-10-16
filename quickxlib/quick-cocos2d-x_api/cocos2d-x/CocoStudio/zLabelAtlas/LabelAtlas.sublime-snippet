@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[LabelAtlas()]]></content>
-    <tabTrigger>LabelAtlas()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>LabelAtlas</description>
-</snippet>

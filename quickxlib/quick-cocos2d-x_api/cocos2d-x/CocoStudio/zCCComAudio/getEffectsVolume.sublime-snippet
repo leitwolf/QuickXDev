@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getEffectsVolume()]]></content>
-    <tabTrigger>getEffectsVolume()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCComAudio</description>
-</snippet>

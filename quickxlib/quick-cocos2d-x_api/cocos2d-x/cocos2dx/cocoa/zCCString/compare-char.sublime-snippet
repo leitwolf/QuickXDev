@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[compare(${1:char})]]></content>
-    <tabTrigger>compare(char)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCString</description>
-</snippet>

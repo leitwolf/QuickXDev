@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setBackgroundMusicVolume(${1:volume})]]></content>
-    <tabTrigger>setBackgroundMusicVolume(volume)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCComAudio</description>
-</snippet>

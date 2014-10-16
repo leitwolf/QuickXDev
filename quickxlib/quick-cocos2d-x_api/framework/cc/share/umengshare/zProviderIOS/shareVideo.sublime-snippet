@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[shareVideo()]]></content>
-    <tabTrigger>shareVideo()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ProviderIOS</description>
-</snippet>

@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCDisplayManager:create(bone)", "contents": "CCDisplayManager:create(${1:bone})" }
-	]
-}

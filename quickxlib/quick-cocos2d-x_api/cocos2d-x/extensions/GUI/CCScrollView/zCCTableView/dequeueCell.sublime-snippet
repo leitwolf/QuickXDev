@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[dequeueCell()]]></content>
-    <tabTrigger>dequeueCell()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTableView</description>
-</snippet>

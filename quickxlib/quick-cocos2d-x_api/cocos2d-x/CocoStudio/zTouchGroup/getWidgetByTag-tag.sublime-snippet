@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getWidgetByTag(${1:tag})]]></content>
-    <tabTrigger>getWidgetByTag(tag)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>TouchGroup</description>
-</snippet>

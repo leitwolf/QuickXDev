@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getLoop()]]></content>
-    <tabTrigger>getLoop()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ActionObject</description>
-</snippet>

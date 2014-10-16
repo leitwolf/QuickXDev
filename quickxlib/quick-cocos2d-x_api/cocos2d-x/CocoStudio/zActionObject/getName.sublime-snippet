@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getName()]]></content>
-    <tabTrigger>getName()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ActionObject</description>
-</snippet>

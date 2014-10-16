@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[updateToFrameByTime(${1:fTime})]]></content>
-    <tabTrigger>updateToFrameByTime(fTime)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ActionObject</description>
-</snippet>

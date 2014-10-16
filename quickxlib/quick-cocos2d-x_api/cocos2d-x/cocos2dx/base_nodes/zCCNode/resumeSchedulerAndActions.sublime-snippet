@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[resumeSchedulerAndActions()]]></content>
-    <tabTrigger>resumeSchedulerAndActions()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

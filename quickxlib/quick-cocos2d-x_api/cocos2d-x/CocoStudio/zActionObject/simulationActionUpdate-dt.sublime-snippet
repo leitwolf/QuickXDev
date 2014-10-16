@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[simulationActionUpdate(${1:dt})]]></content>
-    <tabTrigger>simulationActionUpdate(dt)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ActionObject</description>
-</snippet>

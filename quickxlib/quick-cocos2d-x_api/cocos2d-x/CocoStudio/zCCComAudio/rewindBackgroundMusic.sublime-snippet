@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[rewindBackgroundMusic()]]></content>
-    <tabTrigger>rewindBackgroundMusic()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCComAudio</description>
-</snippet>

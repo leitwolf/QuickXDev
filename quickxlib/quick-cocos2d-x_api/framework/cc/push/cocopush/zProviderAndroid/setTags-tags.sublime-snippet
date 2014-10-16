@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setTags(${1:tags})]]></content>
-    <tabTrigger>setTags(tags)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ProviderAndroid</description>
-</snippet>

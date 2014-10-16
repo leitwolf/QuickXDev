@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getDisplayRenderNode()]]></content>
-    <tabTrigger>getDisplayRenderNode()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCDisplayManager</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setRect(${1:x}, ${2:y}, ${3:width}, ${4:height})]]></content>
-    <tabTrigger>setRect(x, y, width, height)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCRect</description>
-</snippet>

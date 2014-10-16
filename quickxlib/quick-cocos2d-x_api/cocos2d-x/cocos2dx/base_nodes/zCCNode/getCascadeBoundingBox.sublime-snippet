@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getCascadeBoundingBox()]]></content>
-    <tabTrigger>getCascadeBoundingBox()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

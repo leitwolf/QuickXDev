@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCTiledGrid3DAction:create(duration, gridSize)", "contents": "CCTiledGrid3DAction:create(${1:duration}, ${2:gridSize})" }
-	]
-}

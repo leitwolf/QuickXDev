@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[table.map(${1:t}, ${2:fn})]]></content>
+    <tabTrigger>table.map(t, fn)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

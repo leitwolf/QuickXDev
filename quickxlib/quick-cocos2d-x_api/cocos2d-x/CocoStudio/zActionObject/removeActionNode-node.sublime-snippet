@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeActionNode(${1:node})]]></content>
-    <tabTrigger>removeActionNode(node)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ActionObject</description>
-</snippet>

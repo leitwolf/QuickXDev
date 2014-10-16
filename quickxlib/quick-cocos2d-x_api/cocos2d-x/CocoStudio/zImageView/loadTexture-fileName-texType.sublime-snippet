@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[loadTexture(${1:fileName}, ${2:texType})]]></content>
-    <tabTrigger>loadTexture(fileName, texType)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ImageView</description>
-</snippet>

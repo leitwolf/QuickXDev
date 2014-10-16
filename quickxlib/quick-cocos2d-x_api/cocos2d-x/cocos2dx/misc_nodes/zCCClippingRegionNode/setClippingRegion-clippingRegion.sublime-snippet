@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setClippingRegion(${1:clippingRegion})]]></content>
-    <tabTrigger>setClippingRegion(clippingRegion)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCClippingRegionNode</description>
-</snippet>

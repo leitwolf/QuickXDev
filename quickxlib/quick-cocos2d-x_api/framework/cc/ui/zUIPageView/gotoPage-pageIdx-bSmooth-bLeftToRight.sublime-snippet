@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[gotoPage(${1:pageIdx}, ${2:bSmooth}, ${3:bLeftToRight})]]></content>
+    <tabTrigger>gotoPage(pageIdx, bSmooth, bLeftToRight)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIPageView</description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setSpeedScale(${1:speedScale})]]></content>
-    <tabTrigger>setSpeedScale(speedScale)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCArmatureAnimation</description>
-</snippet>

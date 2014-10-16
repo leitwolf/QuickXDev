@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addCollisionScriptListener(${1:handler}, ${2:collisionTypeA}, ${3:collisionTypeB})]]></content>
-    <tabTrigger>addCollisionScriptListener(handler, collisionTypeA, collisionTypeB)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsWorld</description>
-</snippet>

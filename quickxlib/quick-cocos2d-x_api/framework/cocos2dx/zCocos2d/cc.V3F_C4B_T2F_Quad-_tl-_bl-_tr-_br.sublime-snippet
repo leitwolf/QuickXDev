@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.V3F_C4B_T2F_Quad(${1:_tl}, ${2:_bl}, ${3:_tr}, ${4:_br})]]></content>
+    <tabTrigger>cc.V3F_C4B_T2F_Quad(_tl, _bl, _tr, _br)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UIListView.TOUCH_DELEGATE]]></content>
+    <tabTrigger>UIListView.TOUCH_DELEGATE</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

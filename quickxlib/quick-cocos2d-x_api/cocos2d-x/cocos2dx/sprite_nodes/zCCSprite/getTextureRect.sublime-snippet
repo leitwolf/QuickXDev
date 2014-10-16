@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getTextureRect()]]></content>
-    <tabTrigger>getTextureRect()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCSprite</description>
-</snippet>

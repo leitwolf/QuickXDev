@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getInsetRight()]]></content>
-    <tabTrigger>getInsetRight()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCScale9Sprite</description>
-</snippet>

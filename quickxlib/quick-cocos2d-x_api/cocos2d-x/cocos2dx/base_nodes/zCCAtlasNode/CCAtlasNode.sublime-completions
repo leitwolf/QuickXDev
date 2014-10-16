@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCAtlasNode:create(tile, tileWidth, tileHeight, itemsToRender)", "contents": "CCAtlasNode:create(${1:tile}, ${2:tileWidth}, ${3:tileHeight}, ${4:itemsToRender})" }
-	]
-}

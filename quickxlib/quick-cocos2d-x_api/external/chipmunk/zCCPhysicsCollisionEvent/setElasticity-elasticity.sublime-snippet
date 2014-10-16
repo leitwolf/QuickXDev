@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setElasticity(${1:elasticity})]]></content>
-    <tabTrigger>setElasticity(elasticity)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsCollisionEvent</description>
-</snippet>

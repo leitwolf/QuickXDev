@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getActionByName(${1:jsonName}, ${2:actionName})]]></content>
-    <tabTrigger>getActionByName(jsonName, actionName)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ActionManager</description>
-</snippet>

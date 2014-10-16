@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[scrollViewDidScroll(${1:view})]]></content>
-    <tabTrigger>scrollViewDidScroll(view)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTableView</description>
-</snippet>

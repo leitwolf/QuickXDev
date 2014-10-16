@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setArmatureData(${1:var})]]></content>
-    <tabTrigger>setArmatureData(var)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCArmature</description>
-</snippet>

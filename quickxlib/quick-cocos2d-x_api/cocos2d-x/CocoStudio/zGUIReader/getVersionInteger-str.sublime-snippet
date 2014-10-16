@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getVersionInteger(${1:str})]]></content>
-    <tabTrigger>getVersionInteger(str)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>GUIReader</description>
-</snippet>

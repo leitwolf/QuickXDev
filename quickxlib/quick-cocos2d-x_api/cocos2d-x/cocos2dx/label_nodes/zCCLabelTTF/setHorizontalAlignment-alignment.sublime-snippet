@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setHorizontalAlignment(${1:alignment})]]></content>
-    <tabTrigger>setHorizontalAlignment(alignment)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCLabelTTF</description>
-</snippet>

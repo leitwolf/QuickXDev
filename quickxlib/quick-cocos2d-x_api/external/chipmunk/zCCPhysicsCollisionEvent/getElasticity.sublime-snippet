@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getElasticity()]]></content>
-    <tabTrigger>getElasticity()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsCollisionEvent</description>
-</snippet>

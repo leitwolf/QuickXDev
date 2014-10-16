@@ -1,9 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCLayerGradient:create(start, end, v)", "contents": "CCLayerGradient:create(${1:start}, ${2:end}, ${3:v})" },
-		{ "trigger": "CCLayerGradient:create(start, end)", "contents": "CCLayerGradient:create(${1:start}, ${2:end})" },
-		{ "trigger": "CCLayerGradient:create()", "contents": "CCLayerGradient:create()" }
-	]
-}

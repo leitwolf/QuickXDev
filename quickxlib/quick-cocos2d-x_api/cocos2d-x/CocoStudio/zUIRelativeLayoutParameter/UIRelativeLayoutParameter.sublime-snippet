@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[UIRelativeLayoutParameter()]]></content>
-    <tabTrigger>UIRelativeLayoutParameter()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>UIRelativeLayoutParameter</description>
-</snippet>

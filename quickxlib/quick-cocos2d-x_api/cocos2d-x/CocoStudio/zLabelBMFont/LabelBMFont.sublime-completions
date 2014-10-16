@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "LabelBMFont:create()", "contents": "LabelBMFont:create()" }
-	]
-}

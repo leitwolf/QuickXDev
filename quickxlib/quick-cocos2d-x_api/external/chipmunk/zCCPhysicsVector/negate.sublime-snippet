@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[negate()]]></content>
-    <tabTrigger>negate()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsVector</description>
-</snippet>

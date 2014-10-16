@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeWidget(${1:widget})]]></content>
-    <tabTrigger>removeWidget(widget)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>TouchGroup</description>
-</snippet>

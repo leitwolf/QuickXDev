@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[isDone()]]></content>
-    <tabTrigger>isDone()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ActionTimeline</description>
-</snippet>

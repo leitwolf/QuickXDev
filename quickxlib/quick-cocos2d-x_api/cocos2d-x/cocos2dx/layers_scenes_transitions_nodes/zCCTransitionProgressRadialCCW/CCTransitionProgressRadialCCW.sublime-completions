@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCTransitionProgressRadialCCW:create(t, scene)", "contents": "CCTransitionProgressRadialCCW:create(${1:t}, ${2:scene})" }
-	]
-}

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ccpForAngle(${1:a})]]></content>
-    <tabTrigger>ccpForAngle(a)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

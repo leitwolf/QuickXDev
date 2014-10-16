@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setAlphaThreshold(${1:fAlphaThreshold})]]></content>
-    <tabTrigger>setAlphaThreshold(fAlphaThreshold)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCClippingNode</description>
-</snippet>

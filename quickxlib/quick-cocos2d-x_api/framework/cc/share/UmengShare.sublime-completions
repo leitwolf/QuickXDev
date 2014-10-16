@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "UmengShare.getInstance(interface)", "contents": "UmengShare.getInstance(${1:interface})" }
-	]
-}

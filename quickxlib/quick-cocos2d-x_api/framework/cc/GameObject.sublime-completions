@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "GameObject.extend(target)", "contents": "GameObject.extend(${1:target})" }
-	]
-}

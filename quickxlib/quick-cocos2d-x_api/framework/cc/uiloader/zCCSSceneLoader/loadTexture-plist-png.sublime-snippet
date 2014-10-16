@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[loadTexture(${1:plist}, ${2:png})]]></content>
+    <tabTrigger>loadTexture(plist, png)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSSceneLoader</description>
+</snippet>

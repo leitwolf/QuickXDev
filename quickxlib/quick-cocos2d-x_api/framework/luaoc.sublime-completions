@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "luaoc.callStaticMethod(className, methodName, args)", "contents": "luaoc.callStaticMethod(${1:className}, ${2:methodName}, ${3:args})" }
-	]
-}

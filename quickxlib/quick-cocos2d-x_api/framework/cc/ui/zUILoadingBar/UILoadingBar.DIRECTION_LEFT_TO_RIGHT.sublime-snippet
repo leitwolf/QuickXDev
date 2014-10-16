@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UILoadingBar.DIRECTION_LEFT_TO_RIGHT]]></content>
+    <tabTrigger>UILoadingBar.DIRECTION_LEFT_TO_RIGHT</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

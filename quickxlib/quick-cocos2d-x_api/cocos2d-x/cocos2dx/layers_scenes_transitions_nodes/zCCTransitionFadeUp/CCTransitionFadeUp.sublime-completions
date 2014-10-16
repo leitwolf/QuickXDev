@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCTransitionFadeUp:create(t, scene)", "contents": "CCTransitionFadeUp:create(${1:t}, ${2:scene})" }
-	]
-}

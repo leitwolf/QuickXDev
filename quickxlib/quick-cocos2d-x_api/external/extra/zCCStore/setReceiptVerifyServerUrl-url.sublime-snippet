@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setReceiptVerifyServerUrl(${1:url})]]></content>
-    <tabTrigger>setReceiptVerifyServerUrl(url)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCStore</description>
-</snippet>

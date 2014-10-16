@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getFile()]]></content>
-    <tabTrigger>getFile()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCComAudio</description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[generateUINode(${1:jsonNode}, ${2:transX}, ${3:transY}, ${4:parent})]]></content>
+    <tabTrigger>generateUINode(jsonNode, transX, transY, parent)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSUILoader</description>
+</snippet>

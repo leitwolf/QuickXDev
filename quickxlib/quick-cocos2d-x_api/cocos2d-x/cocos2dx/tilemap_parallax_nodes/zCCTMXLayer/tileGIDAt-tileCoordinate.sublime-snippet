@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[tileGIDAt(${1:tileCoordinate})]]></content>
-    <tabTrigger>tileGIDAt(tileCoordinate)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTMXLayer</description>
-</snippet>

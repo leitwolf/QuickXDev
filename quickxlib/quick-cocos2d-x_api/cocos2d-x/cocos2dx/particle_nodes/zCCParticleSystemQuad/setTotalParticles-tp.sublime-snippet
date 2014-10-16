@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setTotalParticles(${1:tp})]]></content>
-    <tabTrigger>setTotalParticles(tp)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCParticleSystemQuad</description>
-</snippet>

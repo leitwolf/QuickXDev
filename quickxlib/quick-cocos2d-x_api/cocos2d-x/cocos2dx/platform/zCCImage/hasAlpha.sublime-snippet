@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[hasAlpha()]]></content>
-    <tabTrigger>hasAlpha()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCImage</description>
-</snippet>

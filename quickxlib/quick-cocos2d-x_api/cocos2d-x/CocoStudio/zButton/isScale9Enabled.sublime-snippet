@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[isScale9Enabled()]]></content>
-    <tabTrigger>isScale9Enabled()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Button</description>
-</snippet>

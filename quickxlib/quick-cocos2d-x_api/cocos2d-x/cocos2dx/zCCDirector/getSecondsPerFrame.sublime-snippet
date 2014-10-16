@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getSecondsPerFrame()]]></content>
-    <tabTrigger>getSecondsPerFrame()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCDirector</description>
-</snippet>

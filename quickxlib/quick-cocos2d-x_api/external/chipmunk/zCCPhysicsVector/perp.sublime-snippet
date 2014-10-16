@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[perp()]]></content>
-    <tabTrigger>perp()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsVector</description>
-</snippet>

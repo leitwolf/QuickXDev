@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCGrayFilter:create()", "contents": "CCGrayFilter:create()" },
-		{ "trigger": "CCGrayFilter:create(r, g, b, a)", "contents": "CCGrayFilter:create(${1:r}, ${2:g}, ${3:b}, ${4:a})" }
-	]
-}

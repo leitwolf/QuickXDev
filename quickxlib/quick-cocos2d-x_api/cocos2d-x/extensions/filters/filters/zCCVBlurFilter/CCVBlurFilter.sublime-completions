@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCVBlurFilter:create()", "contents": "CCVBlurFilter:create()" },
-		{ "trigger": "CCVBlurFilter:create(param)", "contents": "CCVBlurFilter:create(${1:param})" }
-	]
-}

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[gotoFrameAndPlay(${1:startIndex})]]></content>
-    <tabTrigger>gotoFrameAndPlay(startIndex)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ActionTimeline</description>
-</snippet>

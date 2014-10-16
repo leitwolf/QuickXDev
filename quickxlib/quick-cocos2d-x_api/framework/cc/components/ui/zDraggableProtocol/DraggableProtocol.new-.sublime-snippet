@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.components.ui.DraggableProtocol.new()]]></content>
+    <tabTrigger>DraggableProtocol.new()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>DraggableProtocol</description>
+</snippet>

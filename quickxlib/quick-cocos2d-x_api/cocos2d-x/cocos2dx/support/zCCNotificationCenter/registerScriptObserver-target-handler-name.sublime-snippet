@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[registerScriptObserver(${1:target}, ${2:handler}, ${3:name})]]></content>
-    <tabTrigger>registerScriptObserver(target, handler, name)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNotificationCenter</description>
-</snippet>

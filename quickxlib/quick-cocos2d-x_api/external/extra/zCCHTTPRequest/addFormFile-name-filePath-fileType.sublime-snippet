@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addFormFile(${1:name}, ${2:filePath}, ${3:fileType})]]></content>
-    <tabTrigger>addFormFile(name, filePath, fileType)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCHTTPRequest</description>
-</snippet>

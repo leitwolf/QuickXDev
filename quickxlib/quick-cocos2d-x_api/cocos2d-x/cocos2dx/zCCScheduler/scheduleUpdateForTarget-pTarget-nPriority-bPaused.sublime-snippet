@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[scheduleUpdateForTarget(${1:pTarget}, ${2:nPriority}, ${3:bPaused})]]></content>
-    <tabTrigger>scheduleUpdateForTarget(pTarget, nPriority, bPaused)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCScheduler</description>
-</snippet>

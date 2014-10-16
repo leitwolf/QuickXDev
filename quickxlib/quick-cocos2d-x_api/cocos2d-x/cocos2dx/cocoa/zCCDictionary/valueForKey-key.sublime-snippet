@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[valueForKey(${1:key})]]></content>
-    <tabTrigger>valueForKey(key)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCDictionary</description>
-</snippet>

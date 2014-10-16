@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[storeFileDesignSize(${1:fileName}, ${2:size})]]></content>
-    <tabTrigger>storeFileDesignSize(fileName, size)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>GUIReader</description>
-</snippet>

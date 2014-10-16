@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[layout_()]]></content>
+    <tabTrigger>layout_()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIListView</description>
+</snippet>

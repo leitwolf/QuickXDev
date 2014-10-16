@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[createNode(${1:filename})]]></content>
-    <tabTrigger>createNode(filename)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>NodeReader</description>
-</snippet>

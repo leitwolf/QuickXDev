@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[step(${1:delta})]]></content>
-    <tabTrigger>step(delta)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ActionTimeline</description>
-</snippet>

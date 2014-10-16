@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getBone()]]></content>
-    <tabTrigger>getBone()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCSkin</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getFileDataFromZip(${1:pszZipFilePath}, ${2:pszFileName})]]></content>
-    <tabTrigger>getFileDataFromZip(pszZipFilePath, pszFileName)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCFileUtils</description>
-</snippet>

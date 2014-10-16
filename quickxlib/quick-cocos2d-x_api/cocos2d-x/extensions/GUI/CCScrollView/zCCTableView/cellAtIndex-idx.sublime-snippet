@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[cellAtIndex(${1:idx})]]></content>
-    <tabTrigger>cellAtIndex(idx)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTableView</description>
-</snippet>

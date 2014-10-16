@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UILoaderUtilitys.isSearchExist(${1:dir})]]></content>
+    <tabTrigger>UILoaderUtilitys.isSearchExist(dir)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

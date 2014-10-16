@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getBoundingBox()]]></content>
-    <tabTrigger>getBoundingBox()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCDisplayManager</description>
-</snippet>

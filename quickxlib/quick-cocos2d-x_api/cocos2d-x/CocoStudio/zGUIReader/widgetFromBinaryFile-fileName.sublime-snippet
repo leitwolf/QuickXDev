@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[widgetFromBinaryFile(${1:fileName})]]></content>
-    <tabTrigger>widgetFromBinaryFile(fileName)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>GUIReader</description>
-</snippet>

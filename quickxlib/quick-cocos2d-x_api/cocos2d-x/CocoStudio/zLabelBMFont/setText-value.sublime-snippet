@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setText(${1:value})]]></content>
-    <tabTrigger>setText(value)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>LabelBMFont</description>
-</snippet>

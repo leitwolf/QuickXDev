@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[loadTextureNormal(${1:normal}, ${2:texType})]]></content>
-    <tabTrigger>loadTextureNormal(normal, texType)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Button</description>
-</snippet>

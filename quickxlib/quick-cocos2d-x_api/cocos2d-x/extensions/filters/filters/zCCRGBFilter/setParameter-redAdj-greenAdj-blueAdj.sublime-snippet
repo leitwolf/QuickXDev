@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setParameter(${1:redAdj}, ${2:greenAdj}, ${3:blueAdj})]]></content>
-    <tabTrigger>setParameter(redAdj, greenAdj, blueAdj)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCRGBFilter</description>
-</snippet>

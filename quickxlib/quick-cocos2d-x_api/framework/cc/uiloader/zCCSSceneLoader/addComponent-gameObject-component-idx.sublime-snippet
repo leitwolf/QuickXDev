@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addComponent(${1:gameObject}, ${2:component}, ${3:idx})]]></content>
+    <tabTrigger>addComponent(gameObject, component, idx)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSSceneLoader</description>
+</snippet>

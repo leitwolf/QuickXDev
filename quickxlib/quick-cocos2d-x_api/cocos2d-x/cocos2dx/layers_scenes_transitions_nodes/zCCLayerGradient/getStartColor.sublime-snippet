@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getStartColor()]]></content>
-    <tabTrigger>getStartColor()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCLayerGradient</description>
-</snippet>

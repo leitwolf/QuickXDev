@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setPosition(${1:point})]]></content>
-    <tabTrigger>setPosition(point)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getGroupName()]]></content>
-    <tabTrigger>getGroupName()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTMXObjectGroup</description>
-</snippet>

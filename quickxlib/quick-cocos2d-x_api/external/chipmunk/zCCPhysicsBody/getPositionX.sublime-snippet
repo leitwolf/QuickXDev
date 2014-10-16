@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getPositionX()]]></content>
-    <tabTrigger>getPositionX()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsBody</description>
-</snippet>

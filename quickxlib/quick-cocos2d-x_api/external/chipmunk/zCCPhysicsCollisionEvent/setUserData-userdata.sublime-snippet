@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setUserData(${1:userdata})]]></content>
-    <tabTrigger>setUserData(userdata)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsCollisionEvent</description>
-</snippet>

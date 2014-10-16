@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getSkinData()]]></content>
-    <tabTrigger>getSkinData()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCSkin</description>
-</snippet>

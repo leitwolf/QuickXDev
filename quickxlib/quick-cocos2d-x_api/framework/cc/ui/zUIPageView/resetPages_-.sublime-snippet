@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[resetPages_()]]></content>
+    <tabTrigger>resetPages_()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIPageView</description>
+</snippet>

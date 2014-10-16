@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setFill(${1:fill})]]></content>
-    <tabTrigger>setFill(fill)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCRectShape</description>
-</snippet>

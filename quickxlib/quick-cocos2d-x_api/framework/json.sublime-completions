@@ -1,9 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "json.encode(var)", "contents": "json.encode(${1:var})" },
-		{ "trigger": "json.decode(text)", "contents": "json.decode(${1:text})" },
-		"json.null"
-	]
-}

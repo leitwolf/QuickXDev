@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[audio.stopSound(${1:handle})]]></content>
+    <tabTrigger>audio.stopSound(handle)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

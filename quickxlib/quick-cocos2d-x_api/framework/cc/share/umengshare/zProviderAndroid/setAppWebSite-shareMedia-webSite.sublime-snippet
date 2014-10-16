@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setAppWebSite(${1:shareMedia}, ${2:webSite})]]></content>
-    <tabTrigger>setAppWebSite(shareMedia, webSite)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ProviderAndroid</description>
-</snippet>

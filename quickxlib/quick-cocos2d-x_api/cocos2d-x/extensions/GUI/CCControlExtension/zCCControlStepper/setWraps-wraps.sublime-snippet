@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setWraps(${1:wraps})]]></content>
-    <tabTrigger>setWraps(wraps)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCControlStepper</description>
-</snippet>

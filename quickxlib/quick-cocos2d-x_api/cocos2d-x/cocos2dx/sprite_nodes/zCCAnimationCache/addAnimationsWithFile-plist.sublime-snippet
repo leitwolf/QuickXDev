@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addAnimationsWithFile(${1:plist})]]></content>
-    <tabTrigger>addAnimationsWithFile(plist)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCAnimationCache</description>
-</snippet>

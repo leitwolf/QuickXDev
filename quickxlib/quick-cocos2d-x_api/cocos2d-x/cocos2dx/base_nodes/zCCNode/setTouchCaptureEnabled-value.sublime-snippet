@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setTouchCaptureEnabled(${1:value})]]></content>
-    <tabTrigger>setTouchCaptureEnabled(value)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

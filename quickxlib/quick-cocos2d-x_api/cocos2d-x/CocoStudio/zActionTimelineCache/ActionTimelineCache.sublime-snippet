@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ActionTimelineCache()]]></content>
-    <tabTrigger>ActionTimelineCache()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ActionTimelineCache</description>
-</snippet>

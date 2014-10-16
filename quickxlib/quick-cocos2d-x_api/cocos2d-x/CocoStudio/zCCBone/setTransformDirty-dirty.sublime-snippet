@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setTransformDirty(${1:dirty})]]></content>
-    <tabTrigger>setTransformDirty(dirty)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCBone</description>
-</snippet>

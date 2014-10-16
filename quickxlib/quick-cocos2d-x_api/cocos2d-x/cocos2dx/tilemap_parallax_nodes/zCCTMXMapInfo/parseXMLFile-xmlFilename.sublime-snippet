@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[parseXMLFile(${1:xmlFilename})]]></content>
-    <tabTrigger>parseXMLFile(xmlFilename)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTMXMapInfo</description>
-</snippet>

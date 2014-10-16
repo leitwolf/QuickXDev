@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[display.newFrames(${1:pattern}, ${2:begin}, ${3:length}, ${4:isReversed})]]></content>
+    <tabTrigger>display.newFrames(pattern, begin, length, isReversed)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

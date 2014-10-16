@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addKeypadEventListener(${1:listener})]]></content>
-    <tabTrigger>addKeypadEventListener(listener)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Layer</description>
-</snippet>

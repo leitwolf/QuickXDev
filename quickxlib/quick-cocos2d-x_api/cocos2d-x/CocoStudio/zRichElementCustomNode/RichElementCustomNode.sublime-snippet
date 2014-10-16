@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[RichElementCustomNode()]]></content>
-    <tabTrigger>RichElementCustomNode()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>RichElementCustomNode</description>
-</snippet>

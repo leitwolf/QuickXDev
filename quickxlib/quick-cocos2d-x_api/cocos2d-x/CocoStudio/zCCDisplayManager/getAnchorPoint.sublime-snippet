@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getAnchorPoint()]]></content>
-    <tabTrigger>getAnchorPoint()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCDisplayManager</description>
-</snippet>

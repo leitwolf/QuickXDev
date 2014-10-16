@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCMenuItemSprite:create(normalSprite, selectedSprite, disabledSprite)", "contents": "CCMenuItemSprite:create(${1:normalSprite}, ${2:selectedSprite}, ${3:disabledSprite})" }
-	]
-}

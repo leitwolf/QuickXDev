@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[display.COLOR_GREEN]]></content>
+    <tabTrigger>display.COLOR_GREEN</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[loadTexturePressed(${1:selected}, ${2:texType})]]></content>
-    <tabTrigger>loadTexturePressed(selected, texType)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Button</description>
-</snippet>

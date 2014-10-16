@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[createListView(${1:options})]]></content>
+    <tabTrigger>createListView(options)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSUILoader</description>
+</snippet>

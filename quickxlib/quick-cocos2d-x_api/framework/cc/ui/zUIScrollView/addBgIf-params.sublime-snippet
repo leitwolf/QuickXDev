@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addBgIf(${1:params})]]></content>
+    <tabTrigger>addBgIf(params)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIScrollView</description>
+</snippet>

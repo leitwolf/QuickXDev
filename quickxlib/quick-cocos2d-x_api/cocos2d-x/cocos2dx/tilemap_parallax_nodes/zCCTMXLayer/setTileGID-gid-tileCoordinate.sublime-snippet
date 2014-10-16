@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setTileGID(${1:gid}, ${2:tileCoordinate})]]></content>
-    <tabTrigger>setTileGID(gid, tileCoordinate)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTMXLayer</description>
-</snippet>

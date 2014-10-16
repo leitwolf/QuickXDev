@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[registerScriptTapHandler(${1:handler})]]></content>
-    <tabTrigger>registerScriptTapHandler(handler)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>MenuItem</description>
-</snippet>

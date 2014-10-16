@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTexturePng(${1:plist})]]></content>
+    <tabTrigger>getTexturePng(plist)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSUILoader</description>
+</snippet>

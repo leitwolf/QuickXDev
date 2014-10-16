@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "luaj.callStaticMethod(className, methodName, args, sig)", "contents": "luaj.callStaticMethod(${1:className}, ${2:methodName}, ${3:args}, ${4:sig})" }
-	]
-}

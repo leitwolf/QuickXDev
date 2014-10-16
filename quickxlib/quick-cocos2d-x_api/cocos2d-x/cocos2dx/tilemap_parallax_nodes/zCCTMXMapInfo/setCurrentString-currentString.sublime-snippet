@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setCurrentString(${1:currentString})]]></content>
-    <tabTrigger>setCurrentString(currentString)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTMXMapInfo</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setContainer(${1:pContainer})]]></content>
-    <tabTrigger>setContainer(pContainer)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCScrollView</description>
-</snippet>

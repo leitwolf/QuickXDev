@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getStringLength()]]></content>
-    <tabTrigger>getStringLength()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Label</description>
-</snippet>

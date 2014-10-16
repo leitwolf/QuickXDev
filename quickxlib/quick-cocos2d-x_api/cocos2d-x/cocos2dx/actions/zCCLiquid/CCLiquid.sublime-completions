@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCLiquid:create(duration, gridSize, waves, amplitude)", "contents": "CCLiquid:create(${1:duration}, ${2:gridSize}, ${3:waves}, ${4:amplitude})" }
-	]
-}

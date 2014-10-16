@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getValue(${1:x}, ${2:y})]]></content>
-    <tabTrigger>getValue(x, y)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsVector</description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[createImage(${1:options})]]></content>
+    <tabTrigger>createImage(options)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSUILoader</description>
+</snippet>

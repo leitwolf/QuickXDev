@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[NODE_TOUCH_TARGETING_PHASE]]></content>
+    <tabTrigger>NODE_TOUCH_TARGETING_PHASE</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

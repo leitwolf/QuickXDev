@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[loadShader()]]></content>
-    <tabTrigger>loadShader()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCSepiaFilter</description>
-</snippet>

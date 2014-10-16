@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[stopActionByTag(${1:tag})]]></content>
-    <tabTrigger>stopActionByTag(tag)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

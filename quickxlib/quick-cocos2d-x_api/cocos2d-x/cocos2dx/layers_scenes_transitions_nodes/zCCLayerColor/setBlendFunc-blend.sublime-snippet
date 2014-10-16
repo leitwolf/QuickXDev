@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setBlendFunc(${1:blend})]]></content>
-    <tabTrigger>setBlendFunc(blend)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCLayerColor</description>
-</snippet>

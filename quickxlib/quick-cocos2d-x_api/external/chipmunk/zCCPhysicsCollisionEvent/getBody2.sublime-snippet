@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getBody2()]]></content>
-    <tabTrigger>getBody2()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsCollisionEvent</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[isOpacityModifyRGB()]]></content>
-    <tabTrigger>isOpacityModifyRGB()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCLayerColor</description>
-</snippet>

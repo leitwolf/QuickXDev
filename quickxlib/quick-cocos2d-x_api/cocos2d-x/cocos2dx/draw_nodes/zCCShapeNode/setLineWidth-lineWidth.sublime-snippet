@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setLineWidth(${1:lineWidth})]]></content>
-    <tabTrigger>setLineWidth(lineWidth)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCShapeNode</description>
-</snippet>

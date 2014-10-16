@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setFlipX(${1:flipX})]]></content>
-    <tabTrigger>setFlipX(flipX)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ImageView</description>
-</snippet>

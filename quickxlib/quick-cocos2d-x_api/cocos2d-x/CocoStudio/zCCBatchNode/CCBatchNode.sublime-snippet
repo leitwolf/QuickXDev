@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[CCBatchNode()]]></content>
-    <tabTrigger>CCBatchNode()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCBatchNode</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setAdditionalTransform(${1:additionalTransform})]]></content>
-    <tabTrigger>setAdditionalTransform(additionalTransform)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

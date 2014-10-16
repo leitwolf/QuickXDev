@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[createSprite(${1:options})]]></content>
+    <tabTrigger>createSprite(options)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSUILoader</description>
+</snippet>

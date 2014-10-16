@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeAllObservers(${1:target})]]></content>
-    <tabTrigger>removeAllObservers(target)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNotificationCenter</description>
-</snippet>

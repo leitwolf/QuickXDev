@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[shareMusic(${1:text}, ${2:music}, ${3:musicImg}, ${4:title}, ${5:author})]]></content>
-    <tabTrigger>shareMusic(text, music, musicImg, title, author)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ProviderAndroid</description>
-</snippet>

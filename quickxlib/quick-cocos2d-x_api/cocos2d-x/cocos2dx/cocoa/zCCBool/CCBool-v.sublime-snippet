@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[CCBool(${1:v})]]></content>
-    <tabTrigger>CCBool(v)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCBool</description>
-</snippet>

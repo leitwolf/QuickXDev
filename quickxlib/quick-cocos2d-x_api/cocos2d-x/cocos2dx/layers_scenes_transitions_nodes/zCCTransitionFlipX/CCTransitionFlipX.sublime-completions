@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCTransitionFlipX:create(t, s, o)", "contents": "CCTransitionFlipX:create(${1:t}, ${2:s}, ${3:o})" },
-		{ "trigger": "CCTransitionFlipX:create(t, s)", "contents": "CCTransitionFlipX:create(${1:t}, ${2:s})" }
-	]
-}

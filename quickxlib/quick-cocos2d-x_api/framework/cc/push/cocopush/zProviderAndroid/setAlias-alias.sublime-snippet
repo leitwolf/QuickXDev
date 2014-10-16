@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setAlias(${1:alias})]]></content>
-    <tabTrigger>setAlias(alias)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ProviderAndroid</description>
-</snippet>

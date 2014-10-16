@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[dist(${1:other})]]></content>
-    <tabTrigger>dist(other)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsBody</description>
-</snippet>

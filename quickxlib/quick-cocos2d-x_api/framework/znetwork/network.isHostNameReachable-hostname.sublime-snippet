@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[network.isHostNameReachable(${1:hostname})]]></content>
+    <tabTrigger>network.isHostNameReachable(hostname)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

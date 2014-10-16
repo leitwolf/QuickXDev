@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[GameState.ERROR_STATE_FILE_NOT_FOUND]]></content>
+    <tabTrigger>GameState.ERROR_STATE_FILE_NOT_FOUND</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

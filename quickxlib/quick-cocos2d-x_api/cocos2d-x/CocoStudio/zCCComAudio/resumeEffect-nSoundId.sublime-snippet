@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[resumeEffect(${1:nSoundId})]]></content>
-    <tabTrigger>resumeEffect(nSoundId)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCComAudio</description>
-</snippet>

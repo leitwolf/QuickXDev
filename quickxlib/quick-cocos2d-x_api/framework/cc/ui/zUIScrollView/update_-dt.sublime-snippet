@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[update_(${1:dt})]]></content>
+    <tabTrigger>update_(dt)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIScrollView</description>
+</snippet>

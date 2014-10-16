@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setDrawLineToCenter(${1:drawLineToCenter})]]></content>
-    <tabTrigger>setDrawLineToCenter(drawLineToCenter)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCCircleShape</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[cc.update.init.new()]]></content>
-    <tabTrigger>init.new()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>update</description>
-</snippet>

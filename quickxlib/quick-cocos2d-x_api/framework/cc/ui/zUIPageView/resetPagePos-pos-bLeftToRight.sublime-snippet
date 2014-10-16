@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[resetPagePos(${1:pos}, ${2:bLeftToRight})]]></content>
+    <tabTrigger>resetPagePos(pos, bLeftToRight)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIPageView</description>
+</snippet>

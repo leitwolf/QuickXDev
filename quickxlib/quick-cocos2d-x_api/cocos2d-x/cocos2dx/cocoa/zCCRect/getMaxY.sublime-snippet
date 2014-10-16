@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getMaxY()]]></content>
-    <tabTrigger>getMaxY()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCRect</description>
-</snippet>

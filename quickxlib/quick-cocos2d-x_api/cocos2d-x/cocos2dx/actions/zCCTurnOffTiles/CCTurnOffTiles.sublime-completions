@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCTurnOffTiles:create(duration, gridSize, seed)", "contents": "CCTurnOffTiles:create(${1:duration}, ${2:gridSize}, ${3:seed})" },
-		{ "trigger": "CCTurnOffTiles:create(duration, gridSize)", "contents": "CCTurnOffTiles:create(${1:duration}, ${2:gridSize})" }
-	]
-}

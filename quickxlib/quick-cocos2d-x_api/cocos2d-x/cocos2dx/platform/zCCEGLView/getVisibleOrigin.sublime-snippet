@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getVisibleOrigin()]]></content>
-    <tabTrigger>getVisibleOrigin()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCEGLView</description>
-</snippet>

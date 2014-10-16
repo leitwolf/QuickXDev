@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setAnimationInterval(${1:dValue})]]></content>
-    <tabTrigger>setAnimationInterval(dValue)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCDirector</description>
-</snippet>

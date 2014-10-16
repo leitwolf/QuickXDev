@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCExposureFilter:create()", "contents": "CCExposureFilter:create()" },
-		{ "trigger": "CCExposureFilter:create(param)", "contents": "CCExposureFilter:create(${1:param})" }
-	]
-}

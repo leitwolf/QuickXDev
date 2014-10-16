@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setMidpoint(${1:p})]]></content>
-    <tabTrigger>setMidpoint(p)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCProgressTimer</description>
-</snippet>

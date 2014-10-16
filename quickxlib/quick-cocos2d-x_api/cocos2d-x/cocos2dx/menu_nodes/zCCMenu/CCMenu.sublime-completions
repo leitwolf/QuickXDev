@@ -1,9 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCMenu:create()", "contents": "CCMenu:create()" },
-		{ "trigger": "CCMenu:createWithArray(pArrayOfItems)", "contents": "CCMenu:createWithArray(${1:pArrayOfItems})" },
-		{ "trigger": "CCMenu:createWithItem(item)", "contents": "CCMenu:createWithItem(${1:item})" }
-	]
-}

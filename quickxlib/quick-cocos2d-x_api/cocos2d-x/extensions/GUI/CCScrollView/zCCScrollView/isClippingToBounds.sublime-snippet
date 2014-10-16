@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[isClippingToBounds()]]></content>
-    <tabTrigger>isClippingToBounds()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCScrollView</description>
-</snippet>

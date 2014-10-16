@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setUserObject(${1:pUserObject})]]></content>
-    <tabTrigger>setUserObject(pUserObject)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

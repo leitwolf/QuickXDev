@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[transition.playAnimationOnce(${1:target}, ${2:animation}, ${3:removeWhenFinished}, ${4:onComplete}, ${5:delay})]]></content>
+    <tabTrigger>transition.playAnimationOnce(target, animation, removeWhenFinished, onComplete, delay)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

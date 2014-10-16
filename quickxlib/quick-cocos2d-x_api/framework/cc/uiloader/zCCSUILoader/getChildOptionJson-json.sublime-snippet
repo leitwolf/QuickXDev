@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getChildOptionJson(${1:json})]]></content>
+    <tabTrigger>getChildOptionJson(json)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSUILoader</description>
+</snippet>

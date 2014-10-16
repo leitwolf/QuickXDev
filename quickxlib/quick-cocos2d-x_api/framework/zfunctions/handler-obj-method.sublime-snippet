@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[handler(${1:obj}, ${2:method})]]></content>
+    <tabTrigger>handler(obj, method)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

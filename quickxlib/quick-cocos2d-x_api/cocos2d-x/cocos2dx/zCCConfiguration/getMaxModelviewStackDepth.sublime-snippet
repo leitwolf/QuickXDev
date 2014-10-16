@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getMaxModelviewStackDepth()]]></content>
-    <tabTrigger>getMaxModelviewStackDepth()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCConfiguration</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ccpFuzzyEqual(${1:a}, ${2:b}, ${3:variance})]]></content>
-    <tabTrigger>ccpFuzzyEqual(a, b, variance)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

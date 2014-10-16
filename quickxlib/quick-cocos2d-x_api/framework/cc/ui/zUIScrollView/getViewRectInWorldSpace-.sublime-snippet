@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getViewRectInWorldSpace()]]></content>
+    <tabTrigger>getViewRectInWorldSpace()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIScrollView</description>
+</snippet>

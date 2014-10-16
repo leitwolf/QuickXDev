@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getBool(${1:key}, ${2:default_value})]]></content>
-    <tabTrigger>getBool(key, default_value)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCConfiguration</description>
-</snippet>

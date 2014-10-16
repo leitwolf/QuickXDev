@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[formatText()]]></content>
-    <tabTrigger>formatText()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>RichText</description>
-</snippet>

@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCTransitionPageTurn:create(t, scene, backwards)", "contents": "CCTransitionPageTurn:create(${1:t}, ${2:scene}, ${3:backwards})" }
-	]
-}

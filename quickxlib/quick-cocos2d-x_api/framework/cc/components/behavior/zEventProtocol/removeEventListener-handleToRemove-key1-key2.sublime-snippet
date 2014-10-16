@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeEventListener(${1:handleToRemove}, ${2:key1}, ${3:key2})]]></content>
-    <tabTrigger>removeEventListener(handleToRemove, key1, key2)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>EventProtocol</description>
-</snippet>

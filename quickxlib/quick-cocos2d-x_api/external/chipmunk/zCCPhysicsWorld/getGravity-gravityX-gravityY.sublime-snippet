@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getGravity(${1:gravityX}, ${2:gravityY})]]></content>
-    <tabTrigger>getGravity(gravityX, gravityY)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsWorld</description>
-</snippet>

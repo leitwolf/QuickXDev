@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[network.uploadFile(${1:callback}, ${2:url}, ${3:datas})]]></content>
+    <tabTrigger>network.uploadFile(callback, url, datas)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

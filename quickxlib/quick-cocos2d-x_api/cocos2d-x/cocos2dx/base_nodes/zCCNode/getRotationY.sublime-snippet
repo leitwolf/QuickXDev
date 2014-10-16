@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getRotationY()]]></content>
-    <tabTrigger>getRotationY()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

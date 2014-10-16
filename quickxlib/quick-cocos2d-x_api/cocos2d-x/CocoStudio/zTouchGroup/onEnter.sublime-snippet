@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[onEnter()]]></content>
-    <tabTrigger>onEnter()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>TouchGroup</description>
-</snippet>

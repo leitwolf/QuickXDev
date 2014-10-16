@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[gotoAndPause(${1:frameIndex})]]></content>
-    <tabTrigger>gotoAndPause(frameIndex)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTween</description>
-</snippet>

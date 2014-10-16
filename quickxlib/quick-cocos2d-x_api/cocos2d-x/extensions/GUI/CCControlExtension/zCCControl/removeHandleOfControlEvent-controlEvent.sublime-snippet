@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeHandleOfControlEvent(${1:controlEvent})]]></content>
-    <tabTrigger>removeHandleOfControlEvent(controlEvent)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCControl</description>
-</snippet>

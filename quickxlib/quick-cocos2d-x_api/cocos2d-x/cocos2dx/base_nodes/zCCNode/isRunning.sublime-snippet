@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[isRunning()]]></content>
-    <tabTrigger>isRunning()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

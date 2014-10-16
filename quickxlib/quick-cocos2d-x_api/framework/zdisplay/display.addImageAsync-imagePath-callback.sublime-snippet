@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[display.addImageAsync(${1:imagePath}, ${2:callback})]]></content>
+    <tabTrigger>display.addImageAsync(imagePath, callback)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

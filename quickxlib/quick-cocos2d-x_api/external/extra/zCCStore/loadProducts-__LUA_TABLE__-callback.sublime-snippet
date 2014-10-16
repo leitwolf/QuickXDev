@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[loadProducts(${1:__LUA_TABLE__}, ${2:callback})]]></content>
-    <tabTrigger>loadProducts(__LUA_TABLE__, callback)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCStore</description>
-</snippet>

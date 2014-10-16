@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCDrawNode:create()", "contents": "CCDrawNode:create()" }
-	]
-}

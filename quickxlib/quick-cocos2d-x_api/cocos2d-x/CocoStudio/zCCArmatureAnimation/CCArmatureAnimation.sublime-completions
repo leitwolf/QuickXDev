@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCArmatureAnimation:create(armature)", "contents": "CCArmatureAnimation:create(${1:armature})" }
-	]
-}

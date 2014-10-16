@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[initWithString(${1:str}, ${2:fntFile}, ${3:width}, ${4:alignment}, ${5:imageOffset})]]></content>
-    <tabTrigger>initWithString(str, fntFile, width, alignment, imageOffset)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCLabelBMFont</description>
-</snippet>

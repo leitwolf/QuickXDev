@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[isReverseDirection()]]></content>
-    <tabTrigger>isReverseDirection()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCProgressTimer</description>
-</snippet>

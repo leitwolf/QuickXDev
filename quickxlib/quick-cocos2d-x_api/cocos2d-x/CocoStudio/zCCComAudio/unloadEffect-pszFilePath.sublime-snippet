@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[unloadEffect(${1:pszFilePath})]]></content>
-    <tabTrigger>unloadEffect(pszFilePath)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCComAudio</description>
-</snippet>

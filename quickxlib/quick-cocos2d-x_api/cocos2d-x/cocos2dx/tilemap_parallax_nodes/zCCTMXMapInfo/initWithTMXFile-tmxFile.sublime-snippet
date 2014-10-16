@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[initWithTMXFile(${1:tmxFile})]]></content>
-    <tabTrigger>initWithTMXFile(tmxFile)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTMXMapInfo</description>
-</snippet>

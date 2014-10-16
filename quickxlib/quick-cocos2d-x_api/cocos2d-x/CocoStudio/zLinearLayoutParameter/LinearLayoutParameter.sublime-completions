@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "LinearLayoutParameter:create()", "contents": "LinearLayoutParameter:create()" }
-	]
-}

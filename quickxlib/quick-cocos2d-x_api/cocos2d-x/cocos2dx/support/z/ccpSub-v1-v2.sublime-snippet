@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ccpSub(${1:v1}, ${2:v2})]]></content>
-    <tabTrigger>ccpSub(v1, v2)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

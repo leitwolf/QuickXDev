@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[checkReplies()]]></content>
-    <tabTrigger>checkReplies()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ProviderAndroid</description>
-</snippet>

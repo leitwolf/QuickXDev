@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[createEditBox(${1:options})]]></content>
+    <tabTrigger>createEditBox(options)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSUILoader</description>
+</snippet>

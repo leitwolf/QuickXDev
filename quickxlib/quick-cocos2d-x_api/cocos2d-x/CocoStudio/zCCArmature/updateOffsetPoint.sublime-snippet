@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[updateOffsetPoint()]]></content>
-    <tabTrigger>updateOffsetPoint()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCArmature</description>
-</snippet>

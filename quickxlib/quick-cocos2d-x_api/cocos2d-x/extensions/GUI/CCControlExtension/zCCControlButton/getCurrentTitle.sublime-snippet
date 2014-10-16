@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getCurrentTitle()]]></content>
-    <tabTrigger>getCurrentTitle()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCControlButton</description>
-</snippet>

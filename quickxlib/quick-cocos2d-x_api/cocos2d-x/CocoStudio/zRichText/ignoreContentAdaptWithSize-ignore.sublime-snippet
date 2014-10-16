@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ignoreContentAdaptWithSize(${1:ignore})]]></content>
-    <tabTrigger>ignoreContentAdaptWithSize(ignore)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>RichText</description>
-</snippet>

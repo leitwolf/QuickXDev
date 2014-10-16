@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCSplitRows:create(duration, nRows)", "contents": "CCSplitRows:create(${1:duration}, ${2:nRows})" }
-	]
-}

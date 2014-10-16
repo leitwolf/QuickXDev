@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getNextPageIndex(${1:bRight})]]></content>
+    <tabTrigger>getNextPageIndex(bRight)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIPageView</description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[isLoop()]]></content>
-    <tabTrigger>isLoop()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCComAudio</description>
-</snippet>

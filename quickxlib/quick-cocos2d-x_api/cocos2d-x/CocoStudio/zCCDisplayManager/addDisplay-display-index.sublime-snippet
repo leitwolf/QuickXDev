@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addDisplay(${1:display}, ${2:index})]]></content>
-    <tabTrigger>addDisplay(display, index)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCDisplayManager</description>
-</snippet>

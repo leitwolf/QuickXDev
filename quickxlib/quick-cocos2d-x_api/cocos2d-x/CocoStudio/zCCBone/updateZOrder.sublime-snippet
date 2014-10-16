@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[updateZOrder()]]></content>
-    <tabTrigger>updateZOrder()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCBone</description>
-</snippet>

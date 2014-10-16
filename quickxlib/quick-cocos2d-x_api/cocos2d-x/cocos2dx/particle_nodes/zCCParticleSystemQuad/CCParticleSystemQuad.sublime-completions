@@ -1,9 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCParticleSystemQuad:create(plistFile)", "contents": "CCParticleSystemQuad:create(${1:plistFile})" },
-		{ "trigger": "CCParticleSystemQuad:create()", "contents": "CCParticleSystemQuad:create()" },
-		{ "trigger": "CCParticleSystemQuad:createWithTotalParticles(numberOfParticles)", "contents": "CCParticleSystemQuad:createWithTotalParticles(${1:numberOfParticles})" }
-	]
-}

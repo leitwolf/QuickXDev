@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[cc.ad.punchbox.ProviderBase.new(${1:interface}, ${2:options})]]></content>
-    <tabTrigger>ProviderBase.new(interface, options)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ProviderBase</description>
-</snippet>

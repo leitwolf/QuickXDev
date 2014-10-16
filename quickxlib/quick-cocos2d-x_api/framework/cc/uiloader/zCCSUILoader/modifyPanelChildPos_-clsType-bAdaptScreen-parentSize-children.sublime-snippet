@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[modifyPanelChildPos_(${1:clsType}, ${2:bAdaptScreen}, ${3:parentSize}, ${4:children})]]></content>
+    <tabTrigger>modifyPanelChildPos_(clsType, bAdaptScreen, parentSize, children)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSUILoader</description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setParentBone(${1:parent})]]></content>
-    <tabTrigger>setParentBone(parent)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCBone</description>
-</snippet>

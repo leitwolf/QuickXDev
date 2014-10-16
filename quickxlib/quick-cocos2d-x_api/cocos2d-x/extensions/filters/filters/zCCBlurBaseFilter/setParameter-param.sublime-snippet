@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setParameter(${1:param})]]></content>
-    <tabTrigger>setParameter(param)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCBlurBaseFilter</description>
-</snippet>

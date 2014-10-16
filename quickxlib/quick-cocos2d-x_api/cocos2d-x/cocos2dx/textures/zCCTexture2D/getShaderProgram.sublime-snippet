@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getShaderProgram()]]></content>
-    <tabTrigger>getShaderProgram()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTexture2D</description>
-</snippet>

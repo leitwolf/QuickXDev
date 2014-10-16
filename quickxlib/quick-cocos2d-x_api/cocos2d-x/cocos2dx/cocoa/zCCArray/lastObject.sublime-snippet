@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[lastObject()]]></content>
-    <tabTrigger>lastObject()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCArray</description>
-</snippet>

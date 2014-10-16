@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "PunchBox.getInstance(interface, options)", "contents": "PunchBox.getInstance(${1:interface}, ${2:options})" }
-	]
-}

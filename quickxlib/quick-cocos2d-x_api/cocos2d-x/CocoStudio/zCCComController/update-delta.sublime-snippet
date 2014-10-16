@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[update(${1:delta})]]></content>
-    <tabTrigger>update(delta)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCComController</description>
-</snippet>

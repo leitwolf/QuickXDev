@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getReceiptVerifyMode()]]></content>
-    <tabTrigger>getReceiptVerifyMode()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCStore</description>
-</snippet>

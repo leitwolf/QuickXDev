@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[calcLayoutPadding()]]></content>
+    <tabTrigger>calcLayoutPadding()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIScrollView</description>
+</snippet>

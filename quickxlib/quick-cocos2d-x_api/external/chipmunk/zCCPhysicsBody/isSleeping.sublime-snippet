@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[isSleeping()]]></content>
-    <tabTrigger>isSleeping()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsBody</description>
-</snippet>

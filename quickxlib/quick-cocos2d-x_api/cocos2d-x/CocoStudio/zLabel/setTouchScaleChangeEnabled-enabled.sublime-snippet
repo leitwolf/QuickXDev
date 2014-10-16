@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setTouchScaleChangeEnabled(${1:enabled})]]></content>
-    <tabTrigger>setTouchScaleChangeEnabled(enabled)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Label</description>
-</snippet>

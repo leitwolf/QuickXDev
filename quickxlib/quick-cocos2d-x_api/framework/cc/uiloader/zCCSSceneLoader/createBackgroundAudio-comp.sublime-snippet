@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[createBackgroundAudio(${1:comp})]]></content>
+    <tabTrigger>createBackgroundAudio(comp)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSSceneLoader</description>
+</snippet>

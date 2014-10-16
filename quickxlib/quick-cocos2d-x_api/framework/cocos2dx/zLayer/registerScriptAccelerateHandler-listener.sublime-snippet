@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[registerScriptAccelerateHandler(${1:listener})]]></content>
-    <tabTrigger>registerScriptAccelerateHandler(listener)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Layer</description>
-</snippet>

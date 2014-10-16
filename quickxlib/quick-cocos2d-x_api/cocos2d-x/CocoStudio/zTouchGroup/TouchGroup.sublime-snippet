@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[TouchGroup()]]></content>
-    <tabTrigger>TouchGroup()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>TouchGroup</description>
-</snippet>

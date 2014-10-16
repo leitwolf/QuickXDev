@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ImageView()]]></content>
-    <tabTrigger>ImageView()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ImageView</description>
-</snippet>

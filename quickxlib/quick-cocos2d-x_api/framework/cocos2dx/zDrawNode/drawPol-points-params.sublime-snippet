@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[drawPol(${1:points}, ${2:params})]]></content>
-    <tabTrigger>drawPol(points, params)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>DrawNode</description>
-</snippet>

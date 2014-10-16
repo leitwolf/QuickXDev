@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[fill(${1:nodes}, ${2:params})]]></content>
+    <tabTrigger>fill(nodes, params)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIScrollView</description>
+</snippet>

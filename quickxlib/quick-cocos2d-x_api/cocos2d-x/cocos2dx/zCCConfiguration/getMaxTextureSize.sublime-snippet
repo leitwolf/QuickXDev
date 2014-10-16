@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getMaxTextureSize()]]></content>
-    <tabTrigger>getMaxTextureSize()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCConfiguration</description>
-</snippet>

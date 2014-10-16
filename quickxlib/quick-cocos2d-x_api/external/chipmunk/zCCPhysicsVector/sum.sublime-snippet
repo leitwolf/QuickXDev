@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[sum()]]></content>
-    <tabTrigger>sum()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsVector</description>
-</snippet>

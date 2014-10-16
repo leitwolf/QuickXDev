@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setRelativeName(${1:name})]]></content>
-    <tabTrigger>setRelativeName(name)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>UIRelativeLayoutParameter</description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[moveXY(${1:orgX}, ${2:orgY}, ${3:speedX}, ${4:speedY})]]></content>
+    <tabTrigger>moveXY(orgX, orgY, speedX, speedY)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIScrollView</description>
+</snippet>

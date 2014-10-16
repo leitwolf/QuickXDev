@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[sortAllChildren()]]></content>
-    <tabTrigger>sortAllChildren()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

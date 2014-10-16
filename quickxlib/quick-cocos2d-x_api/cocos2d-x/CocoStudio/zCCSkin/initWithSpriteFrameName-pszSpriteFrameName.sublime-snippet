@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[initWithSpriteFrameName(${1:pszSpriteFrameName})]]></content>
-    <tabTrigger>initWithSpriteFrameName(pszSpriteFrameName)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCSkin</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[nodeToParentTransform()]]></content>
-    <tabTrigger>nodeToParentTransform()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCArmature</description>
-</snippet>

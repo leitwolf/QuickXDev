@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Registry.objects_]]></content>
+    <tabTrigger>Registry.objects_</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

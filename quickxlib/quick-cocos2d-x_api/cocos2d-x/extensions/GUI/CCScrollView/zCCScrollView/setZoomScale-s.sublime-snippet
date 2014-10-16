@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setZoomScale(${1:s})]]></content>
-    <tabTrigger>setZoomScale(s)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCScrollView</description>
-</snippet>

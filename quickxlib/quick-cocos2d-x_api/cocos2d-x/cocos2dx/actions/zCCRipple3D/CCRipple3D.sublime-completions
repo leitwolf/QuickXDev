@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCRipple3D:create(duration, gridSize, position, radius, waves, amplitude)", "contents": "CCRipple3D:create(${1:duration}, ${2:gridSize}, ${3:position}, ${4:radius}, ${5:waves}, ${6:amplitude})" }
-	]
-}

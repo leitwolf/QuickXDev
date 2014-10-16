@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getCurrentTitleColor()]]></content>
-    <tabTrigger>getCurrentTitleColor()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCControlButton</description>
-</snippet>

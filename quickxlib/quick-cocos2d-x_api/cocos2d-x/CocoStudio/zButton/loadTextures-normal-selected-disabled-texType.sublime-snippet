@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[loadTextures(${1:normal}, ${2:selected}, ${3:disabled}, ${4:texType})]]></content>
-    <tabTrigger>loadTextures(normal, selected, disabled, texType)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Button</description>
-</snippet>

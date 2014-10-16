@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setAlphaBlending(${1:bOn})]]></content>
-    <tabTrigger>setAlphaBlending(bOn)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCDirector</description>
-</snippet>

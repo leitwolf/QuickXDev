@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setOpacityModifyRGB(${1:isOpacityModifyRGB})]]></content>
-    <tabTrigger>setOpacityModifyRGB(isOpacityModifyRGB)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCAtlasNode</description>
-</snippet>

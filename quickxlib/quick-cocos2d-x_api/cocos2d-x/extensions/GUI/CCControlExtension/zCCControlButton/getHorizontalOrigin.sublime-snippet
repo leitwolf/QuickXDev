@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getHorizontalOrigin()]]></content>
-    <tabTrigger>getHorizontalOrigin()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCControlButton</description>
-</snippet>

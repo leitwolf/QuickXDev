@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[callback_(${1:event})]]></content>
-    <tabTrigger>callback_(event)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ProviderBase</description>
-</snippet>

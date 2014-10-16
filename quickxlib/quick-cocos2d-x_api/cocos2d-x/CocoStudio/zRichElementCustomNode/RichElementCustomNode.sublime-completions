@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "RichElementCustomNode:create(tag, color, opacity, customNode)", "contents": "RichElementCustomNode:create(${1:tag}, ${2:color}, ${3:opacity}, ${4:customNode})" }
-	]
-}

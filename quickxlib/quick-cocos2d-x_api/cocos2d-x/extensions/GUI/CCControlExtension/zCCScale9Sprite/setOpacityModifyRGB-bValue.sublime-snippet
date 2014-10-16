@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setOpacityModifyRGB(${1:bValue})]]></content>
-    <tabTrigger>setOpacityModifyRGB(bValue)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCScale9Sprite</description>
-</snippet>

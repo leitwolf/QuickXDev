@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UIScrollView.DIRECTION_HORIZONTAL]]></content>
+    <tabTrigger>UIScrollView.DIRECTION_HORIZONTAL</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

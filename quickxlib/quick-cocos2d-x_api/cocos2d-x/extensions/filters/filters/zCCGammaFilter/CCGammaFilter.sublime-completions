@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCGammaFilter:create()", "contents": "CCGammaFilter:create()" },
-		{ "trigger": "CCGammaFilter:create(param)", "contents": "CCGammaFilter:create(${1:param})" }
-	]
-}

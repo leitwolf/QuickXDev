@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setScale9Enabled(${1:able})]]></content>
-    <tabTrigger>setScale9Enabled(able)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ImageView</description>
-</snippet>

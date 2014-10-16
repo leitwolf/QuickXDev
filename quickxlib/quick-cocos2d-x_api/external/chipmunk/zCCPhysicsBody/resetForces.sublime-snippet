@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[resetForces()]]></content>
-    <tabTrigger>resetForces()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsBody</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ccpNormalize(${1:v})]]></content>
-    <tabTrigger>ccpNormalize(v)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

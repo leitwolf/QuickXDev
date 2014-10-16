@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setAnchorPoint(${1:anchorPoint})]]></content>
-    <tabTrigger>setAnchorPoint(anchorPoint)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

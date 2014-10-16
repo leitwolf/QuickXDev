@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[remove()]]></content>
-    <tabTrigger>remove()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ProviderAndroid</description>
-</snippet>

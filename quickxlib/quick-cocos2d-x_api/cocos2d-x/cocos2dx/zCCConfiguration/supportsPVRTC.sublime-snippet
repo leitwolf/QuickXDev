@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[supportsPVRTC()]]></content>
-    <tabTrigger>supportsPVRTC()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCConfiguration</description>
-</snippet>

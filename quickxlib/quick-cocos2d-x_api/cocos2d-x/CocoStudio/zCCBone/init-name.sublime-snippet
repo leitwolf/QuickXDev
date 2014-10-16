@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[init(${1:name})]]></content>
-    <tabTrigger>init(name)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCBone</description>
-</snippet>

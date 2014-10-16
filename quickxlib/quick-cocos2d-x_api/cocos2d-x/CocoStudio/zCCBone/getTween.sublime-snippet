@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getTween()]]></content>
-    <tabTrigger>getTween()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCBone</description>
-</snippet>

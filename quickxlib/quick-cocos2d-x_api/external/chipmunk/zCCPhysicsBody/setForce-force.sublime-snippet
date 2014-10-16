@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setForce(${1:force})]]></content>
-    <tabTrigger>setForce(force)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsBody</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[changeDisplayWithIndex(${1:index}, ${2:force})]]></content>
-    <tabTrigger>changeDisplayWithIndex(index, force)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCDisplayManager</description>
-</snippet>

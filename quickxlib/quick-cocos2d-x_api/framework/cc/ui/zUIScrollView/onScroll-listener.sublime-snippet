@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onScroll(${1:listener})]]></content>
+    <tabTrigger>onScroll(listener)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIScrollView</description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getScale()]]></content>
-    <tabTrigger>getScale()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

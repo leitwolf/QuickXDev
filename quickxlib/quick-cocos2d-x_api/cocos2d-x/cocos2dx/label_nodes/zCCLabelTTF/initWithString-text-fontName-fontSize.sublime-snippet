@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[initWithString(${1:text}, ${2:fontName}, ${3:fontSize})]]></content>
-    <tabTrigger>initWithString(text, fontName, fontSize)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCLabelTTF</description>
-</snippet>

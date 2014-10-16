@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCProgressFromTo:create(duration, fFromPercentage, fToPercentage)", "contents": "CCProgressFromTo:create(${1:duration}, ${2:fFromPercentage}, ${3:fToPercentage})" }
-	]
-}

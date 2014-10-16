@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getOpacity()]]></content>
-    <tabTrigger>getOpacity()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCLabelBMFont</description>
-</snippet>

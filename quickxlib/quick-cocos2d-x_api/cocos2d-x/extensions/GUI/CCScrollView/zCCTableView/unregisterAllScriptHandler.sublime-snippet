@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[unregisterAllScriptHandler()]]></content>
-    <tabTrigger>unregisterAllScriptHandler()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTableView</description>
-</snippet>

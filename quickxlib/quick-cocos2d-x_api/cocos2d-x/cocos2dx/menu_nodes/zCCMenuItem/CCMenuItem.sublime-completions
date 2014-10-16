@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCMenuItem:create()", "contents": "CCMenuItem:create()" }
-	]
-}

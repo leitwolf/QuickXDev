@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getContentSizeInPixels()]]></content>
-    <tabTrigger>getContentSizeInPixels()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTexture2D</description>
-</snippet>

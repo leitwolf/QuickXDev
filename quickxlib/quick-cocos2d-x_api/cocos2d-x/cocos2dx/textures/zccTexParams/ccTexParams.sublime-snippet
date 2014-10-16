@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ccTexParams()]]></content>
-    <tabTrigger>ccTexParams()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ccTexParams</description>
-</snippet>

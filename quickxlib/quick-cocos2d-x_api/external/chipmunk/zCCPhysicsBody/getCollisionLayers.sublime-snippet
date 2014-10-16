@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getCollisionLayers()]]></content>
-    <tabTrigger>getCollisionLayers()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsBody</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setCapInsets(${1:capInsets})]]></content>
-    <tabTrigger>setCapInsets(capInsets)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ImageView</description>
-</snippet>

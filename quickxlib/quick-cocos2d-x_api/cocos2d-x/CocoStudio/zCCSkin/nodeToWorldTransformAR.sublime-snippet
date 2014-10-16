@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[nodeToWorldTransformAR()]]></content>
-    <tabTrigger>nodeToWorldTransformAR()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCSkin</description>
-</snippet>

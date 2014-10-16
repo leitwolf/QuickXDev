@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[CCSizeFromString(${1:pszContent})]]></content>
-    <tabTrigger>CCSizeFromString(pszContent)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

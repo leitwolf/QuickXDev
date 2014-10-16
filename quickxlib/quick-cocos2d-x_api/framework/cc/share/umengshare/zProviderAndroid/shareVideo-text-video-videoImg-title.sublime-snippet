@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[shareVideo(${1:text}, ${2:video}, ${3:videoImg}, ${4:title})]]></content>
-    <tabTrigger>shareVideo(text, video, videoImg, title)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ProviderAndroid</description>
-</snippet>

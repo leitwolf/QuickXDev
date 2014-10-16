@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[maxContainerOffset()]]></content>
-    <tabTrigger>maxContainerOffset()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCScrollView</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[saveToFile(${1:szFilePath})]]></content>
-    <tabTrigger>saveToFile(szFilePath)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCRenderTexture</description>
-</snippet>

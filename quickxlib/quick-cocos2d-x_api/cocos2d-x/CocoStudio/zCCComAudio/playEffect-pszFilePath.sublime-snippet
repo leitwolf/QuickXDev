@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[playEffect(${1:pszFilePath})]]></content>
-    <tabTrigger>playEffect(pszFilePath)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCComAudio</description>
-</snippet>

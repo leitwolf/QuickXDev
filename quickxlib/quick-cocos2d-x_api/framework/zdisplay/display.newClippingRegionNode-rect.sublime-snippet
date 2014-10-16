@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[display.newClippingRegionNode(${1:rect})]]></content>
+    <tabTrigger>display.newClippingRegionNode(rect)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

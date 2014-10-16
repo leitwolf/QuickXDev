@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setParameter(${1:brightness})]]></content>
-    <tabTrigger>setParameter(brightness)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCBrightnessFilter</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setSkewY(${1:fSkewY})]]></content>
-    <tabTrigger>setSkewY(fSkewY)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

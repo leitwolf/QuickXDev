@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[loadAnimationActionWithContent(${1:fileName}, ${2:content})]]></content>
-    <tabTrigger>loadAnimationActionWithContent(fileName, content)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ActionTimelineCache</description>
-</snippet>

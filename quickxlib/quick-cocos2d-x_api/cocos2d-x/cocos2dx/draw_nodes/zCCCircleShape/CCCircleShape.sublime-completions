@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCCircleShape:create(radius)", "contents": "CCCircleShape:create(${1:radius})" },
-		{ "trigger": "CCCircleShape:create(radius, fill)", "contents": "CCCircleShape:create(${1:radius}, ${2:fill})" }
-	]
-}

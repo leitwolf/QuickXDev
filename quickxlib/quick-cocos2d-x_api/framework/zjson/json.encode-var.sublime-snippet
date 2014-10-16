@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[json.encode(${1:var})]]></content>
+    <tabTrigger>json.encode(var)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,9 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "io.exists(path)", "contents": "io.exists(${1:path})" },
-		{ "trigger": "io.readfile(path)", "contents": "io.readfile(${1:path})" },
-		{ "trigger": "device.showAlertAndroid(title, message, buttonLabels, listener)", "contents": "device.showAlertAndroid(${1:title}, ${2:message}, ${3:buttonLabels}, ${4:listener})" }
-	]
-}

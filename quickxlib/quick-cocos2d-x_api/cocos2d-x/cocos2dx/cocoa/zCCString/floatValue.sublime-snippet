@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[floatValue()]]></content>
-    <tabTrigger>floatValue()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCString</description>
-</snippet>

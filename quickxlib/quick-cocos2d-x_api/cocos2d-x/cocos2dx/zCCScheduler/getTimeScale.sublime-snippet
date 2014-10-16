@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getTimeScale()]]></content>
-    <tabTrigger>getTimeScale()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCScheduler</description>
-</snippet>

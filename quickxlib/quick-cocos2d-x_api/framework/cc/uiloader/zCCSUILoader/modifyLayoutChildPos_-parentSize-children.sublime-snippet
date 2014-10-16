@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[modifyLayoutChildPos_(${1:parentSize}, ${2:children})]]></content>
+    <tabTrigger>modifyLayoutChildPos_(parentSize, children)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSUILoader</description>
+</snippet>

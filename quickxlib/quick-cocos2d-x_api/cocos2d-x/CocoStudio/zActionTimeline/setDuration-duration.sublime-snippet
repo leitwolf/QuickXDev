@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setDuration(${1:duration})]]></content>
-    <tabTrigger>setDuration(duration)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ActionTimeline</description>
-</snippet>

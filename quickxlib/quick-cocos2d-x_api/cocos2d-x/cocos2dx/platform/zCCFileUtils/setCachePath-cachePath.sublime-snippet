@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setCachePath(${1:cachePath})]]></content>
-    <tabTrigger>setCachePath(cachePath)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCFileUtils</description>
-</snippet>

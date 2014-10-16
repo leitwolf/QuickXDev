@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UIListViewItem.BG_Z_ORDER]]></content>
+    <tabTrigger>UIListViewItem.BG_Z_ORDER</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

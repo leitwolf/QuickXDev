@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCEaseSineInOut:create(pAction)", "contents": "CCEaseSineInOut:create(${1:pAction})" }
-	]
-}

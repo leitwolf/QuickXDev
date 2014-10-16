@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setTouchSwallowEnabled(${1:value})]]></content>
-    <tabTrigger>setTouchSwallowEnabled(value)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

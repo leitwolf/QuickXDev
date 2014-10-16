@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setDirty(${1:bDirty})]]></content>
-    <tabTrigger>setDirty(bDirty)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCSprite</description>
-</snippet>

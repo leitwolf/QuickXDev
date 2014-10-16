@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setRect(${1:rect})]]></content>
-    <tabTrigger>setRect(rect)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCSpriteFrame</description>
-</snippet>

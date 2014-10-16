@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[playBackgroundMusic(${1:pszFilePath})]]></content>
-    <tabTrigger>playBackgroundMusic(pszFilePath)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCComAudio</description>
-</snippet>

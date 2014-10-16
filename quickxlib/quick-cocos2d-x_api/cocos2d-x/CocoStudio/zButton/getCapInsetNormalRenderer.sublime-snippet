@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getCapInsetNormalRenderer()]]></content>
-    <tabTrigger>getCapInsetNormalRenderer()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Button</description>
-</snippet>

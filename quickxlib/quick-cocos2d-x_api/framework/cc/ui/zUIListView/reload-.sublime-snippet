@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[reload()]]></content>
+    <tabTrigger>reload()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIListView</description>
+</snippet>

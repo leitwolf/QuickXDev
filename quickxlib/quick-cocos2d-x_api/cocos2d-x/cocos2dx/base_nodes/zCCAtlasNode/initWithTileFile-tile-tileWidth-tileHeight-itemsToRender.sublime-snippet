@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[initWithTileFile(${1:tile}, ${2:tileWidth}, ${3:tileHeight}, ${4:itemsToRender})]]></content>
-    <tabTrigger>initWithTileFile(tile, tileWidth, tileHeight, itemsToRender)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCAtlasNode</description>
-</snippet>

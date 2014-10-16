@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[disableStroke(${1:mustUpdateTexture})]]></content>
-    <tabTrigger>disableStroke(mustUpdateTexture)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCLabelTTF</description>
-</snippet>

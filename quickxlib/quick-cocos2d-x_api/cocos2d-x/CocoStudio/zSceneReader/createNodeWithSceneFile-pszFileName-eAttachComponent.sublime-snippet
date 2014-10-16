@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[createNodeWithSceneFile(${1:pszFileName}, ${2:eAttachComponent})]]></content>
-    <tabTrigger>createNodeWithSceneFile(pszFileName, eAttachComponent)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>SceneReader</description>
-</snippet>

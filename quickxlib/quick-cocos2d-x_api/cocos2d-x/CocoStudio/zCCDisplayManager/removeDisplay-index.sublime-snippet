@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeDisplay(${1:index})]]></content>
-    <tabTrigger>removeDisplay(index)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCDisplayManager</description>
-</snippet>

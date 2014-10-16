@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getRPerp()]]></content>
-    <tabTrigger>getRPerp()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPoint</description>
-</snippet>

@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCTransitionFade:create(duration, scene, color)", "contents": "CCTransitionFade:create(${1:duration}, ${2:scene}, ${3:color})" },
-		{ "trigger": "CCTransitionFade:create(duration, scene)", "contents": "CCTransitionFade:create(${1:duration}, ${2:scene})" }
-	]
-}

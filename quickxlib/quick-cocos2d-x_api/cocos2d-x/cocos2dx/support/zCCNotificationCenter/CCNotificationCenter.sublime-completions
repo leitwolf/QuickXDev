@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCNotificationCenter:sharedNotificationCenter()", "contents": "CCNotificationCenter:sharedNotificationCenter()" },
-		{ "trigger": "CCNotificationCenter:purgeNotificationCenter()", "contents": "CCNotificationCenter:purgeNotificationCenter()" }
-	]
-}

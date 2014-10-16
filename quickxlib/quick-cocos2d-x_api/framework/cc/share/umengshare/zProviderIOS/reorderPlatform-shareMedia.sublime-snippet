@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[reorderPlatform(${1:shareMedia})]]></content>
-    <tabTrigger>reorderPlatform(shareMedia)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ProviderIOS</description>
-</snippet>

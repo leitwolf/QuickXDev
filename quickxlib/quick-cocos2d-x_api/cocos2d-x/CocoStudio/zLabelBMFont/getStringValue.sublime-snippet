@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getStringValue()]]></content>
-    <tabTrigger>getStringValue()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>LabelBMFont</description>
-</snippet>

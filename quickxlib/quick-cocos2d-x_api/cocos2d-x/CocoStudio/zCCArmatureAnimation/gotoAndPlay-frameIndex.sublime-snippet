@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[gotoAndPlay(${1:frameIndex})]]></content>
-    <tabTrigger>gotoAndPlay(frameIndex)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCArmatureAnimation</description>
-</snippet>

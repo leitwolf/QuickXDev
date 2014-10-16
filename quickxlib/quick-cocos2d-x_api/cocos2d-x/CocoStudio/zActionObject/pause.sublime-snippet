@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[pause()]]></content>
-    <tabTrigger>pause()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ActionObject</description>
-</snippet>

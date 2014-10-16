@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addSpriteFrameWithFileName(${1:pszFileName})]]></content>
-    <tabTrigger>addSpriteFrameWithFileName(pszFileName)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCAnimation</description>
-</snippet>

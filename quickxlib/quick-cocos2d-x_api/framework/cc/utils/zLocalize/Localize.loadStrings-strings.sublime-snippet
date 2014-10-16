@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Localize.loadStrings(${1:strings})]]></content>
+    <tabTrigger>Localize.loadStrings(strings)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

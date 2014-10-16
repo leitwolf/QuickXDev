@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[isAutoLoadSpriteFile()]]></content>
-    <tabTrigger>isAutoLoadSpriteFile()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCArmatureDataManager</description>
-</snippet>

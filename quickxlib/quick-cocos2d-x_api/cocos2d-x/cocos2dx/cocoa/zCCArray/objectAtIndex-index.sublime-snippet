@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[objectAtIndex(${1:index})]]></content>
-    <tabTrigger>objectAtIndex(index)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCArray</description>
-</snippet>

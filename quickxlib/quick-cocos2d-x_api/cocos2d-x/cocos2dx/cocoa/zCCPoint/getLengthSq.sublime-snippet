@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getLengthSq()]]></content>
-    <tabTrigger>getLengthSq()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPoint</description>
-</snippet>

@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "UIRelativeLayoutParameter:create()", "contents": "UIRelativeLayoutParameter:create()" }
-	]
-}

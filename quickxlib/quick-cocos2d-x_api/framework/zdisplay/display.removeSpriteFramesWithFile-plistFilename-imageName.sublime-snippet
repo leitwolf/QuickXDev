@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[display.removeSpriteFramesWithFile(${1:plistFilename}, ${2:imageName})]]></content>
+    <tabTrigger>display.removeSpriteFramesWithFile(plistFilename, imageName)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

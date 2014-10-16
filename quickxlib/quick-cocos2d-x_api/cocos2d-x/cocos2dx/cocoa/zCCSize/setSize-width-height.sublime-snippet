@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setSize(${1:width}, ${2:height})]]></content>
-    <tabTrigger>setSize(width, height)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCSize</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getChildren()]]></content>
-    <tabTrigger>getChildren()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

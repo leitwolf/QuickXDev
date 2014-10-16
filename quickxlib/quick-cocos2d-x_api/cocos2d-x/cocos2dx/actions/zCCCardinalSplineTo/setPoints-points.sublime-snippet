@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setPoints(${1:points})]]></content>
-    <tabTrigger>setPoints(points)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCCardinalSplineTo</description>
-</snippet>

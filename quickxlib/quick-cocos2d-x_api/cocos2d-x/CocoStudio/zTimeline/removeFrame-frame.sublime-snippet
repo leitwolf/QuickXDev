@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeFrame(${1:frame})]]></content>
-    <tabTrigger>removeFrame(frame)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Timeline</description>
-</snippet>

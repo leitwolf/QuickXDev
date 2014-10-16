@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[init(${1:tag}, ${2:color}, ${3:opacity}, ${4:customNode})]]></content>
-    <tabTrigger>init(tag, color, opacity, customNode)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>RichElementCustomNode</description>
-</snippet>

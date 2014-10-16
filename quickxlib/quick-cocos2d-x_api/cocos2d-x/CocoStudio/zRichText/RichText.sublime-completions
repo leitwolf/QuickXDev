@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "RichText:create()", "contents": "RichText:create()" }
-	]
-}

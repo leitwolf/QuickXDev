@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getTextHorizontalAlignment()]]></content>
-    <tabTrigger>getTextHorizontalAlignment()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Label</description>
-</snippet>

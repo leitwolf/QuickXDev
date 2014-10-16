@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[isTouchMoved()]]></content>
-    <tabTrigger>isTouchMoved()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCScrollView</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addPVRImage(${1:filename})]]></content>
-    <tabTrigger>addPVRImage(filename)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTextureCache</description>
-</snippet>

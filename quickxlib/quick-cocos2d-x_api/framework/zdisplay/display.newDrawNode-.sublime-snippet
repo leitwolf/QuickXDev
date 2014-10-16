@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[display.newDrawNode()]]></content>
+    <tabTrigger>display.newDrawNode()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

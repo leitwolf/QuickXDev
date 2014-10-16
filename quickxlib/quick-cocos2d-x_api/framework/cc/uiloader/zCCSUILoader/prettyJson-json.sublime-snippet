@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[prettyJson(${1:json})]]></content>
+    <tabTrigger>prettyJson(json)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSUILoader</description>
+</snippet>

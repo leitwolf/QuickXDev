@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getButtonStateImages(${1:options})]]></content>
+    <tabTrigger>getButtonStateImages(options)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSUILoader</description>
+</snippet>

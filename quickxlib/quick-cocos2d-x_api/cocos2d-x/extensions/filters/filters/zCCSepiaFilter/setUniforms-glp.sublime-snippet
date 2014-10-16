@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setUniforms(${1:glp})]]></content>
-    <tabTrigger>setUniforms(glp)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCSepiaFilter</description>
-</snippet>

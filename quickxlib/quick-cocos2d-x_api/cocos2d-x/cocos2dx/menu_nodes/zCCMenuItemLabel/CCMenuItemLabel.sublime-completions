@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCMenuItemLabel:create(label, target, selector)", "contents": "CCMenuItemLabel:create(${1:label}, ${2:target}, ${3:selector})" },
-		{ "trigger": "CCMenuItemLabel:create(label)", "contents": "CCMenuItemLabel:create(${1:label})" }
-	]
-}

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getOffsetInPixels()]]></content>
-    <tabTrigger>getOffsetInPixels()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCSpriteFrame</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[nodeToArmatureTransform()]]></content>
-    <tabTrigger>nodeToArmatureTransform()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCBone</description>
-</snippet>

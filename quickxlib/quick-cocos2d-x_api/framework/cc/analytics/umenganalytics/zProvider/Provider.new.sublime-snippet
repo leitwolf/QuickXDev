@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[cc.analytics.umenganalytics.Provider.new()]]></content>
-    <tabTrigger>Provider.new()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Provider</description>
-</snippet>

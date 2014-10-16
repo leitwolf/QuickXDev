@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[createLoadingBar(${1:options})]]></content>
+    <tabTrigger>createLoadingBar(options)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSUILoader</description>
+</snippet>

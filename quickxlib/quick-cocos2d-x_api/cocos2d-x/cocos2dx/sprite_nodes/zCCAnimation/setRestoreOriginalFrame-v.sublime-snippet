@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setRestoreOriginalFrame(${1:v})]]></content>
-    <tabTrigger>setRestoreOriginalFrame(v)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCAnimation</description>
-</snippet>

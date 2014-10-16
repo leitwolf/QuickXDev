@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getVerticalFillOrder()]]></content>
-    <tabTrigger>getVerticalFillOrder()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTableView</description>
-</snippet>

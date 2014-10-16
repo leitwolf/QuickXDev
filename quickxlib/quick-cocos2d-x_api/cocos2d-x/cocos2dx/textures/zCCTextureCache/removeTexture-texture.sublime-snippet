@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeTexture(${1:texture})]]></content>
-    <tabTrigger>removeTexture(texture)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTextureCache</description>
-</snippet>

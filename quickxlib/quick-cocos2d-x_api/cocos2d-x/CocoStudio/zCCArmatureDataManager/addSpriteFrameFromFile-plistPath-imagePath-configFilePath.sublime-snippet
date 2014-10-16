@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addSpriteFrameFromFile(${1:plistPath}, ${2:imagePath}, ${3:configFilePath})]]></content>
-    <tabTrigger>addSpriteFrameFromFile(plistPath, imagePath, configFilePath)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCArmatureDataManager</description>
-</snippet>

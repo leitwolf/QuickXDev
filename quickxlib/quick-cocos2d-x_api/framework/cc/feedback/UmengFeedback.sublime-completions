@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "UmengFeedback.getInstance(interface)", "contents": "UmengFeedback.getInstance(${1:interface})" }
-	]
-}

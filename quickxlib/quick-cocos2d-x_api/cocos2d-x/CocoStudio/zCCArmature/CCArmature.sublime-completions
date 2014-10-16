@@ -1,9 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCArmature:create()", "contents": "CCArmature:create()" },
-		{ "trigger": "CCArmature:create(name)", "contents": "CCArmature:create(${1:name})" },
-		{ "trigger": "CCArmature:create(name, parentBone)", "contents": "CCArmature:create(${1:name}, ${2:parentBone})" }
-	]
-}

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[unscheduleUpdate()]]></content>
-    <tabTrigger>unscheduleUpdate()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

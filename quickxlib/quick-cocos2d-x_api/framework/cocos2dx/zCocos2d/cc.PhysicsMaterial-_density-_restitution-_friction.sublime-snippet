@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.PhysicsMaterial(${1:_density}, ${2:_restitution}, ${3:_friction})]]></content>
+    <tabTrigger>cc.PhysicsMaterial(_density, _restitution, _friction)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

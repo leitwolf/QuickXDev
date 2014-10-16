@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[exchangeObjectAtIndex(${1:index1}, ${2:index2})]]></content>
-    <tabTrigger>exchangeObjectAtIndex(index1, index2)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCArray</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[isCascadeColorEnabled()]]></content>
-    <tabTrigger>isCascadeColorEnabled()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

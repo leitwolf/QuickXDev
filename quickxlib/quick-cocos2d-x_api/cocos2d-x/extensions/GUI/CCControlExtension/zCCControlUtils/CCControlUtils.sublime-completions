@@ -1,9 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCControlUtils:HSVfromRGB(value)", "contents": "CCControlUtils:HSVfromRGB(${1:value})" },
-		{ "trigger": "CCControlUtils:RGBfromHSV(value)", "contents": "CCControlUtils:RGBfromHSV(${1:value})" },
-		{ "trigger": "CCControlUtils:CCRectUnion(src1, src2)", "contents": "CCControlUtils:CCRectUnion(${1:src1}, ${2:src2})" }
-	]
-}

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getPositionOffset()]]></content>
-    <tabTrigger>getPositionOffset()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTMXObjectGroup</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[equals(${1:rect})]]></content>
-    <tabTrigger>equals(rect)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCRect</description>
-</snippet>

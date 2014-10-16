@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[newCCImage(${1:flipImage})]]></content>
-    <tabTrigger>newCCImage(flipImage)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCRenderTexture</description>
-</snippet>

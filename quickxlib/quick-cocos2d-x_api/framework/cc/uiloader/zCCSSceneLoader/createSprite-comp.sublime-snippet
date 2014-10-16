@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[createSprite(${1:comp})]]></content>
+    <tabTrigger>createSprite(comp)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSSceneLoader</description>
+</snippet>

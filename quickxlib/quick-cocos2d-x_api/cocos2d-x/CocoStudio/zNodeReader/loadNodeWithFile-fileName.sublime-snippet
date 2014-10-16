@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[loadNodeWithFile(${1:fileName})]]></content>
-    <tabTrigger>loadNodeWithFile(fileName)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>NodeReader</description>
-</snippet>

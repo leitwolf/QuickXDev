@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeChildBone(${1:bone}, ${2:recursion})]]></content>
-    <tabTrigger>removeChildBone(bone, recursion)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCBone</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[stepToFrame(${1:frameIndex})]]></content>
-    <tabTrigger>stepToFrame(frameIndex)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Timeline</description>
-</snippet>

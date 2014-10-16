@@ -1,9 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCSkin:create()", "contents": "CCSkin:create()" },
-		{ "trigger": "CCSkin:createWithSpriteFrameName(pszSpriteFrameName)", "contents": "CCSkin:createWithSpriteFrameName(${1:pszSpriteFrameName})" },
-		{ "trigger": "CCSkin:create(pszFileName)", "contents": "CCSkin:create(${1:pszFileName})" }
-	]
-}

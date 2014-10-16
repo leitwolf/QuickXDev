@@ -1,9 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCPhysicsBody:defaultStaticBody(world)", "contents": "CCPhysicsBody:defaultStaticBody(${1:world})" },
-		{ "trigger": "CCPhysicsBody:createStaticBody(world)", "contents": "CCPhysicsBody:createStaticBody(${1:world})" },
-		{ "trigger": "CCPhysicsBody:create(world, mass, moment)", "contents": "CCPhysicsBody:create(${1:world}, ${2:mass}, ${3:moment})" }
-	]
-}

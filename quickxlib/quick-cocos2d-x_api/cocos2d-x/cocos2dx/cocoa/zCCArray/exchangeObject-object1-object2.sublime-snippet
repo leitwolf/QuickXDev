@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[exchangeObject(${1:object1}, ${2:object2})]]></content>
-    <tabTrigger>exchangeObject(object1, object2)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCArray</description>
-</snippet>

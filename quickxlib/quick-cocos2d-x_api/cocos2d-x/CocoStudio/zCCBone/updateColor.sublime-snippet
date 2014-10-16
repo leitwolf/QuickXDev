@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[updateColor()]]></content>
-    <tabTrigger>updateColor()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCBone</description>
-</snippet>

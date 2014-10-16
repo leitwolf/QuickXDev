@@ -1,9 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCMaskFilter:create()", "contents": "CCMaskFilter:create()" },
-		{ "trigger": "CCMaskFilter:create(maskImage)", "contents": "CCMaskFilter:create(${1:maskImage})" },
-		{ "trigger": "CCMaskFilter:createWithSpriteFrameName(maskImage)", "contents": "CCMaskFilter:createWithSpriteFrameName(${1:maskImage})" }
-	]
-}

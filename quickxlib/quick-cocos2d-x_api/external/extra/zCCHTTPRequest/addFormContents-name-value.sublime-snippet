@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addFormContents(${1:name}, ${2:value})]]></content>
-    <tabTrigger>addFormContents(name, value)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCHTTPRequest</description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setActualRect(${1:rect})]]></content>
+    <tabTrigger>setActualRect(rect)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIScrollView</description>
+</snippet>

@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCAnimationCache:sharedAnimationCache()", "contents": "CCAnimationCache:sharedAnimationCache()" },
-		{ "trigger": "CCAnimationCache:purgeSharedAnimationCache()", "contents": "CCAnimationCache:purgeSharedAnimationCache()" }
-	]
-}

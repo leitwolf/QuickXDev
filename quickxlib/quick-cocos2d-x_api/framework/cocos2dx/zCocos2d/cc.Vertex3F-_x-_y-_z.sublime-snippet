@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.Vertex3F(${1:_x}, ${2:_y}, ${3:_z})]]></content>
+    <tabTrigger>cc.Vertex3F(_x, _y, _z)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getSegments()]]></content>
-    <tabTrigger>getSegments()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCCircleShape</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[unrotate(${1:other})]]></content>
-    <tabTrigger>unrotate(other)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPoint</description>
-</snippet>

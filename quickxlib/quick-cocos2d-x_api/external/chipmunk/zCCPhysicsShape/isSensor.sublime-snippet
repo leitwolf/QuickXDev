@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[isSensor()]]></content>
-    <tabTrigger>isSensor()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsShape</description>
-</snippet>

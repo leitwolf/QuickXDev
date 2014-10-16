@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[end()]]></content>
-    <tabTrigger>end()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCComAudio</description>
-</snippet>

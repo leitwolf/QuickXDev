@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCContrastFilter:create()", "contents": "CCContrastFilter:create()" },
-		{ "trigger": "CCContrastFilter:create(param)", "contents": "CCContrastFilter:create(${1:param})" }
-	]
-}

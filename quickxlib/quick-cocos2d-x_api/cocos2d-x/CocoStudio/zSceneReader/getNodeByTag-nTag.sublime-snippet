@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getNodeByTag(${1:nTag})]]></content>
-    <tabTrigger>getNodeByTag(nTag)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>SceneReader</description>
-</snippet>

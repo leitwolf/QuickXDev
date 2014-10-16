@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[remove(${1:index})]]></content>
-    <tabTrigger>remove(index)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPointArray</description>
-</snippet>

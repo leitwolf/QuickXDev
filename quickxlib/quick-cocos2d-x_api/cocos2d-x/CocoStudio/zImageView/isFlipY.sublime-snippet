@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[isFlipY()]]></content>
-    <tabTrigger>isFlipY()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ImageView</description>
-</snippet>

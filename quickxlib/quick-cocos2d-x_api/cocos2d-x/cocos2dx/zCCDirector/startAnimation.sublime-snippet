@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[startAnimation()]]></content>
-    <tabTrigger>startAnimation()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCDirector</description>
-</snippet>

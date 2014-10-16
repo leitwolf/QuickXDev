@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[initWithTexture(${1:texture}, ${2:tileWidth}, ${3:tileHeight}, ${4:itemsToRender})]]></content>
-    <tabTrigger>initWithTexture(texture, tileWidth, tileHeight, itemsToRender)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCAtlasNode</description>
-</snippet>

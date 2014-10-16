@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getCurrentDisplayIndex()]]></content>
-    <tabTrigger>getCurrentDisplayIndex()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCDisplayManager</description>
-</snippet>

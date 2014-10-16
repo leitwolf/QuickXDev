@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setUnitTime(${1:fTime})]]></content>
-    <tabTrigger>setUnitTime(fTime)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ActionObject</description>
-</snippet>

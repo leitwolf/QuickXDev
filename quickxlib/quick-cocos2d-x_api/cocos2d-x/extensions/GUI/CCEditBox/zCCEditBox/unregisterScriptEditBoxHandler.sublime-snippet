@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[unregisterScriptEditBoxHandler()]]></content>
-    <tabTrigger>unregisterScriptEditBoxHandler()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCEditBox</description>
-</snippet>

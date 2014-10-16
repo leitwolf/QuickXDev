@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setArmature(${1:var})]]></content>
-    <tabTrigger>setArmature(var)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCBone</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[replaceObjectAtIndex(${1:uIndex}, ${2:pObject}, ${3:bReleaseObject})]]></content>
-    <tabTrigger>replaceObjectAtIndex(uIndex, pObject, bReleaseObject)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCArray</description>
-</snippet>

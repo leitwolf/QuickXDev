@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[stopAllEffects()]]></content>
-    <tabTrigger>stopAllEffects()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCComAudio</description>
-</snippet>

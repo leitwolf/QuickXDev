@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addTimeline(${1:timeline})]]></content>
-    <tabTrigger>addTimeline(timeline)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ActionTimeline</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setFloat(${1:key}, ${2:value})]]></content>
-    <tabTrigger>setFloat(key, value)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCComAttribute</description>
-</snippet>

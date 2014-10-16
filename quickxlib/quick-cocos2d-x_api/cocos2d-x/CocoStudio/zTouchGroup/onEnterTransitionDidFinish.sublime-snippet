@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[onEnterTransitionDidFinish()]]></content>
-    <tabTrigger>onEnterTransitionDidFinish()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>TouchGroup</description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[device.language]]></content>
+    <tabTrigger>device.language</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

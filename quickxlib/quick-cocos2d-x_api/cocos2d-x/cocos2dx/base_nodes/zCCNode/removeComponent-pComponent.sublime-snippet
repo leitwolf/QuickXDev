@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeComponent(${1:pComponent})]]></content>
-    <tabTrigger>removeComponent(pComponent)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

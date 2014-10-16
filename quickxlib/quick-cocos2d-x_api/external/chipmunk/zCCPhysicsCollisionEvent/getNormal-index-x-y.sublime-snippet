@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getNormal(${1:index}, ${2:x}, ${3:y})]]></content>
-    <tabTrigger>getNormal(index, x, y)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsCollisionEvent</description>
-</snippet>

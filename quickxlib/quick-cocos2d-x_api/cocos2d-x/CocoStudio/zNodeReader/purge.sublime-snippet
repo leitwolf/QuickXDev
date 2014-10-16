@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[purge()]]></content>
-    <tabTrigger>purge()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>NodeReader</description>
-</snippet>

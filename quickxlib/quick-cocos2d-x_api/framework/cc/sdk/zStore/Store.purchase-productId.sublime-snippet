@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Store.purchase(${1:productId})]]></content>
+    <tabTrigger>Store.purchase(productId)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

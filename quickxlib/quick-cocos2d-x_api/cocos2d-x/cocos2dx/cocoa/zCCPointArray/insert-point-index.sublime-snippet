@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[insert(${1:point}, ${2:index})]]></content>
-    <tabTrigger>insert(point, index)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPointArray</description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[SocketTCP.EVENT_DATA]]></content>
+    <tabTrigger>SocketTCP.EVENT_DATA</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

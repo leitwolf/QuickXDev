@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[boundingBox()]]></content>
-    <tabTrigger>boundingBox()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getDistance(${1:other})]]></content>
-    <tabTrigger>getDistance(other)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPoint</description>
-</snippet>

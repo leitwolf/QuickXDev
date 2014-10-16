@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addImageAsync(${1:path}, ${2:handler})]]></content>
-    <tabTrigger>addImageAsync(path, handler)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTextureCache</description>
-</snippet>

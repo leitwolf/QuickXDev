@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addTouchEventListener(${1:handler})]]></content>
-    <tabTrigger>addTouchEventListener(handler)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Node</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getContentOffset()]]></content>
-    <tabTrigger>getContentOffset()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCScrollView</description>
-</snippet>

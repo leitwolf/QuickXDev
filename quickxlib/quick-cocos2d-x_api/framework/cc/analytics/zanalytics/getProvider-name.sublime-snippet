@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getProvider(${1:name})]]></content>
-    <tabTrigger>getProvider(name)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>analytics</description>
-</snippet>

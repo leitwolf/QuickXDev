@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getColor4B(${1:x}, ${2:y})]]></content>
-    <tabTrigger>getColor4B(x, y)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCImage</description>
-</snippet>

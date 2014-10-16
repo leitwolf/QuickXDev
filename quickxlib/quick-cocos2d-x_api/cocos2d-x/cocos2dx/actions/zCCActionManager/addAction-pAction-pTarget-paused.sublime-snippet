@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addAction(${1:pAction}, ${2:pTarget}, ${3:paused})]]></content>
-    <tabTrigger>addAction(pAction, pTarget, paused)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCActionManager</description>
-</snippet>

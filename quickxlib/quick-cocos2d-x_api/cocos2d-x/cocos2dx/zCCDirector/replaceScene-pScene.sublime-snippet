@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[replaceScene(${1:pScene})]]></content>
-    <tabTrigger>replaceScene(pScene)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCDirector</description>
-</snippet>

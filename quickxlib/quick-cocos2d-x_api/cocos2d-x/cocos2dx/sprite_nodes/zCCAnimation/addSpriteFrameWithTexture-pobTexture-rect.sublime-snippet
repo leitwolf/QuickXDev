@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addSpriteFrameWithTexture(${1:pobTexture}, ${2:rect})]]></content>
-    <tabTrigger>addSpriteFrameWithTexture(pobTexture, rect)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCAnimation</description>
-</snippet>

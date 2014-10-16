@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[releaseActions()]]></content>
-    <tabTrigger>releaseActions()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ActionManager</description>
-</snippet>

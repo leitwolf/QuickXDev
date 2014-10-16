@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[cross(${1:other})]]></content>
-    <tabTrigger>cross(other)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPoint</description>
-</snippet>

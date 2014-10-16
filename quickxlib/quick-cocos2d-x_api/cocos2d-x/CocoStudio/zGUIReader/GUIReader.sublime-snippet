@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[GUIReader()]]></content>
-    <tabTrigger>GUIReader()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>GUIReader</description>
-</snippet>

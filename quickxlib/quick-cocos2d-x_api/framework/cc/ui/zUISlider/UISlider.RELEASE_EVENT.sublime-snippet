@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UISlider.RELEASE_EVENT]]></content>
+    <tabTrigger>UISlider.RELEASE_EVENT</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addAnimationsWithDictionary(${1:dictionary})]]></content>
-    <tabTrigger>addAnimationsWithDictionary(dictionary)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCAnimationCache</description>
-</snippet>

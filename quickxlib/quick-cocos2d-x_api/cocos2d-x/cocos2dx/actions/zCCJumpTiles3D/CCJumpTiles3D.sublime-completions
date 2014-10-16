@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCJumpTiles3D:create(duration, gridSize, numberOfJumps, amplitude)", "contents": "CCJumpTiles3D:create(${1:duration}, ${2:gridSize}, ${3:numberOfJumps}, ${4:amplitude})" }
-	]
-}

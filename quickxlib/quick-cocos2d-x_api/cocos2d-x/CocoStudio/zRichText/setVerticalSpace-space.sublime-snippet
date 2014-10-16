@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setVerticalSpace(${1:space})]]></content>
-    <tabTrigger>setVerticalSpace(space)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>RichText</description>
-</snippet>

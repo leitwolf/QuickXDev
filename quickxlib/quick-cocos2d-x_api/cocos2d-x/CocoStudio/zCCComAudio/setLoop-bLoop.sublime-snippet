@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setLoop(${1:bLoop})]]></content>
-    <tabTrigger>setLoop(bLoop)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCComAudio</description>
-</snippet>

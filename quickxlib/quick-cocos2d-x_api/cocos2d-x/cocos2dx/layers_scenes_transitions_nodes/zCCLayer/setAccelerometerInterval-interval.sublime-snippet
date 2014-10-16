@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setAccelerometerInterval(${1:interval})]]></content>
-    <tabTrigger>setAccelerometerInterval(interval)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCLayer</description>
-</snippet>
