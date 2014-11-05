@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getScrollX()]]></content>
+    <tabTrigger>getScrollX()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>EventMouse</description>
+</snippet>

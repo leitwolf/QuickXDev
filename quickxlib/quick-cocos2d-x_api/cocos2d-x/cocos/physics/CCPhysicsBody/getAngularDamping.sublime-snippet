@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getAngularDamping()]]></content>
+    <tabTrigger>getAngularDamping()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsBody</description>
+</snippet>

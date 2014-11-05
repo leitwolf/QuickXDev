@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getLetter(${1:lettetIndex})]]></content>
+    <tabTrigger>getLetter(lettetIndex)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Label</description>
+</snippet>

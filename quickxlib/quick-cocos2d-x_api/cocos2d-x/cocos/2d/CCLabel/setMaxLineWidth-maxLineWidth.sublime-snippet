@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setMaxLineWidth(${1:maxLineWidth})]]></content>
+    <tabTrigger>setMaxLineWidth(maxLineWidth)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Label</description>
+</snippet>

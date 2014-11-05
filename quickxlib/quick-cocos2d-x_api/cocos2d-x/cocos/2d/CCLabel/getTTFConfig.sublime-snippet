@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTTFConfig()]]></content>
+    <tabTrigger>getTTFConfig()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Label</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.ParticleFireworks]]></content>
+    <tabTrigger>ParticleFireworks</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

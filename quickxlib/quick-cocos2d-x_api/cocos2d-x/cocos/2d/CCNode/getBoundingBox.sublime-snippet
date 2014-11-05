@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getBoundingBox()]]></content>
+    <tabTrigger>getBoundingBox()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Node</description>
+</snippet>

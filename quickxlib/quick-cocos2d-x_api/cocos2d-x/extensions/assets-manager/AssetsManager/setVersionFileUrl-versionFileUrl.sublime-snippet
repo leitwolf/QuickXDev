@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setVersionFileUrl(${1:versionFileUrl})]]></content>
+    <tabTrigger>setVersionFileUrl(versionFileUrl)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>AssetsManager</description>
+</snippet>

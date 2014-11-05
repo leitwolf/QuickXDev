@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[stopEffect(${1:nSoundId})]]></content>
+    <tabTrigger>stopEffect(nSoundId)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SimpleAudioEngine</description>
+</snippet>

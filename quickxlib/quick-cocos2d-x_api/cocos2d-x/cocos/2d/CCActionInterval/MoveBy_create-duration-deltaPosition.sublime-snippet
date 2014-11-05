@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.MoveBy:create(${1:duration}, ${2:deltaPosition})]]></content>
+    <tabTrigger>MoveBy:create(duration, deltaPosition)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.Place:create(${1:pos})]]></content>
+    <tabTrigger>Place:create(pos)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

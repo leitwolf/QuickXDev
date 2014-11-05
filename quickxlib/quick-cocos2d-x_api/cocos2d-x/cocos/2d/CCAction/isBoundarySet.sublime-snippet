@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isBoundarySet()]]></content>
+    <tabTrigger>isBoundarySet()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Follow</description>
+</snippet>

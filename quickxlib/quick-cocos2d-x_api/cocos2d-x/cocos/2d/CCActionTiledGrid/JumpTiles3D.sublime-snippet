@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.JumpTiles3D]]></content>
+    <tabTrigger>JumpTiles3D</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

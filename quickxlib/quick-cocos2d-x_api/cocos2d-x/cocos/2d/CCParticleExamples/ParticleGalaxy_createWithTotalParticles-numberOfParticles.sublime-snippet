@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.ParticleGalaxy:createWithTotalParticles(${1:numberOfParticles})]]></content>
+    <tabTrigger>ParticleGalaxy:createWithTotalParticles(numberOfParticles)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

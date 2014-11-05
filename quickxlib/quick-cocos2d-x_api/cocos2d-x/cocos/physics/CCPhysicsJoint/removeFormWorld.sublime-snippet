@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeFormWorld()]]></content>
+    <tabTrigger>removeFormWorld()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsJoint</description>
+</snippet>

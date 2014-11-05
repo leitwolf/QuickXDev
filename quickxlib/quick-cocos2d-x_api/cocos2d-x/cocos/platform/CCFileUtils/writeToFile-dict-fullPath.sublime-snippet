@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[writeToFile(${1:dict}, ${2:fullPath})]]></content>
+    <tabTrigger>writeToFile(dict, fullPath)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>FileUtils</description>
+</snippet>

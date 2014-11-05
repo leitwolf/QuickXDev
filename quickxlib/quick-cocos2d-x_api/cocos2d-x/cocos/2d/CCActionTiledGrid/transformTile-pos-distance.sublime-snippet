@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[transformTile(${1:pos}, ${2:distance})]]></content>
+    <tabTrigger>transformTile(pos, distance)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>FadeOutUpTiles</description>
+</snippet>

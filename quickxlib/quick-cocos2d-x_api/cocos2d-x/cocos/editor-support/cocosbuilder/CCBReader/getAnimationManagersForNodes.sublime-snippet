@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getAnimationManagersForNodes()]]></content>
+    <tabTrigger>getAnimationManagersForNodes()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCBReader</description>
+</snippet>

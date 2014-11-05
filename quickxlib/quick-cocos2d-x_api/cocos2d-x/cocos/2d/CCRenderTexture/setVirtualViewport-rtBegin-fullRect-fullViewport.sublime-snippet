@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setVirtualViewport(${1:rtBegin}, ${2:fullRect}, ${3:fullViewport})]]></content>
+    <tabTrigger>setVirtualViewport(rtBegin, fullRect, fullViewport)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>RenderTexture</description>
+</snippet>

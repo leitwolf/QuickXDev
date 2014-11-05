@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[beforeDraw()]]></content>
+    <tabTrigger>beforeDraw()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GridBase</description>
+</snippet>

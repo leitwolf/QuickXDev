@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getLightFlag()]]></content>
+    <tabTrigger>getLightFlag()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BaseLight</description>
+</snippet>

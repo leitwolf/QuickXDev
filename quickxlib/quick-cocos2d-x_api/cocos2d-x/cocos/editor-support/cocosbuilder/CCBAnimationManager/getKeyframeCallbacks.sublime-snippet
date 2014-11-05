@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getKeyframeCallbacks()]]></content>
+    <tabTrigger>getKeyframeCallbacks()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCBAnimationManager</description>
+</snippet>

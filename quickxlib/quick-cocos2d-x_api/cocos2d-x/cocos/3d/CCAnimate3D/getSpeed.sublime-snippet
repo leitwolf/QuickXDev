@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getSpeed()]]></content>
+    <tabTrigger>getSpeed()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Animate3D</description>
+</snippet>

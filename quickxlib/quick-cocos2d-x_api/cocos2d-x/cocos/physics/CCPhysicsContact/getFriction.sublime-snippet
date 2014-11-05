@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getFriction()]]></content>
+    <tabTrigger>getFriction()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsContactPostSolve</description>
+</snippet>

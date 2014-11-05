@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[resumeEventListenersForTarget(${1:target}, ${2:recursive})]]></content>
+    <tabTrigger>resumeEventListenersForTarget(target, recursive)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>EventDispatcher</description>
+</snippet>

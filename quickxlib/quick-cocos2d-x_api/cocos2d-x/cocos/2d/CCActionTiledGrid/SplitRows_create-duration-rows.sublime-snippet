@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.SplitRows:create(${1:duration}, ${2:rows})]]></content>
+    <tabTrigger>SplitRows:create(duration, rows)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

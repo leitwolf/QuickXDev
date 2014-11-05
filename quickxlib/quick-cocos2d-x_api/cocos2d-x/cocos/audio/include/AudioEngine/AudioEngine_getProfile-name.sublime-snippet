@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.AudioEngine:getProfile(${1:name})]]></content>
+    <tabTrigger>AudioEngine:getProfile(name)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

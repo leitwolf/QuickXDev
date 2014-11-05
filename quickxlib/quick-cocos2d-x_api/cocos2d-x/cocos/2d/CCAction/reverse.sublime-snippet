@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[reverse()]]></content>
+    <tabTrigger>reverse()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Action</description>
+</snippet>

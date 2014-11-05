@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[runAnimationsForSequenceNamed(${1:pName})]]></content>
+    <tabTrigger>runAnimationsForSequenceNamed(pName)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCBAnimationManager</description>
+</snippet>

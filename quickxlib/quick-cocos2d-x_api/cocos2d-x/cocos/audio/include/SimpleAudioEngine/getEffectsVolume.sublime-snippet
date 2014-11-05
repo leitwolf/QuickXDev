@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getEffectsVolume()]]></content>
+    <tabTrigger>getEffectsVolume()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SimpleAudioEngine</description>
+</snippet>

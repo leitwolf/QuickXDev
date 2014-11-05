@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unbindImageAsync(${1:filename})]]></content>
+    <tabTrigger>unbindImageAsync(filename)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TextureCache</description>
+</snippet>

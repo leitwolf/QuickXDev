@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addChild(${1:child}, ${2:zOrder}, ${3:name})]]></content>
+    <tabTrigger>addChild(child, zOrder, name)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParallaxNode</description>
+</snippet>

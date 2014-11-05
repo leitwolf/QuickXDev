@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.TransitionProgressInOut]]></content>
+    <tabTrigger>TransitionProgressInOut</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

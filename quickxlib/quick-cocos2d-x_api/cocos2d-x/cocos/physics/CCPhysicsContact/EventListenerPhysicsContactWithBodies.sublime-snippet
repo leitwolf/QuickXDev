@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.EventListenerPhysicsContactWithBodies]]></content>
+    <tabTrigger>EventListenerPhysicsContactWithBodies</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

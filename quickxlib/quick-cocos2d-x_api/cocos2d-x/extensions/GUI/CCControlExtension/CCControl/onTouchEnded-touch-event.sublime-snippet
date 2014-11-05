@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onTouchEnded(${1:touch}, ${2:event})]]></content>
+    <tabTrigger>onTouchEnded(touch, event)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Control</description>
+</snippet>

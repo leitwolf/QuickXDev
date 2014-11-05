@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[purgeCachedData()]]></content>
+    <tabTrigger>purgeCachedData()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Director</description>
+</snippet>

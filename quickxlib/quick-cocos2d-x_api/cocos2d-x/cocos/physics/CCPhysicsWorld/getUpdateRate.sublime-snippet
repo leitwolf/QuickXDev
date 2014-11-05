@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getUpdateRate()]]></content>
+    <tabTrigger>getUpdateRate()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsWorld</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getVertexShaderLog()]]></content>
+    <tabTrigger>getVertexShaderLog()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GLProgram</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithSprites(${1:backgroundSprite}, ${2:progressSprite}, ${3:thumbSprite})]]></content>
+    <tabTrigger>initWithSprites(backgroundSprite, progressSprite, thumbSprite)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ControlSlider</description>
+</snippet>

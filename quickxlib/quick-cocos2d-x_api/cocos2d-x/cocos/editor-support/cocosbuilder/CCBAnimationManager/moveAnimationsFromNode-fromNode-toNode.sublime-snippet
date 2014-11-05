@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[moveAnimationsFromNode(${1:fromNode}, ${2:toNode})]]></content>
+    <tabTrigger>moveAnimationsFromNode(fromNode, toNode)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCBAnimationManager</description>
+</snippet>

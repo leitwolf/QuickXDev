@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setStartSpin(${1:spin})]]></content>
+    <tabTrigger>setStartSpin(spin)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParticleSystem</description>
+</snippet>

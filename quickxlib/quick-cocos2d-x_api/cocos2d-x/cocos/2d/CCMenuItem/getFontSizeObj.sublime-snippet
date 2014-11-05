@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getFontSizeObj()]]></content>
+    <tabTrigger>getFontSizeObj()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>MenuItemFont</description>
+</snippet>

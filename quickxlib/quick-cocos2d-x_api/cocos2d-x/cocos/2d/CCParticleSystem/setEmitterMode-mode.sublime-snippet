@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setEmitterMode(${1:mode})]]></content>
+    <tabTrigger>setEmitterMode(mode)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParticleSystem</description>
+</snippet>

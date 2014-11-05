@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addEventListenerWithSceneGraphPriority(${1:listener}, ${2:node})]]></content>
+    <tabTrigger>addEventListenerWithSceneGraphPriority(listener, node)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>EventDispatcher</description>
+</snippet>

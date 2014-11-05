@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setFlippedY(${1:flippedY})]]></content>
+    <tabTrigger>setFlippedY(flippedY)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Sprite</description>
+</snippet>

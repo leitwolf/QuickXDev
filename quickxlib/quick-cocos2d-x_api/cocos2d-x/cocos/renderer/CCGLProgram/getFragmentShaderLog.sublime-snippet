@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getFragmentShaderLog()]]></content>
+    <tabTrigger>getFragmentShaderLog()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GLProgram</description>
+</snippet>

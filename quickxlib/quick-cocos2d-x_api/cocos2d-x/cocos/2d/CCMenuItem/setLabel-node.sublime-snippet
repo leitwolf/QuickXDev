@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setLabel(${1:node})]]></content>
+    <tabTrigger>setLabel(node)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>MenuItemLabel</description>
+</snippet>

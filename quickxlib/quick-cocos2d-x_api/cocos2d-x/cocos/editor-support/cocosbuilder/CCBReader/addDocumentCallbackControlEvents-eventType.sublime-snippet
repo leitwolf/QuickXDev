@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addDocumentCallbackControlEvents(${1:eventType})]]></content>
+    <tabTrigger>addDocumentCallbackControlEvents(eventType)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCBReader</description>
+</snippet>

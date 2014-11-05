@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setOwner(${1:pOwner})]]></content>
+    <tabTrigger>setOwner(pOwner)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Component</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getOwner()]]></content>
+    <tabTrigger>getOwner()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Component</description>
+</snippet>

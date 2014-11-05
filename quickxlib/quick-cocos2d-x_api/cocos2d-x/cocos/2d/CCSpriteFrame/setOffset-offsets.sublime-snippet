@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setOffset(${1:offsets})]]></content>
+    <tabTrigger>setOffset(offsets)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SpriteFrame</description>
+</snippet>

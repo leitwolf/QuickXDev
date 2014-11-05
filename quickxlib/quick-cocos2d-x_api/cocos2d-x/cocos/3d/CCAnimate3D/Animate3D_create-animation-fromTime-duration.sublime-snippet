@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.Animate3D:create(${1:animation}, ${2:fromTime}, ${3:duration})]]></content>
+    <tabTrigger>Animate3D:create(animation, fromTime, duration)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

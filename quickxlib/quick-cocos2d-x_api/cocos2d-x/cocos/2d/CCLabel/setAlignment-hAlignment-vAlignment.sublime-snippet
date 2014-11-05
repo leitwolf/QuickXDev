@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setAlignment(${1:hAlignment}, ${2:vAlignment})]]></content>
+    <tabTrigger>setAlignment(hAlignment, vAlignment)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Label</description>
+</snippet>

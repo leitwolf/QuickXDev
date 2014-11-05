@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getOwnerCallbackNodes()]]></content>
+    <tabTrigger>getOwnerCallbackNodes()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCBReader</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isSendCleanupToScene()]]></content>
+    <tabTrigger>isSendCleanupToScene()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Director</description>
+</snippet>

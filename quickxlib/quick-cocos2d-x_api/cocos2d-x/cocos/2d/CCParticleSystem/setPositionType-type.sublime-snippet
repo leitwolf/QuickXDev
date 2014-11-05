@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setPositionType(${1:type})]]></content>
+    <tabTrigger>setPositionType(type)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParticleSystem</description>
+</snippet>

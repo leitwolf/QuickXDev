@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.EaseElasticOut]]></content>
+    <tabTrigger>EaseElasticOut</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

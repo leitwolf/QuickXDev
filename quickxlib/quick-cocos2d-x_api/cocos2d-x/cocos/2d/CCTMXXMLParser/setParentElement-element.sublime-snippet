@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setParentElement(${1:element})]]></content>
+    <tabTrigger>setParentElement(element)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TMXMapInfo</description>
+</snippet>

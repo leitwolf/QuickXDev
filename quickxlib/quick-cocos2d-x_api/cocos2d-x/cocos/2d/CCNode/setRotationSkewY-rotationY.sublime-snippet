@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setRotationSkewY(${1:rotationY})]]></content>
+    <tabTrigger>setRotationSkewY(rotationY)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Node</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.Animation:createWithSpriteFrames(${1:arrayOfSpriteFrameNames}, ${2:delay}, ${3:loops})]]></content>
+    <tabTrigger>Animation:createWithSpriteFrames(arrayOfSpriteFrameNames, delay, loops)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

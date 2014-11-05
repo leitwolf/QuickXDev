@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ON_PERCENTAGE_CHANGED]]></content>
+    <tabTrigger>ON_PERCENTAGE_CHANGED</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

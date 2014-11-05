@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[updateUniforms()]]></content>
+    <tabTrigger>updateUniforms()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GLProgram</description>
+</snippet>

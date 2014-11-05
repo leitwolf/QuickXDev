@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithMaskSprite(${1:maskSprite}, ${2:onSprite}, ${3:offSprite}, ${4:thumbSprite}, ${5:onLabel}, ${6:offLabel})]]></content>
+    <tabTrigger>initWithMaskSprite(maskSprite, onSprite, offSprite, thumbSprite, onLabel, offLabel)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ControlSwitch</description>
+</snippet>

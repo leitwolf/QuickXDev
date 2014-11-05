@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addParticle()]]></content>
+    <tabTrigger>addParticle()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParticleSystem</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[SP_TIMELINE_IKCONSTRAINT]]></content>
+    <tabTrigger>SP_TIMELINE_IKCONSTRAINT</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

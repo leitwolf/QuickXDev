@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.TransitionTurnOffTiles]]></content>
+    <tabTrigger>TransitionTurnOffTiles</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

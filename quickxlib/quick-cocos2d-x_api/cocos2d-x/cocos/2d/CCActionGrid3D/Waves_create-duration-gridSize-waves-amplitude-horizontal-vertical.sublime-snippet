@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.Waves:create(${1:duration}, ${2:gridSize}, ${3:waves}, ${4:amplitude}, ${5:horizontal}, ${6:vertical})]]></content>
+    <tabTrigger>Waves:create(duration, gridSize, waves, amplitude, horizontal, vertical)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setVector(${1:alongVector})]]></content>
+    <tabTrigger>setVector(alongVector)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>LayerGradient</description>
+</snippet>

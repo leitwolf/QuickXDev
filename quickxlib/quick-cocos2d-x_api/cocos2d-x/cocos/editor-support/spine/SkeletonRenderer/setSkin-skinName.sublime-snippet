@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setSkin(${1:skinName})]]></content>
+    <tabTrigger>setSkin(skinName)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SkeletonRenderer</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[reorderChild(${1:child}, ${2:localZOrder})]]></content>
+    <tabTrigger>reorderChild(child, localZOrder)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Node</description>
+</snippet>

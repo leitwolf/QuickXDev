@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeAllProtectedChildrenWithCleanup(${1:cleanup})]]></content>
+    <tabTrigger>removeAllProtectedChildrenWithCleanup(cleanup)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ProtectedNode</description>
+</snippet>

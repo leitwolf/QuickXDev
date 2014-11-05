@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[releaseAllFreeItems_()]]></content>
+    <tabTrigger>releaseAllFreeItems_()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIListView</description>
+</snippet>

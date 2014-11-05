@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[actionForSoundChannel(${1:channel})]]></content>
+    <tabTrigger>actionForSoundChannel(channel)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCBAnimationManager</description>
+</snippet>

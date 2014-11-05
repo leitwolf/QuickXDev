@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeEventListenersForType(${1:listenerType})]]></content>
+    <tabTrigger>removeEventListenersForType(listenerType)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>EventDispatcher</description>
+</snippet>

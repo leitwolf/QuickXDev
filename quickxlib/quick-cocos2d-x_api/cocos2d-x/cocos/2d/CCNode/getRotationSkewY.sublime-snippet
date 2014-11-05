@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getRotationSkewY()]]></content>
+    <tabTrigger>getRotationSkewY()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Node</description>
+</snippet>

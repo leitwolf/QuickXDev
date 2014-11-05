@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setGravity(${1:g})]]></content>
+    <tabTrigger>setGravity(g)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParticleSystem</description>
+</snippet>

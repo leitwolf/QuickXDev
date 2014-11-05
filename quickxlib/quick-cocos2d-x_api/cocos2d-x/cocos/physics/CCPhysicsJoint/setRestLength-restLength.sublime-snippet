@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setRestLength(${1:restLength})]]></content>
+    <tabTrigger>setRestLength(restLength)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsJointSpring</description>
+</snippet>

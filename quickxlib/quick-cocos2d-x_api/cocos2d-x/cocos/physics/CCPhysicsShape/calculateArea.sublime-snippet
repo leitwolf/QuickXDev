@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[calculateArea()]]></content>
+    <tabTrigger>calculateArea()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsShapeCircle</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.GLView:setGLContextAttrs(${1:glContextAttrs})]]></content>
+    <tabTrigger>GLView:setGLContextAttrs(glContextAttrs)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

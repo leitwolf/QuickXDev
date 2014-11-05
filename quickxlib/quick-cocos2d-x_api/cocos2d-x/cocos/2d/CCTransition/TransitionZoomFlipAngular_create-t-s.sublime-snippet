@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.TransitionZoomFlipAngular:create(${1:t}, ${2:s})]]></content>
+    <tabTrigger>TransitionZoomFlipAngular:create(t, s)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

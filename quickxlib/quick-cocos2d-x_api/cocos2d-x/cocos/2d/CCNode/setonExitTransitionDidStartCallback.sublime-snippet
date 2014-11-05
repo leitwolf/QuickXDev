@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setonExitTransitionDidStartCallback()]]></content>
+    <tabTrigger>setonExitTransitionDidStartCallback()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Node</description>
+</snippet>

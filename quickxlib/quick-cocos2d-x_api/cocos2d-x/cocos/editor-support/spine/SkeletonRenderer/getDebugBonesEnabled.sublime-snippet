@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getDebugBonesEnabled()]]></content>
+    <tabTrigger>getDebugBonesEnabled()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SkeletonRenderer</description>
+</snippet>

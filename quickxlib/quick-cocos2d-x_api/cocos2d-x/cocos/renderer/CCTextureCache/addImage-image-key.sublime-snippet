@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addImage(${1:image}, ${2:key})]]></content>
+    <tabTrigger>addImage(image, key)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TextureCache</description>
+</snippet>

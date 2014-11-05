@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[asyncLoad_()]]></content>
+    <tabTrigger>asyncLoad_()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIListView</description>
+</snippet>

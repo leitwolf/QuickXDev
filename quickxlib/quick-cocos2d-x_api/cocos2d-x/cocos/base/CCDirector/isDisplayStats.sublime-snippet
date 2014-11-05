@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isDisplayStats()]]></content>
+    <tabTrigger>isDisplayStats()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Director</description>
+</snippet>

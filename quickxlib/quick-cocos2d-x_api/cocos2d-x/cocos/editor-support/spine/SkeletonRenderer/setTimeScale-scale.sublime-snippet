@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTimeScale(${1:scale})]]></content>
+    <tabTrigger>setTimeScale(scale)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SkeletonRenderer</description>
+</snippet>

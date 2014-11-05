@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeAllAttachNode()]]></content>
+    <tabTrigger>removeAllAttachNode()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Sprite3D</description>
+</snippet>

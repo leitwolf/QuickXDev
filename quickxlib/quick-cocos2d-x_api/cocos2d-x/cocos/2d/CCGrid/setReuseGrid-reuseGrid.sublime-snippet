@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setReuseGrid(${1:reuseGrid})]]></content>
+    <tabTrigger>setReuseGrid(reuseGrid)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GridBase</description>
+</snippet>

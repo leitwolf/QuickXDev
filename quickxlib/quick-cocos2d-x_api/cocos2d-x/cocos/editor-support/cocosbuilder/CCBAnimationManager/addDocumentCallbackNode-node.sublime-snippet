@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addDocumentCallbackNode(${1:node})]]></content>
+    <tabTrigger>addDocumentCallbackNode(node)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCBAnimationManager</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeAllChildrenWithCleanup(${1:doCleanup})]]></content>
+    <tabTrigger>removeAllChildrenWithCleanup(doCleanup)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParticleBatchNode</description>
+</snippet>

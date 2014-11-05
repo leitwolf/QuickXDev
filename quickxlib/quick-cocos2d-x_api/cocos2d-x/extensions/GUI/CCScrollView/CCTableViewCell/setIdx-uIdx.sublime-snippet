@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setIdx(${1:uIdx})]]></content>
+    <tabTrigger>setIdx(uIdx)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TableViewCell</description>
+</snippet>

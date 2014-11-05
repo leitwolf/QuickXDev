@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[disableParticle(${1:particleIndex})]]></content>
+    <tabTrigger>disableParticle(particleIndex)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParticleBatchNode</description>
+</snippet>

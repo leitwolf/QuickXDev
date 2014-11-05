@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.PhysicsShapeEdgeBox:create(${1:size}, ${2:material}, ${3:border}, ${4:offset})]]></content>
+    <tabTrigger>PhysicsShapeEdgeBox:create(size, material, border, offset)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

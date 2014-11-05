@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setDistance(${1:distance})]]></content>
+    <tabTrigger>setDistance(distance)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsJointDistance</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setSpeed(${1:if})]]></content>
+    <tabTrigger>setSpeed(if)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsWorld</description>
+</snippet>

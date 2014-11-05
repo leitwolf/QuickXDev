@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setCameraMask(${1:mask}, ${2:applyChildren})]]></content>
+    <tabTrigger>setCameraMask(mask, applyChildren)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Node</description>
+</snippet>

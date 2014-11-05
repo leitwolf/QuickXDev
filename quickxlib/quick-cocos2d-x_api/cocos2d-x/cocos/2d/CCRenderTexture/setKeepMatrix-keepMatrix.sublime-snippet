@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setKeepMatrix(${1:keepMatrix})]]></content>
+    <tabTrigger>setKeepMatrix(keepMatrix)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>RenderTexture</description>
+</snippet>

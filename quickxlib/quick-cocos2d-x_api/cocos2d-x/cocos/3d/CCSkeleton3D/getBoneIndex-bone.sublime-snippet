@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getBoneIndex(${1:bone})]]></content>
+    <tabTrigger>getBoneIndex(bone)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Skeleton3D</description>
+</snippet>

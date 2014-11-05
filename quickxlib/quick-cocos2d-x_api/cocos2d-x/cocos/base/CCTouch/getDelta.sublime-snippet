@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getDelta()]]></content>
+    <tabTrigger>getDelta()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Touch</description>
+</snippet>

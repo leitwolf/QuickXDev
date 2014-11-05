@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setDirty(${1:dirty})]]></content>
+    <tabTrigger>setDirty(dirty)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Sprite</description>
+</snippet>

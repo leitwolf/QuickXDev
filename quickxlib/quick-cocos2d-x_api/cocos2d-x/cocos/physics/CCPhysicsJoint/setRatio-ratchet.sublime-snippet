@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setRatio(${1:ratchet})]]></content>
+    <tabTrigger>setRatio(ratchet)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsJointGear</description>
+</snippet>

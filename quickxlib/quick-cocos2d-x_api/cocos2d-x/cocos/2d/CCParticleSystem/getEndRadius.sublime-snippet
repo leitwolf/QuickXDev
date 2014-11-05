@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getEndRadius()]]></content>
+    <tabTrigger>getEndRadius()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParticleSystem</description>
+</snippet>

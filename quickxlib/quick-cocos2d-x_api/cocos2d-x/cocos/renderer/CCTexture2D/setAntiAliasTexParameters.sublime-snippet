@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setAntiAliasTexParameters()]]></content>
+    <tabTrigger>setAntiAliasTexParameters()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Texture2D</description>
+</snippet>

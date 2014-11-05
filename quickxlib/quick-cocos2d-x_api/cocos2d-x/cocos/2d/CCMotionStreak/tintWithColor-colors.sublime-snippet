@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[tintWithColor(${1:colors})]]></content>
+    <tabTrigger>tintWithColor(colors)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>MotionStreak</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[disableCascadeColor()]]></content>
+    <tabTrigger>disableCascadeColor()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ProtectedNode</description>
+</snippet>

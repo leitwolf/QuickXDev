@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[update(${1:time})]]></content>
+    <tabTrigger>update(time)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Action</description>
+</snippet>

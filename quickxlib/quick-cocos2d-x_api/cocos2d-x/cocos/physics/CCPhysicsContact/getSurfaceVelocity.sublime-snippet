@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getSurfaceVelocity()]]></content>
+    <tabTrigger>getSurfaceVelocity()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsContactPostSolve</description>
+</snippet>

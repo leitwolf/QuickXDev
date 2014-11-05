@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setAtlasIndex(${1:atlasIndex})]]></content>
+    <tabTrigger>setAtlasIndex(atlasIndex)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Sprite</description>
+</snippet>

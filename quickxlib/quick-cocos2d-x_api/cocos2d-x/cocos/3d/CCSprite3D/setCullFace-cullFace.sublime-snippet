@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setCullFace(${1:cullFace})]]></content>
+    <tabTrigger>setCullFace(cullFace)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Sprite3D</description>
+</snippet>

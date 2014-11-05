@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[switchTo(${1:n})]]></content>
+    <tabTrigger>switchTo(n)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>LayerMultiplex</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setInnerAngle(${1:angle})]]></content>
+    <tabTrigger>setInnerAngle(angle)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SpotLight</description>
+</snippet>

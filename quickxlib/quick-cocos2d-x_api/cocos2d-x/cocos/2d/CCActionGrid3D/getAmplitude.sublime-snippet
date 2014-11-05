@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getAmplitude()]]></content>
+    <tabTrigger>getAmplitude()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Twirl</description>
+</snippet>

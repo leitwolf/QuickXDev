@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setNeedDepthTestForBlit(${1:neededDepthTest})]]></content>
+    <tabTrigger>setNeedDepthTestForBlit(neededDepthTest)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Grid3D</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setAmplitude(${1:amplitude})]]></content>
+    <tabTrigger>setAmplitude(amplitude)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>JumpTiles3D</description>
+</snippet>

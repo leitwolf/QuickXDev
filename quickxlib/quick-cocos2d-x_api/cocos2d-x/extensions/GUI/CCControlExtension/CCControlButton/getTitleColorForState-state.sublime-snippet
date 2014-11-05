@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTitleColorForState(${1:state})]]></content>
+    <tabTrigger>getTitleColorForState(state)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ControlButton</description>
+</snippet>

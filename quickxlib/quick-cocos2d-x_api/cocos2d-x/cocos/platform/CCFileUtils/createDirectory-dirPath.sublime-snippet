@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[createDirectory(${1:dirPath})]]></content>
+    <tabTrigger>createDirectory(dirPath)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>FileUtils</description>
+</snippet>

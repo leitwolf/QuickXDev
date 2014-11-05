@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getCurrentTarget()]]></content>
+    <tabTrigger>getCurrentTarget()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Event</description>
+</snippet>

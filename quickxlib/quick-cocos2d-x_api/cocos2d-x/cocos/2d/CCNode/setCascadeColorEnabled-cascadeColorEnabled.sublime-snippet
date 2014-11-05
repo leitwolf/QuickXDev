@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setCascadeColorEnabled(${1:cascadeColorEnabled})]]></content>
+    <tabTrigger>setCascadeColorEnabled(cascadeColorEnabled)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Node</description>
+</snippet>

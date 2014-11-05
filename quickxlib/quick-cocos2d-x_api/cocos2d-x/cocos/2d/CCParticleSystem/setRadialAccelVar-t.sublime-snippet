@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setRadialAccelVar(${1:t})]]></content>
+    <tabTrigger>setRadialAccelVar(t)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParticleSystem</description>
+</snippet>

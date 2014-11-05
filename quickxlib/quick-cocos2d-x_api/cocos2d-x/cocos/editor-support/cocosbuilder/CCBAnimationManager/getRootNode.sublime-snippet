@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getRootNode()]]></content>
+    <tabTrigger>getRootNode()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCBAnimationManager</description>
+</snippet>

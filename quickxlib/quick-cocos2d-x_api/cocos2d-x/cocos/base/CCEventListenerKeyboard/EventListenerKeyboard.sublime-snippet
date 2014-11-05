@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.EventListenerKeyboard]]></content>
+    <tabTrigger>EventListenerKeyboard</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[preloadEffect(${1:pszFilePath})]]></content>
+    <tabTrigger>preloadEffect(pszFilePath)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SimpleAudioEngine</description>
+</snippet>

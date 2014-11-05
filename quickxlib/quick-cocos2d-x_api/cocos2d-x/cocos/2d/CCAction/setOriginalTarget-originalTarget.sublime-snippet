@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setOriginalTarget(${1:originalTarget})]]></content>
+    <tabTrigger>setOriginalTarget(originalTarget)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Action</description>
+</snippet>

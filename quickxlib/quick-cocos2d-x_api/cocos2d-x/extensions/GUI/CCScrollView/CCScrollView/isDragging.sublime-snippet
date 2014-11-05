@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isDragging()]]></content>
+    <tabTrigger>isDragging()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ScrollView</description>
+</snippet>

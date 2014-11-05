@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.Hide]]></content>
+    <tabTrigger>Hide</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

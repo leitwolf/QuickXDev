@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setMapOrientation(${1:mapOrientation})]]></content>
+    <tabTrigger>setMapOrientation(mapOrientation)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TMXTiledMap</description>
+</snippet>

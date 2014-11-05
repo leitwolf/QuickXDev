@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addCustomEventListener(${1:eventName})]]></content>
+    <tabTrigger>addCustomEventListener(eventName)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>EventDispatcher</description>
+</snippet>

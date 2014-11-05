@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getbgSpriteLeftBottomPoint_()]]></content>
+    <tabTrigger>getbgSpriteLeftBottomPoint_()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UISlider</description>
+</snippet>

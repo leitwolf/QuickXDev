@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setDisplayFrameWithAnimationName(${1:animationName}, ${2:frameIndex})]]></content>
+    <tabTrigger>setDisplayFrameWithAnimationName(animationName, frameIndex)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Sprite</description>
+</snippet>

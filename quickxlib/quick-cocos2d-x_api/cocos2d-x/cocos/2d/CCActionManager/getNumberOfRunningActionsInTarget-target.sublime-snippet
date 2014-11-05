@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getNumberOfRunningActionsInTarget(${1:target})]]></content>
+    <tabTrigger>getNumberOfRunningActionsInTarget(target)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ActionManager</description>
+</snippet>

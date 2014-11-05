@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setCompleteListener(${1:listener})]]></content>
+    <tabTrigger>setCompleteListener(listener)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SkeletonAnimation</description>
+</snippet>

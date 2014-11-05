@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[finish()]]></content>
+    <tabTrigger>finish()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TransitionScene</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.FlipX:create(${1:x})]]></content>
+    <tabTrigger>FlipX:create(x)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

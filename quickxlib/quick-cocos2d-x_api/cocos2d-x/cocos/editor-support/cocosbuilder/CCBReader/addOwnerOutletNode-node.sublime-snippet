@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addOwnerOutletNode(${1:node})]]></content>
+    <tabTrigger>addOwnerOutletNode(node)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCBReader</description>
+</snippet>

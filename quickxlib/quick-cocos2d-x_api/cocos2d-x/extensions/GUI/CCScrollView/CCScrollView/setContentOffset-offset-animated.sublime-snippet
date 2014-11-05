@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setContentOffset(${1:offset}, ${2:animated})]]></content>
+    <tabTrigger>setContentOffset(offset, animated)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ScrollView</description>
+</snippet>

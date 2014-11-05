@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[use()]]></content>
+    <tabTrigger>use()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GLProgram</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[clearTracks()]]></content>
+    <tabTrigger>clearTracks()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SkeletonAnimation</description>
+</snippet>

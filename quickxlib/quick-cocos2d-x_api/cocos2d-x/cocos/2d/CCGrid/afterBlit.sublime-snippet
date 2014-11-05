@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[afterBlit()]]></content>
+    <tabTrigger>afterBlit()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GridBase</description>
+</snippet>

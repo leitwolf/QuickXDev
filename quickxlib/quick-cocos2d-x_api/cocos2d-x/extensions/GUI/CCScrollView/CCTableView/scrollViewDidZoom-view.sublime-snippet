@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[scrollViewDidZoom(${1:view})]]></content>
+    <tabTrigger>scrollViewDidZoom(view)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TableView</description>
+</snippet>

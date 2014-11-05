@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getPixelFormat()]]></content>
+    <tabTrigger>getPixelFormat()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Texture2D</description>
+</snippet>

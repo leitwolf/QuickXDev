@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getDocumentControllerName()]]></content>
+    <tabTrigger>getDocumentControllerName()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCBAnimationManager</description>
+</snippet>

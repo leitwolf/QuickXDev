@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[SCROLLVIEW_EVENT_BOUNCE_RIGHT]]></content>
+    <tabTrigger>SCROLLVIEW_EVENT_BOUNCE_RIGHT</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setGridSize(${1:gridSize})]]></content>
+    <tabTrigger>setGridSize(gridSize)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GridBase</description>
+</snippet>

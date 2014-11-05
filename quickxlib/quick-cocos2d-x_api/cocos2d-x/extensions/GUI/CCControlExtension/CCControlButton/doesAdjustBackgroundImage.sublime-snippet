@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[doesAdjustBackgroundImage()]]></content>
+    <tabTrigger>doesAdjustBackgroundImage()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ControlButton</description>
+</snippet>

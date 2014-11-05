@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[listenOnFileDescriptor(${1:fd})]]></content>
+    <tabTrigger>listenOnFileDescriptor(fd)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Console</description>
+</snippet>

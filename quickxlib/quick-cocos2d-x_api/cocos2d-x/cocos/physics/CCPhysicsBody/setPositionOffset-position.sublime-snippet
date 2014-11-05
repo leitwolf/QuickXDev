@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setPositionOffset(${1:position})]]></content>
+    <tabTrigger>setPositionOffset(position)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsBody</description>
+</snippet>

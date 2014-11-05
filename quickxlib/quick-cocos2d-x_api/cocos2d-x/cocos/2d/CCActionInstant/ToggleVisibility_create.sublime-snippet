@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.ToggleVisibility:create()]]></content>
+    <tabTrigger>ToggleVisibility:create()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

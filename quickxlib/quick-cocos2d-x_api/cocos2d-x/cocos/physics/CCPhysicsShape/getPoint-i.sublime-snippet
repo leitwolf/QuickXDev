@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getPoint(${1:i})]]></content>
+    <tabTrigger>getPoint(i)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsShapePolygon</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.ScrollView]]></content>
+    <tabTrigger>ScrollView</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

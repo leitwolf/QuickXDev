@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[drawAtPoint(${1:point})]]></content>
+    <tabTrigger>drawAtPoint(point)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Texture2D</description>
+</snippet>

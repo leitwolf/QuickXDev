@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setInterval(${1:interval})]]></content>
+    <tabTrigger>setInterval(interval)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Timer</description>
+</snippet>

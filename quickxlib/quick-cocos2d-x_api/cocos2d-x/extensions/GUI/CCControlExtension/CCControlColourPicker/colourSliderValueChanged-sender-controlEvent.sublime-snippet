@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[colourSliderValueChanged(${1:sender}, ${2:controlEvent})]]></content>
+    <tabTrigger>colourSliderValueChanged(sender, controlEvent)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ControlColourPicker</description>
+</snippet>

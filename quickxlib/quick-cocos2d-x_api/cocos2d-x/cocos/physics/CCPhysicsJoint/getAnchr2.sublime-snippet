@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getAnchr2()]]></content>
+    <tabTrigger>getAnchr2()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsJointGroove</description>
+</snippet>

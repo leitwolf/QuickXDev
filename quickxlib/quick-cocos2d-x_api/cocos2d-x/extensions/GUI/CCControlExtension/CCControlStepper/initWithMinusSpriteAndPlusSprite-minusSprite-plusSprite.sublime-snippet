@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithMinusSpriteAndPlusSprite(${1:minusSprite}, ${2:plusSprite})]]></content>
+    <tabTrigger>initWithMinusSpriteAndPlusSprite(minusSprite, plusSprite)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ControlStepper</description>
+</snippet>

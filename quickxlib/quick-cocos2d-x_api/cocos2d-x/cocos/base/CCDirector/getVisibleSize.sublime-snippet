@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getVisibleSize()]]></content>
+    <tabTrigger>getVisibleSize()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Director</description>
+</snippet>

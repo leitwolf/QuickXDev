@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getMaxT()]]></content>
+    <tabTrigger>getMaxT()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Texture2D</description>
+</snippet>

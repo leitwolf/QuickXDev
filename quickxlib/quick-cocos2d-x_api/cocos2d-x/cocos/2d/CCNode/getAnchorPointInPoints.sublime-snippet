@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getAnchorPointInPoints()]]></content>
+    <tabTrigger>getAnchorPointInPoints()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Node</description>
+</snippet>

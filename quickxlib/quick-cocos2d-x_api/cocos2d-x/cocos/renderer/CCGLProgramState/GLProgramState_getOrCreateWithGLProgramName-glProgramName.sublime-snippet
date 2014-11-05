@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.GLProgramState:getOrCreateWithGLProgramName(${1:glProgramName})]]></content>
+    <tabTrigger>GLProgramState:getOrCreateWithGLProgramName(glProgramName)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

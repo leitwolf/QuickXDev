@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setupTileSprite(${1:sprite}, ${2:pos}, ${3:gid})]]></content>
+    <tabTrigger>setupTileSprite(sprite, pos, gid)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TMXLayer</description>
+</snippet>

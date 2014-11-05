@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[receiveExternalKeyEvent(${1:externalKeyCode}, ${2:receive})]]></content>
+    <tabTrigger>receiveExternalKeyEvent(externalKeyCode, receive)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Controller</description>
+</snippet>

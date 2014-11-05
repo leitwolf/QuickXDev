@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getSelectedItem()]]></content>
+    <tabTrigger>getSelectedItem()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>MenuItemToggle</description>
+</snippet>

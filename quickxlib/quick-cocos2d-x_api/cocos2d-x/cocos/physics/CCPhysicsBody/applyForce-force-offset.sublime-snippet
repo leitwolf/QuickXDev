@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[applyForce(${1:force}, ${2:offset})]]></content>
+    <tabTrigger>applyForce(force, offset)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsBody</description>
+</snippet>

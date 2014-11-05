@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getDescription()]]></content>
+    <tabTrigger>getDescription()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Texture2D</description>
+</snippet>

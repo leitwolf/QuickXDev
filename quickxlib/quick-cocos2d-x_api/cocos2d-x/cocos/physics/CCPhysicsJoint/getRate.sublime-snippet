@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getRate()]]></content>
+    <tabTrigger>getRate()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsJointMotor</description>
+</snippet>

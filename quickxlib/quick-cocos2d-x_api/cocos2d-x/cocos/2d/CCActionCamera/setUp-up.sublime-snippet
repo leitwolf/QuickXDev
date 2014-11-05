@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setUp(${1:up})]]></content>
+    <tabTrigger>setUp(up)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ActionCamera</description>
+</snippet>

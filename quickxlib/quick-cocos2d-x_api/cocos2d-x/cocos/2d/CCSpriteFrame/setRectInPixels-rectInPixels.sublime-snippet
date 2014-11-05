@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setRectInPixels(${1:rectInPixels})]]></content>
+    <tabTrigger>setRectInPixels(rectInPixels)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SpriteFrame</description>
+</snippet>

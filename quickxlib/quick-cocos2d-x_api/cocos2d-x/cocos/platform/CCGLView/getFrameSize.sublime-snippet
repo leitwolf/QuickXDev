@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getFrameSize()]]></content>
+    <tabTrigger>getFrameSize()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GLView</description>
+</snippet>

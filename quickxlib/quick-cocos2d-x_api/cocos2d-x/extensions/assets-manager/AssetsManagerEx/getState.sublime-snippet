@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getState()]]></content>
+    <tabTrigger>getState()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>AssetsManagerEx</description>
+</snippet>

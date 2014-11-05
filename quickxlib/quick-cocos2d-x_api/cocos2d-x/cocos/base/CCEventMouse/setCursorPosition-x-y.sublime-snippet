@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setCursorPosition(${1:x}, ${2:y})]]></content>
+    <tabTrigger>setCursorPosition(x, y)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>EventMouse</description>
+</snippet>

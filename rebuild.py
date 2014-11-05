@@ -20,11 +20,10 @@ snippetTemplate = """<snippet>
 </snippet>
 """
 
-# user definition path: definition/user.json
+# user definition path: user_definition.json
 USER_DEFINITIONS=[]
 # auto completions path: SAVE_DIR/md5(filePath)/...
 SAVE_DIR=""
-quick_cocos2dx_root=""
 
 def rebuild(dir,saveDir):
     global USER_DEFINITIONS
@@ -33,7 +32,6 @@ def rebuild(dir,saveDir):
     SAVE_DIR=saveDir
     # delete files first
     deleteFiles(saveDir,saveDir)
-    loadRoot()
     parseDir(dir)
     return USER_DEFINITIONS
 
@@ -42,10 +40,8 @@ def rebuildSingle(file,saveDir):
     global SAVE_DIR
     USER_DEFINITIONS=[]
     SAVE_DIR=saveDir
-    loadRoot()
     parseLua(file)
-    path=os.path.relpath(file,quick_cocos2dx_root)
-    return [USER_DEFINITIONS,path]
+    return [USER_DEFINITIONS,file]
 
 def parseDir(dir):
     for item in os.listdir(dir):
@@ -126,9 +122,6 @@ def parseLua(file):
     saveCompletions(completionsList,saveDir,"c")
     
 def handleDefinition(function,param,file,lineNum,showFunc=None):
-    if quick_cocos2dx_root=="":
-        return
-    path=os.path.relpath(file,quick_cocos2dx_root)
     if showFunc==None:
         showFunc=function
     if param!=None:
@@ -141,7 +134,7 @@ def handleDefinition(function,param,file,lineNum,showFunc=None):
         str1=function[(index+1):]
         arr.append(str1)
     arr.append(function)
-    USER_DEFINITIONS.append([arr,showFunc,path,lineNum])
+    USER_DEFINITIONS.append([arr,showFunc,file,lineNum,0])
 
 def saveFunction(saveDir,classname,function,param): 
     arr=handleParam(param)
@@ -190,11 +183,6 @@ def saveCompletions(completionsList,saveDir,filename):
             f=open(savePath, "w+")
             f.write(template)
             f.close()
-
-def loadRoot():	
-    global quick_cocos2dx_root
-    settings = helper.loadSettings("QuickXDev")
-    quick_cocos2dx_root = settings.get("quick_cocos2dx_root", "")
 
 # delete files under dir
 def deleteFiles(path,root):

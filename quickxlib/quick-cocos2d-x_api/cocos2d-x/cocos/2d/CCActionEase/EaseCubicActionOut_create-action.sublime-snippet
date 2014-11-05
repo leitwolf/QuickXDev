@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.EaseCubicActionOut:create(${1:action})]]></content>
+    <tabTrigger>EaseCubicActionOut:create(action)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

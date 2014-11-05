@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.PhysicsBody:create(${1:mass}, ${2:moment})]]></content>
+    <tabTrigger>PhysicsBody:create(mass, moment)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

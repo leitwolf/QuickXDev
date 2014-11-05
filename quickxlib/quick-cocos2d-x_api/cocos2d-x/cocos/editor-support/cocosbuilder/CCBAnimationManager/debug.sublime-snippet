@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[debug()]]></content>
+    <tabTrigger>debug()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCBAnimationManager</description>
+</snippet>

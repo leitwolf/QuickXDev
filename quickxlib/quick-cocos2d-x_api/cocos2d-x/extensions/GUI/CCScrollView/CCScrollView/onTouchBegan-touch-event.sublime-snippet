@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onTouchBegan(${1:touch}, ${2:event})]]></content>
+    <tabTrigger>onTouchBegan(touch, event)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ScrollView</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setWeight(${1:weight})]]></content>
+    <tabTrigger>setWeight(weight)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Animate3D</description>
+</snippet>

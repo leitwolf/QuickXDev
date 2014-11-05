@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setDesignResolutionSize(${1:width}, ${2:height}, ${3:resolutionPolicy})]]></content>
+    <tabTrigger>setDesignResolutionSize(width, height, resolutionPolicy)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GLView</description>
+</snippet>

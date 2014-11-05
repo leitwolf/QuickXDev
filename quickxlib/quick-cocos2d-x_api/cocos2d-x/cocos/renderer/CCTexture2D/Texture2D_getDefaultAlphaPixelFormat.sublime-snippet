@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.Texture2D:getDefaultAlphaPixelFormat()]]></content>
+    <tabTrigger>Texture2D:getDefaultAlphaPixelFormat()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

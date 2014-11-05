@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[set2DProjection()]]></content>
+    <tabTrigger>set2DProjection()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GridBase</description>
+</snippet>

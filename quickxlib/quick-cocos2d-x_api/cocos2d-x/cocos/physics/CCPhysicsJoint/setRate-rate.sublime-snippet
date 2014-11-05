@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setRate(${1:rate})]]></content>
+    <tabTrigger>setRate(rate)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsJointMotor</description>
+</snippet>

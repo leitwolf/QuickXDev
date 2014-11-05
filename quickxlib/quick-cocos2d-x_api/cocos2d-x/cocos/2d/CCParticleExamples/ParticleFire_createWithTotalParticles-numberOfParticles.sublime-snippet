@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.ParticleFire:createWithTotalParticles(${1:numberOfParticles})]]></content>
+    <tabTrigger>ParticleFire:createWithTotalParticles(numberOfParticles)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

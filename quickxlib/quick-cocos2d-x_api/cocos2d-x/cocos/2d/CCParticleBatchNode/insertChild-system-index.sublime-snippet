@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[insertChild(${1:system}, ${2:index})]]></content>
+    <tabTrigger>insertChild(system, index)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParticleBatchNode</description>
+</snippet>

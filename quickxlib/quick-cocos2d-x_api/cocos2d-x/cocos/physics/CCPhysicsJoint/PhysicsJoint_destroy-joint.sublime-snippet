@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.PhysicsJoint:destroy(${1:joint})]]></content>
+    <tabTrigger>PhysicsJoint:destroy(joint)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

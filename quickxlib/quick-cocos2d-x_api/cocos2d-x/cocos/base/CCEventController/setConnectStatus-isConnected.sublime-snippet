@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setConnectStatus(${1:isConnected})]]></content>
+    <tabTrigger>setConnectStatus(isConnected)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>EventController</description>
+</snippet>

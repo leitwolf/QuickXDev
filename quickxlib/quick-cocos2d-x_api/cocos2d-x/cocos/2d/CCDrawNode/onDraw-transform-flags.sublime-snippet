@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onDraw(${1:transform}, ${2:flags})]]></content>
+    <tabTrigger>onDraw(transform, flags)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>DrawNode</description>
+</snippet>

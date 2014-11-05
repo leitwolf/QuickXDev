@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getRetinaFactor()]]></content>
+    <tabTrigger>getRetinaFactor()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GLView</description>
+</snippet>

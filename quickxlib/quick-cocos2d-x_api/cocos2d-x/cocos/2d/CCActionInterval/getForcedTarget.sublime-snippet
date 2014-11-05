@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getForcedTarget()]]></content>
+    <tabTrigger>getForcedTarget()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TargetedAction</description>
+</snippet>

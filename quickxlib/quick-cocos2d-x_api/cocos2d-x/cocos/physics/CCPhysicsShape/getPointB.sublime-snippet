@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getPointB()]]></content>
+    <tabTrigger>getPointB()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsShapeEdgeSegment</description>
+</snippet>

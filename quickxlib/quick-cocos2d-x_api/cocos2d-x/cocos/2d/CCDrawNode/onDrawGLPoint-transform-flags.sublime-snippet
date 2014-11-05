@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onDrawGLPoint(${1:transform}, ${2:flags})]]></content>
+    <tabTrigger>onDrawGLPoint(transform, flags)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>DrawNode</description>
+</snippet>

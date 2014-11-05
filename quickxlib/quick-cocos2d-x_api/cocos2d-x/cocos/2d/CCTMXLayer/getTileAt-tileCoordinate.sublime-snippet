@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTileAt(${1:tileCoordinate})]]></content>
+    <tabTrigger>getTileAt(tileCoordinate)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TMXLayer</description>
+</snippet>

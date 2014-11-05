@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.DrawNode:create()]]></content>
+    <tabTrigger>DrawNode:create()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

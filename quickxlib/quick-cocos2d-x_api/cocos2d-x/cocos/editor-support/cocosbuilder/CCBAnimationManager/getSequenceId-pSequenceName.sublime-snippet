@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getSequenceId(${1:pSequenceName})]]></content>
+    <tabTrigger>getSequenceId(pSequenceName)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCBAnimationManager</description>
+</snippet>

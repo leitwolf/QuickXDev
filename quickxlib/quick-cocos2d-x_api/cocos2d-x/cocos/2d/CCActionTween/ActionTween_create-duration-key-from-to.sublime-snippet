@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.ActionTween:create(${1:duration}, ${2:key}, ${3:from}, ${4:to})]]></content>
+    <tabTrigger>ActionTween:create(duration, key, from, to)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

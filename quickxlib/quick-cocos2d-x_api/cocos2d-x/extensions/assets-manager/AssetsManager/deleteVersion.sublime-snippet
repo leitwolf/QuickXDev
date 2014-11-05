@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[deleteVersion()]]></content>
+    <tabTrigger>deleteVersion()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>AssetsManager</description>
+</snippet>

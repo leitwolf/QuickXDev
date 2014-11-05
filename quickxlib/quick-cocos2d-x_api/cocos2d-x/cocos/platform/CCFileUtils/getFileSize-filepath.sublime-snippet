@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getFileSize(${1:filepath})]]></content>
+    <tabTrigger>getFileSize(filepath)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>FileUtils</description>
+</snippet>

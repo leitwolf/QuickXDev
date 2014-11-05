@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.AssetsManager:create(${1:packageUrl}, ${2:versionFileUrl}, ${3:storagePath}, ${4:errorCallback}, ${5:progressCallback}, ${6:successCallback})]]></content>
+    <tabTrigger>AssetsManager:create(packageUrl, versionFileUrl, storagePath, errorCallback, progressCallback, successCallback)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[windowShouldClose()]]></content>
+    <tabTrigger>windowShouldClose()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GLView</description>
+</snippet>

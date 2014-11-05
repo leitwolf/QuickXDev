@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[reorderBatch(${1:reorder})]]></content>
+    <tabTrigger>reorderBatch(reorder)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SpriteBatchNode</description>
+</snippet>

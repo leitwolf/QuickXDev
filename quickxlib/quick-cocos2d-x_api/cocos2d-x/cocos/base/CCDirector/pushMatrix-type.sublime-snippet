@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[pushMatrix(${1:type})]]></content>
+    <tabTrigger>pushMatrix(type)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Director</description>
+</snippet>

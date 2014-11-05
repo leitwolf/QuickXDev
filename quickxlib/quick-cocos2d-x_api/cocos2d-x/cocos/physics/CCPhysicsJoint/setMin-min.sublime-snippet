@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setMin(${1:min})]]></content>
+    <tabTrigger>setMin(min)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsJointRotaryLimit</description>
+</snippet>

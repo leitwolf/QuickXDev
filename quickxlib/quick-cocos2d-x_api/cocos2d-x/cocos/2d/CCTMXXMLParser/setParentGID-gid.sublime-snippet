@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setParentGID(${1:gid})]]></content>
+    <tabTrigger>setParentGID(gid)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TMXMapInfo</description>
+</snippet>

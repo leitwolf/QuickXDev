@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[parseXMLString(${1:xmlString})]]></content>
+    <tabTrigger>parseXMLString(xmlString)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TMXMapInfo</description>
+</snippet>

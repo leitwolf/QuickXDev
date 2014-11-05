@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setEnabled(${1:isEnabled})]]></content>
+    <tabTrigger>setEnabled(isEnabled)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>EventDispatcher</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_updateContentSize()]]></content>
+    <tabTrigger>_updateContentSize()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TableView</description>
+</snippet>

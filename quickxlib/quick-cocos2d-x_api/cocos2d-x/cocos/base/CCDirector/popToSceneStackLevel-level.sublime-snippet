@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[popToSceneStackLevel(${1:level})]]></content>
+    <tabTrigger>popToSceneStackLevel(level)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Director</description>
+</snippet>

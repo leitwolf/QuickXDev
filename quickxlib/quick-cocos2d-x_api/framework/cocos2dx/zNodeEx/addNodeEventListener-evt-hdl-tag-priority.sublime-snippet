@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addNodeEventListener(${1:evt}, ${2:hdl}, ${3:tag}, ${4:priority})]]></content>
+    <tabTrigger>addNodeEventListener(evt, hdl, tag, priority)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Node</description>
+</snippet>

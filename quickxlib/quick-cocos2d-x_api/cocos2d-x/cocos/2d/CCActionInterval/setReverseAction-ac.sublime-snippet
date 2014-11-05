@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setReverseAction(${1:ac})]]></content>
+    <tabTrigger>setReverseAction(ac)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>FadeOut</description>
+</snippet>

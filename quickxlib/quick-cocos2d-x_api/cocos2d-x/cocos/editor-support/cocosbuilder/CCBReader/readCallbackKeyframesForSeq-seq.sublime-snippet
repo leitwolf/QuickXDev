@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[readCallbackKeyframesForSeq(${1:seq})]]></content>
+    <tabTrigger>readCallbackKeyframesForSeq(seq)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCBReader</description>
+</snippet>

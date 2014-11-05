@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTexture(${1:texture})]]></content>
+    <tabTrigger>setTexture(texture)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Sprite</description>
+</snippet>

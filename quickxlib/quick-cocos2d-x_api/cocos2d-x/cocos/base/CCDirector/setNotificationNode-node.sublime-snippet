@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setNotificationNode(${1:node})]]></content>
+    <tabTrigger>setNotificationNode(node)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Director</description>
+</snippet>

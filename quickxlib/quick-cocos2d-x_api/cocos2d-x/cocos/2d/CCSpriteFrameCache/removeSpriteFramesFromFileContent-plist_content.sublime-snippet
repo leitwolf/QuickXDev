@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeSpriteFramesFromFileContent(${1:plist_content})]]></content>
+    <tabTrigger>removeSpriteFramesFromFileContent(plist_content)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SpriteFrameCache</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getPercentByFile()]]></content>
+    <tabTrigger>getPercentByFile()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>EventAssetsManagerEx</description>
+</snippet>

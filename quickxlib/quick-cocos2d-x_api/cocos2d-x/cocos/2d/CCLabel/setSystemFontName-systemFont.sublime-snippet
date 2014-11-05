@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setSystemFontName(${1:systemFont})]]></content>
+    <tabTrigger>setSystemFontName(systemFont)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Label</description>
+</snippet>

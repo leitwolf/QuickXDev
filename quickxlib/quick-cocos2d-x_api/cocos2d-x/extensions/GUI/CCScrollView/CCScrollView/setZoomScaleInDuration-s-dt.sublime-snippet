@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setZoomScaleInDuration(${1:s}, ${2:dt})]]></content>
+    <tabTrigger>setZoomScaleInDuration(s, dt)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ScrollView</description>
+</snippet>

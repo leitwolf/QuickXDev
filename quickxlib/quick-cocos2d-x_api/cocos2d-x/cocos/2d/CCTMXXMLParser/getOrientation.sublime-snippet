@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getOrientation()]]></content>
+    <tabTrigger>getOrientation()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TMXMapInfo</description>
+</snippet>

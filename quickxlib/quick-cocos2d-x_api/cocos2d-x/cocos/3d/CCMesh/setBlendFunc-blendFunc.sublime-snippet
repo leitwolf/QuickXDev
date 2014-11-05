@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setBlendFunc(${1:blendFunc})]]></content>
+    <tabTrigger>setBlendFunc(blendFunc)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Mesh</description>
+</snippet>

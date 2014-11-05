@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.SpriteBatchNode:createWithTexture(${1:tex}, ${2:capacity})]]></content>
+    <tabTrigger>SpriteBatchNode:createWithTexture(tex, capacity)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

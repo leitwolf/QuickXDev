@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getAnimation()]]></content>
+    <tabTrigger>getAnimation()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Animate</description>
+</snippet>

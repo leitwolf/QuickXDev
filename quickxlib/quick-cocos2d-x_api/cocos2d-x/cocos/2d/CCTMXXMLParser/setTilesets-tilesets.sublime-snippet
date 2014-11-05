@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTilesets(${1:tilesets})]]></content>
+    <tabTrigger>setTilesets(tilesets)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TMXMapInfo</description>
+</snippet>

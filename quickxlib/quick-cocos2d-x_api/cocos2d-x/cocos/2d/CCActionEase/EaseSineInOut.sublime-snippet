@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.EaseSineInOut]]></content>
+    <tabTrigger>EaseSineInOut</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

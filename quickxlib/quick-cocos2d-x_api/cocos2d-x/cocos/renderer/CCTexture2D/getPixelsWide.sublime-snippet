@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getPixelsWide()]]></content>
+    <tabTrigger>getPixelsWide()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Texture2D</description>
+</snippet>

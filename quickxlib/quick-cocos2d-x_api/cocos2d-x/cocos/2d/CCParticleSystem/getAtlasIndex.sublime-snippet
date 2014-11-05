@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getAtlasIndex()]]></content>
+    <tabTrigger>getAtlasIndex()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParticleSystem</description>
+</snippet>

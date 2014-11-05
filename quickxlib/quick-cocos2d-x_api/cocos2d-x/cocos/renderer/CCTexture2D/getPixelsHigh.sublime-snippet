@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getPixelsHigh()]]></content>
+    <tabTrigger>getPixelsHigh()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Texture2D</description>
+</snippet>

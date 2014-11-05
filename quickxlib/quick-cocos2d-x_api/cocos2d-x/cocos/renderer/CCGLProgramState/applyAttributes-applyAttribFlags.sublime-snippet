@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[applyAttributes(${1:applyAttribFlags})]]></content>
+    <tabTrigger>applyAttributes(applyAttribFlags)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GLProgramState</description>
+</snippet>

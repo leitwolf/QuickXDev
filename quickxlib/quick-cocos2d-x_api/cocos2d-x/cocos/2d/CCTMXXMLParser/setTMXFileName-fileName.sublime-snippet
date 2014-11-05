@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTMXFileName(${1:fileName})]]></content>
+    <tabTrigger>setTMXFileName(fileName)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TMXMapInfo</description>
+</snippet>

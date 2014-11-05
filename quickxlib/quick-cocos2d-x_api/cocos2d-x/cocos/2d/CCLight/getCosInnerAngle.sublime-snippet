@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getCosInnerAngle()]]></content>
+    <tabTrigger>getCosInnerAngle()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SpotLight</description>
+</snippet>

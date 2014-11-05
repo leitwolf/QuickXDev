@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getCursorY()]]></content>
+    <tabTrigger>getCursorY()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>EventMouse</description>
+</snippet>

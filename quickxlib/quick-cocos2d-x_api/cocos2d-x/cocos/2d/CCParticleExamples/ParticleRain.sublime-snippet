@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.ParticleRain]]></content>
+    <tabTrigger>ParticleRain</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

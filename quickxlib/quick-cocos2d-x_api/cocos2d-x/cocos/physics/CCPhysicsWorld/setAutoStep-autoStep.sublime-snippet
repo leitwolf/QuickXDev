@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setAutoStep(${1:autoStep})]]></content>
+    <tabTrigger>setAutoStep(autoStep)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsWorld</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[loadIdentityMatrix(${1:type})]]></content>
+    <tabTrigger>loadIdentityMatrix(type)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Director</description>
+</snippet>

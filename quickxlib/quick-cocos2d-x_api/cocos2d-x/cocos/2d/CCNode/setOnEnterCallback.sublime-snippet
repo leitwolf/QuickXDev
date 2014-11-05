@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setOnEnterCallback()]]></content>
+    <tabTrigger>setOnEnterCallback()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Node</description>
+</snippet>

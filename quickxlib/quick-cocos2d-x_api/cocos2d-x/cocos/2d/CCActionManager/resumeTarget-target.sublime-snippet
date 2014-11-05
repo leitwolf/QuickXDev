@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[resumeTarget(${1:target})]]></content>
+    <tabTrigger>resumeTarget(target)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ActionManager</description>
+</snippet>

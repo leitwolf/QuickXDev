@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getPointsCount()]]></content>
+    <tabTrigger>getPointsCount()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsShapeEdgeChain</description>
+</snippet>

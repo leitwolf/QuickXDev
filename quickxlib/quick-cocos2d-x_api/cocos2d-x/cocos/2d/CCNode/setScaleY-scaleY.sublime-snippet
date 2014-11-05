@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setScaleY(${1:scaleY})]]></content>
+    <tabTrigger>setScaleY(scaleY)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Node</description>
+</snippet>

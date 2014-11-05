@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setProjection(${1:projection})]]></content>
+    <tabTrigger>setProjection(projection)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Director</description>
+</snippet>

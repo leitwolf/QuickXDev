@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getValueMapFromData(${1:filedata}, ${2:filesize})]]></content>
+    <tabTrigger>getValueMapFromData(filedata, filesize)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>FileUtils</description>
+</snippet>

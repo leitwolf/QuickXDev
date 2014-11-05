@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTextureForKey(${1:key})]]></content>
+    <tabTrigger>getTextureForKey(key)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TextureCache</description>
+</snippet>

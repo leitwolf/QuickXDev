@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setStoragePath(${1:storagePath})]]></content>
+    <tabTrigger>setStoragePath(storagePath)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>AssetsManager</description>
+</snippet>

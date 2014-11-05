@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.TintTo:create(${1:duration}, ${2:red}, ${3:green}, ${4:blue})]]></content>
+    <tabTrigger>TintTo:create(duration, red, green, blue)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

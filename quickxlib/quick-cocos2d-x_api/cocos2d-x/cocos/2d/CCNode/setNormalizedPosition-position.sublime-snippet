@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setNormalizedPosition(${1:position})]]></content>
+    <tabTrigger>setNormalizedPosition(position)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Node</description>
+</snippet>

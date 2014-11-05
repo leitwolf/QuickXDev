@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setLensEffect(${1:lensEffect})]]></content>
+    <tabTrigger>setLensEffect(lensEffect)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Lens3D</description>
+</snippet>

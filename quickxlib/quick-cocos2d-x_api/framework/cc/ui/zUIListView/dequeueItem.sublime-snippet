@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[dequeueItem()]]></content>
+    <tabTrigger>dequeueItem()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIListView</description>
+</snippet>

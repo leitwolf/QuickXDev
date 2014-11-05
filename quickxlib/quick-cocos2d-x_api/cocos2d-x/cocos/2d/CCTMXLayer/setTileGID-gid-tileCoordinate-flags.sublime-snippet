@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTileGID(${1:gid}, ${2:tileCoordinate}, ${3:flags})]]></content>
+    <tabTrigger>setTileGID(gid, tileCoordinate, flags)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TMXLayer</description>
+</snippet>

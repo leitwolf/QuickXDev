@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getRootBone(${1:index})]]></content>
+    <tabTrigger>getRootBone(index)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Skeleton3D</description>
+</snippet>

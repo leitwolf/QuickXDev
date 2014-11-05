@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addSpriteFrame(${1:frame}, ${2:frameName})]]></content>
+    <tabTrigger>addSpriteFrame(frame, frameName)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SpriteFrameCache</description>
+</snippet>

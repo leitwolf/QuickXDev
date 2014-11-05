@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getMax()]]></content>
+    <tabTrigger>getMax()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsJointRotaryLimit</description>
+</snippet>

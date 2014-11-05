@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getDamping()]]></content>
+    <tabTrigger>getDamping()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsJointRotarySpring</description>
+</snippet>

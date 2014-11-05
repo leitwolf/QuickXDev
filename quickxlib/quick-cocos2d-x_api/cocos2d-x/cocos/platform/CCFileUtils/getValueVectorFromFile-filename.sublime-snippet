@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getValueVectorFromFile(${1:filename})]]></content>
+    <tabTrigger>getValueVectorFromFile(filename)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>FileUtils</description>
+</snippet>

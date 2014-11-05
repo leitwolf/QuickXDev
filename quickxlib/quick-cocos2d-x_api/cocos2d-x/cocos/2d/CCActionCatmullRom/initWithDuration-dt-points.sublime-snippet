@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithDuration(${1:dt}, ${2:points})]]></content>
+    <tabTrigger>initWithDuration(dt, points)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CatmullRomBy</description>
+</snippet>

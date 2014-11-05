@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[drawSolidCircle(${1:center}, ${2:radius}, ${3:angle}, ${4:segments}, ${5:color})]]></content>
+    <tabTrigger>drawSolidCircle(center, radius, angle, segments, color)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>DrawNode</description>
+</snippet>

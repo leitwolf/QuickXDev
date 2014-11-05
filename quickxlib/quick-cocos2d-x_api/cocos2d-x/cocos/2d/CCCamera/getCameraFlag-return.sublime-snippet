@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getCameraFlag(${1:return})]]></content>
+    <tabTrigger>getCameraFlag(return)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Camera</description>
+</snippet>

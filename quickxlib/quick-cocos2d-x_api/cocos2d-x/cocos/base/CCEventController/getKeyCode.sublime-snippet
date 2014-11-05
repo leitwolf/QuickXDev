@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getKeyCode()]]></content>
+    <tabTrigger>getKeyCode()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>EventController</description>
+</snippet>

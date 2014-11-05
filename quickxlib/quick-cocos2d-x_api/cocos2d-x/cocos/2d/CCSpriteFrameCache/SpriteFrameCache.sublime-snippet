@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.SpriteFrameCache]]></content>
+    <tabTrigger>SpriteFrameCache</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

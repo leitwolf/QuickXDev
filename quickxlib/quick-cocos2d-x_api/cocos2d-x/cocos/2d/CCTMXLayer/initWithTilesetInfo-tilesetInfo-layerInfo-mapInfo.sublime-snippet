@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithTilesetInfo(${1:tilesetInfo}, ${2:layerInfo}, ${3:mapInfo})]]></content>
+    <tabTrigger>initWithTilesetInfo(tilesetInfo, layerInfo, mapInfo)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TMXLayer</description>
+</snippet>

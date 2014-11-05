@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[clear(${1:r}, ${2:g}, ${3:b}, ${4:a})]]></content>
+    <tabTrigger>clear(r, g, b, a)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>RenderTexture</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isConnected()]]></content>
+    <tabTrigger>isConnected()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>EventController</description>
+</snippet>

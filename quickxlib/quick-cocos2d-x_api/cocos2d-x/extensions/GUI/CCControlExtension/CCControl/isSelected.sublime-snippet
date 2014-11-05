@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isSelected()]]></content>
+    <tabTrigger>isSelected()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Control</description>
+</snippet>

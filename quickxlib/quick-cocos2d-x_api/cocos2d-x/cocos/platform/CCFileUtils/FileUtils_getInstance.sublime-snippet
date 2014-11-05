@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.FileUtils:getInstance()]]></content>
+    <tabTrigger>FileUtils:getInstance()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

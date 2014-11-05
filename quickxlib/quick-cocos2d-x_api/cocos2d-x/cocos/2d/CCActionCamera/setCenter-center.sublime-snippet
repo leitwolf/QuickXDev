@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setCenter(${1:center})]]></content>
+    <tabTrigger>setCenter(center)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ActionCamera</description>
+</snippet>

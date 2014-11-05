@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getLifeVar()]]></content>
+    <tabTrigger>getLifeVar()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParticleSystem</description>
+</snippet>

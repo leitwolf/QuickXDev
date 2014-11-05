@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[drawPoint(${1:point}, ${2:pointSize}, ${3:color})]]></content>
+    <tabTrigger>drawPoint(point, pointSize, color)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>DrawNode</description>
+</snippet>

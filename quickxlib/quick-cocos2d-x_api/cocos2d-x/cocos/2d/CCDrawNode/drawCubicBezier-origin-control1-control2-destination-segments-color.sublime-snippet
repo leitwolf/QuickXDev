@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[drawCubicBezier(${1:origin}, ${2:control1}, ${3:control2}, ${4:destination}, ${5:segments}, ${6:color})]]></content>
+    <tabTrigger>drawCubicBezier(origin, control1, control2, destination, segments, color)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>DrawNode</description>
+</snippet>

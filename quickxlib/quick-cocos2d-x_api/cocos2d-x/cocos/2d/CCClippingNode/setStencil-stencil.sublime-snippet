@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setStencil(${1:stencil})]]></content>
+    <tabTrigger>setStencil(stencil)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ClippingNode</description>
+</snippet>

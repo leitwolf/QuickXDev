@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setContentSizeAndScale_(${1:node}, ${2:s})]]></content>
+    <tabTrigger>setContentSizeAndScale_(node, s)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UISlider</description>
+</snippet>

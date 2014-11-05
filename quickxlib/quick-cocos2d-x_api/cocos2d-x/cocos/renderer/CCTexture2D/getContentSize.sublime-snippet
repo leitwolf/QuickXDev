@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getContentSize()]]></content>
+    <tabTrigger>getContentSize()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Texture2D</description>
+</snippet>

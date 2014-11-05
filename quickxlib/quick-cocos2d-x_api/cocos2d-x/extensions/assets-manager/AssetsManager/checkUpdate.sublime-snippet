@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[checkUpdate()]]></content>
+    <tabTrigger>checkUpdate()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>AssetsManager</description>
+</snippet>

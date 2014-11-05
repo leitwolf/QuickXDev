@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[drawSegment(${1:from}, ${2:to}, ${3:radius}, ${4:color})]]></content>
+    <tabTrigger>drawSegment(from, to, radius, color)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>DrawNode</description>
+</snippet>

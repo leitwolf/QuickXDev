@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[loadDefaultGLPrograms()]]></content>
+    <tabTrigger>loadDefaultGLPrograms()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GLProgramCache</description>
+</snippet>

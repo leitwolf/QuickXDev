@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setUniformInt(${1:uniformLocation}, ${2:value})]]></content>
+    <tabTrigger>setUniformInt(uniformLocation, value)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GLProgramState</description>
+</snippet>

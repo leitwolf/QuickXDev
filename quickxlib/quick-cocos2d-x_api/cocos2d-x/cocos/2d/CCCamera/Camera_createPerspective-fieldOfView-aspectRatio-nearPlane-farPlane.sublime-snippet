@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.Camera:createPerspective(${1:fieldOfView}, ${2:aspectRatio}, ${3:nearPlane}, ${4:farPlane})]]></content>
+    <tabTrigger>Camera:createPerspective(fieldOfView, aspectRatio, nearPlane, farPlane)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

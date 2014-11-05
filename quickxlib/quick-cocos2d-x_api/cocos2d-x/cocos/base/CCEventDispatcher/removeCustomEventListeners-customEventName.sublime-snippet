@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeCustomEventListeners(${1:customEventName})]]></content>
+    <tabTrigger>removeCustomEventListeners(customEventName)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>EventDispatcher</description>
+</snippet>

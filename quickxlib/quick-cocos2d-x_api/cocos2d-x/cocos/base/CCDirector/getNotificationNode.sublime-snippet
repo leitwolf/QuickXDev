@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getNotificationNode()]]></content>
+    <tabTrigger>getNotificationNode()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Director</description>
+</snippet>

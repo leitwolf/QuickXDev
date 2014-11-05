@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addMoment(${1:moment})]]></content>
+    <tabTrigger>addMoment(moment)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsBody</description>
+</snippet>

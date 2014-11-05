@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[saveToFile(${1:filename}, ${2:isToRGB})]]></content>
+    <tabTrigger>saveToFile(filename, isToRGB)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Image</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getNumberOfMipmaps()]]></content>
+    <tabTrigger>getNumberOfMipmaps()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Image</description>
+</snippet>

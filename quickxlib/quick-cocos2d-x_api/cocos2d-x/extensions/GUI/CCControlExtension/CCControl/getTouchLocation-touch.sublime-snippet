@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTouchLocation(${1:touch})]]></content>
+    <tabTrigger>getTouchLocation(touch)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Control</description>
+</snippet>

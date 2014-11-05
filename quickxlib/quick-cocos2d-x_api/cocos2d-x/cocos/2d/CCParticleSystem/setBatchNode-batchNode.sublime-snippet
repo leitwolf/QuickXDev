@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setBatchNode(${1:batchNode})]]></content>
+    <tabTrigger>setBatchNode(batchNode)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParticleSystem</description>
+</snippet>

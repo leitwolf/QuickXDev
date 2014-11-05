@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setSelectedIndex(${1:index})]]></content>
+    <tabTrigger>setSelectedIndex(index)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>MenuItemToggle</description>
+</snippet>

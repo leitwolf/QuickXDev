@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setSurfaceVelocity(${1:velocity})]]></content>
+    <tabTrigger>setSurfaceVelocity(velocity)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsContactPreSolve</description>
+</snippet>

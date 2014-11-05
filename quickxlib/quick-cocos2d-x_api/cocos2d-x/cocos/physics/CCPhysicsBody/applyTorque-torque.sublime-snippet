@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[applyTorque(${1:torque})]]></content>
+    <tabTrigger>applyTorque(torque)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsBody</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[drawLine(${1:origin}, ${2:destination}, ${3:color})]]></content>
+    <tabTrigger>drawLine(origin, destination, color)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>DrawNode</description>
+</snippet>

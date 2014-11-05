@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getPositionZ()]]></content>
+    <tabTrigger>getPositionZ()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Node</description>
+</snippet>

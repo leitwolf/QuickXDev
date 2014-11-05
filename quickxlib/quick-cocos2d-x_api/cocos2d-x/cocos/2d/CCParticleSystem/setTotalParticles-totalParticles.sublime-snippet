@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTotalParticles(${1:totalParticles})]]></content>
+    <tabTrigger>setTotalParticles(totalParticles)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParticleSystem</description>
+</snippet>

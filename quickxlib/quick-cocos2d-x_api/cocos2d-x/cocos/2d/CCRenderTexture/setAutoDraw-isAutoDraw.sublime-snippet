@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setAutoDraw(${1:isAutoDraw})]]></content>
+    <tabTrigger>setAutoDraw(isAutoDraw)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>RenderTexture</description>
+</snippet>

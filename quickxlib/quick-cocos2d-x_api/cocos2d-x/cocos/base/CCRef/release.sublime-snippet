@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[release()]]></content>
+    <tabTrigger>release()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Ref</description>
+</snippet>

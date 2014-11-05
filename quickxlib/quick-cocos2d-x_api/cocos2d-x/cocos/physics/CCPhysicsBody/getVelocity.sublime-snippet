@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getVelocity()]]></content>
+    <tabTrigger>getVelocity()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsBody</description>
+</snippet>

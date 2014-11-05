@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTileSet(${1:info})]]></content>
+    <tabTrigger>setTileSet(info)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TMXLayer</description>
+</snippet>

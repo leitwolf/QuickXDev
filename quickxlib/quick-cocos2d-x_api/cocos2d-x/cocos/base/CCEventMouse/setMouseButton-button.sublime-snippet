@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setMouseButton(${1:button})]]></content>
+    <tabTrigger>setMouseButton(button)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>EventMouse</description>
+</snippet>

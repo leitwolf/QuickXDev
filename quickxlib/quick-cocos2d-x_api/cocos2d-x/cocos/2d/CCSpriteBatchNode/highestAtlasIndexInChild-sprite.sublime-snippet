@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[highestAtlasIndexInChild(${1:sprite})]]></content>
+    <tabTrigger>highestAtlasIndexInChild(sprite)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SpriteBatchNode</description>
+</snippet>

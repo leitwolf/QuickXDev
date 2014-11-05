@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isTextureFlipped()]]></content>
+    <tabTrigger>isTextureFlipped()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GridBase</description>
+</snippet>

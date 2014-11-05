@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[drawTriangle(${1:p1}, ${2:p2}, ${3:p3}, ${4:color})]]></content>
+    <tabTrigger>drawTriangle(p1, p2, p3, color)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>DrawNode</description>
+</snippet>

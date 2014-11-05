@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[afterDraw(${1:target})]]></content>
+    <tabTrigger>afterDraw(target)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GridBase</description>
+</snippet>

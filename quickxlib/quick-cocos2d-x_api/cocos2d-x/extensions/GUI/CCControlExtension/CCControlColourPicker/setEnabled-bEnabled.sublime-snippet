@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setEnabled(${1:bEnabled})]]></content>
+    <tabTrigger>setEnabled(bEnabled)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ControlColourPicker</description>
+</snippet>

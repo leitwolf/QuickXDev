@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addDocumentOutletNode(${1:node})]]></content>
+    <tabTrigger>addDocumentOutletNode(node)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCBAnimationManager</description>
+</snippet>

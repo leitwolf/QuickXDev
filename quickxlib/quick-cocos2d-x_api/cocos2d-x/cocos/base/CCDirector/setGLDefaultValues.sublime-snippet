@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setGLDefaultValues()]]></content>
+    <tabTrigger>setGLDefaultValues()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Director</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addSearchPath(${1:path}, ${2:front})]]></content>
+    <tabTrigger>addSearchPath(path, front)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>FileUtils</description>
+</snippet>

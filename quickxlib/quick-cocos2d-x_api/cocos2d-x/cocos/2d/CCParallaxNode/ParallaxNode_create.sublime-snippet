@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.ParallaxNode:create()]]></content>
+    <tabTrigger>ParallaxNode:create()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setProperties(${1:properties})]]></content>
+    <tabTrigger>setProperties(properties)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TMXObjectGroup</description>
+</snippet>

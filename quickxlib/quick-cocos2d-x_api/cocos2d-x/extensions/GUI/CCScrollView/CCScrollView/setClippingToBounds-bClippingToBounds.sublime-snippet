@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setClippingToBounds(${1:bClippingToBounds})]]></content>
+    <tabTrigger>setClippingToBounds(bClippingToBounds)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ScrollView</description>
+</snippet>

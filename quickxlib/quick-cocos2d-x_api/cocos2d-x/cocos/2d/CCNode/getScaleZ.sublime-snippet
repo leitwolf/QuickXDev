@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getScaleZ()]]></content>
+    <tabTrigger>getScaleZ()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Node</description>
+</snippet>

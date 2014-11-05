@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[drawRect(${1:lb}, ${2:lt}, ${3:rt}, ${4:rb}, ${5:color})]]></content>
+    <tabTrigger>drawRect(lb, lt, rt, rb, color)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>DrawNode</description>
+</snippet>

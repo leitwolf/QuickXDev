@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTargetCallback()]]></content>
+    <tabTrigger>getTargetCallback()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CallFunc</description>
+</snippet>

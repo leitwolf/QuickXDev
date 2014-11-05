@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getFrameRate()]]></content>
+    <tabTrigger>getFrameRate()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Director</description>
+</snippet>

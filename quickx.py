@@ -25,16 +25,13 @@ except ImportError:
     from . import definition
 
 TEMP_PATH=""
+# [wordsArr,showFunc,path,lineNum,type] type=0 user, 1 lua, 2 cocos2dx
 DEFINITION_LIST=[]
 USER_DEFINITION_LIST=[]
 luaTemplate="""--
 -- Author: ${author}
 -- Date: ${date}
 --
-"""
-compile_scripts_bat="""@echo off
-set DIR=%~dp0
-%DIR%win32\php.exe "%DIR%lib\compile_scripts.php" %*
 """
 
 # init plugin,load definitions
@@ -48,7 +45,7 @@ def init():
     if os.path.exists(path):
         USER_DEFINITION_LIST=json.loads(helper.readFile(path))
 
-def checkRoot():
+def checkQuickxRoot():
     # quick_cocos2dx_root
     settings = helper.loadSettings("QuickXDev")
     quick_cocos2dx_root = settings.get("quick_cocos2dx_root", "")
@@ -57,11 +54,20 @@ def checkRoot():
         return False
     return quick_cocos2dx_root
 
+def checkCocos2dxRoot():
+    # cocos2dx_root
+    settings = helper.loadSettings("QuickXDev")
+    cocos2dx_root = settings.get("cocos2dx_root", "")
+    if len(cocos2dx_root)==0:
+        sublime.error_message("cocos2dx_root no set")
+        return False
+    return cocos2dx_root
+
 process=None
 def runWithPlayer(srcDir):
     global process
     # root
-    quick_cocos2dx_root = checkRoot()
+    quick_cocos2dx_root = checkQuickxRoot()
     if not quick_cocos2dx_root:
         return
     # player path for platform
@@ -186,7 +192,7 @@ class QuickxRunWithPlayerByFileCommand(sublime_plugin.TextCommand):
         # view path
         path=self.view.file_name()
         sublime.status_message(path)
-        index=path.rfind("src/")
+        index=path.rfind("src"+os.sep)
         if index==-1:
             sublime.status_message("This file not in the 'src' folder")
             return
@@ -207,9 +213,6 @@ class QuickxGotoDefinitionCommand(sublime_plugin.TextCommand):
         if len(sel)==0:
             # extend to the `word` under cursor
             sel=self.view.substr(self.view.word(self.view.sel()[0]))
-        quick_cocos2dx_root = checkRoot()
-        if not quick_cocos2dx_root:
-            return
         # find all match file
         matchList=[]
         showList=[]
@@ -219,6 +222,8 @@ class QuickxGotoDefinitionCommand(sublime_plugin.TextCommand):
                     matchList.append(item)
                     showList.append(item[1])
         for item in USER_DEFINITION_LIST:
+            if len(item)!=5:
+                continue
             for key in item[0]:
                 if key==sel:
                     matchList.append(item)
@@ -226,15 +231,10 @@ class QuickxGotoDefinitionCommand(sublime_plugin.TextCommand):
         if len(matchList)==0:
             sublime.status_message("Can not find definition '%s'"%(sel))
         elif len(matchList)==1:
-            filepath=os.path.join(quick_cocos2dx_root,matchList[0][2])
-            if os.path.exists(filepath):
-                self.view.window().open_file(filepath+":"+str(matchList[0][3]),sublime.ENCODED_POSITION)
-            else:
-                sublime.status_message("%s not exists"%(filepath))
+            self.gotoDefinition(matchList[0])
         else:
             # multi match
             self.matchList=matchList
-            self.quick_cocos2dx_root=quick_cocos2dx_root
             on_done = functools.partial(self.on_done)
             self.view.window().show_quick_panel(showList,on_done)
         
@@ -242,13 +242,28 @@ class QuickxGotoDefinitionCommand(sublime_plugin.TextCommand):
         if index==-1:
             return
         item=self.matchList[index]
-        filepath=os.path.join(self.quick_cocos2dx_root,item[2])
-        filepath=os.path.abspath(filepath)
+        self.gotoDefinition(item)
+    
+    def gotoDefinition(self,item):
+        definitionType=item[4]
+        filepath=item[2]
+        if definitionType==1:
+            # lua
+            quick_cocos2dx_root=checkQuickxRoot()
+            if not quick_cocos2dx_root:
+                return
+            filepath=os.path.join(quick_cocos2dx_root,filepath)
+        elif definitionType==2:
+            # cocos2dx
+            cocos2dx_root=checkCocos2dxRoot()
+            if not cocos2dx_root:
+                return
+            filepath=os.path.join(cocos2dx_root,filepath)
         if os.path.exists(filepath):
             self.view.window().open_file(filepath+":"+str(item[3]),sublime.ENCODED_POSITION)
         else:
             sublime.status_message("%s not exists"%(filepath))
-        
+
     def is_enabled(self):
         return helper.checkFileExt(self.view.file_name(),"lua")
 
@@ -284,7 +299,7 @@ class QuickxRebuildUserDefinitionCommand(sublime_plugin.WindowCommand):
 
 class QuickxCreateNewProjectCommand(sublime_plugin.WindowCommand):
     def run(self, dirs):
-        quick_cocos2dx_root = checkRoot()
+        quick_cocos2dx_root = checkQuickxRoot()
         if not quick_cocos2dx_root:
             return
         cmdPath=""
@@ -333,21 +348,18 @@ class QuickxCreateNewProjectCommand(sublime_plugin.WindowCommand):
 
 class QuickxCompileScriptsCommand(sublime_plugin.WindowCommand):
     def run(self, dirs):        
-        settings = helper.loadSettings("QuickXDev")
-        quick_cocos2dx_root = settings.get("quick_cocos2dx_root", "")
-        if len(quick_cocos2dx_root)==0:
-            sublime.error_message("quick_cocos2dx_root no set")
+        quick_cocos2dx_root = checkQuickxRoot()
+        if not quick_cocos2dx_root:
             return
         cmdPath=""
         if sublime.platform()=="osx":
             cmdPath=quick_cocos2dx_root+"/quick/bin/compile_scripts.sh"
         elif sublime.platform()=="windows":
             cmdPath=quick_cocos2dx_root+"/quick/bin/compile_scripts.bat"
-            if not os.path.exists(cmdPath):
-                helper.writeFile(cmdPath,compile_scripts_bat)
         if cmdPath=="" or not os.path.exists(cmdPath):
             sublime.error_message("compile_scripts no exists")
             return
+        settings = helper.loadSettings("QuickXDev")
         self.cmdPath=cmdPath
         self.compile_scripts_key=settings.get("compile_scripts_key", "")
         self.window.run_command("hide_panel")
@@ -383,6 +395,7 @@ class QuickxCompileScriptsCommand(sublime_plugin.WindowCommand):
     def is_visible(self, dirs):
         return self.is_enabled(dirs)
 
+# build file definition when save file
 class QuickxListener(sublime_plugin.EventListener):
     def __init__(self):
         self.lastTime=0

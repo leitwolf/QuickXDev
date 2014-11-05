@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[disableEffect()]]></content>
+    <tabTrigger>disableEffect()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Label</description>
+</snippet>

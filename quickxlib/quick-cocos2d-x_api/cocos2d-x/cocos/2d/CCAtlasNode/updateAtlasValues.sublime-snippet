@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[updateAtlasValues()]]></content>
+    <tabTrigger>updateAtlasValues()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>AtlasNode</description>
+</snippet>

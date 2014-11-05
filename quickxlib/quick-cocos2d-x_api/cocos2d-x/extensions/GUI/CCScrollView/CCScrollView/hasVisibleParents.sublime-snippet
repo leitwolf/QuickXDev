@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[hasVisibleParents()]]></content>
+    <tabTrigger>hasVisibleParents()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ScrollView</description>
+</snippet>

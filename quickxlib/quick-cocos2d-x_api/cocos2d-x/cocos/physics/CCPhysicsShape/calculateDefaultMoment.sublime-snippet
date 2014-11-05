@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[calculateDefaultMoment()]]></content>
+    <tabTrigger>calculateDefaultMoment()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsShape</description>
+</snippet>

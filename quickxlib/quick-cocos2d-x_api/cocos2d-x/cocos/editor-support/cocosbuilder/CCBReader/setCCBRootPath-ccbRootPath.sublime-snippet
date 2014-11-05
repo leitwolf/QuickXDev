@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setCCBRootPath(${1:ccbRootPath})]]></content>
+    <tabTrigger>setCCBRootPath(ccbRootPath)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCBReader</description>
+</snippet>

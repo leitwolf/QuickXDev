@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithTrackSprite_ProgressTimer_ThumbSprite(${1:trackSprite}, ${2:progressTimer}, ${3:thumbSprite})]]></content>
+    <tabTrigger>initWithTrackSprite_ProgressTimer_ThumbSprite(trackSprite, progressTimer, thumbSprite)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ControlPotentiometer</description>
+</snippet>

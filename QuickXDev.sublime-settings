@@ -1,6 +1,7 @@
 {
     // must set the path
     "quick_cocos2dx_root": "",
+    "cocos2dx_root": "",
     // lua template attributes
     "date_format": "%Y-%m-%d %H:%M:%S",
     // i.e. peter or peter (peter@gmail.com)

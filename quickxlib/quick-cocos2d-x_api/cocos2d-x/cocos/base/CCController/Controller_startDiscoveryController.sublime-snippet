@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.Controller:startDiscoveryController()]]></content>
+    <tabTrigger>Controller:startDiscoveryController()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

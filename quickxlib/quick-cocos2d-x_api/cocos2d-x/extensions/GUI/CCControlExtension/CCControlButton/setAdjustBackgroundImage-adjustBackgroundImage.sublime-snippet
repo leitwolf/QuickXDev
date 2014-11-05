@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setAdjustBackgroundImage(${1:adjustBackgroundImage})]]></content>
+    <tabTrigger>setAdjustBackgroundImage(adjustBackgroundImage)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ControlButton</description>
+</snippet>

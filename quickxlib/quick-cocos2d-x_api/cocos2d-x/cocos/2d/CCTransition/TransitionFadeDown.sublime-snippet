@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.TransitionFadeDown]]></content>
+    <tabTrigger>TransitionFadeDown</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

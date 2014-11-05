@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setClearStencil(${1:clearStencil})]]></content>
+    <tabTrigger>setClearStencil(clearStencil)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>RenderTexture</description>
+</snippet>

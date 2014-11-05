@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getRectForGID(${1:gid})]]></content>
+    <tabTrigger>getRectForGID(gid)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TMXTilesetInfo</description>
+</snippet>

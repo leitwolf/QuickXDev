@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeAllProtectedChildren()]]></content>
+    <tabTrigger>removeAllProtectedChildren()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ProtectedNode</description>
+</snippet>

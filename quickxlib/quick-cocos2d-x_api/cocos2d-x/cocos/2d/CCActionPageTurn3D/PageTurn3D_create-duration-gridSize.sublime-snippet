@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.PageTurn3D:create(${1:duration}, ${2:gridSize})]]></content>
+    <tabTrigger>PageTurn3D:create(duration, gridSize)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

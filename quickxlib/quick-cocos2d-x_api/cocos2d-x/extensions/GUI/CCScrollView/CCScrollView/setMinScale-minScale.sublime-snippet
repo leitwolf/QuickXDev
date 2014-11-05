@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setMinScale(${1:minScale})]]></content>
+    <tabTrigger>setMinScale(minScale)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ScrollView</description>
+</snippet>

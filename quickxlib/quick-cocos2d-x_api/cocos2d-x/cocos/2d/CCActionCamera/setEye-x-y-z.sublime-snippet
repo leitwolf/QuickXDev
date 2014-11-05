@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setEye(${1:x}, ${2:y}, ${3:z})]]></content>
+    <tabTrigger>setEye(x, y, z)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ActionCamera</description>
+</snippet>

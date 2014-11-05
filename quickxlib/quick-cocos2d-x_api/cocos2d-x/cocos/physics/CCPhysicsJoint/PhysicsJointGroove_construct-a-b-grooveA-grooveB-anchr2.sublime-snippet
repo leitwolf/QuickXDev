@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.PhysicsJointGroove:construct(${1:a}, ${2:b}, ${3:grooveA}, ${4:grooveB}, ${5:anchr2})]]></content>
+    <tabTrigger>PhysicsJointGroove:construct(a, b, grooveA, grooveB, anchr2)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

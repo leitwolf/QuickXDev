@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[actionWithSize(${1:vector})]]></content>
+    <tabTrigger>actionWithSize(vector)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TransitionPageTurn</description>
+</snippet>

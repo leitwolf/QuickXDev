@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setConcave(${1:concave})]]></content>
+    <tabTrigger>setConcave(concave)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Lens3D</description>
+</snippet>

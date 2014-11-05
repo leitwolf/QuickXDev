@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.JumpBy:create(${1:duration}, ${2:position}, ${3:height}, ${4:jumps})]]></content>
+    <tabTrigger>JumpBy:create(duration, position, height, jumps)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

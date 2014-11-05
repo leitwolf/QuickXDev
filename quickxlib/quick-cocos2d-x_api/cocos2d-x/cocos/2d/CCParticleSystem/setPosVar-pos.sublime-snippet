@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setPosVar(${1:pos})]]></content>
+    <tabTrigger>setPosVar(pos)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParticleSystem</description>
+</snippet>

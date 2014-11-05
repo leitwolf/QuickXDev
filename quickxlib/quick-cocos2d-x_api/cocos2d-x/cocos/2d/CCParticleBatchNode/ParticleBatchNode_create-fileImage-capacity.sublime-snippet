@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.ParticleBatchNode:create(${1:fileImage}, ${2:capacity})]]></content>
+    <tabTrigger>ParticleBatchNode:create(fileImage, capacity)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setPhase(${1:phase})]]></content>
+    <tabTrigger>setPhase(phase)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsJointGear</description>
+</snippet>

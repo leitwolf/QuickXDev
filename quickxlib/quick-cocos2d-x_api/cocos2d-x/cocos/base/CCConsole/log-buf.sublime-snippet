@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[log(${1:buf})]]></content>
+    <tabTrigger>log(buf)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Console</description>
+</snippet>

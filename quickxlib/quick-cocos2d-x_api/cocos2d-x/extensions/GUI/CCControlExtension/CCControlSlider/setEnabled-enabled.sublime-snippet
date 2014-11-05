@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setEnabled(${1:enabled})]]></content>
+    <tabTrigger>setEnabled(enabled)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ControlSlider</description>
+</snippet>

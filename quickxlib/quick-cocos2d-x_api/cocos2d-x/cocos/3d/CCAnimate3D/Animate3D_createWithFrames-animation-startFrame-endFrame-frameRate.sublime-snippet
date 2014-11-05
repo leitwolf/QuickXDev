@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.Animate3D:createWithFrames(${1:animation}, ${2:startFrame}, ${3:endFrame}, ${4:frameRate})]]></content>
+    <tabTrigger>Animate3D:createWithFrames(animation, startFrame, endFrame, frameRate)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

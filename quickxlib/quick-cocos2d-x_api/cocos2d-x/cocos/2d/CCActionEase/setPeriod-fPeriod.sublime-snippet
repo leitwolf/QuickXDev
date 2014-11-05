@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setPeriod(${1:fPeriod})]]></content>
+    <tabTrigger>setPeriod(fPeriod)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>EaseElastic</description>
+</snippet>

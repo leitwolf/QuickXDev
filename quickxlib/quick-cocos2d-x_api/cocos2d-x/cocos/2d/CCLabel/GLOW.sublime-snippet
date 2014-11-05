@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[GLOW]]></content>
+    <tabTrigger>GLOW</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

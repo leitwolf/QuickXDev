@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getPreviousLocationInView()]]></content>
+    <tabTrigger>getPreviousLocationInView()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>EventMouse</description>
+</snippet>

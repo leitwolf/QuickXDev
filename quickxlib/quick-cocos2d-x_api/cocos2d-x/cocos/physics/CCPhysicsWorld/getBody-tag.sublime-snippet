@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getBody(${1:tag})]]></content>
+    <tabTrigger>getBody(tag)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsWorld</description>
+</snippet>

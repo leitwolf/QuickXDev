@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getAttachNode(${1:boneName})]]></content>
+    <tabTrigger>getAttachNode(boneName)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Sprite3D</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setBounceable(${1:bBounceable})]]></content>
+    <tabTrigger>setBounceable(bBounceable)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ScrollView</description>
+</snippet>

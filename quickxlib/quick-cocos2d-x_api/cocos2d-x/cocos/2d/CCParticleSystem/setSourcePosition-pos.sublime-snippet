@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setSourcePosition(${1:pos})]]></content>
+    <tabTrigger>setSourcePosition(pos)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParticleSystem</description>
+</snippet>

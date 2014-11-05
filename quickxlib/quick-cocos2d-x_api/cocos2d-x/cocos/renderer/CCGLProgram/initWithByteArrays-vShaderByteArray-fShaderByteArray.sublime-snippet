@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithByteArrays(${1:vShaderByteArray}, ${2:fShaderByteArray})]]></content>
+    <tabTrigger>initWithByteArrays(vShaderByteArray, fShaderByteArray)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GLProgram</description>
+</snippet>

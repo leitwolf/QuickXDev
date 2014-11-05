@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithTargetAndPos(${1:target}, ${2:pos})]]></content>
+    <tabTrigger>initWithTargetAndPos(target, pos)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ControlHuePicker</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setMaterial(${1:material})]]></content>
+    <tabTrigger>setMaterial(material)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsShape</description>
+</snippet>

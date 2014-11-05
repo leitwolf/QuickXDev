@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[potentiometerMoved(${1:location})]]></content>
+    <tabTrigger>potentiometerMoved(location)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ControlPotentiometer</description>
+</snippet>

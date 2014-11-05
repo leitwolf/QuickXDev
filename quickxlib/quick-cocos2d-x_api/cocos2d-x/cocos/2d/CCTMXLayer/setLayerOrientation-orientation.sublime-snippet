@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setLayerOrientation(${1:orientation})]]></content>
+    <tabTrigger>setLayerOrientation(orientation)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TMXLayer</description>
+</snippet>

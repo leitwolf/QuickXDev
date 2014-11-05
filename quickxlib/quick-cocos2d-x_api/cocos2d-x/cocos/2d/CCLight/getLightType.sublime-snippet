@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getLightType()]]></content>
+    <tabTrigger>getLightType()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BaseLight</description>
+</snippet>

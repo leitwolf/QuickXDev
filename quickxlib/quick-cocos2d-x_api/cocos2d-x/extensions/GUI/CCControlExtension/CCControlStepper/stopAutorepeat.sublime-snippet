@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[stopAutorepeat()]]></content>
+    <tabTrigger>stopAutorepeat()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ControlStepper</description>
+</snippet>

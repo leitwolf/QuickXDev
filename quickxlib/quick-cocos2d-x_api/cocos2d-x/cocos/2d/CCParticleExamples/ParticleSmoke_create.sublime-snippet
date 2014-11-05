@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.ParticleSmoke:create()]]></content>
+    <tabTrigger>ParticleSmoke:create()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setEndRadiusVar(${1:endRadiusVar})]]></content>
+    <tabTrigger>setEndRadiusVar(endRadiusVar)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParticleSystem</description>
+</snippet>

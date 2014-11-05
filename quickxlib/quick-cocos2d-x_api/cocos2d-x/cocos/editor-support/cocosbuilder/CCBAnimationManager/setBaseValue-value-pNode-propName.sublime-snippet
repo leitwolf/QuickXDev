@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setBaseValue(${1:value}, ${2:pNode}, ${3:propName})]]></content>
+    <tabTrigger>setBaseValue(value, pNode, propName)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCBAnimationManager</description>
+</snippet>

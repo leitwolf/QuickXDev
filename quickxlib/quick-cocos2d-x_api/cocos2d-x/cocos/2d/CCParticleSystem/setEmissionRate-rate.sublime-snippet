@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setEmissionRate(${1:rate})]]></content>
+    <tabTrigger>setEmissionRate(rate)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParticleSystem</description>
+</snippet>
