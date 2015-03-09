@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setClearDepth(${1:clearDepth})]]></content>
+    <tabTrigger>setClearDepth(clearDepth)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>RenderTexture</description>
+</snippet>

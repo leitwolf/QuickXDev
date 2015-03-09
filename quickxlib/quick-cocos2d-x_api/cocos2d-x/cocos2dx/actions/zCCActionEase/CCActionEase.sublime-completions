@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCActionEase:create(pAction)", "contents": "CCActionEase:create(${1:pAction})" }
-	]
-}

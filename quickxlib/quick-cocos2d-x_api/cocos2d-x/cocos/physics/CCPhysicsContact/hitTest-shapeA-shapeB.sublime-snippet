@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[hitTest(${1:shapeA}, ${2:shapeB})]]></content>
+    <tabTrigger>hitTest(shapeA, shapeB)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>EventListenerPhysicsContactWithGroup</description>
+</snippet>

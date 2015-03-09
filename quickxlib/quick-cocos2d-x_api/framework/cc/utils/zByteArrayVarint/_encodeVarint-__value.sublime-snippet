@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_encodeVarint(${1:__value})]]></content>
+    <tabTrigger>_encodeVarint(__value)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ByteArrayVarint</description>
+</snippet>

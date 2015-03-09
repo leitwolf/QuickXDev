@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[filter.newFilters(${1:__filterNames}, ${2:__params})]]></content>
+    <tabTrigger>filter.newFilters(__filterNames, __params)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

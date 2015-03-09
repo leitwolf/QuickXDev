@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[postStep()]]></content>
+    <tabTrigger>postStep()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParticleSystem</description>
+</snippet>

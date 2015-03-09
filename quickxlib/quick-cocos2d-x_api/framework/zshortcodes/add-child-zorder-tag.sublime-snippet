@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[add(${1:child}, ${2:zorder}, ${3:tag})]]></content>
+    <tabTrigger>add(child, zorder, tag)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Node</description>
+</snippet>

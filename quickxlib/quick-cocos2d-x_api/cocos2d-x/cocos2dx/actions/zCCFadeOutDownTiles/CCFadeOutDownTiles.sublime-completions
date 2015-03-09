@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCFadeOutDownTiles:create(duration, gridSize)", "contents": "CCFadeOutDownTiles:create(${1:duration}, ${2:gridSize})" }
-	]
-}

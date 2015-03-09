@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[enableScrollBar()]]></content>
+    <tabTrigger>enableScrollBar()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIScrollView</description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getBoneDic()]]></content>
-    <tabTrigger>getBoneDic()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCArmature</description>
-</snippet>

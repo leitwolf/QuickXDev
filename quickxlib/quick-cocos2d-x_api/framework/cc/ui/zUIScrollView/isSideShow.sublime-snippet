@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isSideShow()]]></content>
+    <tabTrigger>isSideShow()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIScrollView</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setBackgroundSpriteForState(${1:sprite}, ${2:state})]]></content>
+    <tabTrigger>setBackgroundSpriteForState(sprite, state)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ControlButton</description>
+</snippet>

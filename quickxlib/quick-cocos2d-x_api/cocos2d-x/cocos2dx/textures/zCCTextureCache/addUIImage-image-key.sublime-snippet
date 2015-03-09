@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addUIImage(${1:image}, ${2:key})]]></content>
-    <tabTrigger>addUIImage(image, key)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTextureCache</description>
-</snippet>

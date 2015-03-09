@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[string.rtrim(${1:input})]]></content>
+    <tabTrigger>string.rtrim(input)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

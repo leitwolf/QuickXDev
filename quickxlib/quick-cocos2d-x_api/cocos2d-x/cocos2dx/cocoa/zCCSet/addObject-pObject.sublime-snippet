@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addObject(${1:pObject})]]></content>
-    <tabTrigger>addObject(pObject)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCSet</description>
-</snippet>

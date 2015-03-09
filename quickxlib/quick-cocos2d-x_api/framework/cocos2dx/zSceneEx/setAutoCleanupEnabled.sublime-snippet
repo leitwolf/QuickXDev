@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setAutoCleanupEnabled()]]></content>
+    <tabTrigger>setAutoCleanupEnabled()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Scene</description>
+</snippet>

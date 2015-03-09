@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[unscheduleScriptEntry(${1:uScheduleScriptEntryID})]]></content>
-    <tabTrigger>unscheduleScriptEntry(uScheduleScriptEntryID)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCScheduler</description>
-</snippet>

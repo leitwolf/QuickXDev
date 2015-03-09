@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onTouchCapture_(${1:event})]]></content>
+    <tabTrigger>onTouchCapture_(event)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIScrollView</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[loadOneItem_(${1:originPoint}, ${2:idx}, ${3:bBefore})]]></content>
+    <tabTrigger>loadOneItem_(originPoint, idx, bBefore)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIListView</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[string.split(${1:input}, ${2:delimiter})]]></content>
+    <tabTrigger>string.split(input, delimiter)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

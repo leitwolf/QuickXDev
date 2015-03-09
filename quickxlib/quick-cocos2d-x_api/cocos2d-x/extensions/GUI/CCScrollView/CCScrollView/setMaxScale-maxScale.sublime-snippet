@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setMaxScale(${1:maxScale})]]></content>
+    <tabTrigger>setMaxScale(maxScale)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ScrollView</description>
+</snippet>

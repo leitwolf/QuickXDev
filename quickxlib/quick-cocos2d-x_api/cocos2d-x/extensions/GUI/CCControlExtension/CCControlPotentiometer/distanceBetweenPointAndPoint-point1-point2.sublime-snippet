@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[distanceBetweenPointAndPoint(${1:point1}, ${2:point2})]]></content>
+    <tabTrigger>distanceBetweenPointAndPoint(point1, point2)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ControlPotentiometer</description>
+</snippet>

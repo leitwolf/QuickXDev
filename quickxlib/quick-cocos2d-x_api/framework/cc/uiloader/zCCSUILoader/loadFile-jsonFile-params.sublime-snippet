@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[loadFile(${1:jsonFile}, ${2:params})]]></content>
+    <tabTrigger>loadFile(jsonFile, params)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSUILoader</description>
+</snippet>

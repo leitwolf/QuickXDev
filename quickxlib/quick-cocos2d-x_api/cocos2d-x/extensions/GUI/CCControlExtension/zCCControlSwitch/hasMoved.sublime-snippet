@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[hasMoved()]]></content>
-    <tabTrigger>hasMoved()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCControlSwitch</description>
-</snippet>

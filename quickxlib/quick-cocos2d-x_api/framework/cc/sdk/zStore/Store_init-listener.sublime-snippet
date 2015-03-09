@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Store.init(${1:listener})]]></content>
+    <tabTrigger>Store.init(listener)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

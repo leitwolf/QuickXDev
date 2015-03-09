@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cca.flipY(${1:y})]]></content>
+    <tabTrigger>cca.flipY(y)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

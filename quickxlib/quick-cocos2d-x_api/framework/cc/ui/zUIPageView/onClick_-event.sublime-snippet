@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onClick_(${1:event})]]></content>
+    <tabTrigger>onClick_(event)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIPageView</description>
+</snippet>

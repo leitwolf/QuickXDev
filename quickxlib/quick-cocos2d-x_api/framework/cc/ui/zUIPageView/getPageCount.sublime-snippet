@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getPageCount()]]></content>
+    <tabTrigger>getPageCount()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIPageView</description>
+</snippet>

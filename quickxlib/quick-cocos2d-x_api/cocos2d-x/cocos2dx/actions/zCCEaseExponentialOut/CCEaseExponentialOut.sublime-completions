@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCEaseExponentialOut:create(pAction)", "contents": "CCEaseExponentialOut:create(${1:pAction})" }
-	]
-}

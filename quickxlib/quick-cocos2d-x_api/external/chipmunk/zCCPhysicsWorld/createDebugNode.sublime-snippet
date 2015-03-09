@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[createDebugNode()]]></content>
-    <tabTrigger>createDebugNode()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsWorld</description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[clear()]]></content>
+    <tabTrigger>clear()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ActionBuilder</description>
+</snippet>

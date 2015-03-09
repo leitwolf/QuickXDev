@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCTransitionProgressVertical:create(t, scene)", "contents": "CCTransitionProgressVertical:create(${1:t}, ${2:scene})" }
-	]
-}

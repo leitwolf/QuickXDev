@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addJoint(${1:joint})]]></content>
+    <tabTrigger>addJoint(joint)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsWorld</description>
+</snippet>

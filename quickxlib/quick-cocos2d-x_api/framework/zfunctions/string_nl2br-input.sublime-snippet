@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[string.nl2br(${1:input})]]></content>
+    <tabTrigger>string.nl2br(input)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

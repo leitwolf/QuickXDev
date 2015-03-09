@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setAlphaBlending(${1:on})]]></content>
+    <tabTrigger>setAlphaBlending(on)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Director</description>
+</snippet>

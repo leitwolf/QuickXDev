@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.TransitionCrossFade:create(${1:t}, ${2:scene})]]></content>
+    <tabTrigger>TransitionCrossFade:create(t, scene)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

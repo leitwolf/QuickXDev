@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[createNode(${1:options})]]></content>
+    <tabTrigger>createNode(options)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSUILoader</description>
+</snippet>

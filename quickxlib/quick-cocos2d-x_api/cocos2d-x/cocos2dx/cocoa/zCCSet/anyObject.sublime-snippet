@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[anyObject()]]></content>
-    <tabTrigger>anyObject()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCSet</description>
-</snippet>

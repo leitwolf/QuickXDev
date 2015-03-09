@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.pGetIntersectPoint(${1:pt1}, ${2:pt2}, ${3:pt3}, ${4:pt4})]]></content>
+    <tabTrigger>cc.pGetIntersectPoint(pt1, pt2, pt3, pt4)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

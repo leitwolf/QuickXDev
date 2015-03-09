@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setFontName(${1:fontName})]]></content>
-    <tabTrigger>setFontName(fontName)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCLabelTTF</description>
-</snippet>

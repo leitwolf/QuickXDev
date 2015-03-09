@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[loadFile_(${1:jsonFile})]]></content>
+    <tabTrigger>loadFile_(jsonFile)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>uiloader</description>
+</snippet>

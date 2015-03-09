@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setFloatForKey(${1:pKey}, ${2:value})]]></content>
+    <tabTrigger>setFloatForKey(pKey, value)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UserDefault</description>
+</snippet>

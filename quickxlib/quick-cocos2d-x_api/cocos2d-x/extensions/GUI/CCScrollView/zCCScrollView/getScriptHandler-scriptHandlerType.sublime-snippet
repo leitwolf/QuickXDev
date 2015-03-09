@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getScriptHandler(${1:scriptHandlerType})]]></content>
-    <tabTrigger>getScriptHandler(scriptHandlerType)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCScrollView</description>
-</snippet>

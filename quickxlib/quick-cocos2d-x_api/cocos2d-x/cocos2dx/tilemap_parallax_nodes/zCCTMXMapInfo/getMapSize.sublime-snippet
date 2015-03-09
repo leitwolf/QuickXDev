@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getMapSize()]]></content>
-    <tabTrigger>getMapSize()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTMXMapInfo</description>
-</snippet>

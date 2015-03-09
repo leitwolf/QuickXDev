@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[printLog(${1:tag}, ${2:fmt}, ${3:...})]]></content>
+    <tabTrigger>printLog(tag, fmt, ...)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

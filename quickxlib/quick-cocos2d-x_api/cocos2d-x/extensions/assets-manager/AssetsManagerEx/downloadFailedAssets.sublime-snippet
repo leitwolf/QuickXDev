@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[downloadFailedAssets()]]></content>
+    <tabTrigger>downloadFailedAssets()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>AssetsManagerEx</description>
+</snippet>

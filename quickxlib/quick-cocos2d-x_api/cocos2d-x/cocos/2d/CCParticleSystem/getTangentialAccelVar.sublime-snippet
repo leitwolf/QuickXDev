@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTangentialAccelVar()]]></content>
+    <tabTrigger>getTangentialAccelVar()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParticleSystem</description>
+</snippet>

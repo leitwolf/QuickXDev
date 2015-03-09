@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[math.radian2angle(${1:radian})]]></content>
+    <tabTrigger>math.radian2angle(radian)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

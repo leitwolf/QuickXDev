@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getPropertiesForGID(${1:GID}, ${2:value})]]></content>
+    <tabTrigger>getPropertiesForGID(GID, value)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TMXTiledMap</description>
+</snippet>

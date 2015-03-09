@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[readUTF8()]]></content>
+    <tabTrigger>readUTF8()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCBReader</description>
+</snippet>

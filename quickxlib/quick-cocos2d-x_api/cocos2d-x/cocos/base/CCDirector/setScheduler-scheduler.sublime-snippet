@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setScheduler(${1:scheduler})]]></content>
+    <tabTrigger>setScheduler(scheduler)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Director</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithDuration(${1:duration}, ${2:points}, ${3:tension})]]></content>
+    <tabTrigger>initWithDuration(duration, points, tension)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CardinalSplineTo</description>
+</snippet>

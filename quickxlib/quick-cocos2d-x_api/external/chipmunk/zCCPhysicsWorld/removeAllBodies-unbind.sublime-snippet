@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeAllBodies(${1:unbind})]]></content>
-    <tabTrigger>removeAllBodies(unbind)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsWorld</description>
-</snippet>

@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCScaleBy:create(duration, sx, sy)", "contents": "CCScaleBy:create(${1:duration}, ${2:sx}, ${3:sy})" },
-		{ "trigger": "CCScaleBy:create(duration, s)", "contents": "CCScaleBy:create(${1:duration}, ${2:s})" }
-	]
-}

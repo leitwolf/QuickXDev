@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ccc3BEqual(${1:col1}, ${2:col2})]]></content>
-    <tabTrigger>ccc3BEqual(col1, col2)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

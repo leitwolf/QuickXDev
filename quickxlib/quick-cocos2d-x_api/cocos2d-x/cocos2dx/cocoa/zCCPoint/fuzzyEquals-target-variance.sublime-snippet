@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[fuzzyEquals(${1:target}, ${2:variance})]]></content>
-    <tabTrigger>fuzzyEquals(target, variance)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPoint</description>
-</snippet>

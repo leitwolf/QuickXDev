@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[beginWithClear(${1:r}, ${2:g}, ${3:b}, ${4:a})]]></content>
-    <tabTrigger>beginWithClear(r, g, b, a)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCRenderTexture</description>
-</snippet>

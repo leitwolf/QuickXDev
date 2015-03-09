@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getDelayPerUnit()]]></content>
+    <tabTrigger>getDelayPerUnit()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Animation</description>
+</snippet>

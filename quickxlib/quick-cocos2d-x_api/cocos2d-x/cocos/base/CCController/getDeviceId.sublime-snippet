@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getDeviceId()]]></content>
+    <tabTrigger>getDeviceId()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Controller</description>
+</snippet>

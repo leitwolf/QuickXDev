@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setViewName(${1:viewname})]]></content>
+    <tabTrigger>setViewName(viewname)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GLView</description>
+</snippet>

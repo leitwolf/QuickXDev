@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCTextFieldTTF:textFieldWithPlaceHolder(placeholder, dimensions, alignment, fontName, fontSize)", "contents": "CCTextFieldTTF:textFieldWithPlaceHolder(${1:placeholder}, ${2:dimensions}, ${3:alignment}, ${4:fontName}, ${5:fontSize})" },
-		{ "trigger": "CCTextFieldTTF:textFieldWithPlaceHolder(placeholder, fontName, fontSize)", "contents": "CCTextFieldTTF:textFieldWithPlaceHolder(${1:placeholder}, ${2:fontName}, ${3:fontSize})" }
-	]
-}

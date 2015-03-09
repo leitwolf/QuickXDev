@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getStringFromFile(${1:filename})]]></content>
+    <tabTrigger>getStringFromFile(filename)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>FileUtils</description>
+</snippet>

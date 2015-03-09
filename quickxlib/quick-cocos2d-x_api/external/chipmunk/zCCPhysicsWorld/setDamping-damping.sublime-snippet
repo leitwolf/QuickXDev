@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setDamping(${1:damping})]]></content>
-    <tabTrigger>setDamping(damping)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsWorld</description>
-</snippet>

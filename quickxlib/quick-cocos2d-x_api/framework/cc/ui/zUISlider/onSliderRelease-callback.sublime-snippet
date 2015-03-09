@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onSliderRelease(${1:callback})]]></content>
+    <tabTrigger>onSliderRelease(callback)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UISlider</description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[initWithImageFile(${1:strPath}, ${2:imageType})]]></content>
-    <tabTrigger>initWithImageFile(strPath, imageType)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCImage</description>
-</snippet>

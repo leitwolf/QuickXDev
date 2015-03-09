@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setUniformMat4(${1:uniformLocation}, ${2:value})]]></content>
+    <tabTrigger>setUniformMat4(uniformLocation, value)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GLProgramState</description>
+</snippet>

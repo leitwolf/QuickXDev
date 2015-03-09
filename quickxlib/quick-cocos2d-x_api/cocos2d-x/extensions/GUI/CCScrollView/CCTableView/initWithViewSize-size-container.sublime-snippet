@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithViewSize(${1:size}, ${2:container})]]></content>
+    <tabTrigger>initWithViewSize(size, container)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TableView</description>
+</snippet>

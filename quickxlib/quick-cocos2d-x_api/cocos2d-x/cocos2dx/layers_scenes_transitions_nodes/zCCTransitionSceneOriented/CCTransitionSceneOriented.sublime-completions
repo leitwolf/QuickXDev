@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCTransitionSceneOriented:create(t, scene, orientation)", "contents": "CCTransitionSceneOriented:create(${1:t}, ${2:scene}, ${3:orientation})" }
-	]
-}

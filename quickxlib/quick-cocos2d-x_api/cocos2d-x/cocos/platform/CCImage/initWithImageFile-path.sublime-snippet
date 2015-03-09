@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithImageFile(${1:path})]]></content>
+    <tabTrigger>initWithImageFile(path)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Image</description>
+</snippet>

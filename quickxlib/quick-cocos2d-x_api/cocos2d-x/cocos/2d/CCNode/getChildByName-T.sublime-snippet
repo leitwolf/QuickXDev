@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getChildByName(${1:T})]]></content>
+    <tabTrigger>getChildByName(T)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Node</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTouchType(${1:bTouchOnContent})]]></content>
+    <tabTrigger>setTouchType(bTouchOnContent)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIScrollView</description>
+</snippet>

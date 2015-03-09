@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setAutoPlaySequenceId(${1:autoPlaySequenceId})]]></content>
+    <tabTrigger>setAutoPlaySequenceId(autoPlaySequenceId)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCBAnimationManager</description>
+</snippet>

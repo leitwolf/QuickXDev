@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[createLabelAtlas(${1:options})]]></content>
+    <tabTrigger>createLabelAtlas(options)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSUILoader</description>
+</snippet>

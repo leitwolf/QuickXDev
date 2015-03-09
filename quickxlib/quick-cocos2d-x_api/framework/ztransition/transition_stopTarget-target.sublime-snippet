@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[transition.stopTarget(${1:target})]]></content>
+    <tabTrigger>transition.stopTarget(target)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

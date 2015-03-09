@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setMinimumValue(${1:minimumValue})]]></content>
+    <tabTrigger>setMinimumValue(minimumValue)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ControlPotentiometer</description>
+</snippet>

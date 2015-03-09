@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeObject(${1:pObject})]]></content>
-    <tabTrigger>removeObject(pObject)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCSet</description>
-</snippet>

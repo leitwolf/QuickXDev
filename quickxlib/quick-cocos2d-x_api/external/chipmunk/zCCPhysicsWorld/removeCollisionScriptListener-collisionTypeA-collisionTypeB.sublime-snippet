@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeCollisionScriptListener(${1:collisionTypeA}, ${2:collisionTypeB})]]></content>
-    <tabTrigger>removeCollisionScriptListener(collisionTypeA, collisionTypeB)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsWorld</description>
-</snippet>

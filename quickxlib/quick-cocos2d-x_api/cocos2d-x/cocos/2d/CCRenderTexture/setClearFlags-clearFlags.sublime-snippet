@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setClearFlags(${1:clearFlags})]]></content>
+    <tabTrigger>setClearFlags(clearFlags)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>RenderTexture</description>
+</snippet>

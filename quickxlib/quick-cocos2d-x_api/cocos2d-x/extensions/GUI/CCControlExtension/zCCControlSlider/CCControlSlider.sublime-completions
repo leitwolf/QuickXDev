@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCControlSlider:create(backgroundSprite, pogressSprite, thumbSprite)", "contents": "CCControlSlider:create(${1:backgroundSprite}, ${2:pogressSprite}, ${3:thumbSprite})" },
-		{ "trigger": "CCControlSlider:create(bgFile, progressFile, thumbFile)", "contents": "CCControlSlider:create(${1:bgFile}, ${2:progressFile}, ${3:thumbFile})" }
-	]
-}

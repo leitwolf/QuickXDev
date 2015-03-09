@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCTMXLayer:create(tilesetInfo, layerInfo, mapInfo)", "contents": "CCTMXLayer:create(${1:tilesetInfo}, ${2:layerInfo}, ${3:mapInfo})" }
-	]
-}

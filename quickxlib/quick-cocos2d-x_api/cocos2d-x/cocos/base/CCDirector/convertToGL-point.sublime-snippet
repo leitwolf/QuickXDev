@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[convertToGL(${1:point})]]></content>
+    <tabTrigger>convertToGL(point)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Director</description>
+</snippet>

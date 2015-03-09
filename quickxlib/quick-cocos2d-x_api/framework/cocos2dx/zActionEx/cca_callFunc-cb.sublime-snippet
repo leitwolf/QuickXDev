@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cca.callFunc(${1:cb})]]></content>
+    <tabTrigger>cca.callFunc(cb)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

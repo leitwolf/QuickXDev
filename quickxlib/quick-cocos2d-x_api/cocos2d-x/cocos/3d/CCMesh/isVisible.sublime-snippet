@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isVisible()]]></content>
+    <tabTrigger>isVisible()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Mesh</description>
+</snippet>

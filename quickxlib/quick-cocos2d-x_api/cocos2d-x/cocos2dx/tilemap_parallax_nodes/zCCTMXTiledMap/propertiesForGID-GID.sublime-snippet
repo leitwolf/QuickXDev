@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[propertiesForGID(${1:GID})]]></content>
-    <tabTrigger>propertiesForGID(GID)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTMXTiledMap</description>
-</snippet>

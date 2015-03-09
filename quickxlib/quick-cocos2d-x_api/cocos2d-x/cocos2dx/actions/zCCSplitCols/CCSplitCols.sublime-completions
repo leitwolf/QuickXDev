@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCSplitCols:create(duration, nCols)", "contents": "CCSplitCols:create(${1:duration}, ${2:nCols})" }
-	]
-}

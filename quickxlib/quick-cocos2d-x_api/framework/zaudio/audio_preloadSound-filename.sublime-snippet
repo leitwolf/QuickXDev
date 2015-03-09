@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[audio.preloadSound(${1:filename})]]></content>
+    <tabTrigger>audio.preloadSound(filename)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

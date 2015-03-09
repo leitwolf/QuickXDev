@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ccBezierConfig()]]></content>
-    <tabTrigger>ccBezierConfig()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ccBezierConfig</description>
-</snippet>

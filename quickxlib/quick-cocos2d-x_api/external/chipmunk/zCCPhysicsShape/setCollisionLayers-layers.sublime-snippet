@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setCollisionLayers(${1:layers})]]></content>
-    <tabTrigger>setCollisionLayers(layers)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsShape</description>
-</snippet>

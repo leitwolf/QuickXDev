@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UIListView.ALIGNMENT_TOP]]></content>
+    <tabTrigger>UIListView.ALIGNMENT_TOP</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

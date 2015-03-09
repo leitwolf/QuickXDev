@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeChildByName(${1:name}, ${2:cleanup})]]></content>
+    <tabTrigger>removeChildByName(name, cleanup)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Node</description>
+</snippet>

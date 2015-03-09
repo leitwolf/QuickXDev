@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[checkComponent(${1:name})]]></content>
-    <tabTrigger>checkComponent(name)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>GameObject</description>
-</snippet>

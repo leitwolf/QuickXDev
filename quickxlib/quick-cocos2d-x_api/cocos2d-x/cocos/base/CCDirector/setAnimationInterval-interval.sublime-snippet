@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setAnimationInterval(${1:interval})]]></content>
+    <tabTrigger>setAnimationInterval(interval)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Director</description>
+</snippet>

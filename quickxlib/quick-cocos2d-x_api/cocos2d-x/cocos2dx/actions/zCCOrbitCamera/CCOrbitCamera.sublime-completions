@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCOrbitCamera:create(t, radius, deltaRadius, angleZ, deltaAngleZ, angleX, deltaAngleX)", "contents": "CCOrbitCamera:create(${1:t}, ${2:radius}, ${3:deltaRadius}, ${4:angleZ}, ${5:deltaAngleZ}, ${6:angleX}, ${7:deltaAngleX})" }
-	]
-}

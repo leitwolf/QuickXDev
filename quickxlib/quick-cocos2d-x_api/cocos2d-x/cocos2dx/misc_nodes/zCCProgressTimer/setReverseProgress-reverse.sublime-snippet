@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setReverseProgress(${1:reverse})]]></content>
-    <tabTrigger>setReverseProgress(reverse)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCProgressTimer</description>
-</snippet>

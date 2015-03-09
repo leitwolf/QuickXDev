@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isFlippedY()]]></content>
+    <tabTrigger>isFlippedY()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Sprite</description>
+</snippet>

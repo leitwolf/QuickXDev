@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[drawCircle(${1:center}, ${2:radius}, ${3:angle}, ${4:segments}, ${5:drawLineToCenter}, ${6:color})]]></content>
+    <tabTrigger>drawCircle(center, radius, angle, segments, drawLineToCenter, color)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>DrawNode</description>
+</snippet>

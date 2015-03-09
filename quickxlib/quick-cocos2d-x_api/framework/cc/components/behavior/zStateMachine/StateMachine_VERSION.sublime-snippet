@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[StateMachine.VERSION]]></content>
+    <tabTrigger>StateMachine.VERSION</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCAccelAmplitude:create(pAction, duration)", "contents": "CCAccelAmplitude:create(${1:pAction}, ${2:duration})" }
-	]
-}

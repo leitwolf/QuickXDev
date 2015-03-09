@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.RenderTexture:create(${1:w}, ${2:h})]]></content>
+    <tabTrigger>RenderTexture:create(w, h)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

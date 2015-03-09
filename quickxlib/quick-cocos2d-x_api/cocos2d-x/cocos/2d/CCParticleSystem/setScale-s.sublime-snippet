@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setScale(${1:s})]]></content>
+    <tabTrigger>setScale(s)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParticleSystem</description>
+</snippet>

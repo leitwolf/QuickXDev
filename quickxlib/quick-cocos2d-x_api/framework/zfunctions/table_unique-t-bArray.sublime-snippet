@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[table.unique(${1:t}, ${2:bArray})]]></content>
+    <tabTrigger>table.unique(t, bArray)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

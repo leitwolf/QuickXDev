@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCReverseTime:create(pAction)", "contents": "CCReverseTime:create(${1:pAction})" }
-	]
-}

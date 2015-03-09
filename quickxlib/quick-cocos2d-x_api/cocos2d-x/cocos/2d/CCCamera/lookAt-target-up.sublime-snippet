@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[lookAt(${1:target}, ${2:up})]]></content>
+    <tabTrigger>lookAt(target, up)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Camera</description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[convertToGL(${1:obPoint})]]></content>
-    <tabTrigger>convertToGL(obPoint)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCDirector</description>
-</snippet>

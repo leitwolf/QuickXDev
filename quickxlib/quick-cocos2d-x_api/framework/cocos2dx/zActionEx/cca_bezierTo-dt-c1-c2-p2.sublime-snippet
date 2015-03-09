@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cca.bezierTo(${1:dt}, ${2:c1}, ${3:c2}, ${4:p2})]]></content>
+    <tabTrigger>cca.bezierTo(dt, c1, c2, p2)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[drawInRect(${1:rect})]]></content>
+    <tabTrigger>drawInRect(rect)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Texture2D</description>
+</snippet>

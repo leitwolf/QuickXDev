@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeDirectory(${1:dirPath})]]></content>
+    <tabTrigger>removeDirectory(dirPath)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>FileUtils</description>
+</snippet>

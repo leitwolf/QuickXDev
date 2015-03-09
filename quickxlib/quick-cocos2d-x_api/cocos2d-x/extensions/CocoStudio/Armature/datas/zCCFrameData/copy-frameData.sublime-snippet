@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[copy(${1:frameData})]]></content>
-    <tabTrigger>copy(frameData)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCFrameData</description>
-</snippet>

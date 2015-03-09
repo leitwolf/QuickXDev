@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ignore()]]></content>
+    <tabTrigger>ignore()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsContactPreSolve</description>
+</snippet>

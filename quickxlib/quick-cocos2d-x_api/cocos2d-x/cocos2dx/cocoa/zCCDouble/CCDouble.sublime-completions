@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCDouble:create(v)", "contents": "CCDouble:create(${1:v})" }
-	]
-}

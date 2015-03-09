@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setBezierParamer(${1:p0}, ${2:p1}, ${3:p2}, ${4:p3})]]></content>
+    <tabTrigger>setBezierParamer(p0, p1, p2, p3)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>EaseBezierAction</description>
+</snippet>

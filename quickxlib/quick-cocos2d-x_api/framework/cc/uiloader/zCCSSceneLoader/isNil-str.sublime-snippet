@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isNil(${1:str})]]></content>
+    <tabTrigger>isNil(str)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSSceneLoader</description>
+</snippet>

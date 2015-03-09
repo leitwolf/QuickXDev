@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCFlipX3D:create(duration)", "contents": "CCFlipX3D:create(${1:duration})" }
-	]
-}

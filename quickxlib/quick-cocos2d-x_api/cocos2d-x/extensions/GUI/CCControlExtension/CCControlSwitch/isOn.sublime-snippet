@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isOn()]]></content>
+    <tabTrigger>isOn()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ControlSwitch</description>
+</snippet>

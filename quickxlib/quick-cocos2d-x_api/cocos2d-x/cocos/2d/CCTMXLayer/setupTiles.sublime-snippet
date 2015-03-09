@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setupTiles()]]></content>
+    <tabTrigger>setupTiles()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TMXLayer</description>
+</snippet>

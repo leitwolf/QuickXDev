@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.WavesTiles3D:create(${1:duration}, ${2:gridSize}, ${3:waves}, ${4:amplitude})]]></content>
+    <tabTrigger>WavesTiles3D:create(duration, gridSize, waves, amplitude)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

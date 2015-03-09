@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[propertyNamed(${1:propertyName})]]></content>
-    <tabTrigger>propertyNamed(propertyName)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTMXTiledMap</description>
-</snippet>

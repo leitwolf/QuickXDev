@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getEventDispatcher()]]></content>
+    <tabTrigger>getEventDispatcher()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Node</description>
+</snippet>

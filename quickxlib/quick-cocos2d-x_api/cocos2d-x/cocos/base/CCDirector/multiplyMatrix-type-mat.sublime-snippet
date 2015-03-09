@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[multiplyMatrix(${1:type}, ${2:mat})]]></content>
+    <tabTrigger>multiplyMatrix(type, mat)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Director</description>
+</snippet>

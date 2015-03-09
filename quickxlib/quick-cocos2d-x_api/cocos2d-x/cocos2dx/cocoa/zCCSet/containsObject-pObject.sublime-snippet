@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[containsObject(${1:pObject})]]></content>
-    <tabTrigger>containsObject(pObject)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCSet</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setValue(${1:val})]]></content>
-    <tabTrigger>setValue(val)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCControlSlider</description>
-</snippet>

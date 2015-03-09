@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getQuadsToDraw()]]></content>
+    <tabTrigger>getQuadsToDraw()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>AtlasNode</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[writeBool(${1:__bool})]]></content>
+    <tabTrigger>writeBool(__bool)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ByteArray</description>
+</snippet>

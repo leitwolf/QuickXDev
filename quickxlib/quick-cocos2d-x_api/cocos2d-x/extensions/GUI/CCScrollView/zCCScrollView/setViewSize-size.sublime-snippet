@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setViewSize(${1:size})]]></content>
-    <tabTrigger>setViewSize(size)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCScrollView</description>
-</snippet>

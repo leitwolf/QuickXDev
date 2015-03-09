@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getDeltaTime()]]></content>
-    <tabTrigger>getDeltaTime()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCDirector</description>
-</snippet>

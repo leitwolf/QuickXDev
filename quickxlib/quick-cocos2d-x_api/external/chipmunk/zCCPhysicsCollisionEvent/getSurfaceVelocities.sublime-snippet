@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getSurfaceVelocities()]]></content>
-    <tabTrigger>getSurfaceVelocities()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsCollisionEvent</description>
-</snippet>

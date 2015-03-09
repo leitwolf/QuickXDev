@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setDirction(${1:dir})]]></content>
+    <tabTrigger>setDirction(dir)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UILoadingBar</description>
+</snippet>

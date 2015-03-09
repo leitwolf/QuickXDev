@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getPackageUrl()]]></content>
-    <tabTrigger>getPackageUrl()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>AssetsManager</description>
-</snippet>

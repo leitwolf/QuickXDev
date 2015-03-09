@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.EventController]]></content>
+    <tabTrigger>EventController</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

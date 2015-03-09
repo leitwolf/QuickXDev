@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeEditBoxEventListener()]]></content>
-    <tabTrigger>removeEditBoxEventListener()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCEditBox</description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setValueWithSendingEvent(${1:value}, ${2:send})]]></content>
+    <tabTrigger>setValueWithSendingEvent(value, send)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ControlStepper</description>
+</snippet>

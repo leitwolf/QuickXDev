@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addSubItem(${1:item})]]></content>
+    <tabTrigger>addSubItem(item)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>MenuItemToggle</description>
+</snippet>

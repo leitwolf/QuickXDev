@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UIScrollView.TOUCH_ZORDER]]></content>
+    <tabTrigger>UIScrollView.TOUCH_ZORDER</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

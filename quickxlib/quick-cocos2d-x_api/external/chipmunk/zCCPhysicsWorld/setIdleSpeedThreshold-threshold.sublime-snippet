@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setIdleSpeedThreshold(${1:threshold})]]></content>
-    <tabTrigger>setIdleSpeedThreshold(threshold)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsWorld</description>
-</snippet>

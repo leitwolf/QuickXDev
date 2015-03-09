@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[subtract(${1:_from}, ${2:_to})]]></content>
-    <tabTrigger>subtract(_from, _to)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCBaseData</description>
-</snippet>

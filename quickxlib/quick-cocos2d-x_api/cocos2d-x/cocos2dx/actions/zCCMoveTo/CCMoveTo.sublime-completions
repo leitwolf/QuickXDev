@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCMoveTo:create(duration, position)", "contents": "CCMoveTo:create(${1:duration}, ${2:position})" }
-	]
-}

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setUniformVec4(${1:uniformLocation}, ${2:value})]]></content>
+    <tabTrigger>setUniformVec4(uniformLocation, value)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GLProgramState</description>
+</snippet>

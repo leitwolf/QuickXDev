@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getCurPageIdx()]]></content>
+    <tabTrigger>getCurPageIdx()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIPageView</description>
+</snippet>

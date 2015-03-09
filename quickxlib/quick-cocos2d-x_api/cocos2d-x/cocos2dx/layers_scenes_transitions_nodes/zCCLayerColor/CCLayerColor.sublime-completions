@@ -1,9 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCLayerColor:create(color, width, height)", "contents": "CCLayerColor:create(${1:color}, ${2:width}, ${3:height})" },
-		{ "trigger": "CCLayerColor:create(color)", "contents": "CCLayerColor:create(${1:color})" },
-		{ "trigger": "CCLayerColor:create()", "contents": "CCLayerColor:create()" }
-	]
-}

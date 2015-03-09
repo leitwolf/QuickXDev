@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[printf(${1:fmt}, ${2:...})]]></content>
+    <tabTrigger>printf(fmt, ...)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

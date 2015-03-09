@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[createPageView(${1:options})]]></content>
+    <tabTrigger>createPageView(options)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSUILoader</description>
+</snippet>

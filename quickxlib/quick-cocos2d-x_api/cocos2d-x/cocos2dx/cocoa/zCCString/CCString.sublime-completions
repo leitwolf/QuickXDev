@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCString:create(str)", "contents": "CCString:create(${1:str})" },
-		{ "trigger": "CCString:createWithContentsOfFile(pszFileName)", "contents": "CCString:createWithContentsOfFile(${1:pszFileName})" }
-	]
-}

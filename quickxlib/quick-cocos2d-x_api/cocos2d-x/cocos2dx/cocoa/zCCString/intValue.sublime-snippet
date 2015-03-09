@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[intValue()]]></content>
-    <tabTrigger>intValue()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCString</description>
-</snippet>

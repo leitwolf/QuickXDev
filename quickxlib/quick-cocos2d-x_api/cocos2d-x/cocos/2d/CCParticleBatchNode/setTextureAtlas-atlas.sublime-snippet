@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTextureAtlas(${1:atlas})]]></content>
+    <tabTrigger>setTextureAtlas(atlas)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParticleBatchNode</description>
+</snippet>

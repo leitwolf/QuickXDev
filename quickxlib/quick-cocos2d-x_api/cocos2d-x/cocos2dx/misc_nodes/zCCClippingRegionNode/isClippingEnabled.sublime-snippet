@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[isClippingEnabled()]]></content>
-    <tabTrigger>isClippingEnabled()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCClippingRegionNode</description>
-</snippet>

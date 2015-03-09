@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[display.SCENE_TRANSITIONS]]></content>
+    <tabTrigger>display.SCENE_TRANSITIONS</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.utils.ByteArrayVarint.new(${1:__endian})]]></content>
+    <tabTrigger>ByteArrayVarint.new(__endian)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ByteArrayVarint</description>
+</snippet>

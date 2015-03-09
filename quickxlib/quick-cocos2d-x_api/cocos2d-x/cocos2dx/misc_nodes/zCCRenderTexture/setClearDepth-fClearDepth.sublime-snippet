@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setClearDepth(${1:fClearDepth})]]></content>
-    <tabTrigger>setClearDepth(fClearDepth)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCRenderTexture</description>
-</snippet>

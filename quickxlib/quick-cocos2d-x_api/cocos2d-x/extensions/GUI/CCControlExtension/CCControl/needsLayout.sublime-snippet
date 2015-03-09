@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[needsLayout()]]></content>
+    <tabTrigger>needsLayout()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Control</description>
+</snippet>

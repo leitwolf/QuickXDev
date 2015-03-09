@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[fadeIn(${1:time})]]></content>
+    <tabTrigger>fadeIn(time)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Node</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getCURLECode()]]></content>
+    <tabTrigger>getCURLECode()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>EventAssetsManagerEx</description>
+</snippet>

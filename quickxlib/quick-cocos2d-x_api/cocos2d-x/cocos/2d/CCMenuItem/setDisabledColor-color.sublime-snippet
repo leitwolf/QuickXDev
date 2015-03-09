@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setDisabledColor(${1:color})]]></content>
+    <tabTrigger>setDisabledColor(color)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>MenuItemLabel</description>
+</snippet>

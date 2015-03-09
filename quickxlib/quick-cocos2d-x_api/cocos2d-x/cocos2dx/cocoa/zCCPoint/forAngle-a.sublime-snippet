@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[forAngle(${1:a})]]></content>
-    <tabTrigger>forAngle(a)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPoint</description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithImage(${1:image}, ${2:format})]]></content>
+    <tabTrigger>initWithImage(image, format)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Texture2D</description>
+</snippet>

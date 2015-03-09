@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getResponseString()]]></content>
-    <tabTrigger>getResponseString()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCHTTPRequest</description>
-</snippet>

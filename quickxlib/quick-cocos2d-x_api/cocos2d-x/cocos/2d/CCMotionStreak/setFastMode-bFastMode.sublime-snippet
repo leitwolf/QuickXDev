@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setFastMode(${1:bFastMode})]]></content>
+    <tabTrigger>setFastMode(bFastMode)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>MotionStreak</description>
+</snippet>

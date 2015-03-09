@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setIntensity(${1:intensity})]]></content>
+    <tabTrigger>setIntensity(intensity)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BaseLight</description>
+</snippet>

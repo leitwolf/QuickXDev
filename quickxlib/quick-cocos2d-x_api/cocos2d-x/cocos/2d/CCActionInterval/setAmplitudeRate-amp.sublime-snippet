@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setAmplitudeRate(${1:amp})]]></content>
+    <tabTrigger>setAmplitudeRate(amp)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ActionInterval</description>
+</snippet>

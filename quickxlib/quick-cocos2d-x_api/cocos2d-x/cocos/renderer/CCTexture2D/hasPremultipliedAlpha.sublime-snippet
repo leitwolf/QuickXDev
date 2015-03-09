@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[hasPremultipliedAlpha()]]></content>
+    <tabTrigger>hasPremultipliedAlpha()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Texture2D</description>
+</snippet>

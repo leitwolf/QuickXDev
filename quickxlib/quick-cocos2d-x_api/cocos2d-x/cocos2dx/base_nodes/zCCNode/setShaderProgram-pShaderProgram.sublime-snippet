@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setShaderProgram(${1:pShaderProgram})]]></content>
-    <tabTrigger>setShaderProgram(pShaderProgram)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

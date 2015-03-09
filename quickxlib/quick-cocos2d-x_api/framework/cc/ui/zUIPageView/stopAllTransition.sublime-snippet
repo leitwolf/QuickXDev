@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[stopAllTransition()]]></content>
+    <tabTrigger>stopAllTransition()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIPageView</description>
+</snippet>

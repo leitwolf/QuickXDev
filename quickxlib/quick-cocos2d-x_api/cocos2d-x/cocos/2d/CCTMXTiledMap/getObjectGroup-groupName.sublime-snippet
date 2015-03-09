@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getObjectGroup(${1:groupName})]]></content>
+    <tabTrigger>getObjectGroup(groupName)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TMXTiledMap</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[rotateBy(${1:time}, ${2:rotation})]]></content>
+    <tabTrigger>rotateBy(time, rotation)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Node</description>
+</snippet>

@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCTwirl:create(duration, gridSize, position, twirls, amplitude)", "contents": "CCTwirl:create(${1:duration}, ${2:gridSize}, ${3:position}, ${4:twirls}, ${5:amplitude})" }
-	]
-}

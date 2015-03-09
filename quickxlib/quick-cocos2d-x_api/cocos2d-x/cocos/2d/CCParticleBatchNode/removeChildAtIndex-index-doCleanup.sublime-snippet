@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeChildAtIndex(${1:index}, ${2:doCleanup})]]></content>
+    <tabTrigger>removeChildAtIndex(index, doCleanup)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParticleBatchNode</description>
+</snippet>

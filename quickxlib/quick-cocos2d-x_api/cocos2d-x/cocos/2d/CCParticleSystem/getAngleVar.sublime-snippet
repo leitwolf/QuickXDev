@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getAngleVar()]]></content>
+    <tabTrigger>getAngleVar()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParticleSystem</description>
+</snippet>

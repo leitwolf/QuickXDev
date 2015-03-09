@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isStoringCharacters()]]></content>
+    <tabTrigger>isStoringCharacters()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TMXMapInfo</description>
+</snippet>

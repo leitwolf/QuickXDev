@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[unscheduleAllWithMinPriority(${1:nMinPriority})]]></content>
-    <tabTrigger>unscheduleAllWithMinPriority(nMinPriority)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCScheduler</description>
-</snippet>

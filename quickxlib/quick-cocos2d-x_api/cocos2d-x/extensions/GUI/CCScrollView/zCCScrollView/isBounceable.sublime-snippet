@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[isBounceable()]]></content>
-    <tabTrigger>isBounceable()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCScrollView</description>
-</snippet>

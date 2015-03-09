@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getRatchet()]]></content>
+    <tabTrigger>getRatchet()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsJointRatchet</description>
+</snippet>

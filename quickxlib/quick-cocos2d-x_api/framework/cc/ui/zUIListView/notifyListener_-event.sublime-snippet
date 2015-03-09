@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[notifyListener_(${1:event})]]></content>
+    <tabTrigger>notifyListener_(event)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIListView</description>
+</snippet>

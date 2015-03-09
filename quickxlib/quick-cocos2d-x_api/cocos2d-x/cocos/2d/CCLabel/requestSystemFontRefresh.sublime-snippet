@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[requestSystemFontRefresh()]]></content>
+    <tabTrigger>requestSystemFontRefresh()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Label</description>
+</snippet>

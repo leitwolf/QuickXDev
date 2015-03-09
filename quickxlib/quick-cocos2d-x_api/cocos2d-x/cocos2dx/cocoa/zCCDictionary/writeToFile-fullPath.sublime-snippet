@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[writeToFile(${1:fullPath})]]></content>
-    <tabTrigger>writeToFile(fullPath)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCDictionary</description>
-</snippet>

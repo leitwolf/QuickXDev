@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setActive(${1:active})]]></content>
+    <tabTrigger>setActive(active)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GridBase</description>
+</snippet>

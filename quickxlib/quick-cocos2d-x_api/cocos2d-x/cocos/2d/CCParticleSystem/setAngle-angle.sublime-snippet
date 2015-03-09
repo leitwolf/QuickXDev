@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setAngle(${1:angle})]]></content>
+    <tabTrigger>setAngle(angle)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParticleSystem</description>
+</snippet>

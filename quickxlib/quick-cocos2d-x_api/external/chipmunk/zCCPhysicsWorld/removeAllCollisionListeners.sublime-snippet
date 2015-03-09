@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeAllCollisionListeners()]]></content>
-    <tabTrigger>removeAllCollisionListeners()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsWorld</description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[enableOutline(${1:outlineColor}, ${2:outlineSize})]]></content>
+    <tabTrigger>enableOutline(outlineColor, outlineSize)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Label</description>
+</snippet>

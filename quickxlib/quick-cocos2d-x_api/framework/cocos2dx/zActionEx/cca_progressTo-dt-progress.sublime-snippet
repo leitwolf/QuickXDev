@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cca.progressTo(${1:dt}, ${2:progress})]]></content>
+    <tabTrigger>cca.progressTo(dt, progress)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

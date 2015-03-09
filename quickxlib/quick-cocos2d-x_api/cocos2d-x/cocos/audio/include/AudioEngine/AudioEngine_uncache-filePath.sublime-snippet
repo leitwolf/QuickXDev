@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.AudioEngine:uncache(${1:filePath})]]></content>
+    <tabTrigger>AudioEngine:uncache(filePath)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

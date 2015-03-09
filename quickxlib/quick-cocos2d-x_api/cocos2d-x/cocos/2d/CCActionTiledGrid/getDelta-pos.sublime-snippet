@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getDelta(${1:pos})]]></content>
+    <tabTrigger>getDelta(pos)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ShuffleTiles</description>
+</snippet>

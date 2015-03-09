@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setQuadsToDraw(${1:quadsToDraw})]]></content>
+    <tabTrigger>setQuadsToDraw(quadsToDraw)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>AtlasNode</description>
+</snippet>

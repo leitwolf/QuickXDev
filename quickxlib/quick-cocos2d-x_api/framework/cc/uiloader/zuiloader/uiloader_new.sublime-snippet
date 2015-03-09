@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.uiloader.uiloader.new()]]></content>
+    <tabTrigger>uiloader.new()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>uiloader</description>
+</snippet>

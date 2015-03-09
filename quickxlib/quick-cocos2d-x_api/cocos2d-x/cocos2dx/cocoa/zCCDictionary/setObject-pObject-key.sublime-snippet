@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setObject(${1:pObject}, ${2:key})]]></content>
-    <tabTrigger>setObject(pObject, key)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCDictionary</description>
-</snippet>

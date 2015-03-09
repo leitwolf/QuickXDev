@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCParticleMeteor:createWithTotalParticles(numberOfParticles)", "contents": "CCParticleMeteor:createWithTotalParticles(${1:numberOfParticles})" },
-		{ "trigger": "CCParticleMeteor:create()", "contents": "CCParticleMeteor:create()" }
-	]
-}

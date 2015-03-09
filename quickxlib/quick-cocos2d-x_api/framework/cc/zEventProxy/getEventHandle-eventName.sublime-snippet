@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getEventHandle(${1:eventName})]]></content>
+    <tabTrigger>getEventHandle(eventName)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>EventProxy</description>
+</snippet>

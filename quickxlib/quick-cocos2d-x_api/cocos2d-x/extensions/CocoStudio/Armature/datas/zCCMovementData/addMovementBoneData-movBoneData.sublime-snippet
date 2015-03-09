@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addMovementBoneData(${1:movBoneData})]]></content>
-    <tabTrigger>addMovementBoneData(movBoneData)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCMovementData</description>
-</snippet>

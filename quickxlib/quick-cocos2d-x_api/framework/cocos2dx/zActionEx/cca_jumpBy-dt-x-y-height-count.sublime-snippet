@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cca.jumpBy(${1:dt}, ${2:x}, ${3:y}, ${4:height}, ${5:count})]]></content>
+    <tabTrigger>cca.jumpBy(dt, x, y, height, count)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

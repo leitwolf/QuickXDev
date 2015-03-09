@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTileSize(${1:tileSize})]]></content>
+    <tabTrigger>setTileSize(tileSize)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TMXMapInfo</description>
+</snippet>

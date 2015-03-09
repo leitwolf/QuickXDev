@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[apply(${1:modelView})]]></content>
+    <tabTrigger>apply(modelView)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GLProgramState</description>
+</snippet>

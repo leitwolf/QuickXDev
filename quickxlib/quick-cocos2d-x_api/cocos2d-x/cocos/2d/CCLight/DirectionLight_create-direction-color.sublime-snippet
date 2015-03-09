@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.DirectionLight:create(${1:direction}, ${2:color})]]></content>
+    <tabTrigger>DirectionLight:create(direction, color)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

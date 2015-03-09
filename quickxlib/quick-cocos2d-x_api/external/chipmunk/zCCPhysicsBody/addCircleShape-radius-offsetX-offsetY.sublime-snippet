@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addCircleShape(${1:radius}, ${2:offsetX}, ${3:offsetY})]]></content>
-    <tabTrigger>addCircleShape(radius, offsetX, offsetY)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsBody</description>
-</snippet>

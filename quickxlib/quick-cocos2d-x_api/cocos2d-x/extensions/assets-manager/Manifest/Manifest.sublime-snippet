@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.Manifest]]></content>
+    <tabTrigger>Manifest</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

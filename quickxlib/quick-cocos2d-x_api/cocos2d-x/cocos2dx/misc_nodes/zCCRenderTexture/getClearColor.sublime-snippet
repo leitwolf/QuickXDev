@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getClearColor()]]></content>
-    <tabTrigger>getClearColor()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCRenderTexture</description>
-</snippet>

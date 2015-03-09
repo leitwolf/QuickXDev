@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCTransitionTurnOffTiles:create(t, scene)", "contents": "CCTransitionTurnOffTiles:create(${1:t}, ${2:scene})" }
-	]
-}

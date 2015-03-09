@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addHandleOfControlEvent(${1:nFunID}, ${2:controlEvent})]]></content>
-    <tabTrigger>addHandleOfControlEvent(nFunID, controlEvent)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCControl</description>
-</snippet>

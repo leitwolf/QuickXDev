@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[listenRendererRecreated(${1:event})]]></content>
+    <tabTrigger>listenRendererRecreated(event)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParticleSystemQuad</description>
+</snippet>

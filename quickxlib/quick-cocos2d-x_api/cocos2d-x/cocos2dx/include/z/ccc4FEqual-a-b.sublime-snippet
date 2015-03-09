@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ccc4FEqual(${1:a}, ${2:b})]]></content>
-    <tabTrigger>ccc4FEqual(a, b)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

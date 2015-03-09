@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.ProgressTimer:create(${1:sp})]]></content>
+    <tabTrigger>ProgressTimer:create(sp)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

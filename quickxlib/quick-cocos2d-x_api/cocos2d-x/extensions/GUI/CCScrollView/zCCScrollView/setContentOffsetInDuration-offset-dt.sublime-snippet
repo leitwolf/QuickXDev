@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setContentOffsetInDuration(${1:offset}, ${2:dt})]]></content>
-    <tabTrigger>setContentOffsetInDuration(offset, dt)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCScrollView</description>
-</snippet>

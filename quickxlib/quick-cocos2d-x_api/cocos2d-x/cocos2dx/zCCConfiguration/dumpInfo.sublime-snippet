@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[dumpInfo()]]></content>
-    <tabTrigger>dumpInfo()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCConfiguration</description>
-</snippet>

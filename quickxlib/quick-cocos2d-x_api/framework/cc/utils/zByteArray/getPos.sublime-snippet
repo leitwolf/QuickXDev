@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getPos()]]></content>
+    <tabTrigger>getPos()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ByteArray</description>
+</snippet>

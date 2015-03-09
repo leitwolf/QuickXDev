@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCShakyTiles3D:create(duration, gridSize, nRange, bShakeZ)", "contents": "CCShakyTiles3D:create(${1:duration}, ${2:gridSize}, ${3:nRange}, ${4:bShakeZ})" }
-	]
-}

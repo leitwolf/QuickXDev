@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[writeUInt(${1:__uint})]]></content>
+    <tabTrigger>writeUInt(__uint)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ByteArray</description>
+</snippet>

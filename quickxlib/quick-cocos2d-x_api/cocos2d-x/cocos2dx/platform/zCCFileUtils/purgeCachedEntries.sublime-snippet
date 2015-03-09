@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[purgeCachedEntries()]]></content>
-    <tabTrigger>purgeCachedEntries()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCFileUtils</description>
-</snippet>

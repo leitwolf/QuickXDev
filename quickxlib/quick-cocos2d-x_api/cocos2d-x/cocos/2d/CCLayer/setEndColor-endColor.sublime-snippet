@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setEndColor(${1:endColor})]]></content>
+    <tabTrigger>setEndColor(endColor)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>LayerGradient</description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ccpLerp(${1:a}, ${2:b}, ${3:alpha})]]></content>
-    <tabTrigger>ccpLerp(a, b, alpha)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

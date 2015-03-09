@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCParticleGalaxy:createWithTotalParticles(numberOfParticles)", "contents": "CCParticleGalaxy:createWithTotalParticles(${1:numberOfParticles})" },
-		{ "trigger": "CCParticleGalaxy:create()", "contents": "CCParticleGalaxy:create()" }
-	]
-}

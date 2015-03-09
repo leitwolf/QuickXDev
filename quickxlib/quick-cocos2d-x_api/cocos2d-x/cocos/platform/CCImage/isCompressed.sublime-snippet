@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isCompressed()]]></content>
+    <tabTrigger>isCompressed()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Image</description>
+</snippet>

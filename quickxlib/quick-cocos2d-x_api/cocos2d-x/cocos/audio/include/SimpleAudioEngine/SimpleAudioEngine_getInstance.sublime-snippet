@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.SimpleAudioEngine:getInstance()]]></content>
+    <tabTrigger>SimpleAudioEngine:getInstance()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setPosition(${1:position})]]></content>
+    <tabTrigger>setPosition(position)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Twirl</description>
+</snippet>

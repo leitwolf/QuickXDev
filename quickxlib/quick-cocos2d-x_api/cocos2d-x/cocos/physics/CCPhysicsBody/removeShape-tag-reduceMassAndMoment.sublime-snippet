@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeShape(${1:tag}, ${2:reduceMassAndMoment})]]></content>
+    <tabTrigger>removeShape(tag, reduceMassAndMoment)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsBody</description>
+</snippet>

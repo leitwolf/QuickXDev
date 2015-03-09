@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setSearchResolutionsOrder(${1:searchResolutionsOrder})]]></content>
+    <tabTrigger>setSearchResolutionsOrder(searchResolutionsOrder)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>FileUtils</description>
+</snippet>

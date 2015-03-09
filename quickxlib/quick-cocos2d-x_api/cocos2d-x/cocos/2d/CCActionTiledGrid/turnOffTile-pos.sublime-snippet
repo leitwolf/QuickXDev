@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[turnOffTile(${1:pos})]]></content>
+    <tabTrigger>turnOffTile(pos)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TurnOffTiles</description>
+</snippet>

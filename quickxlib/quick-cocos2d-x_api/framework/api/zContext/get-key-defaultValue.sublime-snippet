@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[get(${1:key}, ${2:defaultValue})]]></content>
-    <tabTrigger>get(key, defaultValue)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>Context</description>
-</snippet>

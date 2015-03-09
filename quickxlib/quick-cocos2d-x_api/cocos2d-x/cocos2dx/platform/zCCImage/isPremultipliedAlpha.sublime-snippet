@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[isPremultipliedAlpha()]]></content>
-    <tabTrigger>isPremultipliedAlpha()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCImage</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setInverted(${1:bInverted})]]></content>
-    <tabTrigger>setInverted(bInverted)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCClippingNode</description>
-</snippet>

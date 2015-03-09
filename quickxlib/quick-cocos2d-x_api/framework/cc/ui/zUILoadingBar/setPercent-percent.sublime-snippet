@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setPercent(${1:percent})]]></content>
+    <tabTrigger>setPercent(percent)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UILoadingBar</description>
+</snippet>

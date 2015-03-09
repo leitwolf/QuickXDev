@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[begin()]]></content>
+    <tabTrigger>begin()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>RenderTexture</description>
+</snippet>

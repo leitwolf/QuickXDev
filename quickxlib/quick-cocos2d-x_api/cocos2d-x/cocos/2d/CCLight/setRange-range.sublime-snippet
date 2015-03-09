@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setRange(${1:range})]]></content>
+    <tabTrigger>setRange(range)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SpotLight</description>
+</snippet>

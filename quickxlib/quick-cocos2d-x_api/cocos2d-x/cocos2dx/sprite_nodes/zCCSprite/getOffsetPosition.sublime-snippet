@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getOffsetPosition()]]></content>
-    <tabTrigger>getOffsetPosition()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCSprite</description>
-</snippet>

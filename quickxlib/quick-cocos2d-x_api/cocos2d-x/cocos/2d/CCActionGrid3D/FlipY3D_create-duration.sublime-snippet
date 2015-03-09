@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.FlipY3D:create(${1:duration})]]></content>
+    <tabTrigger>FlipY3D:create(duration)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

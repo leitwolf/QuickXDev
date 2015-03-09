@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getDisabledColor()]]></content>
-    <tabTrigger>getDisabledColor()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCMenuItemLabel</description>
-</snippet>

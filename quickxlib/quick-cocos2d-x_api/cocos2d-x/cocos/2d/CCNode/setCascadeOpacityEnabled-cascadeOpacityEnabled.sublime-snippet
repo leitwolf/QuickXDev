@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setCascadeOpacityEnabled(${1:cascadeOpacityEnabled})]]></content>
+    <tabTrigger>setCascadeOpacityEnabled(cascadeOpacityEnabled)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Node</description>
+</snippet>

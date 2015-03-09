@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ccBlendFunc()]]></content>
-    <tabTrigger>ccBlendFunc()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ccBlendFunc</description>
-</snippet>

@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCEaseElasticIn:create(pAction, fPeriod)", "contents": "CCEaseElasticIn:create(${1:pAction}, ${2:fPeriod})" },
-		{ "trigger": "CCEaseElasticIn:create(pAction)", "contents": "CCEaseElasticIn:create(${1:pAction})" }
-	]
-}

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getMouseButton()]]></content>
+    <tabTrigger>getMouseButton()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>EventMouse</description>
+</snippet>

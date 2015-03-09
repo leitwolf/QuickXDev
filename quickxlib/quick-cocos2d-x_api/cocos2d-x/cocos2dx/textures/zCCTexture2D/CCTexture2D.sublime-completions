@@ -1,9 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCTexture2D:setDefaultAlphaPixelFormat(format)", "contents": "CCTexture2D:setDefaultAlphaPixelFormat(${1:format})" },
-		{ "trigger": "CCTexture2D:defaultAlphaPixelFormat()", "contents": "CCTexture2D:defaultAlphaPixelFormat()" },
-		{ "trigger": "CCTexture2D:PVRImagesHavePremultipliedAlpha(haveAlphaPremultiplied)", "contents": "CCTexture2D:PVRImagesHavePremultipliedAlpha(${1:haveAlphaPremultiplied})" }
-	]
-}

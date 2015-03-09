@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getIsPlaying()]]></content>
-    <tabTrigger>getIsPlaying()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCProcessBase</description>
-</snippet>

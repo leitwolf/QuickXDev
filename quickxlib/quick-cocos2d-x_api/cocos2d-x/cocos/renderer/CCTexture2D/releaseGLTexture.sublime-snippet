@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[releaseGLTexture()]]></content>
+    <tabTrigger>releaseGLTexture()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Texture2D</description>
+</snippet>

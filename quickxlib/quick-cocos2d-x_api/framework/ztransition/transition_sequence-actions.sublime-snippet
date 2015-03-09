@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[transition.sequence(${1:actions})]]></content>
+    <tabTrigger>transition.sequence(actions)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

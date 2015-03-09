@@ -1,4 +1,4 @@
-QuickXDev
+QuickXDev  --ver 3.3
 =========
 
 Powerful quick-cocos2d-x develop plugin for sublime text 2/3
@@ -55,13 +55,13 @@ select a word then right click ->Goto Definition or press key ctrl+shift+g
 
 ### Run with player
 
- right click "scripts" folder on the sidebar,select "Run With Player",the player will run with current project.
+ right click "src" folder on the sidebar,select "Run With Player",the player will run with current project.
 
 ### Compile Scripts
 
- right click "scripts" folder on the sidebar,select "Compile Scripts",enter the output file,then it will compile all scripts to the output file.
+ right click "src" folder on the sidebar,select "Compile Scripts",enter the output file,then it will compile all scripts to the output file.
 
 ### User definition auto completion
 
- right click "scripts" folder on the sidebar,select "Rebuild User Definition".
+ right click "src" folder on the sidebar,select "Rebuild User Definition".
  and when you save a lua file in sublime,it will auto build all user definition in the current file.

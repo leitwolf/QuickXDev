@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getPack(${1:__offset}, ${2:__length})]]></content>
+    <tabTrigger>getPack(__offset, __length)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ByteArray</description>
+</snippet>

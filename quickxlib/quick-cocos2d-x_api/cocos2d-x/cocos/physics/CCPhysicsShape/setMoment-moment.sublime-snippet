@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setMoment(${1:moment})]]></content>
+    <tabTrigger>setMoment(moment)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsShape</description>
+</snippet>

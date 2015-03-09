@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getRenderFormat()]]></content>
+    <tabTrigger>getRenderFormat()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Image</description>
+</snippet>

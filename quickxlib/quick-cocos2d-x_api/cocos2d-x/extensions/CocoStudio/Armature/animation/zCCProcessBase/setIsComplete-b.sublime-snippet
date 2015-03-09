@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setIsComplete(${1:b})]]></content>
-    <tabTrigger>setIsComplete(b)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCProcessBase</description>
-</snippet>

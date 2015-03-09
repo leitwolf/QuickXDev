@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getTMXFileName()]]></content>
-    <tabTrigger>getTMXFileName()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTMXMapInfo</description>
-</snippet>

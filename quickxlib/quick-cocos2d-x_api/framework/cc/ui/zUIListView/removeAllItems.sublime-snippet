@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeAllItems()]]></content>
+    <tabTrigger>removeAllItems()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIListView</description>
+</snippet>

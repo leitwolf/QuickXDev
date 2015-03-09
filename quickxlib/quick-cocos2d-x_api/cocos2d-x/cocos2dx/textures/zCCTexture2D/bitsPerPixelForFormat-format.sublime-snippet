@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[bitsPerPixelForFormat(${1:format})]]></content>
-    <tabTrigger>bitsPerPixelForFormat(format)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTexture2D</description>
-</snippet>

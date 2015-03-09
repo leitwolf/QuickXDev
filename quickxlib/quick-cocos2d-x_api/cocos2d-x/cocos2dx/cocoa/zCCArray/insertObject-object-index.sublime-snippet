@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[insertObject(${1:object}, ${2:index})]]></content>
-    <tabTrigger>insertObject(object, index)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCArray</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeAllActionsFromTarget(${1:pTarget})]]></content>
-    <tabTrigger>removeAllActionsFromTarget(pTarget)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCActionManager</description>
-</snippet>

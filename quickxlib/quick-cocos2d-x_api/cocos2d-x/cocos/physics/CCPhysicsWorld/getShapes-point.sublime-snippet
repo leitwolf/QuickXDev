@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getShapes(${1:point})]]></content>
+    <tabTrigger>getShapes(point)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsWorld</description>
+</snippet>

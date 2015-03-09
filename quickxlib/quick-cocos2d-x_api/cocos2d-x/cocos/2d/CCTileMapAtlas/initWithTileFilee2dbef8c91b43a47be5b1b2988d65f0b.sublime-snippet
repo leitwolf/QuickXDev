@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithTileFile(${1:tile}, ${2:mapFile}, ${3:tileWidth}, ${4:tileHeight})]]></content>
+    <tabTrigger>initWithTileFile(tile, mapFile, tileWidth, tileHeight)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TileMapAtlas</description>
+</snippet>

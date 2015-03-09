@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[seekNodeByPath(${1:parent}, ${2:path})]]></content>
+    <tabTrigger>seekNodeByPath(parent, path)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>uiloader</description>
+</snippet>

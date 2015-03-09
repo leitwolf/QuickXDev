@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elasticScroll()]]></content>
+    <tabTrigger>elasticScroll()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIScrollView</description>
+</snippet>

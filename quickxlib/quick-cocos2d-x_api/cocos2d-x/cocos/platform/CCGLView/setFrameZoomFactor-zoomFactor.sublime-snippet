@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setFrameZoomFactor(${1:zoomFactor})]]></content>
+    <tabTrigger>setFrameZoomFactor(zoomFactor)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GLView</description>
+</snippet>

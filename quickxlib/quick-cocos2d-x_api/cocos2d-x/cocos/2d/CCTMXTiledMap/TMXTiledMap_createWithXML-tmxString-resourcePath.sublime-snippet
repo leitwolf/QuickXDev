@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.TMXTiledMap:createWithXML(${1:tmxString}, ${2:resourcePath})]]></content>
+    <tabTrigger>TMXTiledMap:createWithXML(tmxString, resourcePath)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

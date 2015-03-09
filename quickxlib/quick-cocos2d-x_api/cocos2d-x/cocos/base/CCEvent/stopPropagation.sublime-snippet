@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[stopPropagation()]]></content>
+    <tabTrigger>stopPropagation()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Event</description>
+</snippet>

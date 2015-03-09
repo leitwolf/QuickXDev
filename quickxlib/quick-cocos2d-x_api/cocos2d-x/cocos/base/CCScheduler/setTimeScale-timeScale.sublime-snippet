@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTimeScale(${1:timeScale})]]></content>
+    <tabTrigger>setTimeScale(timeScale)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Scheduler</description>
+</snippet>

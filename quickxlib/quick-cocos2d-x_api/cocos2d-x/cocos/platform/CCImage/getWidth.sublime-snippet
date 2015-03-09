@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getWidth()]]></content>
+    <tabTrigger>getWidth()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Image</description>
+</snippet>

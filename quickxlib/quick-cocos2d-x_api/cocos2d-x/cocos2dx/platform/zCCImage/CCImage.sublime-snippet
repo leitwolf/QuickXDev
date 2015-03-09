@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[CCImage()]]></content>
-    <tabTrigger>CCImage()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCImage</description>
-</snippet>

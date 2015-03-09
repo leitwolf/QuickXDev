@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeObjectForKey(${1:key})]]></content>
-    <tabTrigger>removeObjectForKey(key)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCDictionary</description>
-</snippet>

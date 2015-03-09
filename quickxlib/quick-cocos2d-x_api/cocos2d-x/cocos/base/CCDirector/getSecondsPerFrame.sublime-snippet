@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getSecondsPerFrame()]]></content>
+    <tabTrigger>getSecondsPerFrame()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Director</description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getCascadeBoundingBox(${1:convertToWorld})]]></content>
-    <tabTrigger>getCascadeBoundingBox(convertToWorld)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

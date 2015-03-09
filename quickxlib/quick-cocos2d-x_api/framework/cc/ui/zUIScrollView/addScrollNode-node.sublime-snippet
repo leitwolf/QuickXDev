@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addScrollNode(${1:node})]]></content>
+    <tabTrigger>addScrollNode(node)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIScrollView</description>
+</snippet>

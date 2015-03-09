@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.TextureCache]]></content>
+    <tabTrigger>TextureCache</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

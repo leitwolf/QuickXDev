@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCFadeTo:create(duration, opacity)", "contents": "CCFadeTo:create(${1:duration}, ${2:opacity})" }
-	]
-}

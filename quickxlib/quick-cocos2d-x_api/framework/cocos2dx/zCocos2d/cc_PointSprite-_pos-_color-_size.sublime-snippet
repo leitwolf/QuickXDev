@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.PointSprite(${1:_pos}, ${2:_color}, ${3:_size})]]></content>
+    <tabTrigger>cc.PointSprite(_pos, _color, _size)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

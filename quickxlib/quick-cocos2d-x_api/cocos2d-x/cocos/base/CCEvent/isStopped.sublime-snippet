@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isStopped()]]></content>
+    <tabTrigger>isStopped()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Event</description>
+</snippet>

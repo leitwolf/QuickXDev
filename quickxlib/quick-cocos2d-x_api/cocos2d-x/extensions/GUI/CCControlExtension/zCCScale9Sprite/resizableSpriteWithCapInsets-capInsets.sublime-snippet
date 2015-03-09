@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[resizableSpriteWithCapInsets(${1:capInsets})]]></content>
-    <tabTrigger>resizableSpriteWithCapInsets(capInsets)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCScale9Sprite</description>
-</snippet>

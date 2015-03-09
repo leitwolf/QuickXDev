@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[supportsShareableVAO()]]></content>
-    <tabTrigger>supportsShareableVAO()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCConfiguration</description>
-</snippet>

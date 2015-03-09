@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setDataString(${1:str})]]></content>
+    <tabTrigger>setDataString(str)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>EventCustom</description>
+</snippet>

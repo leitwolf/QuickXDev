@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.TransitionFlipY:create(${1:t}, ${2:s})]]></content>
+    <tabTrigger>TransitionFlipY:create(t, s)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

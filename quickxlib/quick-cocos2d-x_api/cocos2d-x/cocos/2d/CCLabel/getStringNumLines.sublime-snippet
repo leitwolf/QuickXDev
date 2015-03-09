@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getStringNumLines()]]></content>
+    <tabTrigger>getStringNumLines()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Label</description>
+</snippet>

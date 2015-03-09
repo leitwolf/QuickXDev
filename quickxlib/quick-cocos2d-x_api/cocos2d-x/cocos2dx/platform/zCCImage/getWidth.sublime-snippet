@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getWidth()]]></content>
-    <tabTrigger>getWidth()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCImage</description>
-</snippet>

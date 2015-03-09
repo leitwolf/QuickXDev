@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.ui.UIListView.new(${1:params})]]></content>
+    <tabTrigger>UIListView.new(params)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIListView</description>
+</snippet>

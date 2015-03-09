@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[isContinuous()]]></content>
-    <tabTrigger>isContinuous()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCControlStepper</description>
-</snippet>

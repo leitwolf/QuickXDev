@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[send(${1:__data})]]></content>
+    <tabTrigger>send(__data)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SocketTCP</description>
+</snippet>

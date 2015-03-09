@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[execute()]]></content>
+    <tabTrigger>execute()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CallFunc</description>
+</snippet>

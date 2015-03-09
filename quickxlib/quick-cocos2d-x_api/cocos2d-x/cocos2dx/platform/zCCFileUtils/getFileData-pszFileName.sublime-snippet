@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getFileData(${1:pszFileName})]]></content>
-    <tabTrigger>getFileData(pszFileName)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCFileUtils</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getCollisionType()]]></content>
-    <tabTrigger>getCollisionType()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsShape</description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getLayer(${1:layerName})]]></content>
+    <tabTrigger>getLayer(layerName)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TMXTiledMap</description>
+</snippet>

@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCSkewBy:create(t, deltaSkewX, deltaSkewY)", "contents": "CCSkewBy:create(${1:t}, ${2:deltaSkewX}, ${3:deltaSkewY})" }
-	]
-}

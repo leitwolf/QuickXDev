@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[activate()]]></content>
+    <tabTrigger>activate()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>MenuItem</description>
+</snippet>

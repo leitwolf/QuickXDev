@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getRatio()]]></content>
+    <tabTrigger>getRatio()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsJointGear</description>
+</snippet>

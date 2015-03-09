@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[rotateTo(${1:time}, ${2:rotation})]]></content>
-    <tabTrigger>rotateTo(time, rotation)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNodeExtend</description>
-</snippet>

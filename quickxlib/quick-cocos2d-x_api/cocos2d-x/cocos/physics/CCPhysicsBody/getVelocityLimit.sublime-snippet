@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getVelocityLimit()]]></content>
+    <tabTrigger>getVelocityLimit()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsBody</description>
+</snippet>

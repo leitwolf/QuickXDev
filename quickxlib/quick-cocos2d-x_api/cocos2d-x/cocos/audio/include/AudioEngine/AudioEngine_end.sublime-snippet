@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.AudioEngine:end()]]></content>
+    <tabTrigger>AudioEngine:end()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

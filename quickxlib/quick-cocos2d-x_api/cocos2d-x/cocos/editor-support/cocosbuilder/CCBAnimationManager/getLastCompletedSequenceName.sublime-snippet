@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getLastCompletedSequenceName()]]></content>
+    <tabTrigger>getLastCompletedSequenceName()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCBAnimationManager</description>
+</snippet>

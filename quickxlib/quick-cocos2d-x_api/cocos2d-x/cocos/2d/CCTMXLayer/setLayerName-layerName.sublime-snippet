@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setLayerName(${1:layerName})]]></content>
+    <tabTrigger>setLayerName(layerName)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TMXLayer</description>
+</snippet>

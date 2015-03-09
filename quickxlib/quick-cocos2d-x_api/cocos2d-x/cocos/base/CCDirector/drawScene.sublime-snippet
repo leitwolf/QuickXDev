@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[drawScene()]]></content>
+    <tabTrigger>drawScene()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Director</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[network.isInternetConnectionAvailable()]]></content>
+    <tabTrigger>network.isInternetConnectionAvailable()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

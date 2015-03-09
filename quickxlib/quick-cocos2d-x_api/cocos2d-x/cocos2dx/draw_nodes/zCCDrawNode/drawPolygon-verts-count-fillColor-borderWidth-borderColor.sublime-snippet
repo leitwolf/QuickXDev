@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[drawPolygon(${1:verts}, ${2:count}, ${3:fillColor}, ${4:borderWidth}, ${5:borderColor})]]></content>
-    <tabTrigger>drawPolygon(verts, count, fillColor, borderWidth, borderColor)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCDrawNode</description>
-</snippet>

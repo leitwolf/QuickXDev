@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setSpeedVar(${1:speed})]]></content>
+    <tabTrigger>setSpeedVar(speed)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParticleSystem</description>
+</snippet>

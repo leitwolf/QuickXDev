@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCRepeatForever:create(pAction)", "contents": "CCRepeatForever:create(${1:pAction})" }
-	]
-}

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithString(${1:string}, ${2:texture}, ${3:itemWidth}, ${4:itemHeight}, ${5:startCharMap})]]></content>
+    <tabTrigger>initWithString(string, texture, itemWidth, itemHeight, startCharMap)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>LabelAtlas</description>
+</snippet>

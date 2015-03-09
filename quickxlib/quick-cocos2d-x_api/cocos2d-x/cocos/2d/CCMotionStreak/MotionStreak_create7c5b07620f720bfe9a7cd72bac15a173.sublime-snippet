@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.MotionStreak:create(${1:fade}, ${2:minSeg}, ${3:stroke}, ${4:color}, ${5:texture})]]></content>
+    <tabTrigger>MotionStreak:create(fade, minSeg, stroke, color, texture)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

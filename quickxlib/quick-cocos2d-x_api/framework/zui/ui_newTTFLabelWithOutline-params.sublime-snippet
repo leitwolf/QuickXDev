@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ui.newTTFLabelWithOutline(${1:params})]]></content>
+    <tabTrigger>ui.newTTFLabelWithOutline(params)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

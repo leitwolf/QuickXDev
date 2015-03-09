@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setScrollData(${1:scrollX}, ${2:scrollY})]]></content>
+    <tabTrigger>setScrollData(scrollX, scrollY)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>EventMouse</description>
+</snippet>

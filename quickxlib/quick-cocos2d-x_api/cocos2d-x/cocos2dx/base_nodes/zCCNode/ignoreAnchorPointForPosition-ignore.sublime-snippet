@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ignoreAnchorPointForPosition(${1:ignore})]]></content>
-    <tabTrigger>ignoreAnchorPointForPosition(ignore)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

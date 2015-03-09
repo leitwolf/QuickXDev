@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[indexOfObject(${1:object})]]></content>
-    <tabTrigger>indexOfObject(object)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCArray</description>
-</snippet>

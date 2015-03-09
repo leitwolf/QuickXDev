@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[CCPointFromString(${1:pszContent})]]></content>
-    <tabTrigger>CCPointFromString(pszContent)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setAnimation(${1:animation})]]></content>
+    <tabTrigger>setAnimation(animation)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Animate</description>
+</snippet>

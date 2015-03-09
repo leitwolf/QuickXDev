@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[fetchPoints()]]></content>
-    <tabTrigger>fetchPoints()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPointArray</description>
-</snippet>

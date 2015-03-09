@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.AnimationCache:getInstance()]]></content>
+    <tabTrigger>AnimationCache:getInstance()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

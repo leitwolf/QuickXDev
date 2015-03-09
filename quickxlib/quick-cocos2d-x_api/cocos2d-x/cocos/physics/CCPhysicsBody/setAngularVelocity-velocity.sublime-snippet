@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setAngularVelocity(${1:velocity})]]></content>
+    <tabTrigger>setAngularVelocity(velocity)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsBody</description>
+</snippet>

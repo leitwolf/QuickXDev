@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setRestitution(${1:restitution})]]></content>
+    <tabTrigger>setRestitution(restitution)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsShape</description>
+</snippet>

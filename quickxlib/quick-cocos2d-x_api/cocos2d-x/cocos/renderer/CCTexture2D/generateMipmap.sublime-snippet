@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[generateMipmap()]]></content>
+    <tabTrigger>generateMipmap()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Texture2D</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setDepthTest(${1:on})]]></content>
+    <tabTrigger>setDepthTest(on)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Director</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setScissorInPoints(${1:x}, ${2:y}, ${3:w}, ${4:h})]]></content>
+    <tabTrigger>setScissorInPoints(x, y, w, h)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GLView</description>
+</snippet>

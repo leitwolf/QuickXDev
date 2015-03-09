@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setObject(${1:obj}, ${2:pNode}, ${3:propName})]]></content>
+    <tabTrigger>setObject(obj, pNode, propName)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCBAnimationManager</description>
+</snippet>

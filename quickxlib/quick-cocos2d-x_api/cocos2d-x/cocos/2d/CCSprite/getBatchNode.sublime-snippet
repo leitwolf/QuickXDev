@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getBatchNode()]]></content>
+    <tabTrigger>getBatchNode()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Sprite</description>
+</snippet>

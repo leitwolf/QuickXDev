@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[network.makeCookieString(${1:cookie})]]></content>
+    <tabTrigger>network.makeCookieString(cookie)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

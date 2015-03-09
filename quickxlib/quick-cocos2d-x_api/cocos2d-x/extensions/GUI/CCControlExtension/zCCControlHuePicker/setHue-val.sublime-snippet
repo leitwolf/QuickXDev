@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setHue(${1:val})]]></content>
-    <tabTrigger>setHue(val)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCControlHuePicker</description>
-</snippet>

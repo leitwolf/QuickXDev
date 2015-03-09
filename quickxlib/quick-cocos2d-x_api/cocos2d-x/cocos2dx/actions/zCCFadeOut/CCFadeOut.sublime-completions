@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCFadeOut:create(d)", "contents": "CCFadeOut:create(${1:d})" }
-	]
-}

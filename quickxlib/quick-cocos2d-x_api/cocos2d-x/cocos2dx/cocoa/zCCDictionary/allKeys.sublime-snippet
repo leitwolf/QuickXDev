@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[allKeys()]]></content>
-    <tabTrigger>allKeys()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCDictionary</description>
-</snippet>

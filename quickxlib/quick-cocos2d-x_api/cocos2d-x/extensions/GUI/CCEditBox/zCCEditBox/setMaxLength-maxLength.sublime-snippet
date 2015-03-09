@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setMaxLength(${1:maxLength})]]></content>
-    <tabTrigger>setMaxLength(maxLength)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCEditBox</description>
-</snippet>

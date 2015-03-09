@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[registerScriptTouchHandler(${1:nHandler}, ${2:bIsMultiTouches}, ${3:nPriority}, ${4:bSwallowsTouches})]]></content>
-    <tabTrigger>registerScriptTouchHandler(nHandler, bIsMultiTouches, nPriority, bSwallowsTouches)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

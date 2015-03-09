@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isGravityEnabled()]]></content>
+    <tabTrigger>isGravityEnabled()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsBody</description>
+</snippet>

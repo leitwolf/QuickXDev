@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[testFunc(${1:pos}, ${2:time})]]></content>
+    <tabTrigger>testFunc(pos, time)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>FadeOutTRTiles</description>
+</snippet>

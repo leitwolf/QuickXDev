@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[containsPoint(${1:point})]]></content>
+    <tabTrigger>containsPoint(point)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsShape</description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getContainer()]]></content>
-    <tabTrigger>getContainer()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCScrollView</description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getVerticalFillOrder()]]></content>
+    <tabTrigger>getVerticalFillOrder()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TableView</description>
+</snippet>

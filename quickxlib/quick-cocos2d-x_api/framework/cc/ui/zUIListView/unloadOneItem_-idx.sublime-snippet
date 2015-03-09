@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unloadOneItem_(${1:idx})]]></content>
+    <tabTrigger>unloadOneItem_(idx)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIListView</description>
+</snippet>

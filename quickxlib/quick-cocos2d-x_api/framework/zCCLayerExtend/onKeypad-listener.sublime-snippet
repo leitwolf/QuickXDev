@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[onKeypad(${1:listener})]]></content>
-    <tabTrigger>onKeypad(listener)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCLayerExtend</description>
-</snippet>

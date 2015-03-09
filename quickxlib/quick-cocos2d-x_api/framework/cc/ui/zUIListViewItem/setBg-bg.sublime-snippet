@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setBg(${1:bg})]]></content>
+    <tabTrigger>setBg(bg)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIListViewItem</description>
+</snippet>

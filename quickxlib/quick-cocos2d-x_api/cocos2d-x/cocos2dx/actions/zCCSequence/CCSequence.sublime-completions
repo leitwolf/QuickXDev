@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCSequence:create(arrayOfActions)", "contents": "CCSequence:create(${1:arrayOfActions})" },
-		{ "trigger": "CCSequence:createWithTwoActions(pActionOne, pActionTwo)", "contents": "CCSequence:createWithTwoActions(${1:pActionOne}, ${2:pActionTwo})" }
-	]
-}

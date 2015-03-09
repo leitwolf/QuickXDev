@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getBoneCount()]]></content>
+    <tabTrigger>getBoneCount()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Skeleton3D</description>
+</snippet>

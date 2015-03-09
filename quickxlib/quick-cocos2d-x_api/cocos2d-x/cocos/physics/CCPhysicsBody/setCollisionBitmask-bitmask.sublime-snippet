@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setCollisionBitmask(${1:bitmask})]]></content>
+    <tabTrigger>setCollisionBitmask(bitmask)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsBody</description>
+</snippet>

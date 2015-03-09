@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isOpacityModifyRGB()]]></content>
+    <tabTrigger>isOpacityModifyRGB()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SkeletonRenderer</description>
+</snippet>

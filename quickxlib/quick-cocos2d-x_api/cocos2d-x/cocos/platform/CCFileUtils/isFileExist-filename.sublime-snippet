@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isFileExist(${1:filename})]]></content>
+    <tabTrigger>isFileExist(filename)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>FileUtils</description>
+</snippet>

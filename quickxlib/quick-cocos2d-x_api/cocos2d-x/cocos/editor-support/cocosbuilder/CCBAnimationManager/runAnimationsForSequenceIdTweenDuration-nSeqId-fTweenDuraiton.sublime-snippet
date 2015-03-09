@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[runAnimationsForSequenceIdTweenDuration(${1:nSeqId}, ${2:fTweenDuraiton})]]></content>
+    <tabTrigger>runAnimationsForSequenceIdTweenDuration(nSeqId, fTweenDuraiton)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCBAnimationManager</description>
+</snippet>

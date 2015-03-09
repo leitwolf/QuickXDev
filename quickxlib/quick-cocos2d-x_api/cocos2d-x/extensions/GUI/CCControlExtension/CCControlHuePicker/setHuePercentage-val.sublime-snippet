@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setHuePercentage(${1:val})]]></content>
+    <tabTrigger>setHuePercentage(val)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ControlHuePicker</description>
+</snippet>

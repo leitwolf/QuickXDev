@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isActive()]]></content>
+    <tabTrigger>isActive()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParticleSystem</description>
+</snippet>

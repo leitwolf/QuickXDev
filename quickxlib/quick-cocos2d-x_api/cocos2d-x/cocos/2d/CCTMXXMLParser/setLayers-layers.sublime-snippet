@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setLayers(${1:layers})]]></content>
+    <tabTrigger>setLayers(layers)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TMXMapInfo</description>
+</snippet>

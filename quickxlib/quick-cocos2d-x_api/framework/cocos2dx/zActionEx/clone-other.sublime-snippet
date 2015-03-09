@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[clone(${1:other})]]></content>
+    <tabTrigger>clone(other)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ActionBuilder</description>
+</snippet>

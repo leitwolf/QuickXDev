@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setFgBarSize_(${1:size})]]></content>
+    <tabTrigger>setFgBarSize_(size)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UISlider</description>
+</snippet>

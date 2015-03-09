@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getGrooveA()]]></content>
+    <tabTrigger>getGrooveA()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsJointGroove</description>
+</snippet>

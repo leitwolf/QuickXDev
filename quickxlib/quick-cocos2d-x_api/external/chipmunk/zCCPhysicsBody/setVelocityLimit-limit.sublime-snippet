@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setVelocityLimit(${1:limit})]]></content>
-    <tabTrigger>setVelocityLimit(limit)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsBody</description>
-</snippet>

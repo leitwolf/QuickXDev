@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[CHECKBOX_STATE_EVENT_UNSELECTED]]></content>
+    <tabTrigger>CHECKBOX_STATE_EVENT_UNSELECTED</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

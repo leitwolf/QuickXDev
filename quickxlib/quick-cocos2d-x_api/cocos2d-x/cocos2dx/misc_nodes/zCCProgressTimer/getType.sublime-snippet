@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getType()]]></content>
-    <tabTrigger>getType()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCProgressTimer</description>
-</snippet>

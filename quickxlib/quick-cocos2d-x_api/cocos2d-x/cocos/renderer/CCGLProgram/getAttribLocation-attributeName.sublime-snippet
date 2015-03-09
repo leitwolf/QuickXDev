@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getAttribLocation(${1:attributeName})]]></content>
+    <tabTrigger>getAttribLocation(attributeName)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GLProgram</description>
+</snippet>

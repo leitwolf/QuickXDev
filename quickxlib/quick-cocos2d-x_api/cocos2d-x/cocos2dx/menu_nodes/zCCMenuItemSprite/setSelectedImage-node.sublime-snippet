@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setSelectedImage(${1:node})]]></content>
-    <tabTrigger>setSelectedImage(node)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCMenuItemSprite</description>
-</snippet>

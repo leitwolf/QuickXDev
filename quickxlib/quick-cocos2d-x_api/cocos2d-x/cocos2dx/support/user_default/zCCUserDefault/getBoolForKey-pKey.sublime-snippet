@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getBoolForKey(${1:pKey})]]></content>
-    <tabTrigger>getBoolForKey(pKey)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCUserDefault</description>
-</snippet>

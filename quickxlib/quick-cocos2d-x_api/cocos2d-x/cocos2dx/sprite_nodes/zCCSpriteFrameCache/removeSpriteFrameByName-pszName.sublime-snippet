@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeSpriteFrameByName(${1:pszName})]]></content>
-    <tabTrigger>removeSpriteFrameByName(pszName)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCSpriteFrameCache</description>
-</snippet>

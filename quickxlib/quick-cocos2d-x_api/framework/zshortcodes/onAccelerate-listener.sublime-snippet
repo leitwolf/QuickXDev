@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onAccelerate(${1:listener})]]></content>
+    <tabTrigger>onAccelerate(listener)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Layer</description>
+</snippet>

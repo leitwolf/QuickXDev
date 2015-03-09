@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCCardinalSplineBy:create(duration, points, tension)", "contents": "CCCardinalSplineBy:create(${1:duration}, ${2:points}, ${3:tension})" }
-	]
-}

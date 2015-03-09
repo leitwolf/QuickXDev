@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[SocketTCP._VERSION]]></content>
+    <tabTrigger>SocketTCP._VERSION</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

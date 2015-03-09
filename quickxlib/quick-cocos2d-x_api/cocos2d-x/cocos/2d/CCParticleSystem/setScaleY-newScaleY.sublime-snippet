@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setScaleY(${1:newScaleY})]]></content>
+    <tabTrigger>setScaleY(newScaleY)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParticleSystem</description>
+</snippet>

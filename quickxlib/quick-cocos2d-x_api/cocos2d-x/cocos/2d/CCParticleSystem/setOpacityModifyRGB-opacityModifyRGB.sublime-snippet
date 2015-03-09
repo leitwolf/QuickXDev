@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setOpacityModifyRGB(${1:opacityModifyRGB})]]></content>
+    <tabTrigger>setOpacityModifyRGB(opacityModifyRGB)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParticleSystem</description>
+</snippet>

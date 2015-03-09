@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithXML(${1:tmxString}, ${2:resourcePath})]]></content>
+    <tabTrigger>initWithXML(tmxString, resourcePath)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TMXMapInfo</description>
+</snippet>

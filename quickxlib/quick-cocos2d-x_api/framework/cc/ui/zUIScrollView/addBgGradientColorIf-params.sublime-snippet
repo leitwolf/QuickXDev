@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addBgGradientColorIf(${1:params})]]></content>
+    <tabTrigger>addBgGradientColorIf(params)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIScrollView</description>
+</snippet>

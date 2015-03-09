@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[display.newScale9Sprite(${1:filename}, ${2:x}, ${3:y}, ${4:size}, ${5:capInsets})]]></content>
+    <tabTrigger>display.newScale9Sprite(filename, x, y, size, capInsets)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

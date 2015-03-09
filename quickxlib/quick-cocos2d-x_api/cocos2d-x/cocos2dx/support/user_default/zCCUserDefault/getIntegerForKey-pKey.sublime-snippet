@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getIntegerForKey(${1:pKey})]]></content>
-    <tabTrigger>getIntegerForKey(pKey)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCUserDefault</description>
-</snippet>

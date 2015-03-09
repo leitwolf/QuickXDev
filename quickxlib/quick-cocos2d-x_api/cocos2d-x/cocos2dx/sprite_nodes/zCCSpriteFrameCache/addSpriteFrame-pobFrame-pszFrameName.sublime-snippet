@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addSpriteFrame(${1:pobFrame}, ${2:pszFrameName})]]></content>
-    <tabTrigger>addSpriteFrame(pobFrame, pszFrameName)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCSpriteFrameCache</description>
-</snippet>

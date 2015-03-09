@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCCatmullRomBy:create(dt, points)", "contents": "CCCatmullRomBy:create(${1:dt}, ${2:points})" }
-	]
-}

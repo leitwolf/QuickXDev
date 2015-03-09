@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[fontSizeObj()]]></content>
-    <tabTrigger>fontSizeObj()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCMenuItemFont</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setMaximumAllowedValue(${1:v})]]></content>
-    <tabTrigger>setMaximumAllowedValue(v)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCControlSlider</description>
-</snippet>

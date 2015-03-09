@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[autorelease()]]></content>
-    <tabTrigger>autorelease()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCObject</description>
-</snippet>

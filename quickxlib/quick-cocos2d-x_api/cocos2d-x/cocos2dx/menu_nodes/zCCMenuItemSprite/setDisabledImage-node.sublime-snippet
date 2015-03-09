@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setDisabledImage(${1:node})]]></content>
-    <tabTrigger>setDisabledImage(node)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCMenuItemSprite</description>
-</snippet>

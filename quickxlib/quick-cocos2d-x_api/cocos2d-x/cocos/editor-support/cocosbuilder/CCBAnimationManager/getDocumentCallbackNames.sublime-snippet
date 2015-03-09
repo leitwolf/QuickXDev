@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getDocumentCallbackNames()]]></content>
+    <tabTrigger>getDocumentCallbackNames()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCBAnimationManager</description>
+</snippet>

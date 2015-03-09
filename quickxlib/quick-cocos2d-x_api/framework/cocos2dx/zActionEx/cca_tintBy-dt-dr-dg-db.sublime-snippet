@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cca.tintBy(${1:dt}, ${2:dr}, ${3:dg}, ${4:db})]]></content>
+    <tabTrigger>cca.tintBy(dt, dr, dg, db)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

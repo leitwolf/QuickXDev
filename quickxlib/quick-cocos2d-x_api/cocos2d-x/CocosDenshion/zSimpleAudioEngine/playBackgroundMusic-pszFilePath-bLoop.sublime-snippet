@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[playBackgroundMusic(${1:pszFilePath}, ${2:bLoop})]]></content>
-    <tabTrigger>playBackgroundMusic(pszFilePath, bLoop)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>SimpleAudioEngine</description>
-</snippet>

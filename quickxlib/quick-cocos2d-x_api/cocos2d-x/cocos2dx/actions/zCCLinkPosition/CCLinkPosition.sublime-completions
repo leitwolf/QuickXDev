@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCLinkPosition:create(pFollowedNode)", "contents": "CCLinkPosition:create(${1:pFollowedNode})" }
-	]
-}

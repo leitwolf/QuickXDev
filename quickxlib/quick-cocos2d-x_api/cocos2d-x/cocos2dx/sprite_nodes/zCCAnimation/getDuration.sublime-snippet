@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getDuration()]]></content>
-    <tabTrigger>getDuration()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCAnimation</description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[changeWidthAndHeight(${1:w}, ${2:h})]]></content>
+    <tabTrigger>changeWidthAndHeight(w, h)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>LayerColor</description>
+</snippet>

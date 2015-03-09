@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addRequestHeader(${1:header})]]></content>
-    <tabTrigger>addRequestHeader(header)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCHTTPRequest</description>
-</snippet>

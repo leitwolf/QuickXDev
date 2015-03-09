@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addChild(${1:child}, ${2:z}, ${3:parallaxRatio}, ${4:positionOffset})]]></content>
-    <tabTrigger>addChild(child, z, parallaxRatio, positionOffset)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCParallaxNode</description>
-</snippet>

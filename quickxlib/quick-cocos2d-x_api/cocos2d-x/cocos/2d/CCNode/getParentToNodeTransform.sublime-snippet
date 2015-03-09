@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getParentToNodeTransform()]]></content>
+    <tabTrigger>getParentToNodeTransform()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Node</description>
+</snippet>

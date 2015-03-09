@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[rotateByAngle(${1:pivot}, ${2:angle})]]></content>
-    <tabTrigger>rotateByAngle(pivot, angle)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPoint</description>
-</snippet>

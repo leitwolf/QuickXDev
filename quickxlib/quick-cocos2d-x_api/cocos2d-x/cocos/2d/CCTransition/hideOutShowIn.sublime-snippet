@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[hideOutShowIn()]]></content>
+    <tabTrigger>hideOutShowIn()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TransitionScene</description>
+</snippet>

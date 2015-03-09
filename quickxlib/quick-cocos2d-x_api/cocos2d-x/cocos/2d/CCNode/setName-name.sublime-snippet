@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setName(${1:name})]]></content>
+    <tabTrigger>setName(name)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Node</description>
+</snippet>

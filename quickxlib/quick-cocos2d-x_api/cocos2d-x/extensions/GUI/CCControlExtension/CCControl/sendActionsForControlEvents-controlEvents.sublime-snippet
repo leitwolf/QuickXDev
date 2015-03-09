@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[sendActionsForControlEvents(${1:controlEvents})]]></content>
+    <tabTrigger>sendActionsForControlEvents(controlEvents)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Control</description>
+</snippet>

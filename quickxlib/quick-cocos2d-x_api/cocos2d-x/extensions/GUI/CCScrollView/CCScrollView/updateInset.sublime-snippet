@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[updateInset()]]></content>
+    <tabTrigger>updateInset()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ScrollView</description>
+</snippet>

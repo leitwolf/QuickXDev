@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setEndSpin(${1:endSpin})]]></content>
+    <tabTrigger>setEndSpin(endSpin)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParticleSystem</description>
+</snippet>

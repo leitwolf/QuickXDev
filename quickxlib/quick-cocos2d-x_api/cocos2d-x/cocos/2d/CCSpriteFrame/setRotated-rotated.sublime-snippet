@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setRotated(${1:rotated})]]></content>
+    <tabTrigger>setRotated(rotated)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SpriteFrame</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getCURLMCode()]]></content>
+    <tabTrigger>getCURLMCode()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>EventAssetsManagerEx</description>
+</snippet>

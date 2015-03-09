@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[reloadData()]]></content>
+    <tabTrigger>reloadData()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TableView</description>
+</snippet>

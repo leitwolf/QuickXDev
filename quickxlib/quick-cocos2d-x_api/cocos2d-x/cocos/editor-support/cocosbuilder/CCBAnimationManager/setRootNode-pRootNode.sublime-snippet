@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setRootNode(${1:pRootNode})]]></content>
+    <tabTrigger>setRootNode(pRootNode)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCBAnimationManager</description>
+</snippet>

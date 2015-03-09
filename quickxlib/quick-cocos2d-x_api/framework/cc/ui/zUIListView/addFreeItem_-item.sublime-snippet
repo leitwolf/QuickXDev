@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addFreeItem_(${1:item})]]></content>
+    <tabTrigger>addFreeItem_(item)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIListView</description>
+</snippet>

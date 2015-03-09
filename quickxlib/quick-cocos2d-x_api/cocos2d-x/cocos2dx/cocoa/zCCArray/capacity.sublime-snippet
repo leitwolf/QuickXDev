@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[capacity()]]></content>
-    <tabTrigger>capacity()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCArray</description>
-</snippet>

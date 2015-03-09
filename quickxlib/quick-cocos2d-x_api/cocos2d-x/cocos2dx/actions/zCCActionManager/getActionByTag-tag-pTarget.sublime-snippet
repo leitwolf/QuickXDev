@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getActionByTag(${1:tag}, ${2:pTarget})]]></content>
-    <tabTrigger>getActionByTag(tag, pTarget)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCActionManager</description>
-</snippet>

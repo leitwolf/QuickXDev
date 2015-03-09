@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getConnectionTimeout()]]></content>
-    <tabTrigger>getConnectionTimeout()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>AssetsManager</description>
-</snippet>

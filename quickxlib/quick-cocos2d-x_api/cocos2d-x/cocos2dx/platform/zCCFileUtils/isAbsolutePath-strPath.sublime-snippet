@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[isAbsolutePath(${1:strPath})]]></content>
-    <tabTrigger>isAbsolutePath(strPath)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCFileUtils</description>
-</snippet>

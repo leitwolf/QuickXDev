@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCWaves:create(duration, gridSize, waves, amplitude, horizontal, vertical)", "contents": "CCWaves:create(${1:duration}, ${2:gridSize}, ${3:waves}, ${4:amplitude}, ${5:horizontal}, ${6:vertical})" }
-	]
-}

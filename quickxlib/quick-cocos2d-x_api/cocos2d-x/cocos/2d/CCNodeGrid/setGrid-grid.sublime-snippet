@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setGrid(${1:grid})]]></content>
+    <tabTrigger>setGrid(grid)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>NodeGrid</description>
+</snippet>

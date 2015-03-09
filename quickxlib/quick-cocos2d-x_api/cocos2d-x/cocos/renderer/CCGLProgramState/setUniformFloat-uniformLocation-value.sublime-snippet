@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setUniformFloat(${1:uniformLocation}, ${2:value})]]></content>
+    <tabTrigger>setUniformFloat(uniformLocation, value)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GLProgramState</description>
+</snippet>

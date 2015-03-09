@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[newWapperNode(${1:oldNode}, ${2:layoutParameter})]]></content>
+    <tabTrigger>newWapperNode(oldNode, layoutParameter)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSUILoader</description>
+</snippet>

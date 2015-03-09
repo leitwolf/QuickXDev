@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setDisabledImage(${1:image})]]></content>
+    <tabTrigger>setDisabledImage(image)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>MenuItemSprite</description>
+</snippet>

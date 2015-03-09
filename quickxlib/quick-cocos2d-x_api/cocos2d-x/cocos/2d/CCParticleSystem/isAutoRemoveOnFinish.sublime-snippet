@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isAutoRemoveOnFinish()]]></content>
+    <tabTrigger>isAutoRemoveOnFinish()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParticleSystem</description>
+</snippet>

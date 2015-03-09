@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setViewRect(${1:rect})]]></content>
+    <tabTrigger>setViewRect(rect)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UILoadingBar</description>
+</snippet>

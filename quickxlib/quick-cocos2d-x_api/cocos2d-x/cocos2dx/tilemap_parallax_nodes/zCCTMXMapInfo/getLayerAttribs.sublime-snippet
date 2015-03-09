@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getLayerAttribs()]]></content>
-    <tabTrigger>getLayerAttribs()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTMXMapInfo</description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.EventListenerPhysicsContactWithBodies:create(${1:bodyA}, ${2:bodyB})]]></content>
+    <tabTrigger>EventListenerPhysicsContactWithBodies:create(bodyA, bodyB)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

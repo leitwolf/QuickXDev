@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setEndColor(${1:color})]]></content>
+    <tabTrigger>setEndColor(color)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParticleSystem</description>
+</snippet>

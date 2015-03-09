@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getMessage()]]></content>
+    <tabTrigger>getMessage()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>EventAssetsManagerEx</description>
+</snippet>

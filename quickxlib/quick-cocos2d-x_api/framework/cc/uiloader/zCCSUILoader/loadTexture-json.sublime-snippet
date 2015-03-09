@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[loadTexture(${1:json})]]></content>
+    <tabTrigger>loadTexture(json)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSUILoader</description>
+</snippet>

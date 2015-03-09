@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ModelBase.idkey]]></content>
+    <tabTrigger>ModelBase.idkey</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[popMatrix(${1:type})]]></content>
+    <tabTrigger>popMatrix(type)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Director</description>
+</snippet>

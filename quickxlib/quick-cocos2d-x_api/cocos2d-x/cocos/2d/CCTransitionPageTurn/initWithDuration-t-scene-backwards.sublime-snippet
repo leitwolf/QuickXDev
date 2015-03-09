@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithDuration(${1:t}, ${2:scene}, ${3:backwards})]]></content>
+    <tabTrigger>initWithDuration(t, scene, backwards)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TransitionPageTurn</description>
+</snippet>

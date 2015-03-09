@@ -1,9 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "output(s)", "contents": "output(${1:s})" },
-		{ "trigger": "write(a)", "contents": "write(${1:a})" },
-		{ "trigger": "post_output_hook(package)", "contents": "post_output_hook(${1:package})" }
-	]
-}

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UIInput.newEditBox_(${1:params})]]></content>
+    <tabTrigger>UIInput.newEditBox_(params)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[newItem()]]></content>
+    <tabTrigger>newItem()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIPageView</description>
+</snippet>

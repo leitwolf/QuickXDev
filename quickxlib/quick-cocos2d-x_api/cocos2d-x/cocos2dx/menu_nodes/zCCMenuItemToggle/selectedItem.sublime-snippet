@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[selectedItem()]]></content>
-    <tabTrigger>selectedItem()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCMenuItemToggle</description>
-</snippet>

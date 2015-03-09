@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[begin(${1:cmd}, ${2:args})]]></content>
+    <tabTrigger>begin(cmd, args)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ActionBuilder</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setSpeed(${1:speed})]]></content>
+    <tabTrigger>setSpeed(speed)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Animate3D</description>
+</snippet>

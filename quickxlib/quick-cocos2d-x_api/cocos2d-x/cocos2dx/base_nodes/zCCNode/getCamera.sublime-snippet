@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getCamera()]]></content>
-    <tabTrigger>getCamera()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

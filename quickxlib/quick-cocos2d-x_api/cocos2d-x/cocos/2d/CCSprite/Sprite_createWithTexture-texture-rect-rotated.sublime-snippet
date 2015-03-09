@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.Sprite:createWithTexture(${1:texture}, ${2:rect}, ${3:rotated})]]></content>
+    <tabTrigger>Sprite:createWithTexture(texture, rect, rotated)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

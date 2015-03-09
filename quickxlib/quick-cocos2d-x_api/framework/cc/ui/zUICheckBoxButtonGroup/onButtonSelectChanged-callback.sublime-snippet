@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onButtonSelectChanged(${1:callback})]]></content>
+    <tabTrigger>onButtonSelectChanged(callback)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UICheckBoxButtonGroup</description>
+</snippet>

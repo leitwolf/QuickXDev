@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.MenuItemSprite]]></content>
+    <tabTrigger>MenuItemSprite</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

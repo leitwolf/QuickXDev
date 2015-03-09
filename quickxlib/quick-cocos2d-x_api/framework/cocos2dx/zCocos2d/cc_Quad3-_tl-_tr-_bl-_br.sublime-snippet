@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.Quad3(${1:_tl}, ${2:_tr}, ${3:_bl}, ${4:_br})]]></content>
+    <tabTrigger>cc.Quad3(_tl, _tr, _bl, _br)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

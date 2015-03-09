@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[onCleanup()]]></content>
-    <tabTrigger>onCleanup()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNodeExtend</description>
-</snippet>

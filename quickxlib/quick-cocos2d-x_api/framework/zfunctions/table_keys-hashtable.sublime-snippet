@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[table.keys(${1:hashtable})]]></content>
+    <tabTrigger>table.keys(hashtable)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

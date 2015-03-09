@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setSystemFontSize(${1:fontSize})]]></content>
+    <tabTrigger>setSystemFontSize(fontSize)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Label</description>
+</snippet>

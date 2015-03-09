@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getSaturation()]]></content>
-    <tabTrigger>getSaturation()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCControlSaturationBrightnessPicker</description>
-</snippet>

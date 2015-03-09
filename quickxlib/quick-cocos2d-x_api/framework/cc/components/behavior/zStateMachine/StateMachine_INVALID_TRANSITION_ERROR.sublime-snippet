@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[StateMachine.INVALID_TRANSITION_ERROR]]></content>
+    <tabTrigger>StateMachine.INVALID_TRANSITION_ERROR</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

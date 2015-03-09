@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setOn(${1:isOn}, ${2:animated})]]></content>
-    <tabTrigger>setOn(isOn, animated)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCControlSwitch</description>
-</snippet>

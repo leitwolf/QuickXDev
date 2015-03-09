@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getClippingRegion()]]></content>
-    <tabTrigger>getClippingRegion()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCClippingRegionNode</description>
-</snippet>

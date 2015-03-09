@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[isNodeVisible(${1:node})]]></content>
-    <tabTrigger>isNodeVisible(node)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCScrollView</description>
-</snippet>

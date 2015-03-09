@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getScheduler()]]></content>
-    <tabTrigger>getScheduler()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCDirector</description>
-</snippet>

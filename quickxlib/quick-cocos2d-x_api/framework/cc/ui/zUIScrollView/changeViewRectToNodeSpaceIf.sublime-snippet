@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[changeViewRectToNodeSpaceIf()]]></content>
+    <tabTrigger>changeViewRectToNodeSpaceIf()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIScrollView</description>
+</snippet>

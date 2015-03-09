@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UICheckBoxButtonGroup.BUTTON_SELECT_CHANGED]]></content>
+    <tabTrigger>UICheckBoxButtonGroup.BUTTON_SELECT_CHANGED</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

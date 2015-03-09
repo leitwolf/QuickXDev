@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getShapeA()]]></content>
+    <tabTrigger>getShapeA()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsContact</description>
+</snippet>

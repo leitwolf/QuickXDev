@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[isFirstContact()]]></content>
-    <tabTrigger>isFirstContact()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsCollisionEvent</description>
-</snippet>

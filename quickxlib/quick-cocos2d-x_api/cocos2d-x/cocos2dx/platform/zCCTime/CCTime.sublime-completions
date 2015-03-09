@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCTime:gettimeofdayCocos2d(tp, tzp)", "contents": "CCTime:gettimeofdayCocos2d(${1:tp}, ${2:tzp})" },
-		{ "trigger": "CCTime:timersubCocos2d(start, end)", "contents": "CCTime:timersubCocos2d(${1:start}, ${2:end})" }
-	]
-}

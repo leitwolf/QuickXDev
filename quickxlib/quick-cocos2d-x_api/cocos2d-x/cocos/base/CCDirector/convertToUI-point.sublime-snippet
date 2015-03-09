@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[convertToUI(${1:point})]]></content>
+    <tabTrigger>convertToUI(point)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Director</description>
+</snippet>

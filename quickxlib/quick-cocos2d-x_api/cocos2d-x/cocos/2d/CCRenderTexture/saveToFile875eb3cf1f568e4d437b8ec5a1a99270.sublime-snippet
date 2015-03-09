@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[saveToFile(${1:filename}, ${2:format}, ${3:isRGBA}, ${4:callback})]]></content>
+    <tabTrigger>saveToFile(filename, format, isRGBA, callback)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>RenderTexture</description>
+</snippet>

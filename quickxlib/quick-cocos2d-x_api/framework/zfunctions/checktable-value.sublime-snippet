@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[checktable(${1:value})]]></content>
+    <tabTrigger>checktable(value)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

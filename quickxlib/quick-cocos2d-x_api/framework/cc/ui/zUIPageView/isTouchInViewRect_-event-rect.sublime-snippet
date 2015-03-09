@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isTouchInViewRect_(${1:event}, ${2:rect})]]></content>
+    <tabTrigger>isTouchInViewRect_(event, rect)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIPageView</description>
+</snippet>

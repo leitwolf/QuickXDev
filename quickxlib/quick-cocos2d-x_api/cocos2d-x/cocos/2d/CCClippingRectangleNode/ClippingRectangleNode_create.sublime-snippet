@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.ClippingRectangleNode:create()]]></content>
+    <tabTrigger>ClippingRectangleNode:create()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

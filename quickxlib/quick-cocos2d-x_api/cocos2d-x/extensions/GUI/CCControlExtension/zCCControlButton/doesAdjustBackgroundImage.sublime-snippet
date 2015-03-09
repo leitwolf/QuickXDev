@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[doesAdjustBackgroundImage()]]></content>
-    <tabTrigger>doesAdjustBackgroundImage()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCControlButton</description>
-</snippet>

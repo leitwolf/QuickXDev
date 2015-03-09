@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[checkItemsInStatus_()]]></content>
+    <tabTrigger>checkItemsInStatus_()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIListView</description>
+</snippet>

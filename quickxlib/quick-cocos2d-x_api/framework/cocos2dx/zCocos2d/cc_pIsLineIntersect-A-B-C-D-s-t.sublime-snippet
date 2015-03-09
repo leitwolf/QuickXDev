@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.pIsLineIntersect(${1:A}, ${2:B}, ${3:C}, ${4:D}, ${5:s}, ${6:t})]]></content>
+    <tabTrigger>cc.pIsLineIntersect(A, B, C, D, s, t)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

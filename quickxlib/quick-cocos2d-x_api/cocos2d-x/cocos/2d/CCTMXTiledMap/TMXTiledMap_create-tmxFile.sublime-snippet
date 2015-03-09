@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.TMXTiledMap:create(${1:tmxFile})]]></content>
+    <tabTrigger>TMXTiledMap:create(tmxFile)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCTransitionCrossFade:create(t, scene)", "contents": "CCTransitionCrossFade:create(${1:t}, ${2:scene})" }
-	]
-}

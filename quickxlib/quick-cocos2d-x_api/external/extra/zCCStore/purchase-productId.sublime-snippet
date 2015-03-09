@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[purchase(${1:productId})]]></content>
-    <tabTrigger>purchase(productId)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCStore</description>
-</snippet>

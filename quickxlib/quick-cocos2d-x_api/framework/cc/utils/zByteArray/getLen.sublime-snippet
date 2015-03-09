@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getLen()]]></content>
+    <tabTrigger>getLen()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ByteArray</description>
+</snippet>

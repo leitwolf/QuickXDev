@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getSkewX()]]></content>
-    <tabTrigger>getSkewX()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[reorderProtectedChild(${1:child}, ${2:localZOrder})]]></content>
+    <tabTrigger>reorderProtectedChild(child, localZOrder)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ProtectedNode</description>
+</snippet>

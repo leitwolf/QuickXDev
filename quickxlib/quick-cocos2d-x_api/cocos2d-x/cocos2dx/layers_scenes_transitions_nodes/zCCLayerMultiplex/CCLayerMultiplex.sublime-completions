@@ -1,9 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCLayerMultiplex:create()", "contents": "CCLayerMultiplex:create()" },
-		{ "trigger": "CCLayerMultiplex:createWithArray(arrayOfLayers)", "contents": "CCLayerMultiplex:createWithArray(${1:arrayOfLayers})" },
-		{ "trigger": "CCLayerMultiplex:createWithLayer(layer)", "contents": "CCLayerMultiplex:createWithLayer(${1:layer})" }
-	]
-}

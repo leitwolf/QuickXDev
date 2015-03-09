@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setPosition3D(${1:position})]]></content>
+    <tabTrigger>setPosition3D(position)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Node</description>
+</snippet>

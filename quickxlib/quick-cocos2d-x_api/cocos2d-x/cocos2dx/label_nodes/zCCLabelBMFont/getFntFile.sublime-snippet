@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getFntFile()]]></content>
-    <tabTrigger>getFntFile()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCLabelBMFont</description>
-</snippet>

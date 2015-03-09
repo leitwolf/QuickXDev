@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[display.FIXED_SIZE]]></content>
+    <tabTrigger>display.FIXED_SIZE</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

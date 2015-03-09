@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[tileAt(${1:position})]]></content>
-    <tabTrigger>tileAt(position)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTileMapAtlas</description>
-</snippet>

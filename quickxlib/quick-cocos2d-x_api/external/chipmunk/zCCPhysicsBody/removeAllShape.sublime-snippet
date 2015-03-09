@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeAllShape()]]></content>
-    <tabTrigger>removeAllShape()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsBody</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[animationByName(${1:name})]]></content>
-    <tabTrigger>animationByName(name)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCAnimationCache</description>
-</snippet>

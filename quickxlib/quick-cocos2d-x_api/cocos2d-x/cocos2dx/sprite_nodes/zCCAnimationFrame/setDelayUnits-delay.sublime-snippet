@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setDelayUnits(${1:delay})]]></content>
-    <tabTrigger>setDelayUnits(delay)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCAnimationFrame</description>
-</snippet>

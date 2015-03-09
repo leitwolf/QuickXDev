@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setOpacity(${1:opacity})]]></content>
-    <tabTrigger>setOpacity(opacity)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

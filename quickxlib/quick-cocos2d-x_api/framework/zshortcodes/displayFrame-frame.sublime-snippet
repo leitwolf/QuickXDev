@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[displayFrame(${1:frame})]]></content>
+    <tabTrigger>displayFrame(frame)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Sprite</description>
+</snippet>

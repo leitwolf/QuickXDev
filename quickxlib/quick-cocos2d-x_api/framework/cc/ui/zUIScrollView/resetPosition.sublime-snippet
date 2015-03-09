@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[resetPosition()]]></content>
+    <tabTrigger>resetPosition()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIScrollView</description>
+</snippet>

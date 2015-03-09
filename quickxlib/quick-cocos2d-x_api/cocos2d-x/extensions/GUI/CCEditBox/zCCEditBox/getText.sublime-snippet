@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getText()]]></content>
-    <tabTrigger>getText()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCEditBox</description>
-</snippet>

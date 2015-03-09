@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[createCheckBox(${1:options})]]></content>
+    <tabTrigger>createCheckBox(options)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSUILoader</description>
+</snippet>

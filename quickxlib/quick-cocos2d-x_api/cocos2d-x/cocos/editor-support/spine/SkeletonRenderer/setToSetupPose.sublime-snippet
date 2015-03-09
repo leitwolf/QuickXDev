@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setToSetupPose()]]></content>
+    <tabTrigger>setToSetupPose()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SkeletonRenderer</description>
+</snippet>

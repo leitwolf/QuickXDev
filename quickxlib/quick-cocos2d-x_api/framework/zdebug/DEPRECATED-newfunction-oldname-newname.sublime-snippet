@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[DEPRECATED(${1:newfunction}, ${2:oldname}, ${3:newname})]]></content>
+    <tabTrigger>DEPRECATED(newfunction, oldname, newname)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setSprite(${1:sprite})]]></content>
+    <tabTrigger>setSprite(sprite)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ProgressTimer</description>
+</snippet>

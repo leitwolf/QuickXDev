@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[CCMessageBox(${1:pszMsg}, ${2:pszTitle})]]></content>
-    <tabTrigger>CCMessageBox(pszMsg, pszTitle)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

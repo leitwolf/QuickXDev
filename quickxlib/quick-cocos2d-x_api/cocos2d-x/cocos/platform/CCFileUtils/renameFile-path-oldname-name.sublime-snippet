@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[renameFile(${1:path}, ${2:oldname}, ${3:name})]]></content>
+    <tabTrigger>renameFile(path, oldname, name)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>FileUtils</description>
+</snippet>

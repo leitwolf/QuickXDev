@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setNextDeltaTimeZero(${1:nextDeltaTimeZero})]]></content>
+    <tabTrigger>setNextDeltaTimeZero(nextDeltaTimeZero)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Director</description>
+</snippet>

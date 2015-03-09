@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ccpDot(${1:v1}, ${2:v2})]]></content>
-    <tabTrigger>ccpDot(v1, v2)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

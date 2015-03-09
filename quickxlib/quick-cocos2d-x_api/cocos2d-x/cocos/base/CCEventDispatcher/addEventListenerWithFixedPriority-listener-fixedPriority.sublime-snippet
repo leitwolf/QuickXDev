@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addEventListenerWithFixedPriority(${1:listener}, ${2:fixedPriority})]]></content>
+    <tabTrigger>addEventListenerWithFixedPriority(listener, fixedPriority)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>EventDispatcher</description>
+</snippet>

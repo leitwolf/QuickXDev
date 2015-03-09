@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getVertexAttribsFlags()]]></content>
+    <tabTrigger>getVertexAttribsFlags()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GLProgramState</description>
+</snippet>

@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCTargetedAction:create(pTarget, pAction)", "contents": "CCTargetedAction:create(${1:pTarget}, ${2:pAction})" }
-	]
-}

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setGLProgram(${1:glprogram})]]></content>
+    <tabTrigger>setGLProgram(glprogram)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Node</description>
+</snippet>

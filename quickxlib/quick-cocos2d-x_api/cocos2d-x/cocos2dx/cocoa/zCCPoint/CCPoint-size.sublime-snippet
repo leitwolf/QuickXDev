@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[CCPoint(${1:size})]]></content>
-    <tabTrigger>CCPoint(size)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPoint</description>
-</snippet>

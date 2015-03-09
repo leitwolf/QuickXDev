@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.V3F_C4B_T2F(${1:_vertices}, ${2:_colors}, ${3:_texCoords})]]></content>
+    <tabTrigger>cc.V3F_C4B_T2F(_vertices, _colors, _texCoords)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setVertexRect(${1:rect})]]></content>
-    <tabTrigger>setVertexRect(rect)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCSprite</description>
-</snippet>

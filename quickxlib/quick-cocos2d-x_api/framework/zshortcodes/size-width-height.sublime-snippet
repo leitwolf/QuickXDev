@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[size(${1:width}, ${2:height})]]></content>
+    <tabTrigger>size(width, height)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Node</description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[isProductLoaded(${1:productId})]]></content>
-    <tabTrigger>isProductLoaded(productId)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCStore</description>
-</snippet>

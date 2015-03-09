@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getPlaceHolder()]]></content>
-    <tabTrigger>getPlaceHolder()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCEditBox</description>
-</snippet>

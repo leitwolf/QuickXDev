@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[newImage(${1:flipImage})]]></content>
+    <tabTrigger>newImage(flipImage)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>RenderTexture</description>
+</snippet>

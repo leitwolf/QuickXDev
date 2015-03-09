@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithWidthAndHeight(${1:w}, ${2:h}, ${3:format}, ${4:depthStencilFormat})]]></content>
+    <tabTrigger>initWithWidthAndHeight(w, h, format, depthStencilFormat)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>RenderTexture</description>
+</snippet>

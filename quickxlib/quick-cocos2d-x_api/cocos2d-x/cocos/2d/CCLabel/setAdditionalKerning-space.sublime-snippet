@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setAdditionalKerning(${1:space})]]></content>
+    <tabTrigger>setAdditionalKerning(space)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Label</description>
+</snippet>

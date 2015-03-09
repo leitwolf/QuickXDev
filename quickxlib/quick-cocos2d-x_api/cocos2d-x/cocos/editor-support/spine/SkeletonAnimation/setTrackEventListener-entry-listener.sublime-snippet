@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTrackEventListener(${1:entry}, ${2:listener})]]></content>
+    <tabTrigger>setTrackEventListener(entry, listener)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SkeletonAnimation</description>
+</snippet>

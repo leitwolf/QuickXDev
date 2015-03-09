@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getResult()]]></content>
+    <tabTrigger>getResult()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Event</description>
+</snippet>

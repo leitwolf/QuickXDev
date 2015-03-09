@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setTextureWithRect(${1:texture}, ${2:rect})]]></content>
-    <tabTrigger>setTextureWithRect(texture, rect)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCParticleSystemQuad</description>
-</snippet>

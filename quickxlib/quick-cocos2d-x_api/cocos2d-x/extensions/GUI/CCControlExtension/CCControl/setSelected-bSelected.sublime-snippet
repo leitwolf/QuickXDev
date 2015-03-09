@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setSelected(${1:bSelected})]]></content>
+    <tabTrigger>setSelected(bSelected)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Control</description>
+</snippet>

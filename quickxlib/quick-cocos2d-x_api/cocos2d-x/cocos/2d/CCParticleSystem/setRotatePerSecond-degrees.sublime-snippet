@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setRotatePerSecond(${1:degrees})]]></content>
+    <tabTrigger>setRotatePerSecond(degrees)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParticleSystem</description>
+</snippet>

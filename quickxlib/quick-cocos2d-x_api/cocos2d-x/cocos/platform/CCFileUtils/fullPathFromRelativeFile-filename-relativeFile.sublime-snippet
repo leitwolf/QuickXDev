@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[fullPathFromRelativeFile(${1:filename}, ${2:relativeFile})]]></content>
+    <tabTrigger>fullPathFromRelativeFile(filename, relativeFile)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>FileUtils</description>
+</snippet>

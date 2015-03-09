@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getGLProgram()]]></content>
+    <tabTrigger>getGLProgram()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Texture2D</description>
+</snippet>

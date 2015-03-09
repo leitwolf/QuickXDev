@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getDisplayedColor()]]></content>
-    <tabTrigger>getDisplayedColor()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.AudioEngine:setVolume(${1:audioID}, ${2:volume})]]></content>
+    <tabTrigger>AudioEngine:setVolume(audioID, volume)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

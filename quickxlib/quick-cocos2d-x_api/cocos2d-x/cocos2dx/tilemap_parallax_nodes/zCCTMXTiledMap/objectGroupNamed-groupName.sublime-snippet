@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[objectGroupNamed(${1:groupName})]]></content>
-    <tabTrigger>objectGroupNamed(groupName)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTMXTiledMap</description>
-</snippet>

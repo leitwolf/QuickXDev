@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setInsetTop(${1:v})]]></content>
-    <tabTrigger>setInsetTop(v)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCScale9Sprite</description>
-</snippet>

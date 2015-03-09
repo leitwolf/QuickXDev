@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setEventCode(${1:eventCode})]]></content>
+    <tabTrigger>setEventCode(eventCode)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>EventTouch</description>
+</snippet>

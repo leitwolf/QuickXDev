@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTileAt(${1:position})]]></content>
+    <tabTrigger>getTileAt(position)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TileMapAtlas</description>
+</snippet>

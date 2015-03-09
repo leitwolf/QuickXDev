@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setDraggableEnable(${1:bEnable})]]></content>
+    <tabTrigger>setDraggableEnable(bEnable)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>DraggableProtocol</description>
+</snippet>

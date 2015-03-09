@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setContentScaleFactor(${1:scaleFactor})]]></content>
+    <tabTrigger>setContentScaleFactor(scaleFactor)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Director</description>
+</snippet>

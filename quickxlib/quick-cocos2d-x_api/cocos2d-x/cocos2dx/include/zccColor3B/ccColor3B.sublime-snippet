@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ccColor3B()]]></content>
-    <tabTrigger>ccColor3B()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>ccColor3B</description>
-</snippet>

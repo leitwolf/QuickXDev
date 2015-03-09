@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getPreferredSize()]]></content>
-    <tabTrigger>getPreferredSize()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCScale9Sprite</description>
-</snippet>

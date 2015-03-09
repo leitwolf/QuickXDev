@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.pFuzzyEqual(${1:pt1}, ${2:pt2}, ${3:variance})]]></content>
+    <tabTrigger>cc.pFuzzyEqual(pt1, pt2, variance)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

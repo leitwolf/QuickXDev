@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isTouchInside(${1:touch})]]></content>
+    <tabTrigger>isTouchInside(touch)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ControlSlider</description>
+</snippet>

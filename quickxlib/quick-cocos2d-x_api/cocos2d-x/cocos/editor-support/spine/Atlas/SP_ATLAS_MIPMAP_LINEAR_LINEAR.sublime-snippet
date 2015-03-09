@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[SP_ATLAS_MIPMAP_LINEAR_LINEAR]]></content>
+    <tabTrigger>SP_ATLAS_MIPMAP_LINEAR_LINEAR</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

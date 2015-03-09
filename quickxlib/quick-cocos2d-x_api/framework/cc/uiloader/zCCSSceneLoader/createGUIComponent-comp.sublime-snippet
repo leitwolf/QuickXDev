@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[createGUIComponent(${1:comp})]]></content>
+    <tabTrigger>createGUIComponent(comp)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSSceneLoader</description>
+</snippet>

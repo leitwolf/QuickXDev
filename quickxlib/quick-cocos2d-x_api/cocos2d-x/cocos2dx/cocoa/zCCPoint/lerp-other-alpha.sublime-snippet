@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[lerp(${1:other}, ${2:alpha})]]></content>
-    <tabTrigger>lerp(other, alpha)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPoint</description>
-</snippet>

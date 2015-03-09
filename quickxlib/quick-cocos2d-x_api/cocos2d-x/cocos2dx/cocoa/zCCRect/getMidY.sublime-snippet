@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getMidY()]]></content>
-    <tabTrigger>getMidY()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCRect</description>
-</snippet>

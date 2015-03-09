@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[applyImpulse(${1:forceX}, ${2:forceY}, ${3:offsetX}, ${4:offsetY})]]></content>
-    <tabTrigger>applyImpulse(forceX, forceY, offsetX, offsetY)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsBody</description>
-</snippet>

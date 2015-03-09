@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[actionForCallbackChannel(${1:channel})]]></content>
+    <tabTrigger>actionForCallbackChannel(channel)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCBAnimationManager</description>
+</snippet>

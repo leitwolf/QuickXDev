@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[drawPolygon(${1:points}, ${2:params})]]></content>
+    <tabTrigger>drawPolygon(points, params)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>DrawNode</description>
+</snippet>

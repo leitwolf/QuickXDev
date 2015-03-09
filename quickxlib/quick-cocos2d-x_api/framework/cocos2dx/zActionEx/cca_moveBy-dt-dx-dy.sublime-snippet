@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cca.moveBy(${1:dt}, ${2:dx}, ${3:dy})]]></content>
+    <tabTrigger>cca.moveBy(dt, dx, dy)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[insertQuadFromSprite(${1:sprite}, ${2:index})]]></content>
+    <tabTrigger>insertQuadFromSprite(sprite, index)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SpriteBatchNode</description>
+</snippet>

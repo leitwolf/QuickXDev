@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setCollisionEnable(${1:enable})]]></content>
+    <tabTrigger>setCollisionEnable(enable)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsJoint</description>
+</snippet>

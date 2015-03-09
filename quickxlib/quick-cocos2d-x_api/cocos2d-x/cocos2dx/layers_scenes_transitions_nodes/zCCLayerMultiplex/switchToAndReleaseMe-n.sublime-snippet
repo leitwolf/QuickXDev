@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[switchToAndReleaseMe(${1:n})]]></content>
-    <tabTrigger>switchToAndReleaseMe(n)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCLayerMultiplex</description>
-</snippet>

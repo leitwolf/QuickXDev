@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCControlSaturationBrightnessPicker:create(target, pos)", "contents": "CCControlSaturationBrightnessPicker:create(${1:target}, ${2:pos})" }
-	]
-}

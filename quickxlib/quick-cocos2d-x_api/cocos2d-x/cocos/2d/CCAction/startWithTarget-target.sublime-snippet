@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[startWithTarget(${1:target})]]></content>
+    <tabTrigger>startWithTarget(target)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Action</description>
+</snippet>

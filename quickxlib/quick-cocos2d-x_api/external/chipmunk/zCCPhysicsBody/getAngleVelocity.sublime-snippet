@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getAngleVelocity()]]></content>
-    <tabTrigger>getAngleVelocity()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsBody</description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeItem(${1:item})]]></content>
+    <tabTrigger>removeItem(item)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIPageView</description>
+</snippet>

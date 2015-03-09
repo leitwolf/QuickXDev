@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ccc4FFromccc3B(${1:c})]]></content>
-    <tabTrigger>ccc4FFromccc3B(c)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

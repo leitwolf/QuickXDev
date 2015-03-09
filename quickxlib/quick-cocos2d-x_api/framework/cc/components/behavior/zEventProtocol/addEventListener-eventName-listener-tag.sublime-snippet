@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addEventListener(${1:eventName}, ${2:listener}, ${3:tag})]]></content>
+    <tabTrigger>addEventListener(eventName, listener, tag)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>EventProtocol</description>
+</snippet>

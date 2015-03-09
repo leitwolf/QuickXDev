@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.AnimationFrameData(${1:_texCoords}, ${2:_delay}, ${3:_size})]]></content>
+    <tabTrigger>cc.AnimationFrameData(_texCoords, _delay, _size)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

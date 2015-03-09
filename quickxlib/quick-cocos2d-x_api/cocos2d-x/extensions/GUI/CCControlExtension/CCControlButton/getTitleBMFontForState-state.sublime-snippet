@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTitleBMFontForState(${1:state})]]></content>
+    <tabTrigger>getTitleBMFontForState(state)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ControlButton</description>
+</snippet>

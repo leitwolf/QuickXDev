@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCControlPotentiometer:create(backgroundFile, progressFile, thumbFile)", "contents": "CCControlPotentiometer:create(${1:backgroundFile}, ${2:progressFile}, ${3:thumbFile})" }
-	]
-}

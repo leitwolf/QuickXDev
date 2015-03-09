@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.AudioEngine:pause(${1:audioID})]]></content>
+    <tabTrigger>AudioEngine:pause(audioID)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

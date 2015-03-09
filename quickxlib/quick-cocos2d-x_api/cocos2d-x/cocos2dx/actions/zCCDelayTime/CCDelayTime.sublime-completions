@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCDelayTime:create(d)", "contents": "CCDelayTime:create(${1:d})" }
-	]
-}

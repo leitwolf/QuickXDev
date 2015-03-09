@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getSelectedImage()]]></content>
+    <tabTrigger>getSelectedImage()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>MenuItemSprite</description>
+</snippet>

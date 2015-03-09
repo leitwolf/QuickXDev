@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cca.fadeIn(${1:dt})]]></content>
+    <tabTrigger>cca.fadeIn(dt)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

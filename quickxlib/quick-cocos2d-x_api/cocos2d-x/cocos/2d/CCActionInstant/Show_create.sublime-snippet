@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.Show:create()]]></content>
+    <tabTrigger>Show:create()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

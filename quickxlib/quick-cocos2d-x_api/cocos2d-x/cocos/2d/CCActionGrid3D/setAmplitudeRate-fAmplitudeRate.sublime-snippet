@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setAmplitudeRate(${1:fAmplitudeRate})]]></content>
+    <tabTrigger>setAmplitudeRate(fAmplitudeRate)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Ripple3D</description>
+</snippet>

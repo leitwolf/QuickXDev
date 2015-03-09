@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[scroll(${1:dis})]]></content>
+    <tabTrigger>scroll(dis)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIPageView</description>
+</snippet>

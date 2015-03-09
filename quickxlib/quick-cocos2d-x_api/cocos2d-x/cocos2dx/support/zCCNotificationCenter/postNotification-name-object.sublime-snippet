@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[postNotification(${1:name}, ${2:object})]]></content>
-    <tabTrigger>postNotification(name, object)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNotificationCenter</description>
-</snippet>

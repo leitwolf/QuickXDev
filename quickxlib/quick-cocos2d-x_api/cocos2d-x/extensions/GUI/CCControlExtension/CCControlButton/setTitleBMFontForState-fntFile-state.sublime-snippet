@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTitleBMFontForState(${1:fntFile}, ${2:state})]]></content>
+    <tabTrigger>setTitleBMFontForState(fntFile, state)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ControlButton</description>
+</snippet>

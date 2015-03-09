@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.ControlButton:create(${1:title}, ${2:fontName}, ${3:fontSize})]]></content>
+    <tabTrigger>ControlButton:create(title, fontName, fontSize)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

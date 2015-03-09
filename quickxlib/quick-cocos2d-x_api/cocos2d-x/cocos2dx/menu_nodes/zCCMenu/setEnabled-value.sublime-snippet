@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setEnabled(${1:value})]]></content>
-    <tabTrigger>setEnabled(value)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCMenu</description>
-</snippet>

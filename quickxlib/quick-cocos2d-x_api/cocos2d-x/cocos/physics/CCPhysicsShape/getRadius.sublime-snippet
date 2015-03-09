@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getRadius()]]></content>
+    <tabTrigger>getRadius()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsShapeCircle</description>
+</snippet>

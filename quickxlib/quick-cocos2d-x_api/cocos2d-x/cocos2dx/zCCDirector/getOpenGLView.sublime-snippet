@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getOpenGLView()]]></content>
-    <tabTrigger>getOpenGLView()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCDirector</description>
-</snippet>

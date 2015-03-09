@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.Node:create()]]></content>
+    <tabTrigger>Node:create()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[disableShadow(${1:mustUpdateTexture})]]></content>
-    <tabTrigger>disableShadow(mustUpdateTexture)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCLabelTTF</description>
-</snippet>

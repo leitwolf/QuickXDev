@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[randomObject()]]></content>
-    <tabTrigger>randomObject()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCDictionary</description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getProperties()]]></content>
+    <tabTrigger>getProperties()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>TMXTiledMap</description>
+</snippet>

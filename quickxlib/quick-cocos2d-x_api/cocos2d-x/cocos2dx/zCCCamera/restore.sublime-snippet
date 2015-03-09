@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[restore()]]></content>
-    <tabTrigger>restore()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCCamera</description>
-</snippet>

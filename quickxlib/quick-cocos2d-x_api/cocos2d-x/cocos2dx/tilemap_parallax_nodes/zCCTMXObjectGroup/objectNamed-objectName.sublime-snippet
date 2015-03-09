@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[objectNamed(${1:objectName})]]></content>
-    <tabTrigger>objectNamed(objectName)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTMXObjectGroup</description>
-</snippet>

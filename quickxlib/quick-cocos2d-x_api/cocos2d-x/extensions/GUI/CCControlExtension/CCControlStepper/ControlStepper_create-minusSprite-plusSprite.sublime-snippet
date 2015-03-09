@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.ControlStepper:create(${1:minusSprite}, ${2:plusSprite})]]></content>
+    <tabTrigger>ControlStepper:create(minusSprite, plusSprite)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

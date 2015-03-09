@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addGLProgram(${1:program}, ${2:key})]]></content>
+    <tabTrigger>addGLProgram(program, key)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GLProgramCache</description>
+</snippet>

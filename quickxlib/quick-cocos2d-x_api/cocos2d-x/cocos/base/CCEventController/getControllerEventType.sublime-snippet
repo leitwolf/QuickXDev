@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getControllerEventType()]]></content>
+    <tabTrigger>getControllerEventType()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>EventController</description>
+</snippet>

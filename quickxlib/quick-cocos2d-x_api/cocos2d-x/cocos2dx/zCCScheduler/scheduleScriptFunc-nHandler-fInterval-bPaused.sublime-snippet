@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[scheduleScriptFunc(${1:nHandler}, ${2:fInterval}, ${3:bPaused})]]></content>
-    <tabTrigger>scheduleScriptFunc(nHandler, fInterval, bPaused)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCScheduler</description>
-</snippet>

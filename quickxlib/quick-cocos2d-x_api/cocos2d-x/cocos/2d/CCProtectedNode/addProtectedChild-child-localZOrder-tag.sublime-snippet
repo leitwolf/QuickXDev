@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addProtectedChild(${1:child}, ${2:localZOrder}, ${3:tag})]]></content>
+    <tabTrigger>addProtectedChild(child, localZOrder, tag)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ProtectedNode</description>
+</snippet>

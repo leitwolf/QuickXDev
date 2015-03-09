@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithFilenames(${1:vShaderFilename}, ${2:fShaderFilename})]]></content>
+    <tabTrigger>initWithFilenames(vShaderFilename, fShaderFilename)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GLProgram</description>
+</snippet>

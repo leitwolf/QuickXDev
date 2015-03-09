@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Store.finishTransaction(${1:transaction})]]></content>
+    <tabTrigger>Store.finishTransaction(transaction)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setStep(${1:step})]]></content>
+    <tabTrigger>setStep(step)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GridBase</description>
+</snippet>

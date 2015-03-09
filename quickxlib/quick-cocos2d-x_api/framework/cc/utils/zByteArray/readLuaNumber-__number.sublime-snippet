@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[readLuaNumber(${1:__number})]]></content>
+    <tabTrigger>readLuaNumber(__number)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ByteArray</description>
+</snippet>

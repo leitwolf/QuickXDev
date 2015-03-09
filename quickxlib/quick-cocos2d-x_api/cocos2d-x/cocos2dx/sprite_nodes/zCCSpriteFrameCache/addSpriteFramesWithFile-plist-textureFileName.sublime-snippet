@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addSpriteFramesWithFile(${1:plist}, ${2:textureFileName})]]></content>
-    <tabTrigger>addSpriteFramesWithFile(plist, textureFileName)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCSpriteFrameCache</description>
-</snippet>

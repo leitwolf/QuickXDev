@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[crypto.encryptAES256(${1:plaintext}, ${2:key})]]></content>
+    <tabTrigger>crypto.encryptAES256(plaintext, key)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

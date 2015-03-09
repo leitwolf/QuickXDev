@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setEventDispatcher(${1:dispatcher})]]></content>
+    <tabTrigger>setEventDispatcher(dispatcher)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Director</description>
+</snippet>

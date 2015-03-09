@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[tintTo(${1:time}, ${2:r}, ${3:g}, ${4:b})]]></content>
+    <tabTrigger>tintTo(time, r, g, b)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Node</description>
+</snippet>

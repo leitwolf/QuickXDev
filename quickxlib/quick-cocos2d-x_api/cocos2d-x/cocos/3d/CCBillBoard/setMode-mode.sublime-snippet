@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setMode(${1:mode})]]></content>
+    <tabTrigger>setMode(mode)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>BillBoard</description>
+</snippet>

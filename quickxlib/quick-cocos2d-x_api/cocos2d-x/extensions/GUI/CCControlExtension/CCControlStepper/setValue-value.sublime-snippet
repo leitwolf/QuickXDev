@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setValue(${1:value})]]></content>
+    <tabTrigger>setValue(value)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ControlStepper</description>
+</snippet>

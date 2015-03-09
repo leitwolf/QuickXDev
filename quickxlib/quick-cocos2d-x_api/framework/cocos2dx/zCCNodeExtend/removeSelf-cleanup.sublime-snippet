@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeSelf(${1:cleanup})]]></content>
-    <tabTrigger>removeSelf(cleanup)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNodeExtend</description>
-</snippet>

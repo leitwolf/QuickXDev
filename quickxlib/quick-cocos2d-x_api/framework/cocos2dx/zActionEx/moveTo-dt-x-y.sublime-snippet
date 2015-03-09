@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[moveTo(${1:dt}, ${2:x}, ${3:y})]]></content>
+    <tabTrigger>moveTo(dt, x, y)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ActionBuilder</description>
+</snippet>

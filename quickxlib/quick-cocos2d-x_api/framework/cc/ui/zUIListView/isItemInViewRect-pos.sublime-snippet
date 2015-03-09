@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isItemInViewRect(${1:pos})]]></content>
+    <tabTrigger>isItemInViewRect(pos)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIListView</description>
+</snippet>

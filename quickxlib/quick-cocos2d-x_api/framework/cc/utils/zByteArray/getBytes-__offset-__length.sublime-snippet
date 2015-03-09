@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getBytes(${1:__offset}, ${2:__length})]]></content>
+    <tabTrigger>getBytes(__offset, __length)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ByteArray</description>
+</snippet>

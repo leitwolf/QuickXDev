@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[AssetsManager(${1:packageUrl}, ${2:versionFileUrl}, ${3:storagePath})]]></content>
-    <tabTrigger>AssetsManager(packageUrl, versionFileUrl, storagePath)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>AssetsManager</description>
-</snippet>

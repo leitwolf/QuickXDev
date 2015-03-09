@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_connectFailure(${1:status})]]></content>
+    <tabTrigger>_connectFailure(status)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SocketTCP</description>
+</snippet>

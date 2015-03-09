@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[mainLoop()]]></content>
+    <tabTrigger>mainLoop()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Director</description>
+</snippet>

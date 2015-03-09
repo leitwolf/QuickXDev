@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[rebuildIndexInOrder(${1:parent}, ${2:index})]]></content>
+    <tabTrigger>rebuildIndexInOrder(parent, index)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SpriteBatchNode</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addTouchNode()]]></content>
+    <tabTrigger>addTouchNode()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIScrollView</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.PhysicsShapeEdgeSegment:create(${1:a}, ${2:b}, ${3:material}, ${4:border})]]></content>
+    <tabTrigger>PhysicsShapeEdgeSegment:create(a, b, material, border)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

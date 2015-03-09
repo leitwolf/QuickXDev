@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getScrollNodeRect()]]></content>
+    <tabTrigger>getScrollNodeRect()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIScrollView</description>
+</snippet>

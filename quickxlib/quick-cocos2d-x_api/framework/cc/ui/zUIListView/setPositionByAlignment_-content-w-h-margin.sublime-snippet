@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setPositionByAlignment_(${1:content}, ${2:w}, ${3:h}, ${4:margin})]]></content>
+    <tabTrigger>setPositionByAlignment_(content, w, h, margin)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIListView</description>
+</snippet>

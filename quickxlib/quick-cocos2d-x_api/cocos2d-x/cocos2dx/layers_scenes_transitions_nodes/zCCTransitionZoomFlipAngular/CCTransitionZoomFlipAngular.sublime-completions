@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCTransitionZoomFlipAngular:create(t, s, o)", "contents": "CCTransitionZoomFlipAngular:create(${1:t}, ${2:s}, ${3:o})" },
-		{ "trigger": "CCTransitionZoomFlipAngular:create(t, s)", "contents": "CCTransitionZoomFlipAngular:create(${1:t}, ${2:s})" }
-	]
-}

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ccDrawLine(${1:origin}, ${2:destination})]]></content>
-    <tabTrigger>ccDrawLine(origin, destination)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

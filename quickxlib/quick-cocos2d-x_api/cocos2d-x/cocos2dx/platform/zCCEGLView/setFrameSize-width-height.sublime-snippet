@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setFrameSize(${1:width}, ${2:height})]]></content>
-    <tabTrigger>setFrameSize(width, height)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCEGLView</description>
-</snippet>

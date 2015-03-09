@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[onTouch_(${1:event}, ${2:x}, ${3:y})]]></content>
-    <tabTrigger>onTouch_(event, x, y)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>UIButton</description>
-</snippet>

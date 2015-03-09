@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[isStartingPositionInitialized()]]></content>
-    <tabTrigger>isStartingPositionInitialized()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCMotionStreak</description>
-</snippet>

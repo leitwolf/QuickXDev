@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setMaxForce(${1:force})]]></content>
+    <tabTrigger>setMaxForce(force)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsJoint</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cca.romTo(${1:dt}, ${2:points})]]></content>
+    <tabTrigger>cca.romTo(dt, points)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isVersionLoaded()]]></content>
+    <tabTrigger>isVersionLoaded()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Manifest</description>
+</snippet>

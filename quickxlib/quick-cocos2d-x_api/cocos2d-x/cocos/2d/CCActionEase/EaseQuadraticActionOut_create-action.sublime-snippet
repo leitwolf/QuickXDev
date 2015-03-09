@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.EaseQuadraticActionOut:create(${1:action})]]></content>
+    <tabTrigger>EaseQuadraticActionOut:create(action)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

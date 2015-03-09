@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getVelocityAtWorldPoint(${1:point})]]></content>
+    <tabTrigger>getVelocityAtWorldPoint(point)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsBody</description>
+</snippet>

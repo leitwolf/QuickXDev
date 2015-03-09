@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[distsq(${1:x}, ${2:y})]]></content>
-    <tabTrigger>distsq(x, y)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsVector</description>
-</snippet>

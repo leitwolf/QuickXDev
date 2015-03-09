@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isScissorEnabled()]]></content>
+    <tabTrigger>isScissorEnabled()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GLView</description>
+</snippet>

@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCTileMapAtlas:create(tile, mapFile, tileWidth, tileHeight)", "contents": "CCTileMapAtlas:create(${1:tile}, ${2:mapFile}, ${3:tileWidth}, ${4:tileHeight})" }
-	]
-}

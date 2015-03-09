@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[createGameObject(${1:jsonNode})]]></content>
+    <tabTrigger>createGameObject(jsonNode)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSSceneLoader</description>
+</snippet>

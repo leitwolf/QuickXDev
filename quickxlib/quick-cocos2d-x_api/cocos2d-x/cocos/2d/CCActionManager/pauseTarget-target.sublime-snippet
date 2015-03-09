@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[pauseTarget(${1:target})]]></content>
+    <tabTrigger>pauseTarget(target)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ActionManager</description>
+</snippet>

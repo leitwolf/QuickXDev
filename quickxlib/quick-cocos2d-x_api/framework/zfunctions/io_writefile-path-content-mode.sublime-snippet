@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[io.writefile(${1:path}, ${2:content}, ${3:mode})]]></content>
+    <tabTrigger>io.writefile(path, content, mode)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

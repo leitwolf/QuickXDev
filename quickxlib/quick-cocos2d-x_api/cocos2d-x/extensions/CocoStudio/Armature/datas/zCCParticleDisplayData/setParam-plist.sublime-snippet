@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setParam(${1:plist})]]></content>
-    <tabTrigger>setParam(plist)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCParticleDisplayData</description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getOrderOfArrival()]]></content>
+    <tabTrigger>getOrderOfArrival()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Node</description>
+</snippet>

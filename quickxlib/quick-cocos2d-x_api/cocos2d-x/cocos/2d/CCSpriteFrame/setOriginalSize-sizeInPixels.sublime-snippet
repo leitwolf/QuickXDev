@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setOriginalSize(${1:sizeInPixels})]]></content>
+    <tabTrigger>setOriginalSize(sizeInPixels)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SpriteFrame</description>
+</snippet>

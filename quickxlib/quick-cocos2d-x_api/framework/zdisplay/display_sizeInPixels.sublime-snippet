@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[display.sizeInPixels]]></content>
+    <tabTrigger>display.sizeInPixels</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

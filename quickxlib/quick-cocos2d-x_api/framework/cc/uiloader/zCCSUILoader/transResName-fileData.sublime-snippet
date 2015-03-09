@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[transResName(${1:fileData})]]></content>
+    <tabTrigger>transResName(fileData)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSUILoader</description>
+</snippet>

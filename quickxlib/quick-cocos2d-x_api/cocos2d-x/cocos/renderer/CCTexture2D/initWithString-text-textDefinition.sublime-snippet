@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithString(${1:text}, ${2:textDefinition})]]></content>
+    <tabTrigger>initWithString(text, textDefinition)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Texture2D</description>
+</snippet>

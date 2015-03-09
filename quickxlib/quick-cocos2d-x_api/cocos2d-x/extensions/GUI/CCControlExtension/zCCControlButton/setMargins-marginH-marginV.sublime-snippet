@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setMargins(${1:marginH}, ${2:marginV})]]></content>
-    <tabTrigger>setMargins(marginH, marginV)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCControlButton</description>
-</snippet>

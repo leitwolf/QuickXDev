@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[equals(${1:target})]]></content>
-    <tabTrigger>equals(target)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCSize</description>
-</snippet>

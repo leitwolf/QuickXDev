@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[dragOnTouch_(${1:event})]]></content>
+    <tabTrigger>dragOnTouch_(event)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>DraggableProtocol</description>
+</snippet>

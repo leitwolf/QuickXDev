@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setCenterXYZ(${1:fCenterX}, ${2:fCenterY}, ${3:fCenterZ})]]></content>
-    <tabTrigger>setCenterXYZ(fCenterX, fCenterY, fCenterZ)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCCamera</description>
-</snippet>

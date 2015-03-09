@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setNormalSpriteFrame(${1:frame})]]></content>
+    <tabTrigger>setNormalSpriteFrame(frame)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>MenuItemImage</description>
+</snippet>

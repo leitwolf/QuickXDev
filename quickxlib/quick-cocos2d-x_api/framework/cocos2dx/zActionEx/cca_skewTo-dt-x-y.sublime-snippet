@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cca.skewTo(${1:dt}, ${2:x}, ${3:y})]]></content>
+    <tabTrigger>cca.skewTo(dt, x, y)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

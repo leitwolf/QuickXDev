@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCSpriteFrameCache:sharedSpriteFrameCache()", "contents": "CCSpriteFrameCache:sharedSpriteFrameCache()" },
-		{ "trigger": "CCSpriteFrameCache:purgeSharedSpriteFrameCache()", "contents": "CCSpriteFrameCache:purgeSharedSpriteFrameCache()" }
-	]
-}

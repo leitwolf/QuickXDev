@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[CCTMXTilesetInfo()]]></content>
-    <tabTrigger>CCTMXTilesetInfo()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTMXTilesetInfo</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getFriction()]]></content>
-    <tabTrigger>getFriction()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsCollisionEvent</description>
-</snippet>

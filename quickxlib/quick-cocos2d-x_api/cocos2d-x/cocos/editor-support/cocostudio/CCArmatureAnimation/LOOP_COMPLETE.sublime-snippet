@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LOOP_COMPLETE]]></content>
+    <tabTrigger>LOOP_COMPLETE</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

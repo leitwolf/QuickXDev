@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setCompressedInterpolation(${1:compressedInterpolation})]]></content>
+    <tabTrigger>setCompressedInterpolation(compressedInterpolation)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>LayerGradient</description>
+</snippet>

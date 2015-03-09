@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[playAnimationOnce(${1:animation}, ${2:removeWhenFinished}, ${3:onComplete}, ${4:delay})]]></content>
+    <tabTrigger>playAnimationOnce(animation, removeWhenFinished, onComplete, delay)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Sprite</description>
+</snippet>

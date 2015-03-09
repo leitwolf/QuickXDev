@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getAllBodies()]]></content>
-    <tabTrigger>getAllBodies()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsWorld</description>
-</snippet>

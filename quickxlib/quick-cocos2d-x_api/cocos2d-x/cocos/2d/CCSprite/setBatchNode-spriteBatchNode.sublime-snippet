@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setBatchNode(${1:spriteBatchNode})]]></content>
+    <tabTrigger>setBatchNode(spriteBatchNode)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Sprite</description>
+</snippet>

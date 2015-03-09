@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_disconnect()]]></content>
+    <tabTrigger>_disconnect()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SocketTCP</description>
+</snippet>

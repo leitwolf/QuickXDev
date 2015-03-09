@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getResolutionPolicy()]]></content>
+    <tabTrigger>getResolutionPolicy()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GLView</description>
+</snippet>

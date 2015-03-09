@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Store.setReceiptVerifyMode(${1:mode}, ${2:isSandbox})]]></content>
+    <tabTrigger>Store.setReceiptVerifyMode(mode, isSandbox)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

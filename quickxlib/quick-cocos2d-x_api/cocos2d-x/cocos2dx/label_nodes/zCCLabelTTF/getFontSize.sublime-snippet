@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getFontSize()]]></content>
-    <tabTrigger>getFontSize()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCLabelTTF</description>
-</snippet>

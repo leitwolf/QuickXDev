@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCFlipX:create(x)", "contents": "CCFlipX:create(${1:x})" }
-	]
-}

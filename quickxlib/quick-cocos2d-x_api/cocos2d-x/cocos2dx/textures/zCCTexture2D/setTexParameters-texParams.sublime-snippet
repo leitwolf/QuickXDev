@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setTexParameters(${1:texParams})]]></content>
-    <tabTrigger>setTexParameters(texParams)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTexture2D</description>
-</snippet>

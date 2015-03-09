@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[pauseAllRunningActions()]]></content>
-    <tabTrigger>pauseAllRunningActions()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCActionManager</description>
-</snippet>

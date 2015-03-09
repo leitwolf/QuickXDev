@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getRestitution()]]></content>
+    <tabTrigger>getRestitution()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsContactPostSolve</description>
+</snippet>

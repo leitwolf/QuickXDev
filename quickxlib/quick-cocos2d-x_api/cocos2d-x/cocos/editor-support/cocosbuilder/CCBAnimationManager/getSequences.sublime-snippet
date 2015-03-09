@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getSequences()]]></content>
+    <tabTrigger>getSequences()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCBAnimationManager</description>
+</snippet>

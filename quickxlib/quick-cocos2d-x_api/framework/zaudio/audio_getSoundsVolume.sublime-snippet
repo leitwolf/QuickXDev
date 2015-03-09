@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[audio.getSoundsVolume()]]></content>
+    <tabTrigger>audio.getSoundsVolume()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

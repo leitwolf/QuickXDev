@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getCount()]]></content>
-    <tabTrigger>getCount()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsCollisionEvent</description>
-</snippet>

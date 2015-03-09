@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getColorSpaceHolder()]]></content>
-    <tabTrigger>getColorSpaceHolder()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTextFieldTTF</description>
-</snippet>

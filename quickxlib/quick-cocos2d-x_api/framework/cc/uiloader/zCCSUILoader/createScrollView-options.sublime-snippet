@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[createScrollView(${1:options})]]></content>
+    <tabTrigger>createScrollView(options)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSUILoader</description>
+</snippet>

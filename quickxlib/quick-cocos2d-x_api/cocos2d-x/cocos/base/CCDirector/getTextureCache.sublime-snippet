@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTextureCache()]]></content>
+    <tabTrigger>getTextureCache()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Director</description>
+</snippet>

@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCRotateBy:create(fDuration, fDeltaAngleX, fDeltaAngleY)", "contents": "CCRotateBy:create(${1:fDuration}, ${2:fDeltaAngleX}, ${3:fDeltaAngleY})" },
-		{ "trigger": "CCRotateBy:create(fDuration, fDeltaAngle)", "contents": "CCRotateBy:create(${1:fDuration}, ${2:fDeltaAngle})" }
-	]
-}

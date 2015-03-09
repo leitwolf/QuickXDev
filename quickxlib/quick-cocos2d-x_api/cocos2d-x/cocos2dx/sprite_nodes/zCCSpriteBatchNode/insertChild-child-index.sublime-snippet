@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[insertChild(${1:child}, ${2:index})]]></content>
-    <tabTrigger>insertChild(child, index)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCSpriteBatchNode</description>
-</snippet>

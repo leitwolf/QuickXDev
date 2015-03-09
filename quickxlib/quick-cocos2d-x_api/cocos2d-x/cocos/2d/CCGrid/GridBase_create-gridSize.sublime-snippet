@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.GridBase:create(${1:gridSize})]]></content>
+    <tabTrigger>GridBase:create(gridSize)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

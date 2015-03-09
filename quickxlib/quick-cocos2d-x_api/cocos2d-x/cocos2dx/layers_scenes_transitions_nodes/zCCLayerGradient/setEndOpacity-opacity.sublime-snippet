@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setEndOpacity(${1:opacity})]]></content>
-    <tabTrigger>setEndOpacity(opacity)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCLayerGradient</description>
-</snippet>

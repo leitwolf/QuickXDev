@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[isVisible()]]></content>
-    <tabTrigger>isVisible()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

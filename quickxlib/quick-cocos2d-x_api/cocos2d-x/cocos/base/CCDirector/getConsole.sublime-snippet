@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getConsole()]]></content>
+    <tabTrigger>getConsole()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Director</description>
+</snippet>

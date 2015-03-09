@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[world2Local(${1:point})]]></content>
+    <tabTrigger>world2Local(point)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsBody</description>
+</snippet>

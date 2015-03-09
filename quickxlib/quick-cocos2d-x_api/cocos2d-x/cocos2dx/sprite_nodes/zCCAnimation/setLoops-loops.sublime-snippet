@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setLoops(${1:loops})]]></content>
-    <tabTrigger>setLoops(loops)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCAnimation</description>
-</snippet>

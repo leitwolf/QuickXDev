@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[reload(${1:idx})]]></content>
+    <tabTrigger>reload(idx)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIPageView</description>
+</snippet>

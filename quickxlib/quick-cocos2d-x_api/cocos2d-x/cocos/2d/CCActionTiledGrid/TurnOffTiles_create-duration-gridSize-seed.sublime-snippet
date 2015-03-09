@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.TurnOffTiles:create(${1:duration}, ${2:gridSize}, ${3:seed})]]></content>
+    <tabTrigger>TurnOffTiles:create(duration, gridSize, seed)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

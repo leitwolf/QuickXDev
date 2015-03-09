@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setCirculatory(${1:bCirc})]]></content>
+    <tabTrigger>setCirculatory(bCirc)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIPageView</description>
+</snippet>

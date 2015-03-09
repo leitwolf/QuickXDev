@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[updateTweenAction(${1:value}, ${2:key})]]></content>
+    <tabTrigger>updateTweenAction(value, key)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ScrollView</description>
+</snippet>

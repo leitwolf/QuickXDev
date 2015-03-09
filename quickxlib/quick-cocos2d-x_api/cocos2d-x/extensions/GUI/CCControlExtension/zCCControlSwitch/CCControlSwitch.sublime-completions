@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCControlSwitch:create(maskSprite, onSprite, offSprite, thumbSprite, onLabel, offLabel)", "contents": "CCControlSwitch:create(${1:maskSprite}, ${2:onSprite}, ${3:offSprite}, ${4:thumbSprite}, ${5:onLabel}, ${6:offLabel})" },
-		{ "trigger": "CCControlSwitch:create(maskSprite, onSprite, offSprite, thumbSprite)", "contents": "CCControlSwitch:create(${1:maskSprite}, ${2:onSprite}, ${3:offSprite}, ${4:thumbSprite})" }
-	]
-}

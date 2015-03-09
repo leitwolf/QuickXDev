@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UICheckBoxButton.ON]]></content>
+    <tabTrigger>UICheckBoxButton.ON</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setKeyCode(${1:keyCode})]]></content>
+    <tabTrigger>setKeyCode(keyCode)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>EventController</description>
+</snippet>

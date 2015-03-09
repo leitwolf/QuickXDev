@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addAnimationsWithDictionary(${1:dictionary}, ${2:plist})]]></content>
+    <tabTrigger>addAnimationsWithDictionary(dictionary, plist)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>AnimationCache</description>
+</snippet>

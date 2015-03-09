@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isShake(${1:event})]]></content>
+    <tabTrigger>isShake(event)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIScrollView</description>
+</snippet>

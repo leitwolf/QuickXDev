@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.ActionInterval]]></content>
+    <tabTrigger>ActionInterval</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

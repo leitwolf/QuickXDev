@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[positionAt(${1:tileCoordinate})]]></content>
-    <tabTrigger>positionAt(tileCoordinate)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTMXLayer</description>
-</snippet>

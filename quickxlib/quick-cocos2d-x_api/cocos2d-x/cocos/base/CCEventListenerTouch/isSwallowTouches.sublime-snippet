@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isSwallowTouches()]]></content>
+    <tabTrigger>isSwallowTouches()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>EventListenerTouchOneByOne</description>
+</snippet>

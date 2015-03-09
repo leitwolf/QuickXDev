@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setReceiptVerifyMode(${1:mode}, ${2:isSandbox})]]></content>
-    <tabTrigger>setReceiptVerifyMode(mode, isSandbox)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCStore</description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTextureAtlas(${1:textureAtlas})]]></content>
+    <tabTrigger>setTextureAtlas(textureAtlas)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>AtlasNode</description>
+</snippet>

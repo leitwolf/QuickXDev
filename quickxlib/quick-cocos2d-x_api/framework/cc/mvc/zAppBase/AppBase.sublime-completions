@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		"AppBase.APP_ENTER_BACKGROUND_EVENT",
-		"AppBase.APP_ENTER_FOREGROUND_EVENT"
-	]
-}

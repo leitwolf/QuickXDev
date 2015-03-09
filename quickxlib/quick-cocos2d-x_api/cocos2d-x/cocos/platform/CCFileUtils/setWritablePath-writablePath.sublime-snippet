@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setWritablePath(${1:writablePath})]]></content>
+    <tabTrigger>setWritablePath(writablePath)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>FileUtils</description>
+</snippet>

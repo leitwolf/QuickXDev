@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[increaseOrReduceItem_()]]></content>
+    <tabTrigger>increaseOrReduceItem_()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIListView</description>
+</snippet>

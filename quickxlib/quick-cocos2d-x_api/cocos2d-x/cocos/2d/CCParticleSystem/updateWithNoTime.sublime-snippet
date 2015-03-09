@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[updateWithNoTime()]]></content>
+    <tabTrigger>updateWithNoTime()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParticleSystem</description>
+</snippet>

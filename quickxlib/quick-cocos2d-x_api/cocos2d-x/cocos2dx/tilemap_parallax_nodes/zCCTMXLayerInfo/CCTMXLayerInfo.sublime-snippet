@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[CCTMXLayerInfo()]]></content>
-    <tabTrigger>CCTMXLayerInfo()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTMXLayerInfo</description>
-</snippet>

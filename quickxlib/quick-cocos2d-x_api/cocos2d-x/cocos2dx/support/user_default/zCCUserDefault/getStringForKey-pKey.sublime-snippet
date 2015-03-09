@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getStringForKey(${1:pKey})]]></content>
-    <tabTrigger>getStringForKey(pKey)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCUserDefault</description>
-</snippet>

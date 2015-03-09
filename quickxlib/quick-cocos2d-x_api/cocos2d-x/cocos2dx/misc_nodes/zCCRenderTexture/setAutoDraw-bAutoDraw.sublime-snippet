@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setAutoDraw(${1:bAutoDraw})]]></content>
-    <tabTrigger>setAutoDraw(bAutoDraw)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCRenderTexture</description>
-</snippet>

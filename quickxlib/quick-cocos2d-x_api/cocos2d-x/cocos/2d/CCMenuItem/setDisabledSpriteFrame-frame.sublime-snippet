@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setDisabledSpriteFrame(${1:frame})]]></content>
+    <tabTrigger>setDisabledSpriteFrame(frame)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>MenuItemImage</description>
+</snippet>

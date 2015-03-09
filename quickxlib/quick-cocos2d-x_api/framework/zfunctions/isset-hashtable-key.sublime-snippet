@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isset(${1:hashtable}, ${2:key})]]></content>
+    <tabTrigger>isset(hashtable, key)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

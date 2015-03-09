@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ccTouchMoved(${1:pTouch}, ${2:pEvent})]]></content>
-    <tabTrigger>ccTouchMoved(pTouch, pEvent)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCScrollView</description>
-</snippet>

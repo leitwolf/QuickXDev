@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getBitPerPixel()]]></content>
+    <tabTrigger>getBitPerPixel()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Image</description>
+</snippet>

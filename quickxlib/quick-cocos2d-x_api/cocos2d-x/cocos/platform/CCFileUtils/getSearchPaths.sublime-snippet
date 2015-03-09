@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getSearchPaths()]]></content>
+    <tabTrigger>getSearchPaths()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>FileUtils</description>
+</snippet>

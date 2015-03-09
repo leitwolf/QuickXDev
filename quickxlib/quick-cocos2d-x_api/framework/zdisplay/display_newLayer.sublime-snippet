@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[display.newLayer()]]></content>
+    <tabTrigger>display.newLayer()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

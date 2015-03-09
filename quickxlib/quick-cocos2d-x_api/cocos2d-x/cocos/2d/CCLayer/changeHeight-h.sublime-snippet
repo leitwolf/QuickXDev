@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[changeHeight(${1:h})]]></content>
+    <tabTrigger>changeHeight(h)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>LayerColor</description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setMaximumValue(${1:maximumValue})]]></content>
-    <tabTrigger>setMaximumValue(maximumValue)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCControlPotentiometer</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setFilenameLookupDictionary(${1:pFilenameLookupDict})]]></content>
-    <tabTrigger>setFilenameLookupDictionary(pFilenameLookupDict)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCFileUtils</description>
-</snippet>

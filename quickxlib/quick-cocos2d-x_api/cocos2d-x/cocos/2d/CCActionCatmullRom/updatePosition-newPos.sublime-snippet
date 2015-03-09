@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[updatePosition(${1:newPos})]]></content>
+    <tabTrigger>updatePosition(newPos)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CardinalSplineTo</description>
+</snippet>

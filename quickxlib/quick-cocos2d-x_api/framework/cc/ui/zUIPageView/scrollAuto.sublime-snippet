@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[scrollAuto()]]></content>
+    <tabTrigger>scrollAuto()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIPageView</description>
+</snippet>

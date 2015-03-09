@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isPushed()]]></content>
+    <tabTrigger>isPushed()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ControlButton</description>
+</snippet>

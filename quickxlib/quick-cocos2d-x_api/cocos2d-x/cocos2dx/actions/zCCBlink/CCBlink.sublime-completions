@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCBlink:create(duration, uBlinks)", "contents": "CCBlink:create(${1:duration}, ${2:uBlinks})" }
-	]
-}

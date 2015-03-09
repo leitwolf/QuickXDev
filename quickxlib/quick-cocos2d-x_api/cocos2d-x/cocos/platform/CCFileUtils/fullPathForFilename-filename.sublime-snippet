@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[fullPathForFilename(${1:filename})]]></content>
+    <tabTrigger>fullPathForFilename(filename)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>FileUtils</description>
+</snippet>

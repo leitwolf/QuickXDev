@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[writeVInt(${1:__vint})]]></content>
+    <tabTrigger>writeVInt(__vint)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ByteArrayVarint</description>
+</snippet>

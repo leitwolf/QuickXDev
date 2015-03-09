@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setMass(${1:mass})]]></content>
+    <tabTrigger>setMass(mass)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsBody</description>
+</snippet>

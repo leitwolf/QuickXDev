@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setStiffness(${1:stiffness})]]></content>
+    <tabTrigger>setStiffness(stiffness)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsJointRotarySpring</description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[initIndices()]]></content>
-    <tabTrigger>initIndices()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCParticleSystemQuad</description>
-</snippet>

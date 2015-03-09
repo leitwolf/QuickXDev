@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setCharMap(${1:plistFile})]]></content>
+    <tabTrigger>setCharMap(plistFile)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Label</description>
+</snippet>

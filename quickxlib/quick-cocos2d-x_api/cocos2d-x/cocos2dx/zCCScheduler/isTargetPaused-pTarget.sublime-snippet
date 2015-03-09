@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[isTargetPaused(${1:pTarget})]]></content>
-    <tabTrigger>isTargetPaused(pTarget)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCScheduler</description>
-</snippet>

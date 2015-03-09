@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getAnimationInterval()]]></content>
+    <tabTrigger>getAnimationInterval()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Director</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[beginWithClear(${1:r}, ${2:g}, ${3:b}, ${4:a}, ${5:depthValue}, ${6:stencilValue}, ${7:flags})]]></content>
+    <tabTrigger>beginWithClear(r, g, b, a, depthValue, stencilValue, flags)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>RenderTexture</description>
+</snippet>

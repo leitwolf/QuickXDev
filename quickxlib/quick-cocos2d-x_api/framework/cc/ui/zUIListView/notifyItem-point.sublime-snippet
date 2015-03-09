@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[notifyItem(${1:point})]]></content>
+    <tabTrigger>notifyItem(point)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIListView</description>
+</snippet>

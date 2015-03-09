@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cca.targeted(${1:act}, ${2:node})]]></content>
+    <tabTrigger>cca.targeted(act, node)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

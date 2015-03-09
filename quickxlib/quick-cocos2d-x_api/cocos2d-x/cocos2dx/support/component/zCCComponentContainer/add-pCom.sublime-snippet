@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[add(${1:pCom})]]></content>
-    <tabTrigger>add(pCom)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCComponentContainer</description>
-</snippet>

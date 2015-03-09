@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[swapBuffers()]]></content>
+    <tabTrigger>swapBuffers()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GLView</description>
+</snippet>

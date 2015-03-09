@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getIdleSpeedThreshold()]]></content>
-    <tabTrigger>getIdleSpeedThreshold()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsWorld</description>
-</snippet>

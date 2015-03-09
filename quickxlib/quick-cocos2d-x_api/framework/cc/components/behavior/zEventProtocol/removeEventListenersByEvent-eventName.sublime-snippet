@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeEventListenersByEvent(${1:eventName})]]></content>
+    <tabTrigger>removeEventListenersByEvent(eventName)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>EventProtocol</description>
+</snippet>

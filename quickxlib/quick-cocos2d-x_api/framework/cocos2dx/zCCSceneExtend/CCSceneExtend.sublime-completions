@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		"CCSceneExtend.__index",
-		{ "trigger": "CCSceneExtend.extend(target)", "contents": "CCSceneExtend.extend(${1:target})" }
-	]
-}

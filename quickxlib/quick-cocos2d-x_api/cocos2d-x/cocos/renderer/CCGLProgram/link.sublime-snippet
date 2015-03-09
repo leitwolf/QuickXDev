@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[link()]]></content>
+    <tabTrigger>link()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GLProgram</description>
+</snippet>

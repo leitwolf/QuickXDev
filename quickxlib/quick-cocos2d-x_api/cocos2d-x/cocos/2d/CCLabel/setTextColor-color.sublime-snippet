@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTextColor(${1:color})]]></content>
+    <tabTrigger>setTextColor(color)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Label</description>
+</snippet>

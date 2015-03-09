@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeActionByTag(${1:tag}, ${2:target})]]></content>
+    <tabTrigger>removeActionByTag(tag, target)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ActionManager</description>
+</snippet>

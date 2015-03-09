@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setRequestUrl(${1:url})]]></content>
-    <tabTrigger>setRequestUrl(url)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCHTTPRequest</description>
-</snippet>

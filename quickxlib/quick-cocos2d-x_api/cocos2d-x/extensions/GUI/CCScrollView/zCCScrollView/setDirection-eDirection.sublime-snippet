@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setDirection(${1:eDirection})]]></content>
-    <tabTrigger>setDirection(eDirection)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCScrollView</description>
-</snippet>

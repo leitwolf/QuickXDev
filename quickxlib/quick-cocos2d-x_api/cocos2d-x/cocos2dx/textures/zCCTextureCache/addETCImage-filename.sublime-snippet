@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addETCImage(${1:filename})]]></content>
-    <tabTrigger>addETCImage(filename)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTextureCache</description>
-</snippet>

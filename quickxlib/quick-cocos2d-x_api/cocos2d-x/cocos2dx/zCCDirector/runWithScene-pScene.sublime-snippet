@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[runWithScene(${1:pScene})]]></content>
-    <tabTrigger>runWithScene(pScene)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCDirector</description>
-</snippet>

@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCShatteredTiles3D:create(duration, gridSize, nRange, bShatterZ)", "contents": "CCShatteredTiles3D:create(${1:duration}, ${2:gridSize}, ${3:nRange}, ${4:bShatterZ})" }
-	]
-}

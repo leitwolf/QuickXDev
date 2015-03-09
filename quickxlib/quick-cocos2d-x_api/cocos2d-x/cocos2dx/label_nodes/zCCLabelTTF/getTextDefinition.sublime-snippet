@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getTextDefinition()]]></content>
-    <tabTrigger>getTextDefinition()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCLabelTTF</description>
-</snippet>

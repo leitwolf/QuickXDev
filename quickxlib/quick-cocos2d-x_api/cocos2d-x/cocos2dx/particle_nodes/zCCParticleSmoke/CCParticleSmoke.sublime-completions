@@ -1,8 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCParticleSmoke:createWithTotalParticles(numberOfParticles)", "contents": "CCParticleSmoke:createWithTotalParticles(${1:numberOfParticles})" },
-		{ "trigger": "CCParticleSmoke:create()", "contents": "CCParticleSmoke:create()" }
-	]
-}

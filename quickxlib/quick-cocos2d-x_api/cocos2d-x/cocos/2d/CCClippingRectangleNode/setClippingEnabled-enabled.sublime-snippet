@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setClippingEnabled(${1:enabled})]]></content>
+    <tabTrigger>setClippingEnabled(enabled)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ClippingRectangleNode</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[trigger()]]></content>
+    <tabTrigger>trigger()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Timer</description>
+</snippet>

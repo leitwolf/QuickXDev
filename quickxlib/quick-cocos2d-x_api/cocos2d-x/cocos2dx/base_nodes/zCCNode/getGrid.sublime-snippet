@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getGrid()]]></content>
-    <tabTrigger>getGrid()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

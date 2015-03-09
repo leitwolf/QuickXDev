@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[resetSystem()]]></content>
+    <tabTrigger>resetSystem()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParticleSystem</description>
+</snippet>

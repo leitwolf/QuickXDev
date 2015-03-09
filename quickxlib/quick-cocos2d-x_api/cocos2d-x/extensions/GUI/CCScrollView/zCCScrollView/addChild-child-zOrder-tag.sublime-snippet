@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[addChild(${1:child}, ${2:zOrder}, ${3:tag})]]></content>
-    <tabTrigger>addChild(child, zOrder, tag)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCScrollView</description>
-</snippet>

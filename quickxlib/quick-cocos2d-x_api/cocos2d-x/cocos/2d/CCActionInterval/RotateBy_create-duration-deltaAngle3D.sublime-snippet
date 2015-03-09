@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.RotateBy:create(${1:duration}, ${2:deltaAngle3D})]]></content>
+    <tabTrigger>RotateBy:create(duration, deltaAngle3D)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_zigZagDecode(${1:__value})]]></content>
+    <tabTrigger>_zigZagDecode(__value)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ByteArrayVarint</description>
+</snippet>

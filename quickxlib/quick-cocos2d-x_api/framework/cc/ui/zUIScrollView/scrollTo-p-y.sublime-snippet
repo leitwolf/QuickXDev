@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[scrollTo(${1:p}, ${2:y})]]></content>
+    <tabTrigger>scrollTo(p, y)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIScrollView</description>
+</snippet>

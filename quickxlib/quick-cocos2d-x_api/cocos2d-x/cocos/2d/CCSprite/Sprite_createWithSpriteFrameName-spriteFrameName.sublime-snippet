@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.Sprite:createWithSpriteFrameName(${1:spriteFrameName})]]></content>
+    <tabTrigger>Sprite:createWithSpriteFrameName(spriteFrameName)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

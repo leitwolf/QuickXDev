@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setTimeout(${1:timeout})]]></content>
-    <tabTrigger>setTimeout(timeout)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCHTTPRequest</description>
-</snippet>

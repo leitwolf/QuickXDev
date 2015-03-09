@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setRestAngle(${1:restAngle})]]></content>
+    <tabTrigger>setRestAngle(restAngle)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsJointRotarySpring</description>
+</snippet>

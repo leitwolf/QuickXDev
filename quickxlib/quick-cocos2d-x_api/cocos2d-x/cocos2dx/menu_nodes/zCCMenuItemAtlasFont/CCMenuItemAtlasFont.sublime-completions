@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCMenuItemAtlasFont:create(value, charMapFile, itemWidth, itemHeight, startCharMap)", "contents": "CCMenuItemAtlasFont:create(${1:value}, ${2:charMapFile}, ${3:itemWidth}, ${4:itemHeight}, ${5:startCharMap})" }
-	]
-}

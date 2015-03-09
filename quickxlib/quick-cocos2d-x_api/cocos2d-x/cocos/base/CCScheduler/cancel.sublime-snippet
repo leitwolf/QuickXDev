@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cancel()]]></content>
+    <tabTrigger>cancel()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Timer</description>
+</snippet>

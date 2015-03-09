@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getBitsPerComponent()]]></content>
-    <tabTrigger>getBitsPerComponent()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCImage</description>
-</snippet>

@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCComponent:create()", "contents": "CCComponent:create()" }
-	]
-}

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTouchInfo(${1:id}, ${2:x}, ${3:y})]]></content>
+    <tabTrigger>setTouchInfo(id, x, y)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Touch</description>
+</snippet>

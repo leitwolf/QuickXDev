@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getStartRadiusVar()]]></content>
+    <tabTrigger>getStartRadiusVar()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParticleSystem</description>
+</snippet>

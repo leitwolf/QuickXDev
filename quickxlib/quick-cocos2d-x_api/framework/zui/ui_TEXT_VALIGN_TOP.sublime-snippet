@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ui.TEXT_VALIGN_TOP]]></content>
+    <tabTrigger>ui.TEXT_VALIGN_TOP</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

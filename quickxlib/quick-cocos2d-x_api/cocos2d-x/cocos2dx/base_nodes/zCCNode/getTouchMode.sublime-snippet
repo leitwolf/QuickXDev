@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getTouchMode()]]></content>
-    <tabTrigger>getTouchMode()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

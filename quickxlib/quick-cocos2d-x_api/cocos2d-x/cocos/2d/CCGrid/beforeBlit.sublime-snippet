@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[beforeBlit()]]></content>
+    <tabTrigger>beforeBlit()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GridBase</description>
+</snippet>

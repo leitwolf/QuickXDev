@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UIButton.PRESSED_EVENT]]></content>
+    <tabTrigger>UIButton.PRESSED_EVENT</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

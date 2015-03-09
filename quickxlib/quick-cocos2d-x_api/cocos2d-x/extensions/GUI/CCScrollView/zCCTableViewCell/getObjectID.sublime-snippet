@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getObjectID()]]></content>
-    <tabTrigger>getObjectID()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTableViewCell</description>
-</snippet>

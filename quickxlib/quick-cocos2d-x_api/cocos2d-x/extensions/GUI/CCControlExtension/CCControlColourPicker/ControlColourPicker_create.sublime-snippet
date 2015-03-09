@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cc.ControlColourPicker:create()]]></content>
+    <tabTrigger>ControlColourPicker:create()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

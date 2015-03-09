@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getUniformCount(${1:size})]]></content>
+    <tabTrigger>getUniformCount(size)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>GLProgramState</description>
+</snippet>

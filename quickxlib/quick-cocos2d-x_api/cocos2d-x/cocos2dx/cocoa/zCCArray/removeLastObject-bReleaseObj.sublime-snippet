@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[removeLastObject(${1:bReleaseObj})]]></content>
-    <tabTrigger>removeLastObject(bReleaseObj)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCArray</description>
-</snippet>

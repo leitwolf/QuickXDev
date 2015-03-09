@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[CCRectFromString(${1:pszContent})]]></content>
-    <tabTrigger>CCRectFromString(pszContent)</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>

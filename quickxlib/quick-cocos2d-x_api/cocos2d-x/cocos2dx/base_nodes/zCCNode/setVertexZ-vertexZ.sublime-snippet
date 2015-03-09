@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setVertexZ(${1:vertexZ})]]></content>
-    <tabTrigger>setVertexZ(vertexZ)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

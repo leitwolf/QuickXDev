@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setInertia(${1:inertia})]]></content>
-    <tabTrigger>setInertia(inertia)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsBody</description>
-</snippet>

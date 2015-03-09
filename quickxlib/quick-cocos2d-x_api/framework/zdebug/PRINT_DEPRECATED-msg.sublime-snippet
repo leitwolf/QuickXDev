@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[PRINT_DEPRECATED(${1:msg})]]></content>
+    <tabTrigger>PRINT_DEPRECATED(msg)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>.</description>
+</snippet>

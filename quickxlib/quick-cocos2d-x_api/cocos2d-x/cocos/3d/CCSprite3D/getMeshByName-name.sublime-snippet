@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getMeshByName(${1:name})]]></content>
+    <tabTrigger>getMeshByName(name)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Sprite3D</description>
+</snippet>

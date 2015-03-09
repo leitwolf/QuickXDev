@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setDebugDrawMask(${1:mask})]]></content>
+    <tabTrigger>setDebugDrawMask(mask)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>PhysicsWorld</description>
+</snippet>

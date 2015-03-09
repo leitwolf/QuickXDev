@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[listenOnTCP(${1:port})]]></content>
+    <tabTrigger>listenOnTCP(port)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Console</description>
+</snippet>

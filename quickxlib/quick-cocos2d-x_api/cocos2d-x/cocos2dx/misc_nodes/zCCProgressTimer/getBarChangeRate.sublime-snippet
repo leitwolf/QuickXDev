@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getBarChangeRate()]]></content>
-    <tabTrigger>getBarChangeRate()</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCProgressTimer</description>
-</snippet>

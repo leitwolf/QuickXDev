@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getVisibleOrigin()]]></content>
+    <tabTrigger>getVisibleOrigin()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Director</description>
+</snippet>

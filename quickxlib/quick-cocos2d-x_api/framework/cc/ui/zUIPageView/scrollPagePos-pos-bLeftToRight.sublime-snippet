@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[scrollPagePos(${1:pos}, ${2:bLeftToRight})]]></content>
+    <tabTrigger>scrollPagePos(pos, bLeftToRight)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>UIPageView</description>
+</snippet>

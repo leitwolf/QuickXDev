@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setTitleColorForState(${1:color}, ${2:state})]]></content>
-    <tabTrigger>setTitleColorForState(color, state)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCControlButton</description>
-</snippet>

@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "EventProtocol.extend(object)", "contents": "EventProtocol.extend(${1:object})" }
-	]
-}

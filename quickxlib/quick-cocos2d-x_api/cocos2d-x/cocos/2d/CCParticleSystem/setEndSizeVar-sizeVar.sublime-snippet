@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setEndSizeVar(${1:sizeVar})]]></content>
+    <tabTrigger>setEndSizeVar(sizeVar)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>ParticleSystem</description>
+</snippet>

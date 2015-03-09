@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setViewport()]]></content>
+    <tabTrigger>setViewport()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Director</description>
+</snippet>

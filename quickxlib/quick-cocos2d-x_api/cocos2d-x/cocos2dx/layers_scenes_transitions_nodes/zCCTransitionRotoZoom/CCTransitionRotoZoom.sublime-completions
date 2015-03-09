@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua",
-	"completions": 
-	[
-		{ "trigger": "CCTransitionRotoZoom:create(t, scene)", "contents": "CCTransitionRotoZoom:create(${1:t}, ${2:scene})" }
-	]
-}

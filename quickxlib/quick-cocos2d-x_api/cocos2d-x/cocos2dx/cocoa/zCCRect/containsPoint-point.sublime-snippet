@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[containsPoint(${1:point})]]></content>
-    <tabTrigger>containsPoint(point)</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCRect</description>
-</snippet>
